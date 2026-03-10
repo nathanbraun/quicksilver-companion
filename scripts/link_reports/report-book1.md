@@ -1,0 +1,1469 @@
+# Quicksilver Reading Guide — Reference Scan Report
+
+Total unique references: 495
+Already have topic pages: 42
+Need new topic pages: 453
+
+## Existing Topics — Chapter Appearances
+
+These topics already have wiki pages. Use this to add links in annotations.
+
+- **Newton's Scale of Temperature** (`isaac-newton`) — 15 chapters
+  - Chapters: Boston Common, 1655, Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, Boston, Massachusetts Bay Colony, The Plague Year, Epsom, Aboard Minerva, Plymouth Bay, Massachusetts, Charing Cross, Royal Society Meeting, Gresham’s College, Gresham’s College, Bishopsgate, London, Once More into the Breeches, Royal Society Meeting, Gunfleet House, The City of London, Aboard Minerva, Cape Cod Bay, Massachusetts
+- **John Wilkins** (`john-wilkins`) — 15 chapters
+  - Chapters: Boston Common, 1655, Newtowne, Massachusetts Bay Colony, Boston, Massachusetts Bay Colony, The Plague Year, Epsom, Aboard Minerva, Plymouth Bay, Massachusetts, Woolsthorpe, Lincolnshire, Charing Cross, Royal Society Meeting, Gresham’s College, Gresham’s College, Bishopsgate, London, Once More into the Breeches, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **The Royal Society** (`royal-society`) — 14 chapters
+  - Chapters: Boston Common, Newtowne, Massachusetts Bay Colony, Aboard Minerva, off the Coast of New England, The Plague Year, Epsom, Aboard Minerva, Plymouth Bay, Massachusetts, Woolsthorpe, Lincolnshire, Charing Cross, Royal Society Meeting, Gresham’s College, Aboard Minerva, Cape Cod Bay, Massachusetts, Gresham’s College, Bishopsgate, London, Once More into the Breeches, Royal Society Meeting, Gunfleet House, The City of London
+- **Natural Philosophy** (`natural-philosophy`) — 13 chapters
+  - Chapters: Boston Common, Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, Boston, Massachusetts Bay Colony, The Plague Year, Epsom, Woolsthorpe, Lincolnshire, Royal Society Meeting, Gresham’s College, Aboard Minerva, Cape Cod Bay, Massachusetts, Once More into the Breeches, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **Robert Hooke** (`robert-hooke`) — 13 chapters
+  - Chapters: Boston Common, 1655, The Plague Year, Epsom, Aboard Minerva, Plymouth Bay, Massachusetts, Woolsthorpe, Lincolnshire, Royal Society Meeting, Gresham’s College, Aboard Minerva, Cape Cod Bay, Massachusetts, Gresham’s College, Bishopsgate, London, Once More into the Breeches, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **Kabbalah** (`alchemy`) — 12 chapters
+  - Chapters: Boston Common, 1655, College of the Holy and Undivided Trinity, Cambridge, Boston, Massachusetts Bay Colony, Banks of the River Cam, Epsom, Charing Cross, Royal Society Meeting, Gresham’s College, Once More into the Breeches, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **Gottfried Wilhelm von Leibniz** (`gottfried-wilhelm-von-leibniz`) — 12 chapters
+  - Chapters: Boston Common, 1655, Newtowne, Massachusetts Bay Colony, Boston, Massachusetts Bay Colony, Aboard Minerva, Massachusetts Bay, Aboard Minerva, off the Coast of New England, Aboard Minerva, Plymouth Bay, Massachusetts, Royal Society Meeting, Gresham’s College, Once More into the Breeches, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **Oliver Cromwell** (`oliver-cromwell`) — 11 chapters
+  - Chapters: Boston Common, Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, Aboard Minerva, Massachusetts Bay, Banks of the River Cam, The Plague Year, Woolsthorpe, Lincolnshire, Royal Society Meeting, Gresham’s College, Gresham’s College, Bishopsgate, London, London Bridge, Royal Society Meeting, Gunfleet House
+- **The English Civil War** (`english-civil-war`) — 10 chapters
+  - Chapters: Boston Common, 1655, Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, The Plague Year, Epsom, Charing Cross, Once More into the Breeches, London Bridge, The City of London
+- **The Calculus Priority Dispute** (`calculus-priority-dispute`) — 10 chapters
+  - Chapters: Boston Common, Newtowne, Massachusetts Bay Colony, Aboard Minerva, Massachusetts Bay, Banks of the River Cam, Aboard Minerva, off the Coast of New England, Woolsthorpe, Lincolnshire, Once More into the Breeches, Royal Society Meeting, Gunfleet House, The City of London, Aboard Minerva, Cape Cod Bay, Massachusetts
+- **Louis XIV** (`louis-xiv`) — 9 chapters
+  - Chapters: Boston Common, Banks of the River Cam, The Plague Year, Epsom, Woolsthorpe, Lincolnshire, Royal Society Meeting, Gresham’s College, Gresham’s College, Bishopsgate, London, Royal Society Meeting, Gunfleet House, The City of London
+- **The Restoration** (`charles-ii`) — 9 chapters
+  - Chapters: Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, The Plague Year, Epsom, Woolsthorpe, Lincolnshire, Charing Cross, Royal Society Meeting, Gresham’s College, Once More into the Breeches, London Bridge
+- **Daniel Gabriel Fahrenheit** (`quicksilver-mercury`) — 8 chapters
+  - Chapters: Boston Common, 1655, The Plague Year, Epsom, Royal Society Meeting, Gresham’s College, Aboard Minerva, Cape Cod Bay, Massachusetts, Gresham’s College, Bishopsgate, London, Once More into the Breeches
+- **Apocalypticism** (`apocalypticism`) — 8 chapters
+  - Chapters: Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, Banks of the River Cam, The Plague Year, Epsom, Woolsthorpe, Lincolnshire, Royal Society Meeting, Gresham’s College, Royal Society Meeting, Gunfleet House
+- **Newton's Optics** (`newtons-optics`) — 8 chapters
+  - Chapters: College of the Holy and Undivided Trinity, Cambridge, The Plague Year, Woolsthorpe, Lincolnshire, Aboard Minerva, Plymouth Bay, Massachusetts, Charing Cross, Royal Society Meeting, Gresham’s College, Gresham’s College, Bishopsgate, London, Once More into the Breeches
+- **Henry Oldenburg** (`henry-oldenburg`) — 8 chapters
+  - Chapters: The Plague Year, Royal Society Meeting, Gresham’s College, Aboard Minerva, Cape Cod Bay, Massachusetts, Gresham’s College, Bishopsgate, London, Once More into the Breeches, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **Puritans** (`puritans`) — 7 chapters
+  - Chapters: Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, The Plague Year, Epsom, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **plague** (`plague`) — 7 chapters
+  - Chapters: Banks of the River Cam, The Plague Year, Epsom, Woolsthorpe, Lincolnshire, Charing Cross, Royal Society Meeting, Gresham’s College, The City of London
+- **James II** (`james-ii`) — 7 chapters
+  - Chapters: Epsom, Woolsthorpe, Lincolnshire, Royal Society Meeting, Gresham’s College, Once More into the Breeches, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **Execution of Charles I** (`charles-i`) — 6 chapters
+  - Chapters: Boston Common, 1655, Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, Epsom, Charing Cross
+- **The Restoration** (`restoration-london`) — 6 chapters
+  - Chapters: Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, The Plague Year, Charing Cross, Royal Society Meeting, Gresham’s College, The City of London
+- **Universal Characteristic** (`universal-characteristic`) — 6 chapters
+  - Chapters: Epsom, Woolsthorpe, Lincolnshire, Royal Society Meeting, Gresham’s College, Gresham’s College, Bishopsgate, London, London Bridge, Royal Society Meeting, Gunfleet House
+- **The Great Fire of London** (`great-fire-of-london`) — 6 chapters
+  - Chapters: Woolsthorpe, Lincolnshire, Charing Cross, Aboard Minerva, Cape Cod Bay, Massachusetts, Gresham’s College, Bishopsgate, London, London Bridge, Royal Society Meeting, Gunfleet House
+- **The Spanish Main** (`pirates`) — 5 chapters
+  - Chapters: Boston Common, Aboard Minerva, off the Coast of New England, Aboard Minerva, Plymouth Bay, Massachusetts, Charing Cross, Aboard Minerva, Cape Cod Bay, Massachusetts
+- **Computing Machines** (`computing-machines`) — 5 chapters
+  - Chapters: Boston Common, Newtowne, Massachusetts Bay Colony, London Bridge, Royal Society Meeting, Gunfleet House, The City of London
+- **Duke of Monmouth** (`monmouth`) — 5 chapters
+  - Chapters: Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, Epsom, Gresham’s College, Bishopsgate, London, Once More into the Breeches
+- **Judge Jeffreys** (`judge-jeffreys`) — 4 chapters
+  - Chapters: Newtowne, Massachusetts Bay Colony, College of the Holy and Undivided Trinity, Cambridge, Once More into the Breeches, Royal Society Meeting, Gunfleet House
+- **John Locke** (`john-locke`) — 3 chapters
+  - Chapters: Charing Cross, Royal Society Meeting, Gresham’s College, Once More into the Breeches
+- **Coffeehouses** (`coffeehouses`) — 3 chapters
+  - Chapters: Charing Cross, London Bridge, Royal Society Meeting, Gunfleet House
+- **Samuel Pepys** (`samuel-pepys`) — 3 chapters
+  - Chapters: Royal Society Meeting, Gresham’s College, Gresham’s College, Bishopsgate, London, Royal Society Meeting, Gunfleet House
+- **Restoration Theater** (`restoration-theater`) — 3 chapters
+  - Chapters: Once More into the Breeches, Royal Society Meeting, Gunfleet House, The City of London
+- **Queen Anne's War** (`queen-anne`) — 2 chapters
+  - Chapters: Boston Common, Epsom
+- **Treaty of Utrecht** (`treaty-of-utrecht`) — 2 chapters
+  - Chapters: Boston Common, Aboard Minerva, Plymouth Bay, Massachusetts
+- **The Hanoverian Succession** (`hanoverian-succession`) — 2 chapters
+  - Chapters: Boston Common, Newtowne, Massachusetts Bay Colony
+- **Princess Caroline of Ansbach** (`caroline-of-ansbach`) — 2 chapters
+  - Chapters: Newtowne, Massachusetts Bay Colony, Boston, Massachusetts Bay Colony
+- **The Bernoulli Family** (`bernoulli-family`) — 2 chapters
+  - Chapters: Aboard Minerva, Massachusetts Bay, Aboard Minerva, Cape Cod Bay, Massachusetts
+- **zenos-paradox** (`zenos-paradox`) — 2 chapters
+  - Chapters: Aboard Minerva, Plymouth Bay, Massachusetts, The City of London
+- **Edward Teach (Blackbeard)** (`blackbeard`) — 2 chapters
+  - Chapters: Aboard Minerva, Plymouth Bay, Massachusetts, Aboard Minerva, Cape Cod Bay, Massachusetts
+- **The Glorious Revolution** (`glorious-revolution`) — 1 chapters
+  - Chapters: Boston Common
+- **Fermat's Last Theorem** (`fermats-last-theorem`) — 1 chapters
+  - Chapters: Epsom
+- **Dappa** (`dappa`) — 1 chapters
+  - Chapters: Aboard Minerva, Plymouth Bay, Massachusetts
+- **The Longitude Problem** (`longitude`) — 1 chapters
+  - Chapters: Woolsthorpe, Lincolnshire
+
+## New Topics Needed
+
+Grouped by type, sorted by number of chapter appearances.
+
+### Persons
+
+- **Christiaan Huygens** (`christiaan-huygens`) — 10 chapters
+  - A Dutch mathematician and physicist who invented the pendulum clock in 1656, vastly increasing the accuracy of timekeeping.
+  - Example: "Huygens—a brilliant youth... was at work on a pendulum-clock" (Boston Common)
+- **Robert Boyle** (`robert-boyle`) — 8 chapters
+  - A founding father of modern chemistry and a pioneer of the experimental scientific method, famous for Boyle's Law.
+  - Example: "Robert Boyle" (Boston Common)
+- **Christopher Wren** (`christopher-wren`) — 6 chapters
+  - Before becoming England's most famous architect, Wren was a brilliant astronomer and mathematician at Oxford.
+  - Example: "Christopher Wren" (Boston Common)
+- **René Descartes** (`rene-descartes`) — 6 chapters
+  - The French philosopher and mathematician who created analytical geometry and proposed a mechanical view of the universe.
+  - Example: "Galileo and Descartes were only harbingers" (1655)
+- **Nicaise Le Febure** (`nicaise-le-febure`) — 5 chapters
+  - A real chemist and apothecary to Louis XIV and later Charles II; he was a significant figure in the transition from alchemy to chemistry.
+  - Example: "Monsieur LeFebure, who was the apothecary to the French Court." (Boston Common)
+- **Baruch Spinoza** (`baruch-spinoza`) — 5 chapters
+  - The famous Dutch philosopher who supported himself by grinding high-quality optical lenses.
+  - Example: "bought them from Spinoza in Amsterdam" (Epsom)
+- **William Laud** (`william-laud`) — 4 chapters
+  - The Archbishop of Canterbury under Charles I whose High Church policies and persecution of Puritans were major catalysts for the Great Migration to Am
+  - Example: "You are speaking of Archbishop Laud—a terrible oppressor of Puritans" (Boston Common)
+- **Thomas Hobbes** (`thomas-hobbes`) — 4 chapters
+  - An influential English philosopher whose 1651 work 'Leviathan' established the foundation for Western political philosophy and the concept of the soci
+  - Example: "HOBBES, Leviathan" (1655)
+- **Euclid** (`euclid`) — 4 chapters
+  - The ancient Greek 'Father of Geometry'; his work 'Elements' was the standard textbook for teaching mathematics and deductive reasoning for centuries.
+  - Example: "show the boy Euclid and let him find his own way" (1655)
+- **Sir Robert Moray** (`robert-moray`) — 4 chapters
+  - A Scottish statesman and natural philosopher who was a key figure in the founding of the Royal Society and served as its first president.
+  - Example: "Robert Hooke and Sir Robert Moray had been up in its belfry conducting experimen" (The Plague Year)
+- **John Churchill, 1st Duke of Marlborough** (`john-churchill`) — 4 chapters
+  - A legendary English general and statesman whose career began as a courtier and soldier during the Restoration.
+  - Example: "John Churchill was one of the few courtiers who actually did things" (Charing Cross)
+- **Charles II of Spain** (`charles-ii-of-spain`) — 3 chapters
+  - Known as 'El Hechizado' (The Bewitched), his death without an heir triggered a massive European power struggle over the Spanish throne.
+  - Example: "The War of the Spanish Succession, whose cause was the death in Madrid of King C" (Boston Common)
+- **Galileo Galilei** (`galileo-galilei`) — 3 chapters
+  - The Italian astronomer whose earlier studies of pendulums and falling bodies laid the groundwork for the scientific revolution.
+  - Example: "Galileo had timed his experiments by counting his pulse" (Boston Common)
+- **Roger L'Estrange** (`roger-lestrange`) — 3 chapters
+  - A staunch Royalist who aggressively censored 'seditious' Puritan pamphlets and newspapers during the Restoration.
+  - Example: "Sir Roger L’Estrange, the Surveyor of the Press" (Newtowne, Massachusetts Bay Colony)
+- **Thomas Gresham** (`thomas-gresham`) — 3 chapters
+  - An English merchant and financier who worked to restore the value of English currency; known for 'Gresham's Law' (bad money drives out good).
+  - Example: "before Sir Thomas Gresham could get matters in hand" (Banks of the River Cam)
+- **Anne Hyde** (`anne-hyde`) — 3 chapters
+  - The first wife of James, Duke of York, and mother of two future queens; her marriage was controversial due to her status as a commoner.
+  - Example: "Anne Hyde—a close relation of John Comstock." (Epsom)
+- **Sir Winston Churchill (1620–1688)** (`sir-winston-churchill-cavalier`) — 3 chapters
+  - An English politician and courtier, father of the 1st Duke of Marlborough; not to be confused with his 20th-century descendant.
+  - Example: "gazing upon the embarrassed face of Sir Winston Churchill" (Charing Cross)
+- **Michiel de Ruyter** (`michiel-de-ruyter`) — 3 chapters
+  - A highly skilled Dutch admiral who led successful raids against English interests in West Africa and North America, contributing to the start of the S
+  - Example: "Admiral de Ruyter sailed down to Guinea and took away all of the Duke of York’s " (Once More into the Breeches)
+- **Johann Philipp von Schönborn** (`johann-philipp-von-schonborn`) — 2 chapters
+  - The Archbishop-Elector of Mainz and a patron of Leibniz; he and his minister Baron von Boyneburg were known for their interest in alchemy and diplomac
+  - Example: "Archbishop-Elector von Schönborn and his minister and sidekick Boyneburg" (1655)
+- **John Milton** (`john-milton`) — 2 chapters
+  - A 17th-century English poet and intellectual whose epic 'Paradise Lost' explores the tension between divine fate and human free will, a central theme 
+  - Example: "In thoughts more elevate, and reason’d high Of Providence, Foreknowledge, Will a" (Boston, Massachusetts Bay Colony)
+- **Aristotle** (`aristotle`) — 2 chapters
+  - The Greek philosopher whose scholastic system dominated university curricula in the 1660s, though it was being increasingly challenged by the 'moderns
+  - Example: "studying the works of Aristotle and Euclid" (College of the Holy and Undivided Trinity, Cambridge)
+- **Isaac Barrow** (`isaac-barrow`) — 2 chapters
+  - A Christian theologian and mathematician who was the first Lucasian Professor of Mathematics at Cambridge and a key mentor to Isaac Newton.
+  - Example: "Isaac Barrow" (Aboard Minerva, Massachusetts Bay)
+- **Peter Blondeau** (`peter-blondeau`) — 2 chapters
+  - A French moneyer who introduced mechanized 'milled' coinage to England, which helped prevent the common practice of 'clipping' silver from the edges o
+  - Example: "the King brought with him a French savant, Monsieur Blondeau... built a machine " (Banks of the River Cam)
+- **John Amos Comenius** (`john-amos-comenius`) — 2 chapters
+  - A Czech philosopher and educator who proposed 'Pansophism,' a system of universal knowledge and language.
+  - Example: "Is this anything like Comenius’s project?" (Epsom)
+- **Jonathan Goddard** (`jonathan-goddard`) — 2 chapters
+  - A physician to Oliver Cromwell and a founding member of the Royal Society, known for his 'Goddard's Drops' and early botanical studies.
+  - Example: "written by Dr. GODDARD at the King’s command" (Charing Cross)
+- **Barbara Palmer, 1st Duchess of Cleveland** (`lady-castlemaine`) — 2 chapters
+  - Known as Lady Castlemaine, she was the most influential mistress of Charles II, wielding significant political power at court for over a decade.
+  - Example: "apartments of Lady Castlemaine, the King of England’s favorite mistress" (Charing Cross)
+- **Nicaise le Febvre** (`nicaise-le-febvre`) — 2 chapters
+  - A renowned French chemist and apothecary who was invited to England by Charles II to serve as the Royal Professor of Chemistry and apothecary to the r
+  - Example: "the apothecary shop of Monsieur LeFebure, King’s Chymist" (Royal Society Meeting, Gresham’s College)
+- **Nell Gwyn** (`nell-gwyn`) — 2 chapters
+  - A prolific celebrity of the Restoration, she rose from being an 'orange girl' in theaters to a celebrated comic actress and one of the most famous mis
+  - Example: "Nell Gwyn, who wound up draped over a bench" (Once More into the Breeches)
+- **Jean-Baptiste Colbert** (`jean-baptiste-colbert`) — 2 chapters
+  - The First Minister of State under Louis XIV, known for his economic reforms and patronage of the sciences and arts.
+  - Example: "a house Colbert happened to buy on the Rue Vivienne" (London Bridge)
+- **Jack Ketch** (`jack-ketch`) — 1 chapter
+  - A notorious English executioner under King Charles II; his name became a generic slang term for the hangman in English culture.
+  - Example: "just as long as Jack Ketch stands there" (Boston Common)
+- **Benjamin Franklin** (`benjamin-franklin`) — 1 chapter
+  - The boy is a young Benjamin Franklin; his father Josiah was indeed a tallow-chandler in Boston, and Ben was famously precocious and briefly attended g
+  - Example: "Ben. Son of Josiah. The tallow-chandler." (Boston Common)
+- **William III and Mary II** (`william-and-mary`) — 1 chapter
+  - The Protestant monarchs who took the throne following the Glorious Revolution, marking a shift in English religious and foreign policy.
+  - Example: "William and Mary!" (Boston Common)
+- **Robina Cromwell** (`robina-cromwell`) — 1 chapter
+  - Wilkins married Oliver Cromwell's sister in 1656, a politically savvy move that helped protect scientific interests during the Interregnum.
+  - Example: "ultimate sacrifice... he married Cromwell’s sister" (Boston Common)
+- **Mr. Clark of Grantham** (`mr-clark-grantham`) — 1 chapter
+  - The apothecary with whom a young Isaac Newton lodged while attending the King's School in Grantham.
+  - Example: "pay a call on Mr. Clarke in Grantham" (Boston Common)
+- **John Lambe** (`john-lambe`) — 1 chapter
+  - An English astrologer and physician to the Duke of Buckingham who was stoned to death by a mob (the 'mobile') in 1628 after being accused of sorcery.
+  - Example: "Dr. John Lambe had been killed by the mobile in the streets of London" (1655)
+- **Princess Elizabeth of the Palatinate** (`elizabeth-of-the-palatinate`) — 1 chapter
+  - A brilliant philosopher who engaged in a famous correspondence with Descartes regarding the mind-body problem.
+  - Example: "Dedicated to young Elizabeth, the Winter Queen’s daughter" (1655)
+- **Daniel Defoe** (`daniel-defoe`) — 1 chapter
+  - A prolific English writer and spy, best known today for 'Robinson Crusoe'. His 'A Plan of the English Commerce' (1728) reflects his interests in trade
+  - Example: "DANIEL DEFOE, A Plan of the English Commerce" (Newtowne, Massachusetts Bay Colony)
+- **Sir John Floyer** (`john-floyer`) — 1 chapter
+  - An English physician who introduced the practice of pulse-counting using a 'pulse watch' to measure the rate of the heartbeat accurately.
+  - Example: "Sir John Floyer just invented the practice" (Newtowne, Massachusetts Bay Colony)
+- **Pyrrhon of Elis** (`pyrrho-of-elis`) — 1 chapter
+  - A Greek philosopher credited as the founder of Pyrrhonism, a school of philosophical skepticism that suggests one should suspend judgment on all non-e
+  - Example: "The Skepticism of Pyrrhon of Elis" (Newtowne, Massachusetts Bay Colony)
+- **Rudolf I of Germany** (`rudolf-of-habsburg`) — 1 chapter
+  - The first Habsburg King of Germany, elected in 1273, who established the Habsburg dynasty as one of the most powerful in European history.
+  - Example: "The Election & Reign of Rudolf of Hapsburg" (Newtowne, Massachusetts Bay Colony)
+- **Sophia of the Palatinate** (`electress-sophia`) — 1 chapter
+  - The Electress of Hanover and a patron of Leibniz. Under the Act of Settlement 1701, she was the heiress presumptive to the British throne.
+  - Example: "The Electress Sophie?" (Newtowne, Massachusetts Bay Colony)
+- **Hugh Peters** (`hugh-peters`) — 1 chapter
+  - A radical Puritan preacher and supporter of Cromwell who was executed for regicide (the killing of Charles I) after the Restoration.
+  - Example: "execution of Hugh Peters—Cromwell’s chaplain" (Newtowne, Massachusetts Bay Colony)
+- **Edmond Halley** (`edmond-halley`) — 1 chapter
+  - An English astronomer who used Newton's laws to calculate the orbit of the comet that now bears his name, proving it was a periodic visitor.
+  - Example: "no more a guess than when Halley predicted the return of the comet" (Newtowne, Massachusetts Bay Colony)
+- **Roger Cotes** (`roger-cotes`) — 1 chapter
+  - A brilliant mathematician and the first Plumian Professor at Cambridge who edited the second edition of Newton's Principia.
+  - Example: "working on the second edition of the Principia with that young fellow... Roger C" (Newtowne, Massachusetts Bay Colony)
+- **Bernard Mandeville** (`bernard-mandeville`) — 1 chapter
+  - An Anglo-Dutch philosopher and satirist famous for 'The Fable of the Bees,' which argued that private vices (like luxury and greed) lead to public ben
+  - Example: "ANONYMOUS, ATTRIBUTED TO BERNARD MANDEVILLE, 1714" (College of the Holy and Undivided Trinity, Cambridge)
+- **Aristotle** (`aristotelian-curriculum`) — 1 chapter
+  - At this time, the Cambridge curriculum was still dominated by Aristotelian logic and scholasticism, which Newton famously began to reject in favor of 
+  - Example: "working their separate ways through Aristotle" (College of the Holy and Undivided Trinity, Cambridge)
+- **Mother Goose** (`mother-goose`) — 1 chapter
+  - The fictionalized origin of the nursery rhyme figure; the rhymes she recites (like 'Hey Diddle Diddle') are period-appropriate folk tales.
+  - Example: "the daft but harmless Mrs. Goose... nonsensical stories and doggerel" (Boston, Massachusetts Bay Colony)
+- **John Bunyan** (`john-bunyan`) — 1 chapter
+  - A Puritan preacher and author of 'The Pilgrim's Progress' (1678), one of the most significant works of English literature. The excerpt describes 'Vani
+  - Example: "JOHN BUNYAN, The Pilgrim’s Progress" (Banks of the River Cam)
+- **John Donne** (`john-donne`) — 1 chapter
+  - A leading English poet of the Metaphysical movement whose work often blended the intellectual with the macabre; the poem cited was written for Cecilia
+  - Example: "John Donne, “Elegie on M Boulstred”" (The Plague Year)
+- **James I** (`james-i`) — 1 chapter
+  - King of England and Scotland (r. 1603–1625) whose economic policies, including the Cockayne Project to restrict cloth exports, caused significant trad
+  - Example: "After James I had outlawed the export of unfinished English cloth" (The Plague Year)
+- **Daniel Coxe** (`daniel-coxe`) — 1 chapter
+  - A real member of the Royal Society and physician who reported on various natural phenomena and later became involved in American colonial land grants.
+  - Example: "Mr. Daniel Coxe said that mercury had been found running like water" (The Plague Year)
+- **Nathaniel Hodges** (`nathaniel-hodges`) — 1 chapter
+  - A real physician who remained in London during the Great Plague of 1665 to treat victims and later wrote 'Loimologia', a primary historical account of
+  - Example: "Dr. Nathaniel Hodges, one of the only physicians who hadn’t fled" (The Plague Year)
+- **Sir William Curtius** (`sir-william-curtius`) — 1 chapter
+  - A diplomat and Fellow of the Royal Society who served as the English resident in Germany.
+  - Example: "Sir William Curtius" (The Plague Year)
+- **Alexander Lindsay, 1st Earl of Balcarres** (`earl-of-balcarres`) — 1 chapter
+  - A Scottish nobleman whose heart was famously examined by the Royal Society after his death to investigate a medical anomaly.
+  - Example: "The Earl of Balcarres’s heart" (The Plague Year)
+- **John Wilmot, 2nd Earl of Rochester** (`earl-of-rochester`) — 1 chapter
+  - A notorious Restoration poet, courtier, and rake known for his wit and hedonistic lifestyle at the court of Charles II.
+  - Example: "367-11/32 troy oz. depos. by my Lord Rochester on 29 Sept. 1662" (The Plague Year)
+- **Henrietta Maria of France** (`henrietta-maria`) — 1 chapter
+  - The Catholic queen consort of Charles I, whose religion and correspondence with foreign Catholic powers made her a target of intense suspicion by Parl
+  - Example: "that French Papist wife of his, begging foreign powers to invade us" (Epsom)
+- **Hugh Peter** (`hugh-peter`) — 1 chapter
+  - A prominent radical Puritan preacher who spent time in the Massachusetts Bay Colony before returning to England to support the Parliamentary cause.
+  - Example: "Hugh Peters had come back from Salem to whip those Puritans into a frenzy" (Epsom)
+- **Pierre de Fermat** (`pierre-de-fermat`) — 1 chapter
+  - A French lawyer and mathematician who died in 1665; he is best known for Fermat's Last Theorem.
+  - Example: "WORD ARRIVED THAT FERMAT had died" (Epsom)
+- **Ned Ward** (`ned-ward`) — 1 chapter
+  - A London writer and satirist known for 'The London Spy'; his work often mocked the eccentricities of the 'Virtuosos' of the Royal Society.
+  - Example: "NED WARD, The Vertuoso’s Club" (Epsom)
+- **Elizabeth Stuart, Queen of Bohemia** (`elizabeth-stuart-winter-queen`) — 1 chapter
+  - The daughter of James I whose brief reign in Bohemia led to the Thirty Years' War; her many descendants formed the basis for the Hanoverian succession
+  - Example: "Elizabeth, the Winter Queen" (Epsom)
+- **Nicolaus Copernicus** (`copernican-heliocentrism`) — 1 chapter
+  - A metaphorical reference to the Copernican model where the Earth revolves around the Sun, reflecting the shift in scientific thought during this era.
+  - Example: "Daniel swung round Isaac in a wide Copernican arc" (Woolsthorpe, Lincolnshire)
+- **Saint Sebastian** (`saint-sebastian`) — 1 chapter
+  - The text likely intends Saint Sebastian, the martyr famously depicted riddled with arrows; St. Anne is the mother of the Virgin Mary and not associate
+  - Example: "unlike St. Anne he would not end up riddled with his tormentors’ arrows" (Woolsthorpe, Lincolnshire)
+- **Thomas Bloodworth** (`sir-thomas-bloodworth`) — 1 chapter
+  - The Lord Mayor of London during the Great Fire, often blamed for his indecisiveness in the early hours of the blaze which allowed it to grow out of co
+  - Example: "Daniel caught sight of the Lord Mayor" (Woolsthorpe, Lincolnshire)
+- **John Graunt** (`john-graunt`) — 1 chapter
+  - The founder of the science of demography and statistics, known for his work analyzing the London Bills of Mortality.
+  - Example: "Mr. GRAUNT affirmed, that he knew two gentlemen, great drinkers of coffee, very " (Charing Cross)
+- **Daniel Whistler** (`daniel-whistler`) — 1 chapter
+  - An English physician and president of the Royal College of Physicians who wrote one of the earliest descriptions of rickets.
+  - Example: "Dr. WHISTLER suggested, that it might be inquired, whether the same persons took" (Charing Cross)
+- **John Amos Comenius** (`comenius`) — 1 chapter
+  - A Czech philosopher and pedagogue considered the father of modern education; he was a major influence on the intellectual circles of the time.
+  - Example: "Comenius was dying, too." (Charing Cross)
+- **Stenka Razin** (`stenka-razin`) — 1 chapter
+  - A Cossack leader who led a major uprising against the nobility and Tsar in Southern Russia/Ukraine between 1670 and 1671.
+  - Example: "Stenka Razin’s Cossack rebellion was being crushed in the Ukraine" (Charing Cross)
+- **Sir Winston Churchill (1620–1688)** (`sir-winston-churchill-elder`) — 1 chapter
+  - A Royalist politician and historian, and the father of the famous Duke of Marlborough. He was an early Fellow of the Royal Society.
+  - Example: "face of Sir Winston Churchill—Fellow of the Royal Society" (Charing Cross)
+- **John Churchill, 1st Duke of Marlborough** (`john-churchill-marlborough`) — 1 chapter
+  - One of England's greatest military commanders, whose career began in the late 17th century under the Stuarts.
+  - Example: "congratulated the Churchills on the dazzling qualities of their son John" (Charing Cross)
+- **Nicholas Mercator** (`nicholas-mercator`) — 1 chapter
+  - A mathematician known for his work on logarithms; not to be confused with the map-maker Gerardus Mercator.
+  - Example: "MR. NICHOLAS MERCATOR and MR. JOHN LOCKE were elected" (Royal Society Meeting, Gresham’s College)
+- **William Croune** (`william-croune`) — 1 chapter
+  - A physician and original fellow of the Royal Society who specialized in muscle movement and embryology.
+  - Example: "Dr. CROUNE brought in a dead parakeet." (Royal Society Meeting, Gresham’s College)
+- **Sir John Finch** (`sir-john-finch`) — 1 chapter
+  - An English ambassador and physician who was a fellow of the Royal Society and studied anatomy in Italy.
+  - Example: "Sir JOHN FINCH displayed an asbestos hat-band." (Royal Society Meeting, Gresham’s College)
+- **Sir George Ent** (`george-ent`) — 1 chapter
+  - An English physician and friend of William Harvey, known for defending Harvey's theory of blood circulation.
+  - Example: "Dr. ENT speculated as to why it is hotter in summer than winter." (Royal Society Meeting, Gresham’s College)
+- **Sir William Curtius** (`william-curtius`) — 1 chapter
+  - A diplomat who served as the English Resident in Germany and was a fellow of the Royal Society.
+  - Example: "Sir WILLIAM CURTIUS a hairy ball found in the belly of a cow." (Royal Society Meeting, Gresham’s College)
+- **Giuseppe Campani** (`giuseppe-campani`) — 1 chapter
+  - An Italian optician and astronomer famous for his high-quality telescope lenses.
+  - Example: "made last spring at Rome by one CAMPANI" (Royal Society Meeting, Gresham’s College)
+- **Thomas Povey** (`thomas-povey`) — 1 chapter
+  - A civil servant and politician who was a founding fellow of the Royal Society and a friend of Samuel Pepys.
+  - Example: "Mr. POVEY presented a skeleton to the society." (Royal Society Meeting, Gresham’s College)
+- **Richard Waller** (`richard-waller`) — 1 chapter
+  - An English naturalist and illustrator who served as Secretary of the Royal Society.
+  - Example: "Mr. WALLER mentioned that toads come out in moist cool weather." (Royal Society Meeting, Gresham’s College)
+- **Christopher Merret** (`christopher-merret`) — 1 chapter
+  - A physician and scientist who produced the first list of British flora and fauna.
+  - Example: "Dr. MERRET produced a paper... found at Black-friars" (Royal Society Meeting, Gresham’s College)
+- **Thomas Allen** (`thomas-allen`) — 1 chapter
+  - A physician and fellow of the Royal Society known for his medical observations.
+  - Example: "Dr. ALLEN gave an account of a person, who had lately lost a quantity of his bra" (Royal Society Meeting, Gresham’s College)
+- **Sir Robert Southwell** (`robert-southwell`) — 1 chapter
+  - A diplomat and later President of the Royal Society.
+  - Example: "Sir ROBERT SOUTHWELL presented for the repository" (Royal Society Meeting, Gresham’s College)
+- **Regnier de Graaf** (`regnier-de-graaf`) — 1 chapter
+  - A Dutch physician and anatomist who made key discoveries regarding the reproductive system.
+  - Example: "Dr. DE GRAAF had unravelled testicles" (Royal Society Meeting, Gresham’s College)
+- **Sir Edmund King** (`edmund-king`) — 1 chapter
+  - A physician to Charles II who performed early blood transfusion experiments.
+  - Example: "Dr. KING was put in mind of dissecting a lobster" (Royal Society Meeting, Gresham’s College)
+- **Henrietta Anne of England (Minette)** (`henrietta-anne-minette`) — 1 chapter
+  - The sister of Charles II and sister-in-law to Louis XIV. She acted as a vital secret intermediary between the two kings during the negotiation of the 
+  - Example: "his feelings for sa soeur are most affectionate... Minette spews out letters" (Royal Society Meeting, Gresham’s College)
+- **Sir Winston Churchill (1620–1688)** (`sir-winston-churchill-ancestor`) — 1 chapter
+  - A Royalist politician and father of the 1st Duke of Marlborough; he is a direct ancestor of the 20th-century Prime Minister.
+  - Example: "Sir Winston Churchill" (Royal Society Meeting, Gresham’s College)
+- **Henrietta Anne of England** (`henrietta-anne-stuart`) — 1 chapter
+  - The youngest sister of Charles II and sister-in-law to Louis XIV; she acted as a vital diplomatic link between the English and French courts.
+  - Example: "Minette is in France—... Henrietta Anne, his sister" (Royal Society Meeting, Gresham’s College)
+- **Philippe I, Duke of Orléans** (`philippe-i-duke-of-orleans`) — 1 chapter
+  - The younger brother of Louis XIV, known for his flamboyant lifestyle and military success despite his exclusion from political power.
+  - Example: "married to the Duc d’Orléans" (Royal Society Meeting, Gresham’s College)
+- **George Villiers, 2nd Duke of Buckingham** (`duke-of-buckingham`) — 1 chapter
+  - A prominent statesman and member of the 'Cabal' ministry, known for his wit and scandalous personal life.
+  - Example: "the Duke of Buckingham" (Royal Society Meeting, Gresham’s College)
+- **Sir Winston Churchill (1620–1688)** (`winston-churchill-ancestor`) — 1 chapter
+  - The father of the 1st Duke of Marlborough and a direct ancestor of the 20th-century Prime Minister; he was a Royalist politician and courtier.
+  - Example: "and Sir Winston Churchill" (Royal Society Meeting, Gresham’s College)
+- **Johannes Gutenberg** (`johannes-gutenberg`) — 1 chapter
+  - The inventor of the movable-type printing press; Daniel is noting the book is a hand-copied manuscript rather than a printed volume.
+  - Example: "obviously made centuries before Gutenberg" (Royal Society Meeting, Gresham’s College)
+- **Giovanni Battista Riccioli** (`giovanni-battista-riccioli`) — 1 chapter
+  - An Italian Jesuit astronomer who published 'Almagestum Novum', which provided a comprehensive overview of 17th-century arguments for and against the h
+  - Example: "The Inquisitive Jesuit RICCIOLI has taken great pains by 77 Arguments to overthr" (Gresham’s College, Bishopsgate, London)
+- **Charles de Batz de Castelmore d'Artagnan** (`dartagnan`) — 1 chapter
+  - A real captain of the Musketeers of the Guard under Louis XIV. He famously died during the Siege of Maastricht in 1673, an event being reenacted in th
+  - Example: "an actor had been hired to play the role of D’Artagnan" (Gresham’s College, Bishopsgate, London)
+- **Catherine of Braganza** (`catherine-of-braganza`) — 1 chapter
+  - The wife of Charles II; her inability to produce an heir created a succession crisis that fueled the rise of the Whig and Tory parties.
+  - Example: "Catherine of Braganza, a Portuguese princess with a famously inoperative womb" (Once More into the Breeches)
+- **Louise de Kéroualle** (`louise-de-keroualle`) — 1 chapter
+  - A French mistress of Charles II who acted as a political agent for Louis XIV at the English court.
+  - Example: "Louise de Kéroualle, the Duchess of Portsmouth" (Once More into the Breeches)
+- **Barbara Villiers** (`barbara-villiers`) — 1 chapter
+  - One of the most powerful and influential mistresses of Charles II, known for her beauty and political interference.
+  - Example: "Barbara Villiers, a.k.a. Lady Castlemaine, a.k.a. the Duchess of Cleveland" (Once More into the Breeches)
+- **Louise de Kérouaille, Duchess of Portsmouth** (`duchess-of-portsmouth`) — 1 chapter
+  - A French noblewoman and mistress to Charles II, she was often viewed with suspicion by the English public as a French spy and a Catholic influence on 
+  - Example: "Duchess of Portsmouth was undone" (Once More into the Breeches)
+- **Hans Holbein the Younger** (`hans-holbein`) — 1 chapter
+  - The famous Tudor court painter whose iconic portrait of Henry VIII defined the monarch's physical image for history.
+  - Example: "big Holbein portrait of the college’s Founder, King Henry VIII" (Once More into the Breeches)
+- **Johann Philipp von Schönborn and Baron Johann Christian von Boineburg** (`boineburg-and-mainz`) — 1 chapter
+  - Leibniz's real-life patrons who involved him in high-level diplomacy to prevent French expansion into German territories.
+  - Example: "nephew of the Archbishop of Mainz, the other the son of Baron von Boineburg" (London Bridge)
+- **René Descartes and Pierre de Fermat** (`descartes-and-fermat`) — 1 chapter
+  - Two of the most influential mathematicians and philosophers of the 17th century whose work set the stage for the Enlightenment.
+  - Example: "men who’d personally known Descartes and Fermat" (London Bridge)
+- **René Descartes and Blaise Pascal** (`descartes-and-pascal`) — 1 chapter
+  - Two of the most influential French philosophers and mathematicians of the 17th century whose work laid the foundations for modern science.
+  - Example: "unpublished manuscripts of Descartes and Pascal" (London Bridge)
+- **Elizabeth French** (`elizabeth-french`) — 1 chapter
+  - The wife of John Wilkins and niece of Oliver Cromwell, representing the complex familial ties between the Protectorate and the Restoration.
+  - Example: "The lady of the house is Cromwell’s niece" (London Bridge)
+- **Elias Ashmole** (`elias-ashmole`) — 1 chapter
+  - An antiquary, politician, and alchemist whose collection formed the basis of the Ashmolean Museum in Oxford.
+  - Example: "Sir Elias Ashmole is starting a brave library" (London Bridge)
+- **Johann Philipp von Schönborn** (`archbishop-of-mainz`) — 1 chapter
+  - The Elector and Archbishop of Mainz who was Leibniz's early patron and a key figure in the politics of the Holy Roman Empire.
+  - Example: "Archbishop of Mainz" (London Bridge)
+- **Francis Bacon** (`francis-bacon`) — 1 chapter
+  - An English philosopher and statesman who is credited with developing the scientific method; his works heavily influenced the founding of the Royal Soc
+  - Example: "Bacon said, ‘Whatever has sufficient differences" (London Bridge)
+- **Mary of Modena** (`mary-of-modena`) — 1 chapter
+  - The second wife of James, Duke of York; her Catholicism and the prospect of a Catholic heir fueled political unrest in England.
+  - Example: "marry that nice Catholic girl" (The City of London)
+- **John Flamsteed** (`john-flamsteed`) — 1 chapter
+  - The first Astronomer Royal of England, known for his meticulous star catalogs and his professional rivalry with Isaac Newton.
+  - Example: "It’s all in the arithmetic—the same sort of arithmetic that Flamsteed, the Astro" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Lucius Quinctius Cincinnatus** (`cincinnatus`) — 1 chapter
+  - A Roman statesman and military leader who became a legendary symbol of civic virtue by resigning his near-absolute power immediately after a crisis to
+  - Example: "The men who’ve been manning the guns are told to make like Cincinnatus" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+### Events
+
+- **Franco-Dutch War** (`franco-dutch-war`) — 5 chapters
+  - A major conflict (1672–1678) where Louis XIV sought to establish French dominance over the Netherlands, often supported by England under the secret Tr
+  - Example: "King of France... busy conquering the Dutch Republic just now" (Gresham’s College, Bishopsgate, London)
+- **Stourbridge Fair** (`stourbridge-fair`) — 4 chapters
+  - A massive annual fair near Cambridge where Isaac Newton famously purchased prisms to conduct his experiments on light and optics.
+  - Example: "Went to Sturbridge Fair with Isaac to buy them" (Newtowne, Massachusetts Bay Colony)
+- **Third Anglo-Dutch War** (`third-anglo-dutch-war`) — 4 chapters
+  - A conflict from 1672–1674, part of the larger Franco-Dutch War, where England joined Louis XIV to attack the Dutch Republic.
+  - Example: "because of the Anglo-Dutch War... the third in as many decades" (Gresham’s College, Bishopsgate, London)
+- **Siege of Maastricht (1673)** (`siege-of-maastricht`) — 4 chapters
+  - A key battle in the Franco-Dutch War where French forces, assisted by English volunteers like Monmouth and Churchill, captured the city. The reenactme
+  - Example: "ramparts of “Maestricht,” and “Dutchmen” struck defiant poses" (Gresham’s College, Bishopsgate, London)
+- **Thirty Years' War** (`thirty-years-war`) — 3 chapters
+  - A devastating European conflict (1618–1648) fought largely in Central Europe over religious and political control.
+  - Example: "The end of the Thirty Years’ War." (Boston Common)
+- **Act of Uniformity 1662** (`act-of-uniformity-1662`) — 3 chapters
+  - A law requiring all clergy to use the Book of Common Prayer; its enforcement led to the 'Great Ejection' of over 2,000 non-conforming ministers.
+  - Example: "drawn up an Act of Uniformity" (Newtowne, Massachusetts Bay Colony)
+- **Treaty of Dover** (`treaty-of-dover`) — 3 chapters
+  - A secret 1770 treaty where Charles II promised to convert to Catholicism and support France against the Dutch in exchange for French subsidies.
+  - Example: "we’re still on Treaties" (Royal Society Meeting, Gresham’s College)
+- **The Interregnum** (`the-interregnum`) — 2 chapters
+  - The period between the execution of Charles I in 1649 and the arrival of Charles II in 1660 when England was a republic.
+  - Example: "Interregnum coins demonetized these last three years" (Banks of the River Cam)
+- **Dissolution of the Monasteries** (`dissolution-of-the-monasteries`) — 2 chapters
+  - The set of administrative and legal processes (1536–1541) by which Henry VIII disbanded monasteries in England, Wales, and Ireland and appropriated th
+  - Example: "wealth confiscated from the Papist monasteries" (Banks of the River Cam)
+- **Seizure of the Mint (1640)** (`seizure-of-the-mint`) — 2 chapters
+  - In 1640, Charles I seized £130,000 of gold bullion held in the Tower of London to fund his wars, destroying trust with the merchant class.
+  - Example: "seized all of the merchants’ gold in the Tower" (Epsom)
+- **Second Anglo-Dutch War** (`second-anglo-dutch-war`) — 2 chapters
+  - A conflict (1665–1667) fought over global trade routes, occurring simultaneously with the Plague and the Great Fire.
+  - Example: "a possible Dutch invasion" (Epsom)
+- **Anglo-Dutch Wars** (`anglo-dutch-wars`) — 2 chapters
+  - A series of naval conflicts between England and the Dutch Republic over trade routes and maritime supremacy.
+  - Example: "pity the Dutch Fleet" (Charing Cross)
+- **St. Bartholomew’s Fair** (`st-bartholomews-fair`) — 2 chapters
+  - A massive annual summer fair in London known for its 'freak shows,' theatrical entertainments, and rowdy atmosphere.
+  - Example: "stranger than anything gawkers would pay to view at St. Bartholomew’s Fair" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Witch Trials in New England** (`new-england-witch-trials`) — 1 chapter
+  - While the Salem trials (1692) are the most famous, the passage reflects the tail end of the era of capital punishment for witchcraft in the American c
+  - Example: "He’s not come to watch witch-hangings" (Boston Common)
+- **Boston Fire of 1711** (`boston-fire-1711`) — 1 chapter
+  - A major fire that destroyed much of the center of Boston, including the Town House and the First Quarantine Church, leading to new building codes requ
+  - Example: "recognizes the scars of a great fire along this main street" (Boston Common)
+- **Salem Witch Trials** (`salem-witch-trials`) — 1 chapter
+  - The passage is set in 1713, but refers to the lingering atmosphere of the 1692 witch trials in Massachusetts, which remain a significant cultural touc
+  - Example: "None of them cares, supposing they even know, that witches are being hanged five" (Boston Common)
+- **The Restoration** (`the-restoration`) — 1 chapter
+  - The 1660 return of the monarchy under Charles II, which ended the Puritan-led Commonwealth and led many dissenters to flee to New England.
+  - Example: "later came the Restoration, which was a grievous defeat for your folk" (Boston Common)
+- **The Asiento and Transatlantic Slave Trade** (`asiento-slave-trade`) — 1 chapter
+  - Refers to the branding of enslaved people to show that the Spanish 'Asiento' (contract/tax) had been paid; Luanda in Angola was a major Portuguese sla
+  - Example: "arms of the King of Spain are branded into his left shoulder, and so he is proba" (Boston Common)
+- **Leisler's Rebellion** (`leislers-rebellion`) — 1 chapter
+  - A 1689 uprising in colonial New York where Jacob Leisler seized control of the city following the Glorious Revolution in England, reflecting deep-seat
+  - Example: "some Irish, the rest Angolan—running through the streets with pitchforks and fir" (Boston Common)
+- **Peace of Westphalia** (`peace-of-westphalia`) — 1 chapter
+  - The 1648 treaties that ended the Thirty Years' War and the Eighty Years' War, effectively creating the modern concept of nation-state sovereignty.
+  - Example: "the peace of Westphalia did." (Boston Common)
+- **Navigation Acts and Anglo-Dutch Wars** (`navigation-acts`) — 1 chapter
+  - Legislation designed to restrict non-English shipping for trade; it led to a series of naval conflicts between England and the Dutch Republic.
+  - Example: "the Navigation Act. And a sea-war against the Dutch." (Boston Common)
+- **Siege of Drogheda** (`siege-of-drogheda`) — 1 chapter
+  - A 1649 military operation where Oliver Cromwell's New Model Army massacred the garrison and many civilians, a defining and controversial moment of the
+  - Example: "Cromwell must have shown as he beheld the butchering of the Irish at Drogheda" (1655)
+- **Kamakura bakufu** (`kamakura-shogunate`) — 1 chapter
+  - The military government of Japan (shogunate) established by Minamoto no Yoritomo in 1185, marking the beginning of the samurai-dominated feudal period
+  - Example: "The Kamakura bakufu" (Newtowne, Massachusetts Bay Colony)
+- **Investiture Controversy** (`investiture-controversy`) — 1 chapter
+  - A 11th-12th century conflict between the Church and the state (notably the Holy Roman Empire) over the right to appoint church officials.
+  - Example: "the Investiture Controversy" (Newtowne, Massachusetts Bay Colony)
+- **Newton's Breakdown of 1693** (`newtons-breakdown-1693`) — 1 chapter
+  - A period of mental instability and exhaustion Newton suffered in 1693, leading him to withdraw from research and eventually move to the Mint.
+  - Example: "Sir Isaac has not done any creative work since he had that mysterious catastroph" (Newtowne, Massachusetts Bay Colony)
+- **Ninety-five Theses** (`ninety-five-theses`) — 1 chapter
+  - The list of propositions for academic debate written by Martin Luther in 1517, widely regarded as the catalyst for the Protestant Reformation.
+  - Example: "Luther’s theses on the church-door" (Aboard Minerva, Massachusetts Bay)
+- **Readmission of the Jews to England** (`readmission-of-the-jews`) — 1 chapter
+  - Jews were expelled from England in 1290 by Edward I. In 1656, Oliver Cromwell informally allowed their return, recognizing their potential contributio
+  - Example: "Cromwell had readmitted these people to England only ten years previously" (Banks of the River Cam)
+- **The Great Recoinage of 1696** (`great-recoinage`) — 1 chapter
+  - During this period, English silver coins were often 'clipped' (shaved at the edges) or counterfeited, leading to a currency crisis that Newton would e
+  - Example: "unbelievable shabbiness of English coinage" (Banks of the River Cam)
+- **The Great Debasement** (`the-great-debasement`) — 1 chapter
+  - A period (1544–1551) where the English crown significantly reduced the silver content of coins to fund wars, leading to massive inflation.
+  - Example: "shilling from the reign of Edward VI... issued during the Great Debasement" (Banks of the River Cam)
+- **Spanish Silver Trade** (`spanish-silver-trade`) — 1 chapter
+  - The massive influx of silver from the Americas (specifically Potosí and Mexico) into Europe, which caused a long-term inflationary period known as the
+  - Example: "cheap silver from the mines of New Spain" (Banks of the River Cam)
+- **Battle of Naseby** (`battle-of-naseby`) — 1 chapter
+  - A decisive battle of the English Civil War in 1645 where the Parliamentarian New Model Army destroyed the main Royalist army.
+  - Example: "my half brother found lying on the ground at the Battle of Naseby" (Banks of the River Cam)
+- **Ship Money** (`ship-money`) — 1 chapter
+  - A non-parliamentary tax revived by Charles I that became a major point of contention and a leading cause of the English Civil War.
+  - Example: "libels inveighed against Ship Money, a new tax imposed by Charles I" (The Plague Year)
+- **The Cockayne Project** (`cockayne-project`) — 1 chapter
+  - A failed 1614 economic plan by James I to boost the English dyeing and finishing industry by banning the export of raw cloth.
+  - Example: "James I had outlawed the export of unfinished English cloth" (The Plague Year)
+- **The Mayflower** (`mayflower-voyage`) — 1 chapter
+  - The 1620 voyage of English Puritans to North America; 'Virginia' at the time referred to a much larger territory than the modern state.
+  - Example: "embarking on the Mayflower, bound for sunny Virginia" (The Plague Year)
+- **The English Reformation** (`english-reformation`) — 1 chapter
+  - The 16th-century break of the Church of England from the authority of the Pope and the Roman Catholic Church.
+  - Example: "King Henry VIII had kicked out the Papists" (The Plague Year)
+- **The Covenanters** (`covenanters`) — 1 chapter
+  - Scottish Presbyterians who resisted Charles I's religious reforms, leading to the Bishops' Wars and their occupation of Northern England.
+  - Example: "Scottish Covenanters down as far as Newcastle" (Epsom)
+- **Irish Rebellion of 1641** (`irish-rebellion-of-1641`) — 1 chapter
+  - An uprising by Irish Catholics against British Protestant settlers, which fueled anti-Catholic paranoia in London.
+  - Example: "Catholics rebelling in Ulster" (Epsom)
+- **Portuguese Restoration War** (`portuguese-restoration-war`) — 1 chapter
+  - The 1640 revolution that ended the Iberian Union and restored Portugal's independence from the Spanish Habsburgs.
+  - Example: "Spain and Portugal dividing into two separate kingdoms" (Epsom)
+- **Siege of Malacca (1641)** (`siege-of-malacca`) — 1 chapter
+  - A key victory for the Dutch East India Company (VOC) over the Portuguese, securing Dutch control over the strategic Strait of Malacca.
+  - Example: "the Dutch taking advantage of it to steal Malacca from the Portuguese" (Epsom)
+- **Comenius and Harvard** (`comenius-harvard-invitation`) — 1 chapter
+  - A historical legend (though debated) that Comenius was offered the presidency of the young Harvard College in 1641.
+  - Example: "invitation to be Master of Harvard College back in ’41" (Epsom)
+- **17th-century Religious and Intellectual Conflict** (`jesuit-vs-royal-society-philosophy`) — 1 chapter
+  - The Royal Society faced pressure from both secular 'atheists' and Catholic Jesuits; the former doubted biblical miracles while the latter often defend
+  - Example: "certain Continental savants, of an atheistical bent... certain Jesuits turning i" (Epsom)
+- **Lubomirski's Rokosz** (`lubomirskis-rokosz`) — 1 chapter
+  - A rebellion (1665–1666) by the Polish nobility against King John II Casimir, led by Jerzy Sebastian Lubomirski.
+  - Example: "Someone named Lubomirski was staging a rebellion in Poland." (Epsom)
+- **Events of the early 17th Century** (`early-stuart-era-events`) — 1 chapter
+  - Comstock lists major milestones from 1607-1611 to establish his age and the historical span of his life.
+  - Example: "Jamestown was founded, the pilgrims scurried off to Leyden, and work commenced o" (Epsom)
+- **Gunpowder Plot** (`gunpowder-plot`) — 1 chapter
+  - The 1605 failed assassination attempt against King James I by Catholic conspirators, which remained a major cultural touchstone for anti-Catholic sent
+  - Example: "Gunpowder Plots" (Epsom)
+- **War of the Spanish Succession** (`war-of-the-spanish-succession`) — 1 chapter
+  - A major European conflict (1701–1714) triggered by the death of the childless Charles II of Spain; in the Americas, it involved extensive privateering
+  - Example: "fought on the Queen’s side in the War, helping themselves to Spanish shipping." (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **The Commonwealth Sale** (`commonwealth-sale-of-art`) — 1 chapter
+  - After Charles I's execution, the Rump Parliament sold off his massive art collection (the 'King's Goods') to pay debts; Charles II spent years trying 
+  - Example: "sold to Dutchmen. But now the windows were windows again, and the artworks had b" (Charing Cross)
+- **Cromwellian Conquest of Ireland** (`ireland-land-settlement`) — 1 chapter
+  - Refers to the complex and often brutal redistribution of Irish land to English settlers and creditors following the Civil War.
+  - Example: "Sir Winston did a lot of business for the King in Ireland" (Charing Cross)
+- **Barbary Pirates** (`barbary-wars`) — 1 chapter
+  - Refers to English naval expeditions against North African corsairs who raided European shipping and enslaved sailors.
+  - Example: "safe return from the shores of Tripoli" (Charing Cross)
+- **Barbary Pirates** (`barbary-pirates`) — 1 chapter
+  - Refers to the ongoing conflict between European powers and the Barbary States of North Africa, who engaged in state-sponsored piracy and slave-trading
+  - Example: "shores of Tripoli" (Charing Cross)
+- **The Cabal Ministry** (`the-cabal-ministry`) — 1 chapter
+  - A group of five high-ranking ministers (Clifford, Arlington, Buckingham, Ashley, Lauderdale) whose initials formed the word 'CABAL'.
+  - Example: "What does the Cabal’s second syllable have to say" (Royal Society Meeting, Gresham’s College)
+- **Imprisonment of Henry Oldenburg** (`oldenburg-imprisonment`) — 1 chapter
+  - Oldenburg was actually imprisoned in the Tower in 1667 on suspicion of 'dangerous designs' due to his foreign correspondence during the Second Anglo-D
+  - Example: "thrown into the Tower of London on general principles" (Royal Society Meeting, Gresham’s College)
+- **Secret Treaty of Dover** (`secret-treaty-of-dover`) — 1 chapter
+  - A 1670 pact between Charles II and Louis XIV where Charles promised to convert to Catholicism in exchange for French subsidies; 'Minette' was Henriett
+  - Example: "the truly secret agreement that the two Kings are drawing up, using Minette as t" (Royal Society Meeting, Gresham’s College)
+- **Currency Debasement and Melting** (`great-recoinage-context`) — 1 chapter
+  - A major economic crisis where new, full-weight silver coins were immediately melted down and exported because the silver was worth more as bullion tha
+  - Example: "melted down into bullion on Thread-needle Street" (Royal Society Meeting, Gresham’s College)
+- **Treaty of Breda** (`treaty-of-breda`) — 1 chapter
+  - The 1667 treaty that ended the Second Anglo-Dutch War, where the Dutch kept Suriname and the English kept New Netherland (New Amsterdam).
+  - Example: "New Amsterdam! His Majesty is acquiring it in exchange for Surinam" (Royal Society Meeting, Gresham’s College)
+- **Siege of Maastricht (1673)** (`siege-of-maastricht-1673`) — 1 chapter
+  - A key event in the Franco-Dutch War where Louis XIV's forces captured the city; it was notable for the use of advanced siege tactics by Vauban.
+  - Example: "when Le Roi du Soleil reaches Maestricht" (Gresham’s College, Bishopsgate, London)
+- **The Atlantic Slave Trade** (`atlantic-slave-trade`) — 1 chapter
+  - The passage references the brutal economic reality of the 17th-century sugar industry in Jamaica, which relied on a constant supply of enslaved people
+  - Example: "the attrition of slaves is replaced by new shipments" (Once More into the Breeches)
+- **John Wilkins's final days** (`wilkins-death`) — 1 chapter
+  - Wilkins died in 1672 at the home of his stepdaughter's husband, John Tillotson, in London.
+  - Example: "Bishop has had to move... he’s at his stepdaughter’s house in Chancery Lane" (London Bridge)
+- **Leibniz's Egyptian Plan** (`leibniz-egyptian-plan`) — 1 chapter
+  - A real historical proposal Leibniz made to Louis XIV in 1672, intended to distract France from attacking the Dutch Republic by suggesting a conquest o
+  - Example: "instead of invading her neighbors, La France ought to make an expedition to Egyp" (London Bridge)
+- **Religious Tensions in the Restoration** (`restoration-religion`) — 1 chapter
+  - The political struggle between the Church of England (Anglican) and the perceived threat of a return to Catholicism under the Stuarts.
+  - Example: "it will be Anglican. If the Duke of Gunfleet has his, it will be the Roman faith" (Royal Society Meeting, Gunfleet House)
+- **Pope-burning processions** (`pope-burning-processions`) — 1 chapter
+  - Highly political anti-Catholic demonstrations common in Restoration London, often used to protest the Catholic sympathies of the Stuart court.
+  - Example: "They were carrying an effigy... The Pope." (Royal Society Meeting, Gunfleet House)
+- **Royal Declaration of Indulgence (1672)** (`declaration-of-indulgence`) — 1 chapter
+  - Charles II's attempt to suspend penal laws against Catholics and Protestant Dissidents, which was fiercely opposed by Parliament.
+  - Example: "Wilkins’s legacy, the Declaration of Indulgence" (Royal Society Meeting, Gunfleet House)
+- **Battle of Solebay** (`battle-of-solebay`) — 1 chapter
+  - The first naval battle of the Third Anglo-Dutch War (1672), where the Dutch fleet under Michiel de Ruyter surprised the joint English and French fleet
+  - Example: "fell under the guns of Admiral de Ruyter at Sole Bay" (The City of London)
+- **Great Stop of the Exchequer** (`great-stop-of-the-exchequer`) — 1 chapter
+  - In 1672, Charles II suspended payments on government debts, causing a financial crisis and ruining many London goldsmith-bankers.
+  - Example: "King Charles shut down the Exchequer one day" (The City of London)
+- **Test Act of 1673** (`test-act`) — 1 chapter
+  - The Test Act required all holders of public office to take communion in the Church of England; James resigned as Lord High Admiral because he had conv
+  - Example: "The Duke of York has resigned the Admiralty…" (The City of London)
+- **Capture of New Amsterdam** (`naming-of-new-york`) — 1 chapter
+  - In 1664, the English seized New Amsterdam from the Dutch and renamed it New York in honor of the Duke of York.
+  - Example: "naming New York after him?" (The City of London)
+- **The Dutch Water Line** (`dutch-water-line`) — 1 chapter
+  - During the Franco-Dutch War (1672), the Dutch intentionally flooded their own land to create an impassable barrier against French invasion.
+  - Example: "William of Orange had opened the sluices" (The City of London)
+- **Royal Declaration of Indulgence (1672)** (`royal-declaration-of-indulgence`) — 1 chapter
+  - Charles II's attempt to extend religious liberty to Protestant nonconformists and Roman Catholics, which was highly controversial in Parliament.
+  - Example: "Why, the Declaration! Haven’t you heard? Freedom of conscience for Dissenters" (The City of London)
+- **Wars of the Roses** (`wars-of-the-roses`) — 1 chapter
+  - A series of 15th-century dynastic civil wars for the throne of England, used here to emphasize the ancient lineage of the 'Silver' Comstocks.
+  - Example: "serving as their London seat since the Wars of the Roses" (The City of London)
+- **Royal Declaration of Indulgence (1672)** (`declaration-of-indulgence-1672`) — 1 chapter
+  - Charles II's attempt to extend religious liberty to Protestant nonconformists and Roman Catholics, which was politically controversial and later resci
+  - Example: "watched the King sign the Declaration. As penned by Wilkins" (The City of London)
+### Sciences
+
+- **Action at a Distance** (`action-at-a-distance`) — 3 chapters
+  - A concept in physics where objects interact without physical contact; Newton's theory of gravity was criticized by contemporaries for relying on this 
+  - Example: "action-at-a-distance" (Boston Common)
+- **Vortex Theory** (`vortex-theory`) — 2 chapters
+  - René Descartes' theory that planets were carried by whirlpools of 'aether.' Newton's 'Principia' famously debunked this in favor of gravity.
+  - Example: "The Hypothesis of Vortices is pressed with many difficulties." (Boston Common)
+- **Humorism** (`humorism`) — 2 chapters
+  - The ancient medical system of 'four humors' (blood, yellow bile, black bile, phlegm) that was still a common way of understanding health and temperame
+  - Example: "hacking loose a small accumulation of yellow bile—the humour of anger" (Boston Common)
+- **Universal Gravitation** (`universal-gravitation`) — 2 chapters
+  - Newton's law stating that every particle attracts every other particle in the universe; a revolutionary concept during the novel's timeframe.
+  - Example: "Universal gravitation is not his only opponent." (Boston, Massachusetts Bay Colony)
+- **Spontaneous Generation** (`spontaneous-generation`) — 2 chapters
+  - The pre-modern scientific theory that living organisms could arise from non-living matter, a concept Isaac Newton and his contemporaries were still gr
+  - Example: "The generative spirit lives on—transmuting dead flesh into something else—just a" (Banks of the River Cam)
+- **London Bridge Waterworks** (`london-bridge-waterworks`) — 2 chapters
+  - In 1582, Peter Morice built a system of waterwheels under the arches of London Bridge to pump Thames water into the city's first pressurized lead pipe
+  - Example: "some clever Dutchmen had built water-wheels there" (The Plague Year)
+- **Luminiferous Aether** (`aether`) — 2 chapters
+  - A theoretical substance once thought to fill all space, serving as the medium through which light and gravity were believed to propagate.
+  - Example: "Molten earth surrounded by the Cœlestial Æther makes a sphere" (Epsom)
+- **Discovery of Oxygen** (`discovery-of-oxygen`) — 2 chapters
+  - References early theories of 'vital air' or 'nitro-aerial spirit' that predated the formal discovery of oxygen by Priestley and Lavoisier.
+  - Example: "air contained some kind of spirit that sustained both fire and life" (Epsom)
+- **Pansophism** (`pansophism`) — 2 chapters
+  - An educational philosophy striving for universal knowledge, championed by Comenius and influential on early Royal Society members.
+  - Example: "devotee of Pansophism" (Royal Society Meeting, Gresham’s College)
+- **Conic Sections** (`conic-sections`) — 1 chapter
+  - The curves (ellipse, parabola, hyperbola) resulting from the intersection of a plane and a cone, essential to understanding orbital mechanics.
+  - Example: "tracing out fading and flattening conic sections" (Boston Common)
+- **Vis Viva** (`vis-viva`) — 1 chapter
+  - Latin for 'living force,' this was an early scientific formulation for what we now call kinetic energy, a concept championed by Leibniz.
+  - Example: "the vis viva is conducted into Dr. Waterhouse’s gear-boxes" (Boston Common)
+- **Precession of the Equinoxes** (`precession-of-the-equinoxes`) — 1 chapter
+  - The slow, continuous change in the orientation of an astronomical body's rotational axis; a key concept in classical astronomy and later Newtonian phy
+  - Example: "regular as the precession of the zodiac" (1655)
+- **17th Century Astronomy** (`17th-century-astronomy`) — 1 chapter
+  - The study of comets was a major scientific focus in this era, leading to debates about whether they were atmospheric phenomena or celestial bodies.
+  - Example: "like a telescope tracking a comet" (1655)
+- **Logarithms** (`logarithms`) — 1 chapter
+  - A mathematical tool invented by John Napier that simplified complex calculations, essential for navigation and astronomy.
+  - Example: "drudging out tables of logarithms, cube roots, cosines" (1655)
+- **Monads** (`monadology`) — 1 chapter
+  - A central concept in Leibniz's philosophy; monads are indivisible, elementary particles or 'spiritual atoms' that compose the universe.
+  - Example: "too complicated for monads" (Newtowne, Massachusetts Bay Colony)
+- **Nocturnal (instrument)** (`nocturnal-timekeeping`) — 1 chapter
+  - Before reliable pocket watches, scholars used the rotation of 'the pointers' in Ursa Major around the North Star to determine the time at night.
+  - Example: "The tail of Ursa Major was like the hand of a cœlestial clock" (College of the Holy and Undivided Trinity, Cambridge)
+- **Catenary curves and Euclidean geometry** (`geometry-and-curves`) — 1 chapter
+  - A catenary is the curve a hanging chain or cable assumes under its own weight; Euclidean sections refer to the classical geometry of figures like circ
+  - Example: "catenary curves and Euclidean sections" (Boston, Massachusetts Bay Colony)
+- **Newton's Eye Experiment** (`newton-eye-experiment`) — 1 chapter
+  - A famous historical anecdote where Newton probed his own eye socket with a 'bodkin' to investigate how pressure on the eyeball affects color perceptio
+  - Example: "Isaac was seated a few inches away. He had shoved a darning needle several inche" (College of the Holy and Undivided Trinity, Cambridge)
+- **Aqueous Humour** (`humours-of-the-eye`) — 1 chapter
+  - In 17th-century anatomy, the 'humours' were the fluids of the eye (aqueous, vitreous, and crystalline) believed to be essential for vision and maintai
+  - Example: "the eyeball is pressurized from within by the aqueous humour" (College of the Holy and Undivided Trinity, Cambridge)
+- **Chromatic Aberration** (`chromatic-aberration`) — 1 chapter
+  - A failure of a lens to focus all colors to the same point, resulting in colored fringes around objects; Newton's study of this led to his invention of
+  - Example: "as a lens put chromatic aberrations into all the light" (College of the Holy and Undivided Trinity, Cambridge)
+- **Ship's steering wheel** (`ships-steering-wheel`) — 1 chapter
+  - The introduction of the steering wheel to replace the whipstaff occurred around 1700; its presence here marks a specific technological advancement in 
+  - Example: "the huge spoked wheel by which the ship is steered" (Aboard Minerva, Massachusetts Bay)
+- **Aether** (`aether-physics`) — 1 chapter
+  - In 17th-century physics, the aether was a hypothesized medium that filled all space, thought to be necessary for the transmission of light and gravity
+  - Example: "Heavenly radiance fills the æther" (College of the Holy and Undivided Trinity, Cambridge)
+- **St. Elmo's Fire** (`st-elmos-fire`) — 1 chapter
+  - A weather phenomenon in which luminous plasma is created by a corona discharge from a sharp or pointed object in a strong electric field, often seen o
+  - Example: "St. Elmo’s Fire" (Aboard Minerva, Massachusetts Bay)
+- **Method of Fluxions** (`method-of-fluxions`) — 1 chapter
+  - Newton's specific term and conceptual framework for what we now call differential calculus, focusing on the rate of change of 'flowing' quantities.
+  - Example: "That is what I call a fluxion" (Aboard Minerva, Massachusetts Bay)
+- **Aristotelianism** (`aristotelianism`) — 1 chapter
+  - The traditional scholastic philosophy based on Aristotle, which categorized the world into distinct 'essences.' The Scientific Revolution, led by figu
+  - Example: "Meaning the Aristotelian approach, in which such easy mixing of things with obvi" (Banks of the River Cam)
+- **Fahrenheit thermometer** (`fahrenheit-thermometer`) — 1 chapter
+  - Daniel Gabriel Fahrenheit proposed his temperature scale in 1724, but was developing his mercury thermometers in the years prior; it represented a maj
+  - Example: "drops out a Fahrenheit thermometer on a string. It is the very latest in tempera" (Aboard Minerva, off the Coast of New England)
+- **The Gulf Stream** (`gulf-stream`) — 1 chapter
+  - While known to mariners like Ponce de León, the Gulf Stream was not scientifically charted or widely understood by the Royal Society until Benjamin Fr
+  - Example: "rumor that the North Atlantic is striped with currents of warm water" (Aboard Minerva, off the Coast of New England)
+- **Pendulum Experiments** (`pendulum-experiments`) — 1 chapter
+  - Early Royal Society members used long pendulums in high buildings like St. Paul's to study gravity and the rotation of the Earth.
+  - Example: "experiments with two-hundred-foot-long pendulums" (The Plague Year)
+- **Powder of Sympathy** (`powder-of-sympathy`) — 1 chapter
+  - A form of sympathetic magic popularized by Sir Kenelm Digby, where a remedy was applied to the weapon that caused a wound rather than the wound itself
+  - Example: "something called Sympathetic Powder that supposedly healed wounds" (The Plague Year)
+- **Vitriol** (`vitriol`) — 1 chapter
+  - A historical term for sulfate minerals (like copper or iron sulfate), used in alchemy, medicine, and the production of pigments.
+  - Example: "Hungarian vitriol" (The Plague Year)
+- **Air Pump** (`boylean-air-pump`) — 1 chapter
+  - A landmark scientific instrument developed by Hooke and Boyle to create a vacuum, allowing for the study of respiration and combustion.
+  - Example: "his air-compressing engine" (The Plague Year)
+- **Inertia** (`vis-inertiae`) — 1 chapter
+  - A Latin term meaning 'force of inactivity,' used in the 17th century to describe the resistance of physical objects to a change in their state of moti
+  - Example: "vis inertiae" (Epsom)
+- **Discovery of Cells** (`discovery-of-cells`) — 1 chapter
+  - Hooke coined the term 'cell' because the plant structures he saw reminded him of the small rooms (cella) inhabited by monks.
+  - Example: "He has taken to calling them ‘cells’" (Epsom)
+- **Noah's Ark in 17th-century Natural Philosophy** (`natural-philosophy-and-noahs-ark`) — 1 chapter
+  - 17th-century scholars like Wilkins treated the Ark as a literal engineering and biological challenge, using it to prove that the biblical account was 
+  - Example: "endless digression on the Ark... Noah must have found a way to fit all of these " (Epsom)
+- **Sulfuric Acid** (`oil-of-vitriol`) — 1 chapter
+  - The archaic name for sulfuric acid, a highly corrosive mineral acid used in early chemistry and alchemy.
+  - Example: "Oil of vitriol works" (Epsom)
+- **Microscopy** (`microscopy`) — 1 chapter
+  - In the 1660s, the microscope was a revolutionary tool; Hooke's 1665 book 'Micrographia' revealed a previously invisible world to the public for the fi
+  - Example: "They examined the paper under the Microscope" (Epsom)
+- **Speed of Light** (`speed-of-light`) — 1 chapter
+  - During this era, scientists like Ole Rømer were first beginning to prove that light travels at a finite speed rather than instantaneously.
+  - Example: "reckon the speed of light" (Epsom)
+- **Vivisection** (`vivisection`) — 1 chapter
+  - The practice of performing operations on live animals for scientific research was a common, though controversial, practice of the early Royal Society 
+  - Example: "Hooke opened up the thorax of a live dog" (Epsom)
+- **Musica Universalis (Music of the Spheres)** (`music-of-the-spheres`) — 1 chapter
+  - An ancient philosophical concept regarding the proportions in the movements of celestial bodies as a form of music; it was a central theme in Johannes
+  - Example: "harmony between the heavenly orbs and the orbs we view them with" (Epsom)
+- **Back-staff** (`back-staff`) — 1 chapter
+  - A navigational instrument used to measure the altitude of the sun by observing its shadow, allowing the navigator to avoid looking directly at the sun
+  - Example: "when he’s shooting the sun with his back-staff" (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **Newton's Reflecting Telescope** (`reflecting-telescope`) — 1 chapter
+  - Invented by Isaac Newton in 1668, this telescope used mirrors instead of lenses to avoid chromatic aberration (color blurring), a major breakthrough i
+  - Example: "a tubular device about a foot long... The design was Isaac’s" (Charing Cross)
+- **Squaring the Circle** (`squaring-the-circle`) — 1 chapter
+  - A classic geometric problem (later proven impossible) that was a major obsession for 17th-century mathematicians.
+  - Example: "wrangling about squaring the Circle" (Royal Society Meeting, Gresham’s College)
+- **Universal Measure** (`universal-measure`) — 1 chapter
+  - The 17th-century quest to establish standardized units of measurement based on physical constants rather than arbitrary royal decrees.
+  - Example: "Universal Measure!" (Royal Society Meeting, Gresham’s College)
+- **Discovery of Phosphorus** (`discovery-of-phosphorus`) — 1 chapter
+  - First isolated in 1669 by Hennig Brand (an alchemist) from human urine. Its ability to glow in the dark made it a sensation in royal courts and scient
+  - Example: "Enoch the Red will show us Phosphorus" (Royal Society Meeting, Gresham’s College)
+- **Humorism** (`four-humours`) — 1 chapter
+  - The ancient medical theory that health is determined by the balance of four bodily fluids: blood, phlegm, black bile, and yellow bile.
+  - Example: "imbalances of all four of the humours known to Medicine" (Royal Society Meeting, Gresham’s College)
+- **Retort** (`alchemical-equipment`) — 1 chapter
+  - A spherical glass vessel with a long, downward-pointing neck used for distillation in alchemical and chemical experiments.
+  - Example: "the long snouts of retorts poking out" (Royal Society Meeting, Gresham’s College)
+- **18th-century explosives** (`mortar-bombs-and-fuzes`) — 1 chapter
+  - Unlike solid cannonballs, mortar bombs were hollow spheres filled with gunpowder and fitted with a timed fuze that had to be manually cut and lit.
+  - Example: "teaching you how to fuze mortar-bombs" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Circulatory System** (`william-harvey-circulation`) — 1 chapter
+  - William Harvey's discovery of the circulation of blood (published 1628) was a foundational moment in modern medicine and a frequent topic of discussio
+  - Example: "systole and diastole of a beating heart" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Stellar Parallax** (`stellar-parallax`) — 1 chapter
+  - The apparent shift in position of a star against the background of more distant stars; its absence was a major scientific argument against the Earth's
+  - Example: "But no such parallax had been observed" (Gresham’s College, Bishopsgate, London)
+- **Trace Italienne (Star Fort)** (`bastion-fortification`) — 1 chapter
+  - The evolution of gunpowder led to complex, geometric earthworks and fortifications designed to eliminate blind spots and resist cannon fire.
+  - Example: "ramparts, a bastion, ravelins, and a demilune work" (Gresham’s College, Bishopsgate, London)
+- **Dutch Land Reclamation** (`dutch-polders`) — 1 chapter
+  - The Dutch were world leaders in hydraulic engineering, using windmills and dikes to reclaim land (polders) from the sea.
+  - Example: "they live below sea-level to begin with" (Once More into the Breeches)
+- **Reverberatory Furnace** (`reverberatory-furnace`) — 1 chapter
+  - A metallurgical furnace that isolates the material being processed from the fuel, reflecting (reverberating) heat from the roof onto the target.
+  - Example: "glowing dome of the Reverberatory Furnace" (Once More into the Breeches)
+- **Retort** (`retort`) — 1 chapter
+  - A glass vessel with a long, downward-pointing neck used for the distillation of substances in early chemistry and alchemy.
+  - Example: "supporting oil-lamps that painted the round bottoms of flasks and retorts" (Once More into the Breeches)
+- **Menstruum** (`menstruum`) — 1 chapter
+  - In alchemy, a 'menstruum' is a solvent used to dissolve solids, but the term is also a pun on menstrual blood, which alchemists believed contained 'ge
+  - Example: "The menstruum of a human female" (Once More into the Breeches)
+- **Newton's Laws of Motion** (`newtons-laws-of-motion`) — 1 chapter
+  - The passage describes the early conceptualization of inertia and universal gravitation, which would eventually be published in the 'Principia Mathemat
+  - Example: "first that all cœlestial bodies attracted all others... second that all bodies p" (Once More into the Breeches)
+- **Gunpowder** (`gunpowder-chemistry`) — 1 chapter
+  - The chemistry of explosives was a major area of study for natural philosophers, bridging the gap between alchemy and modern chemistry.
+  - Example: "deflagration of a sack of gunpowder" (Once More into the Breeches)
+- **17th Century Naval Artillery** (`naval-artillery-safety`) — 1 chapter
+  - Early modern cannons were prone to 'bursting' due to metallurgical flaws or poor casting, often killing the crew and destroying the ship's hull from t
+  - Example: "Any news, or rumor, of cannons bursting on English ships?" (London Bridge)
+- **Binary System** (`binary-number-system`) — 1 chapter
+  - Leibniz was a pioneer in the study of the base-2 numeral system, which he viewed as having mystical and mathematical significance.
+  - Example: "binary would work better" (London Bridge)
+- **Copernican Heliocentrism** (`copernican-hypothesis`) — 1 chapter
+  - The astronomical model in which the Earth and planets revolve around the Sun; though gaining ground, it was still debated or rejected by traditionalis
+  - Example: "refuse to believe in the Copernican Hypothesis" (London Bridge)
+- **The Second Hand** (`invention-of-the-second-hand`) — 1 chapter
+  - The addition of a third hand to watches was a major technological breakthrough in the 1670s, made possible by the balance spring, allowing for much hi
+  - Example: "each was equipped, not just with two but three hands... counting the seconds!" (Royal Society Meeting, Gunfleet House)
+- **Opium** (`history-of-opium`) — 1 chapter
+  - Derived from poppies, opium was the primary painkiller of the era but its addictive and lethal properties were becoming a subject of medical debate.
+  - Example: "syrup of poppies, in even small doses, cripples the judgment" (Royal Society Meeting, Gunfleet House)
+- **Balance Spring Watch** (`balance-spring-watch`) — 1 chapter
+  - Robert Hooke and Christiaan Huygens both claimed the invention of the spiral balance spring, which allowed for portable watches to keep accurate time.
+  - Example: "Hooke-watch" (Royal Society Meeting, Gunfleet House)
+- **Napier's Bones** (`napiers-bones`) — 1 chapter
+  - A manually-operated calculating device created by John Napier for the calculation of products and quotients.
+  - Example: "outmode Napier’s bones" (Royal Society Meeting, Gunfleet House)
+- **Scholasticism vs. Cartesianism** (`scholasticism-vs-cartesianism`) — 1 chapter
+  - The conflict between traditional Aristotelian logic (Scholasticism) and the new rationalist, mechanistic philosophy of René Descartes.
+  - Example: "making the common mistake of thinking that we must have Aristotle or Descartes" (Royal Society Meeting, Gunfleet House)
+- **Pineal Gland (Cartesian Dualism)** (`cartesian-dualism`) — 1 chapter
+  - Descartes famously proposed that the pineal gland was the 'seat of the soul' where the mind and body interacted.
+  - Example: "The Cartesians think it’s in the pineal gland" (Royal Society Meeting, Gunfleet House)
+- **Carronades** (`carronades`) — 1 chapter
+  - A short, smoothbore cast-iron cannon used by the Royal Navy; they were devastating at short range due to their large caliber but lacked the distance o
+  - Example: "short bulbous carronnades here—nothing more or less than multi-ton blunderbusses" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Moment of Inertia** (`moment-of-inertia`) — 1 chapter
+  - A physical quantity expressing a body's tendency to resist angular acceleration; in naval architecture, moving heavy weights to the ship's sides (gunw
+  - Example: "hugely increasing the ship’s moment of inertia, accounting for the change in the" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Fore-and-aft rig** (`fore-and-aft-rig`) — 1 chapter
+  - A sailing rig consisting of sails set along the line of the keel rather than across it; this allows a vessel to sail at a sharper angle into the wind 
+  - Example: "the ketch, being fore-and-aft rigged, can sail closer to the wind anyway" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Archimedean Spiral** (`archimedean-spiral`) — 1 chapter
+  - A mathematical curve described by Archimedes; in the context of the theater, it is used here to create a mechanical sound effect for thunder.
+  - Example: "cannonball rolling down a Spiral of Archimedes in a wooden barrel" (The City of London)
+- **Leibniz formula for pi** (`leibniz-formula-pi`) — 1 chapter
+  - The infinite series (1 - 1/3 + 1/5 - 1/7...) discovered by Leibniz, which represents a major milestone in the development of calculus.
+  - Example: "If you sum this series, it will slowly converge on pi." (The City of London)
+- **Gregory's Series** (`gregory-leibniz-series`) — 1 chapter
+  - Leibniz discovered the infinite series for pi (1 - 1/3 + 1/5 - 1/7...) around 1673. It was a major milestone in early calculus, though it converges ve
+  - Example: "scratched out the first few terms of a series: “If you sum this series, it will " (The City of London)
+- **The Labyrinth of the Continuum** (`labyrinth-of-the-continuum`) — 1 chapter
+  - Leibniz famously described two 'labyrinths' of the human mind: the first concerning free will and providence, and the second concerning the compositio
+  - Example: "No one told me to think about free will versus predestination. I plunged into th" (The City of London)
+- **Ballistics** (`ballistics-and-trajectories`) — 1 chapter
+  - The study of projectile motion was a major focus of 17th-century science, moving from Aristotelian theories to the parabolic paths identified by Galil
+  - Example: "panes of glass, neatly scored with black Cartesian grids, plotted with foreshort" (The City of London)
+- **Rarefying Engine** (`rarefying-engine`) — 1 chapter
+  - A term used in the 17th century for an air pump, a device Robert Hooke and Robert Boyle developed to create a vacuum for scientific experimentation.
+  - Example: "Such powder may be unsuitable for the Rarefying Engine" (The City of London)
+- **Archimedes' Screw** (`archimedes-screw`) — 1 chapter
+  - A machine historically used for transferring water; Hooke is here adapting the principle for aerodynamics/propulsion.
+  - Example: "Like a Screw of Archimedes." (The City of London)
+- **Studdingsails** (`studdingsails`) — 1 chapter
+  - Extra sails used in light winds to extend the width of the square sails, significantly increasing a ship's speed when sailing downwind.
+  - Example: "swinging wide the studdingsail booms" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+### Institutions
+
+- **Gresham College** (`gresham-college`) — 6 chapters
+  - An institution in London founded in 1597 that provided free public lectures and served as an early hub for the 'New Science' and the Royal Society.
+  - Example: "what Gresham’s College was to Oxford" (Newtowne, Massachusetts Bay Colony)
+- **Trinity College, Cambridge** (`trinity-college-cambridge`) — 6 chapters
+  - The prestigious Cambridge college where Isaac Newton studied and taught, and where much of the novel's early action is set.
+  - Example: "enrolled at that old vicar-mill: Trinity College, Cambridge" (Newtowne, Massachusetts Bay Colony)
+- **Royal African Company** (`royal-african-company`) — 6 chapters
+  - A mercantile company set up by the Stuart family and London merchants to trade along the west coast of Africa, heavily involved in the gold and slave 
+  - Example: "gold that the Duke of York’s company is taking out of Africa" (Banks of the River Cam)
+- **Bethlem Royal Hospital (Bedlam)** (`bedlam`) — 4 chapters
+  - London's notorious psychiatric hospital, located at Bishopsgate during this period.
+  - Example: "lunaticks at Bedlam" (Royal Society Meeting, Gresham’s College)
+- **The CABAL** (`cabal-ministry`) — 3 chapters
+  - A group of five high-ranking ministers (Clifford, Arlington, Buckingham, Ashley, Lauderdale) who ran the government under Charles II; their initials f
+  - Example: "the news was of the doings of the CABAL" (Charing Cross)
+- **Harvard College** (`harvard-college`) — 2 chapters
+  - Established in 1636 in Cambridge (formerly Newtowne), it was the first institution of higher learning in the British North American colonies.
+  - Example: "Newtowne, where Harvard College is." (Boston Common)
+- **Gresham College** (`greshams-college`) — 2 chapters
+  - A London institution founded in 1597 that provided free public lectures; it served as the early meeting place and birthplace of the Royal Society.
+  - Example: "there was this thing down in London called Gresham’s College" (Newtowne, Massachusetts Bay Colony)
+- **The Royal Mint** (`royal-mint`) — 2 chapters
+  - The body responsible for minting Britain's coinage; Newton became Warden in 1696 and Master in 1699, taking the job very seriously.
+  - Example: "since then, it’s been toiling at the Mint" (Newtowne, Massachusetts Bay Colony)
+- **The Royal Mint** (`the-royal-mint`) — 2 chapters
+  - The institution responsible for producing coins for the United Kingdom, which was housed within the Tower of London during this period.
+  - Example: "the Tower of London where new coins are minted" (Banks of the River Cam)
+- **Montmor Academy** (`montmor-academy`) — 2 chapters
+  - A private scientific society in Paris (1654–1664) that preceded the French Academy of Sciences.
+  - Example: "Monsieur de Montmor’s salon in Paris" (The Plague Year)
+- **Dutch East India Company (VOC)** (`voc-dutch-east-india-company`) — 2 chapters
+  - The world's first formally listed public company, which dominated the spice trade and was a major rival to English commercial interests.
+  - Example: "the V.O.C.—the Dutch East India Company—was paying out a dividend of 40 percent." (Charing Cross)
+- **East India Company** (`east-india-company`) — 2 chapters
+  - The English chartered company formed to trade in the Indian Ocean region, often in direct conflict with the VOC.
+  - Example: "invest in the Dutch one... his East India Company" (Royal Society Meeting, Gresham’s College)
+- **The Royal Exchange** (`royal-exchange`) — 2 chapters
+  - The center of commerce in London where merchants and brokers traded goods and stocks.
+  - Example: "converged at the site of the Royal Exchange" (Gresham’s College, Bishopsgate, London)
+- **Bibliothèque nationale de France** (`bibliotheque-du-roi`) — 2 chapters
+  - The King's Library in Paris, which became a massive repository of knowledge under Louis XIV and his minister Colbert.
+  - Example: "read certain manuscripts in the Bibliothèque du Roi" (London Bridge)
+- **Star Chamber** (`star-chamber`) — 1 chapter
+  - An English court at the Palace of Westminster known for its secretive, arbitrary procedures and brutal corporal punishments for political dissidents.
+  - Example: "cut off in Star Chamber" (Boston Common)
+- **Oxford and Cambridge Universities** (`oxford-and-cambridge-universities`) — 1 chapter
+  - In the 17th century, these were the only two universities in England. During the Interregnum and Restoration, they were centers of intense political a
+  - Example: "Our brethren in Cambridge must know by now that I’ve been in Oxford" (1655)
+- **University of Cambridge** (`university-of-cambridge`) — 1 chapter
+  - One of the world's oldest universities and the center of English intellectual life where Newton would eventually study and teach.
+  - Example: "on his way down towards Cambridge" (1655)
+- **The Old Bailey** (`old-bailey`) — 1 chapter
+  - The central criminal court of London, famous for its high-profile trials and proximity to Newgate Prison.
+  - Example: "magistrate of the Old Bailey." (Newtowne, Massachusetts Bay Colony)
+- **Trivium and Quadrivium** (`17th-century-university-education`) — 1 chapter
+  - Cambridge and Oxford primarily functioned as seminaries for the Church of England, focusing on classical languages and theology rather than modern sci
+  - Example: "divines who were fluent in Greek and Latin and Hebrew" (College of the Holy and Undivided Trinity, Cambridge)
+- **17th Century English Law** (`restoration-legal-system`) — 1 chapter
+  - The local legal hierarchy where Justices of the Peace (unpaid gentry) handled initial criminal accusations and coroners investigated suspicious deaths
+  - Example: "show the dead body to the Justice of the Peace, and allow the coroner" (College of the Holy and Undivided Trinity, Cambridge)
+- **Academy of Monsieur du Plessis** (`academy-of-monsieur-du-plessis`) — 1 chapter
+  - A famous 17th-century Parisian riding and fencing academy where young aristocrats were trained in the 'arts of the courtier.'
+  - Example: "Academy of Monsieur du Plessis, near the Palais Cardinal" (College of the Holy and Undivided Trinity, Cambridge)
+- **Harvard College** (`harvard-college-history`) — 1 chapter
+  - Founded in 1636 to train Puritan ministers, Harvard was the intellectual center of the Massachusetts Bay Colony.
+  - Example: "What are they teaching at Harvard these days?" (Boston, Massachusetts Bay Colony)
+- **The Invisible College** (`invisible-college`) — 1 chapter
+  - A precursor to the Royal Society, consisting of a network of natural philosophers who exchanged ideas through correspondence.
+  - Example: "Hartlib, Haak, Kinner, Oldenburg—wanted to do when we conceived the Invisible Co" (Epsom)
+- **Lord Chancellor** (`lord-chancellor`) — 1 chapter
+  - The highest-ranking officer of the crown, responsible for the Great Seal and presiding over the House of Lords; a position of immense political and le
+  - Example: "Lord Chancellor of England" (Epsom)
+- **House of Stuart** (`house-of-stuart`) — 1 chapter
+  - The royal house that ruled Scotland from 1371 and England from 1603 to 1714, characterized by conflict with Parliament and religious tension.
+  - Example: "House of Stuart" (Epsom)
+- **House of Orange-Nassau** (`house-of-orange-nassau`) — 1 chapter
+  - The princely house of the Netherlands; its members often served as Stadtholders and were closely linked by marriage to the English Stuarts.
+  - Example: "House of Orange-Nassau" (Epsom)
+- **Jesuits** (`jesuits-and-science`) — 1 chapter
+  - The Society of Jesus was known for its rigorous scientific education; Newton frequently clashed with Jesuit scientists like Ignace-Gaston Pardies over
+  - Example: "imaginary Jesuits hurling Latin barbs at him" (Woolsthorpe, Lincolnshire)
+- **Holy Roman Empire** (`holy-roman-empire`) — 1 chapter
+  - A complex political entity in Central Europe that was a major, often fragmented, power during the Baroque period.
+  - Example: "toppling the Holy Roman Empire" (Charing Cross)
+- **House of Bourbon** (`house-of-bourbon`) — 1 chapter
+  - The French royal dynasty. The passage notes their complex genealogy and political influence over Europe during the reign of Louis XIV.
+  - Example: "House of Bourbon" (Royal Society Meeting, Gresham’s College)
+- **Yeomen Warders** (`yeomen-warders`) — 1 chapter
+  - The ceremonial guardians of the Tower of London, popularly known as Beefeaters.
+  - Example: "Yeoman Warder... Beefeater" (Royal Society Meeting, Gresham’s College)
+- **Yeomen Warders (Beefeaters)** (`yeomen-warders-beefeaters`) — 1 chapter
+  - The ceremonial guardians of the Tower of London, officially the Yeomen Warders, who in the 17th century served as actual prison guards and royal secur
+  - Example: "sharp-eared Beefeaters" (Royal Society Meeting, Gresham’s College)
+- **The Royal Mint** (`royal-mint-tower-of-london`) — 1 chapter
+  - The Royal Mint was located within the walls of the Tower of London from 1279 until 1810; Isaac Newton later became its Warden and Master.
+  - Example: "Half of that width was filled up by the Mint’s indifferent low houses and worksh" (Royal Society Meeting, Gresham’s College)
+- **Royal Menagerie** (`royal-menagerie`) — 1 chapter
+  - A collection of exotic animals, including lions and bears, kept at the Tower of London for public display from the 13th century until 1835.
+  - Example: "Middle Tower gave way to Lion Tower—but the King’s menagerie were all asleep" (Royal Society Meeting, Gresham’s College)
+- **Secretary of State** (`secretary-of-state`) — 1 chapter
+  - In this period, the Secretaries of State were the King's most powerful ministers, overseeing domestic security, intelligence, and foreign affairs.
+  - Example: "waving around a warrant from the Secretary of State" (Royal Society Meeting, Gresham’s College)
+- **Horse Guards** (`horse-guards`) — 1 chapter
+  - The elite cavalry regiments of the British Army that acted as the sovereign's personal bodyguard and were stationed near Whitehall.
+  - Example: "Enoch the Red said, ‘In truth, most of this urine came from the Horse Guards—and" (Royal Society Meeting, Gresham’s College)
+- **City Surveyor of London** (`city-surveyor`) — 1 chapter
+  - Following the Great Fire of 1666, Hooke was appointed as one of the surveyors responsible for measuring plots and overseeing the rebuilding of London.
+  - Example: "transact the routine business of the City Surveyor" (Gresham’s College, Bishopsgate, London)
+- **Bridewell Palace and Prison** (`bridewell`) — 1 chapter
+  - A former palace turned into a house of correction for the 'idle poor' and 'loose women,' where inmates were forced to perform hard labor like beating 
+  - Example: "could see Bridewell on the far side of it" (Gresham’s College, Bishopsgate, London)
+- **Office of Ordnance** (`office-of-ordnance`) — 1 chapter
+  - The government body based at the Tower of London responsible for the supply of artillery, weapons, and ammunition to the Navy and Army.
+  - Example: "Ordnance storehouses in the Tower" (Gresham’s College, Bishopsgate, London)
+- **Wren Library** (`wren-library`) — 1 chapter
+  - The library at Trinity College, Cambridge, designed by Christopher Wren; at the time of this scene, it was under construction (begun 1676).
+  - Example: "Trinity’s miserable wreck of a library" (Once More into the Breeches)
+- **Lucasian Professor of Mathematics** (`lucasian-chair`) — 1 chapter
+  - One of the most prestigious academic chairs in the world, established at Cambridge in 1663; Newton was the second person to hold the position.
+  - Example: "reveal the scarlet raiment of the Lucasian Professor of Mathematics" (Once More into the Breeches)
+- **Jesuit Science** (`jesuit-science`) — 1 chapter
+  - The Society of Jesus (Jesuits) were major contributors to 17th-century science, often engaging in rigorous debate with Royal Society members over opti
+  - Example: "fending off Hooke on one front, Jesuits on the other." (Once More into the Breeches)
+- **Lucasian Professor of Mathematics** (`lucasian-professor-of-mathematics`) — 1 chapter
+  - A prestigious academic chair at the University of Cambridge, established in 1663 and held first by Isaac Barrow and then Newton.
+  - Example: "residence of the Lucasian Professor of Mathematics" (Once More into the Breeches)
+- **The Royal Navy** (`royal-navy`) — 1 chapter
+  - During the late 17th century, the Royal Navy was undergoing significant professionalization and expansion while engaged in frequent conflicts with the
+  - Example: "disasters he had heard about lately aboard ships of the Royal Navy" (Once More into the Breeches)
+- **The Inquisition** (`the-inquisition`) — 1 chapter
+  - A reference to the Catholic Church's judicial system for suppressing heresy, often used in 17th-century England as a rhetorical shorthand for Catholic
+  - Example: "“Like something meted out by the Popish Inquisition?”" (Royal Society Meeting, Gunfleet House)
+- **Company of Royal Adventurers Trading into Africa** (`guinea-company`) — 1 chapter
+  - Also known as the Guinea Company, this was a chartered company set up by the Stuart family to trade in gold, ivory, and slaves; it faced financial rui
+  - Example: "shame about the Guinea Company, what?" (The City of London)
+- **Royal Observatory, Greenwich** (`royal-observatory-greenwich`) — 1 chapter
+  - Commissioned in 1675 by King Charles II, it played a major role in the history of astronomy and navigation.
+  - Example: "at the Observatory in Greenwich" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Queen Anne's Revenge** (`queen-annes-revenge`) — 1 chapter
+  - The flagship of the pirate Blackbeard, originally a French slave ship named La Concorde captured in 1717.
+  - Example: "everyone knows that Queen Anne’s Revenge is a bit crowded" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+### Works
+
+- **Mercury, or the Secret and Swift Messenger** (`mercury-secret-messenger`) — 4 chapters
+  - Though the text calls it 'Cryptonomicon' (a nod to Stephenson's other work), it refers to Wilkins's 1641 book on cryptography and linguistics.
+  - Example: "compendium of secret codes and cyphers that this chap Wilkins had written" (Boston Common)
+- **Micrographia** (`micrographia`) — 3 chapters
+  - Hooke's 1665 book 'Micrographia' was a bestseller that featured stunningly detailed copperplate illustrations of objects under magnification, includin
+  - Example: "you may look at my drawings while I satisfy the King’s curiosity." (Epsom)
+- **Euclid's Elements** (`euclids-elements`) — 2 chapters
+  - The ancient Greek treatise on geometry that served as the primary textbook for mathematics for two millennia.
+  - Example: "tell your brother to show the boy Euclid" (1655)
+- **The Pilgrim's Progress** (`the-pilgrims-progress`) — 2 chapters
+  - A 1678 Christian allegory by John Bunyan, it was one of the most significant works of religious English literature, especially among Puritans.
+  - Example: "JOHN BUNYAN, The Pilgrim’s Progress" (Boston, Massachusetts Bay Colony)
+- **Mercury, or the Secret and Swift Messenger** (`mercury-secret-swift-messenger`) — 2 chapters
+  - A 1641 book by John Wilkins on cryptography and linguistics, which was the first English-language book on the subject.
+  - Example: "Chapter Ten of your 1641 work... Wilkins explains steganography" (Royal Society Meeting, Gresham’s College)
+- **Paradise Lost** (`paradise-lost`) — 2 chapters
+  - John Milton's epic poem (1667) is frequently quoted in the novel to reflect the era's tension between religious tradition and the new 'Empiric' scienc
+  - Example: "Of sooty coal the Empiric Alchimist... —MILTON, Paradise Lost" (Once More into the Breeches)
+- **Cryptonomicon (fictional book)** (`cryptonomicon-book`) — 1 chapter
+  - A fictional book within the novel (and a reference to Stephenson's previous novel) concerning codes and hidden knowledge.
+  - Example: "pick up some copies of Cryptonomicon." (Boston Common)
+- **The Mysteries of Nature and Art by John Bate** (`mysteries-of-nature-and-art`) — 1 chapter
+  - A popular 17th-century book on mechanical devices, fireworks, and drawing that famously inspired the young Isaac Newton.
+  - Example: "Bates’s The Mysteries of Nature & Art" (1655)
+- **Principia Philosophica** (`principia-philosophica`) — 1 chapter
+  - Descartes' 1644 work which attempted to explain the laws of nature and the movement of planets through mechanical principles.
+  - Example: "Principia Philosophica, the last thing Descartes wrote before he died" (1655)
+- **The Sceptical Chymist** (`the-sceptical-chymist`) — 1 chapter
+  - Published in 1661 by Robert Boyle, this foundational text of modern chemistry attacked the old Aristotelian and alchemical views of the four elements.
+  - Example: "Wilkins was reading some proofs of Boyle’s The Skeptical Chemist" (Newtowne, Massachusetts Bay Colony)
+- **Book of Common Prayer** (`book-of-common-prayer`) — 1 chapter
+  - The foundational prayer book of the Church of England; its use was a point of major contention between Anglicans and Puritans/Dissenters.
+  - Example: "They took out the Books of Common Prayer" (College of the Holy and Undivided Trinity, Cambridge)
+- **Newton's List of Sins** (`newtons-list-of-sins`) — 1 chapter
+  - This refers to a real historical document found in Newton's notebooks where he recorded 49 sins committed before and after Whitsunday 1662.
+  - Example: "wrote Sins committed before Whitsunday 1662 and then began writing out a list" (College of the Holy and Undivided Trinity, Cambridge)
+- **Experiments and Considerations Touching Colours** (`experiments-and-considerations-touching-colours`) — 1 chapter
+  - A 1664 treatise by Robert Boyle that documented various observations on how colors change under different physical conditions.
+  - Example: "I’ve been reading Boyle’s latest—Experiments and Considerations Touching Colors" (College of the Holy and Undivided Trinity, Cambridge)
+- **The Discovery of a World in the Moone** (`the-discovery-of-a-world-in-the-moone`) — 1 chapter
+  - Wilkins wrote a famous 1638 book speculating on the habitability of the moon and the possibility of traveling there using 'flying chariots.'
+  - Example: "fly to the moon that way" (Epsom)
+- **An Essay Towards a Real Character, and a Philosophical Language** (`wilkins-real-character`) — 1 chapter
+  - John Wilkins' 1668 work attempting to create a universal language by categorizing all human knowledge into a hierarchical system.
+  - Example: "all things in Earth and Heaven can be classified into forty different genera" (Epsom)
+- **Eikonoklastes** (`eikonoklastes`) — 1 chapter
+  - A book by John Milton published in 1649, written as a justification for the execution of Charles I and a rebuttal to 'Eikon Basilike,' which portrayed
+  - Example: "Kings most commonly, though strong in legions, are but weak in Arguments... MILT" (Epsom)
+- **Biblical Prophecy** (`biblical-prophecy`) — 1 chapter
+  - The primary sources for Christian eschatology; 17th-century millenarians used these texts to calculate the date of the Second Coming.
+  - Example: "Books of Daniel and of Revelation" (Woolsthorpe, Lincolnshire)
+- **The Apotheosis of James I (Rubens Ceiling)** (`rubens-whitehall-ceiling`) — 1 chapter
+  - One of the panels in the Rubens ceiling depicts Minerva (Wisdom) defeating Ignorance and Rebellion, a potent symbol of the Divine Right of Kings.
+  - Example: "Daniel was able to look up through a window and catch a glimpse of Minerva stran" (Royal Society Meeting, Gresham’s College)
+- **Hypothesis Physica Nova** (`hypothesis-physica-nova`) — 1 chapter
+  - A 1671 work by Leibniz where he attempted to explain physical phenomena through a theory of motion and the 'ether'.
+  - Example: "Hypothesis Physica Nova" (Royal Society Meeting, Gresham’s College)
+- **Thomas Hobbes's Leviathan** (`thomas-hobbes-leviathan`) — 1 chapter
+  - A foundational work of modern political philosophy (1651) that argues for the necessity of a strong central authority to avoid the 'state of nature.'
+  - Example: "And because silver and gold have their value from the matter itself... HOBBES, L" (Royal Society Meeting, Gresham’s College)
+- **Theatrum Chemicum** (`theatrum-chemicum`) — 1 chapter
+  - A massive and influential compendium of early alchemical writings published in the 17th century.
+  - Example: "a six-volume set of Theatrum Chemicum" (Royal Society Meeting, Gresham’s College)
+- **New Atlantis** (`new-atlantis`) — 1 chapter
+  - An incomplete utopian novel by Francis Bacon (1627) that envisioned a society dedicated to scientific discovery and human knowledge.
+  - Example: "like the New Atlantis that Francis Bacon described" (Royal Society Meeting, Gunfleet House)
+- **The Pilgrim's Progress** (`pilgrims-progress`) — 1 chapter
+  - A 1678 Christian allegory by John Bunyan, written while he was imprisoned for nonconformity; it is one of the most significant works of English litera
+  - Example: "JOHN BUNYAN, The Pilgrim’s Progress" (The City of London)
+### Terms
+
+- **Dissenters** (`english-dissenters`) — 4 chapters
+  - Refers to English Protestants who separated from the Church of England; their austere lifestyle and 'probity of manners' contrasted sharply with the f
+  - Example: "The Dissenters are destitute of all decorations that can please the outward Sens" (College of the Holy and Undivided Trinity, Cambridge)
+- **Grubendol** (`grubendol`) — 3 chapters
+  - The coded correspondence name (pseudonym) used by Henry Oldenburg, the Secretary of the Royal Society, to manage international scientific mail.
+  - Example: "addressed simply “GRUBENDOL London.”" (The Plague Year)
+- **Piece of Eight** (`piece-of-eight`) — 2 chapters
+  - The Spanish Dollar was often physically cut into eight 'bits' to provide smaller denominations of change.
+  - Example: "one-eighth of a Piece of Eight, or a bit, as they are called" (Boston Common)
+- **Caduceus** (`caduceus`) — 2 chapters
+  - The staff of Hermes, featuring two snakes winding around a winged staff; it is a symbol of commerce, negotiation, and later, medicine.
+  - Example: "a hair-pin shaped like a caduceus" (Boston, Massachusetts Bay Colony)
+- **Goldsmith's Notes** (`goldsmiths-notes`) — 2 chapters
+  - A precursor to modern banknotes, these were receipts issued by goldsmiths for gold deposited with them, which began to circulate as a form of paper cu
+  - Example: "Goldsmith’s Note. People started doing this about the time you left for Cambridg" (The Plague Year)
+- **Goldsmith-Bankers** (`goldsmith-bankers`) — 2 chapters
+  - In the 17th century, London goldsmiths evolved into the first modern bankers by accepting deposits of gold and issuing receipts that functioned as ear
+  - Example: "all were goldsmiths" (The Plague Year)
+- **Goldsmith Banking** (`goldsmith-banking`) — 2 chapters
+  - In the 1660s, London goldsmiths began acting as bankers, issuing 'goldsmiths' notes' which became the earliest form of English banknotes.
+  - Example: "handling notes that serve as money" (Epsom)
+- **Beauty patches** (`beauty-patches`) — 2 chapters
+  - In the 17th century, both men and women wore 'patches' of black silk or velvet to hide smallpox scars or as a fashion statement to highlight pale skin
+  - Example: "rouged and black-patched faces of the Earl’s crowd" (Charing Cross)
+- **The Persian Vest** (`persian-vest`) — 2 chapters
+  - In 1666, Charles II introduced a new fashion—a long vest or waistcoat—intended to break the dominance of French fashion and encourage the English wool
+  - Example: "new trend in the cut of Persian vests" (Royal Society Meeting, Gresham’s College)
+- **Redcoats (Lobsterbacks)** (`redcoats`) — 1 chapter
+  - A derogatory nickname for British soldiers, referring to their red uniform coats.
+  - Example: "a squadron of lobsterbacks drills and marches" (Boston Common)
+- **Divisions of the World in Islam** (`dar-al-islam-harb-sulh`) — 1 chapter
+  - These are traditional Islamic legal and geopolitical classifications used to describe the relationship between Muslim-governed lands and the rest of t
+  - Example: "divides all the world into only three parts: their part, which is the dar al-Isl" (Boston Common)
+- **The Asiento** (`asiento`) — 1 chapter
+  - The Asiento was a monopoly contract granted by the Spanish crown to other European powers to supply enslaved Africans to Spanish colonies; Britain gai
+  - Example: "We get Gibraltar, Newfoundland, St. Kitts, and—lowering his voice —the slave tra" (Boston Common)
+- **Spanish Colonial Currency** (`spanish-colonial-currency`) — 1 chapter
+  - Spanish silver (Pieces of Eight) was the de facto global currency of the era due to the massive output of mines in the New World.
+  - Example: "The King of Spain’s coat of arms stares back at him, stamped in silver... D. G. " (Boston Common)
+- **The Broad Arrow** (`broad-arrow`) — 1 chapter
+  - A mark used by the British government to denote property (especially timber in the colonies) reserved for the use of the Royal Navy.
+  - Example: "each marked with the King’s Arrow—going to build ships for the Navy." (Boston Common)
+- **Tories** (`tories-and-whigs`) — 1 chapter
+  - One of the two main political factions in England; the term originated during the Exclusion Crisis of 1679-1681.
+  - Example: "We did not begin calling such people Tories until a good bit later" (Boston Common)
+- **Apothecaries** (`apothecaries`) — 1 chapter
+  - Medical professionals who formulated and dispensed remedies; in Grantham, Newton lodged with an apothecary named William Clarke, which exposed him to 
+  - Example: "Clarke’s apothecary shop" (1655)
+- **Broad Arrow Policy** (`broad-arrow-policy`) — 1 chapter
+  - The British Crown claimed all white pine trees above a certain size in the American colonies for use as ship masts, marking them with a 'broad arrow' 
+  - Example: "Should have gone straight to Her Majesty’s Navy." (Newtowne, Massachusetts Bay Colony)
+- **Tories** (`tories`) — 1 chapter
+  - In the late 17th century, Tories were the political faction supporting the divine right of kings and the established Anglican Church, often opposing t
+  - Example: "beyond the reach of Tories and Archbishops" (Newtowne, Massachusetts Bay Colony)
+- **Loggerhead** (`loggerhead-tool`) — 1 chapter
+  - An iron tool with a bulbous end that was heated in a fire and plunged into drinks like flip or punch to foam and caramelize the liquid.
+  - Example: "plucks a couple of loggerheads from their hooks" (Newtowne, Massachusetts Bay Colony)
+- **Baroque Music** (`baroque-music`) — 1 chapter
+  - The contrast between the formal, structured music of the European courts (like the minuet) and the folk traditions of the Irish, which were often view
+  - Example: "instead of a Baroque minuet, it is a weird keening sort of melody—an Irish tune" (Newtowne, Massachusetts Bay Colony)
+- **Esotericism and Global Trade Networks** (`seventeenth-century-esotericism`) — 1 chapter
+  - Refers to the various religious and mystical traditions that influenced early modern science and the secret communication networks used by marginalize
+  - Example: "Portuguese crypto-Kabbalists, Arabic savants... Parsees who secretly worship at " (Newtowne, Massachusetts Bay Colony)
+- **Tophet** (`tophet`) — 1 chapter
+  - A biblical term for a place of sacrifice or burning, often used as a synonym for Hell in Puritan rhetoric.
+  - Example: "sucked down into Tophet" (Newtowne, Massachusetts Bay Colony)
+- **Independents (Religion)** (`independents`) — 1 chapter
+  - A faction of Protestantism that believed individual congregations should be self-governing, opposing both the state-run Anglican Church and the Presby
+  - Example: "He called himself an Independent." (Newtowne, Massachusetts Bay Colony)
+- **Fellow-commoner** (`fellow-commoner`) — 1 chapter
+  - A wealthy category of undergraduate at Cambridge who paid high fees to dine with the Fellows of the college.
+  - Example: "fellow-commoners calling for beer" (Newtowne, Massachusetts Bay Colony)
+- **Spadroon** (`spadroon`) — 1 chapter
+  - A light, straight-edged sword used for both cutting and thrusting, common in the late 17th century as a sidearm for gentlemen.
+  - Example: "a heavier spadroon" (College of the Holy and Undivided Trinity, Cambridge)
+- **Ranters** (`ranters`) — 1 chapter
+  - A radical antinomian sect during the Interregnum known for pantheistic views and social behavior that shocked traditional Puritans.
+  - Example: "jobless Ranters, Barkers, Quakers, et cetera" (College of the Holy and Undivided Trinity, Cambridge)
+- **Quakers** (`quakers`) — 1 chapter
+  - The Religious Society of Friends, a Christian movement founded by George Fox that faced heavy persecution for refusing to swear oaths or recognize soc
+  - Example: "jobless Ranters, Barkers, Quakers, et cetera" (College of the Holy and Undivided Trinity, Cambridge)
+- **Low Church** (`low-church`) — 1 chapter
+  - A faction within the Church of England that placed less emphasis on ritual and hierarchy, favoring simpler worship and evangelical preaching.
+  - Example: "Low Church? Meaning Anglicans of a more Calvinist bent" (College of the Holy and Undivided Trinity, Cambridge)
+- **Independents (Religion)** (`independents-religion`) — 1 chapter
+  - Also known as Congregationalists, they believed each local church should be autonomous rather than part of a national hierarchy.
+  - Example: "Independents? Meaning ones who’d severed all ties with the Established Church" (College of the Holy and Undivided Trinity, Cambridge)
+- **Free Will vs Predestination** (`free-will-vs-predestination`) — 1 chapter
+  - A core theological conflict of the era: Calvinists believed in Predestination (God pre-ordains salvation), while Arminians argued for human Free Will.
+  - Example: "Am I to infer, from what you just said, that you are a Free Will man?" (Boston, Massachusetts Bay Colony)
+- **Ship of the Line** (`ship-of-the-line`) — 1 chapter
+  - The largest and most powerful type of naval warship during the age of sail, designed to fight in a 'line of battle'.
+  - Example: "boogers flicked against the planking of a Ship of the Line" (Boston, Massachusetts Bay Colony)
+- **Gebbeting** (`gibbeting`) — 1 chapter
+  - The practice of displaying the remains of executed criminals in a cage-like structure (a gibbet) as a public deterrent.
+  - Example: "corpses to be gibbeted in locked iron cages" (Boston, Massachusetts Bay Colony)
+- **Waste-Book** (`waste-book`) — 1 chapter
+  - A rough account book or journal used for temporary notes and calculations before they were transcribed into a formal ledger; Newton's 'Waste Book' is 
+  - Example: "open Waste-Book where Isaac was taking notes" (College of the Holy and Undivided Trinity, Cambridge)
+- **Gnomon** (`gnomon`) — 1 chapter
+  - The part of a sundial that casts a shadow. Newton’s dissatisfaction with the 'naïve' design reflects his obsession with precision and geometry.
+  - Example: "a gnomon angling up from the center" (College of the Holy and Undivided Trinity, Cambridge)
+- **Thaler** (`thaler`) — 1 chapter
+  - A large silver coin used throughout Europe for centuries. The name 'Joachimsthaler' comes from the silver mines in Joachimsthal; the word 'dollar' is 
+  - Example: "You intend to compensate me, then, with what—Joachimsthalers?" (Banks of the River Cam)
+- **Black Money** (`black-money`) — 1 chapter
+  - Refers to copper or highly debased silver coins that turned black as they oxidized, as opposed to 'white money' (high-purity silver).
+  - Example: "you pulled out your black money" (Banks of the River Cam)
+- **The Guinea** (`the-guinea-coin`) — 1 chapter
+  - A gold coin minted in England starting in 1663, named after the Guinea region in West Africa where much of the gold was sourced.
+  - Example: "gold CAROLUS II DEI GRATIA coin once... People have begun to call them Guineas" (Banks of the River Cam)
+- **Coin Clipping** (`coin-clipping`) — 1 chapter
+  - The illegal practice of shaving small amounts of precious metal from the edges of coins to melt down and sell, a major economic problem in the 17th ce
+  - Example: "if someone clips or files a bit of metal off the edge of a round coin" (Banks of the River Cam)
+- **Global Maritime Labor** (`lascars-and-global-seamen`) — 1 chapter
+  - Reflects the highly international nature of 18th-century crews; 'Lascars' were sailors from South Asia or the Arab world employed on European ships.
+  - Example: "a Filipino; a Lascar; a half-African, half-white from the Portuguese city of Goa" (Aboard Minerva, off the Coast of New England)
+- **Huguenots** (`huguenots`) — 1 chapter
+  - French Protestants who fled France in large numbers after the 1685 Revocation of the Edict of Nantes, often settling in England, Holland, and the Amer
+  - Example: "a Huguenot" (Aboard Minerva, off the Coast of New England)
+- **Virginal** (`virginal`) — 1 chapter
+  - A smaller, rectangular keyboard instrument of the harpsichord family, popular in the 16th and 17th centuries for domestic music-making.
+  - Example: "found Drake seated before a virginal" (The Plague Year)
+- **Star Chamber Punishments** (`star-chamber-punishments`) — 1 chapter
+  - The Court of Star Chamber often sentenced religious dissidents to have their ears cropped or faces branded (e.g., 'SL' for Seditious Libeller).
+  - Example: "pilloried, branded, and mutilated" (The Plague Year)
+- **Delftware** (`delftware`) — 1 chapter
+  - Famous Dutch tin-glazed earthenware, often blue and white, which attempted to emulate Chinese porcelain.
+  - Example: "presented Drake and his new wife, Hortense, with this set of Delft pottery" (The Plague Year)
+- **Pneuma** (`pneuma`) — 1 chapter
+  - An ancient Greek concept of 'breath' or 'spirit' used in early medical and philosophical theories to explain vital forces in the body.
+  - Example: "the pneuma that causes buboes to grow" (The Plague Year)
+- **Octavo** (`octavo-volumes`) — 1 chapter
+  - A book size created by folding a sheet of paper three times to form eight leaves; these were portable, affordable editions popular among students and 
+  - Example: "tiny student octavo volumes of the usual Continental savants" (The Plague Year)
+- **Nux Vomica** (`nux-vomica`) — 1 chapter
+  - The seeds of the Strychnine tree, used historically in medicine (and as a poison) and a common item in 17th-century cabinets of curiosities.
+  - Example: "nux vomica" (The Plague Year)
+- **Noah's Ark** (`noahs-ark-scientific-analysis`) — 1 chapter
+  - Wilkins famously attempted to calculate the exact dimensions and capacity of Noah's Ark to prove it could scientifically hold all known animal species
+  - Example: "bogged down in an endless digression on the Ark" (Epsom)
+- **Bladder Stones** (`the-stone`) — 1 chapter
+  - In the 17th century, 'the stone' (bladder or kidney stones) was a common, excruciating, and often fatal condition, frequently discussed by members of 
+  - Example: "Wilkins has the stone." (Epsom)
+- **Strappado** (`strappado`) — 1 chapter
+  - A form of torture where the victim's hands are tied behind their back and they are suspended by a rope, often resulting in dislocated shoulders.
+  - Example: "the body lifted up into the Air: STRAPPADO" (Epsom)
+- **Money-scrivener** (`money-scriveners`) — 1 chapter
+  - A precursor to modern bankers, scriveners originally wrote legal documents but evolved into financial intermediaries who brokered loans and managed es
+  - Example: "That is his money-scrivener." (Epsom)
+- **Apothecaries' system** (`units-of-measurement`) — 1 chapter
+  - Before the metric system, English scientists used various systems like Troy or Apothecaries' weight; a 'grain' was a precise unit based on the weight 
+  - Example: "Hooke called out a weight in pounds, ounces, grains, and fractions of grains" (Epsom)
+- **cochineal** (`cochineal`) — 1 chapter
+  - A vivid red dye derived from crushed insects found in the Americas, highly prized and used here to make the fluid in a thermometer visible.
+  - Example: "spirits of wine, dyed with cochineal" (Epsom)
+- **Phanatiques** (`fanatics-phanatiques`) — 1 chapter
+  - A derogatory Restoration-era term for non-conformist Protestants (like Puritans) who were viewed as religious extremists and political rebels.
+  - Example: "the son of a Phanatique?" (Epsom)
+- **Grenadiers** (`grenadiers`) — 1 chapter
+  - Specialized soldiers in the 17th and 18th centuries trained to throw early gunpowder grenades, often chosen for their height and strength.
+  - Example: "‘Twas a grenade. We have a few retired grenadiers in our number" (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **Newton Family Coat of Arms** (`newton-coat-of-arms`) — 1 chapter
+  - The actual historical crest of the Newton family, which Isaac Newton formally submitted to the College of Arms in 1705.
+  - Example: "on a blank shield, a pair of human thigh-bones crossed." (Woolsthorpe, Lincolnshire)
+- **Catholic Iconography** (`catholic-iconography`) — 1 chapter
+  - A reference to the Sacred Heart and other vivid Baroque religious art common in Catholic ('Papist') Europe, which would have seemed grotesque to Engli
+  - Example: "like certain ghastly effigies in Papist churches, with exposed bleeding hearts a" (Woolsthorpe, Lincolnshire)
+- **Firefighting in the 17th Century** (`17th-century-firefighting`) — 1 chapter
+  - During the Great Fire, the primary method to stop the spread was creating fire-breaks by demolishing houses with gunpowder.
+  - Example: "blowing up whole buildings with powder-kegs, trying to gouge fire-breaks" (Woolsthorpe, Lincolnshire)
+- **Free Coinage** (`free-coinage-act-1666`) — 1 chapter
+  - The Free Coinage Act of 1666 abolished the charge for minting gold and silver, a major shift in monetary policy.
+  - Example: "a libel attacking Free Coinage" (Woolsthorpe, Lincolnshire)
+- **Mysterium Tremendum** (`mysterium-tremendum`) — 1 chapter
+  - A Latin phrase referring to the 'overwhelming mystery' or the awe-inspiring, terrifying mystery of the divine.
+  - Example: "made him one with the Mysterium Tremendum" (Woolsthorpe, Lincolnshire)
+- **Capstan** (`capstan`) — 1 chapter
+  - A vertical-axled rotating machine used on sailing ships to multiply the pulling force of the crew for heavy tasks like weighing anchor.
+  - Example: "pursuing one another round the giant capstan on the upperdeck" (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **Messenger Cable** (`messenger-cable`) — 1 chapter
+  - Because heavy anchor cables were too thick and stiff to wind around a capstan, a smaller 'messenger' loop was used; the anchor cable was lashed to it 
+  - Example: "messenger cable—an infinite loop, passed three times round the capstan" (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **Spinoza's Philosophy** (`spinozism`) — 1 chapter
+  - Spinoza was frequently accused of atheism or pantheism because his work 'Ethics' identified God with Nature, challenging traditional religious orthodo
+  - Example: "generally more concerned with atheistical ruminations" (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **Swivel Gun** (`swivel-gun`) — 1 chapter
+  - A small, portable cannon mounted on a rotating stand, used on small boats or ship railings for close-quarters defense and anti-personnel fire.
+  - Example: "swivel-gun mounted in the whaleboat’s prow" (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **Shuttlecock** (`battledore-and-shuttlecock`) — 1 chapter
+  - An early ancestor of badminton, played with small rackets (battledores) and a feathered cork (shuttlecock).
+  - Example: "two men could play at shuttlecocks in here" (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **Wigwams** (`wigwam`) — 1 chapter
+  - Domed dwellings used by Native American tribes in the Northeast, such as the Wampanoag in the Plymouth area.
+  - Example: "wee cabins and wigwams on the hills" (Aboard Minerva, Plymouth Bay, Massachusetts)
+- **17th Century Fashion and Social Types** (`restoration-social-types`) — 1 chapter
+  - These terms describe the hyper-fashionable, often ridiculed young men of the Restoration era who obsessed over continental trends.
+  - Example: "courtiers, macaronis, swells, and fops" (Charing Cross)
+- **Origin of the Cravat** (`history-of-the-cravat`) — 1 chapter
+  - The modern necktie (cravat) originated from the neck scarves worn by Croatian mercenaries serving in the French army.
+  - Example: "Louis XIV’s Croatian mercenaries, les Cravates" (Charing Cross)
+- **Virtuoso** (`virtuoso`) — 1 chapter
+  - In the 17th century, this referred to a person with a refined interest in arts and sciences, often a gentleman-scholar or experimentalist.
+  - Example: "This Club of Vertuoso’s" (Royal Society Meeting, Gresham’s College)
+- **Tarantism** (`tarantism`) — 1 chapter
+  - A historical psychological phenomenon in Italy where victims of a spider bite were believed to need to engage in frenzied dancing (the Tarantella) to 
+  - Example: "Occasion being given to speak of tarantulas" (Royal Society Meeting, Gresham’s College)
+- **The Persian Vest** (`persian-vest-fashion`) — 1 chapter
+  - In 1666, Charles II introduced this new fashion to the English court to promote English wool and break away from French fashion trends; it is the ance
+  - Example: "dressed in a Persian vest—a heavy coatlike garment" (Royal Society Meeting, Gresham’s College)
+- **Tobacco Trade** (`virginia-tobacco`) — 1 chapter
+  - By the late 17th century, tobacco from the Virginia colony was a major English import and a staple of coffeehouse culture.
+  - Example: "Virginia tobacco in clay-pipes" (Royal Society Meeting, Gresham’s College)
+- **Ravens of the Tower of London** (`tower-ravens`) — 1 chapter
+  - Legend holds that if the ravens ever leave the Tower, the Kingdom will fall; they have been kept there for centuries.
+  - Example: "A raven perched on a gargoyle and screeched “Cromwell!”" (Royal Society Meeting, Gresham’s College)
+- **House of Office** (`house-of-office`) — 1 chapter
+  - A common 17th-century euphemism for a toilet or latrine.
+  - Example: "Viscount Walbrook got up, as if to use the House of Office" (Royal Society Meeting, Gresham’s College)
+- **Punchinello** (`punchinello`) — 1 chapter
+  - A humpbacked, hooked-nose character from the Italian commedia dell'arte, known in England as the basis for 'Punch' in Punch and Judy.
+  - Example: "tottering Punchinello silhouette of his host" (Royal Society Meeting, Gresham’s College)
+- **Presbyterians** (`presbyterians`) — 1 chapter
+  - A branch of Reformed Protestantism; in this era, they were often associated with Scottish political interests and opposition to the Anglican religious
+  - Example: "That would only give the Presbyterians ideas!" (Royal Society Meeting, Gresham’s College)
+- **18th-century rigging maintenance** (`worm-parcel-and-serve`) — 1 chapter
+  - These are specific nautical techniques used to protect hemp ropes from rot and chafe: 'worming' fills the grooves, 'parceling' wraps the rope in canva
+  - Example: "worming, parceling, serving, tarring, and splicing her infinite network of hempe" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Early modern naval artillery tools** (`naval-gunnery-tools`) — 1 chapter
+  - These are the specialized tools of a master gunner: lin-stocks held the slow-burning match, quoins were wooden wedges for aiming, and worming-irons cl
+  - Example: "lin-stocks, quoins, gunner’s picks, and worming-irons" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Sabot** (`sabot-artillery`) — 1 chapter
+  - A sabot is a wooden base attached to a projectile to help it fit snugly in the bore of a cannon, improving the force of the gunpowder blast.
+  - Example: "whittle and file round blocks of wood, called sabots" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Sailing rigs** (`square-vs-fore-and-aft-rig`) — 1 chapter
+  - Square-rigged ships were faster when sailing with the wind behind them, while fore-and-aft rigged ships (like sloops) could sail much closer to the di
+  - Example: "his ships are fore-and-aft rigged... our dear Minerva, a square-rigger" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Blunderbuss** (`blunderbuss`) — 1 chapter
+  - A short-barreled firearm with a flared muzzle, designed to scatter shot at close range, making it a common defensive weapon on ships.
+  - Example: "firing out of a blunderbuss" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Lithotomy** (`cutting-for-the-stone`) — 1 chapter
+  - A dangerous and painful surgical procedure to remove bladder stones. Samuel Pepys famously survived this operation in 1658 and kept the stone as a sou
+  - Example: "Once a man’s been cut for the stone" (Gresham’s College, Bishopsgate, London)
+- **Lithotomy** (`lithotomy`) — 1 chapter
+  - A surgical procedure to remove bladder stones. In the 17th century, this was performed without anesthesia and carried a high mortality rate, making it
+  - Example: "allow himself to be cut for the stone" (Gresham’s College, Bishopsgate, London)
+- **Demilune** (`fortification-terminology`) — 1 chapter
+  - A crescent-shaped outwork in a fortification, designed to protect the curtain wall and the shoulders of the bastions.
+  - Example: "demilune work" (Gresham’s College, Bishopsgate, London)
+- **Seditious Libel** (`seditious-libel`) — 1 chapter
+  - In the 17th century, seditious libel was a criminal offense involving the publication of material that brought the government or monarch into disreput
+  - Example: "pronounced guilty of being a Seditious Libeller" (Gresham’s College, Bishopsgate, London)
+- **Jesuits** (`jesuits`) — 1 chapter
+  - Members of the Society of Jesus, often stereotyped in Protestant England as being masters of overly complex, deceptive, or 'casuistic' theological arg
+  - Example: "a question for Jesuits" (Gresham’s College, Bishopsgate, London)
+- **17th-century Libels and Pamphleteering** (`libels-and-pamphlets`) — 1 chapter
+  - The 1670s saw a massive rise in anonymous, often scurrilous political literature used to sway public opinion against the monarchy or religious groups.
+  - Example: "tearing open the wrapper on a sheaf of libels" (Gresham’s College, Bishopsgate, London)
+- **Starlings of London Bridge** (`starlings-of-london-bridge`) — 1 chapter
+  - Starlings were large, boat-shaped wooden frames filled with stone built around the bridge piers for protection. They restricted water flow so severely
+  - Example: "the sluice between the starlings—the snowshoe-like platforms of rubble that serv" (London Bridge)
+- **Kabbalah** (`kabbalah`) — 1 chapter
+  - An esoteric method and school of thought in Jewish mysticism; Hooke is using it here as a metaphor for finding hidden, mystical meanings where none ex
+  - Example: "like Rabbis find out Cabalism, and ænigmas in the Figure" (London Bridge)
+- **Substantial Form** (`substantial-forms`) — 1 chapter
+  - An Aristotelian concept that the 'form' or 'essence' of a thing gives it its properties; Leibniz and other moderns were moving toward 'Mechanism' (phy
+  - Example: "put aside the old doctrine of substantial forms" (London Bridge)
+- **Tetanus** (`lockjaw-tetanus`) — 1 chapter
+  - Commonly known as lockjaw, tetanus was a frequent and fatal infection in the 18th century, often caused by wounds from rusty metal or soil-contaminate
+  - Example: "It’d be certain death from lockjaw." (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Caltrops** (`caltrops`) — 1 chapter
+  - Anti-personnel weapons made of four sharp spikes arranged so that one always points upward; they were used in naval warfare to maim barefoot pirates a
+  - Example: "“Caltrops away!” says someone, and boys with sacks lunge toward the open gunport" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Powder Monkey** (`powder-monkey`) — 1 chapter
+  - A term for young boys on warships whose primary job was to carry gunpowder from the magazine to the cannons during battle.
+  - Example: "spry as any eight-year-old powder monkey" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Sloop** (`sloop`) — 1 chapter
+  - A small, fast, highly maneuverable sailing vessel with a single mast, favored by pirates for its ability to navigate shallow waters and outrun larger 
+  - Example: "But it’s the pirate-sloop, not Minerva, that’s on fire." (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Tumblehome** (`tumblehome`) — 1 chapter
+  - A design feature of wooden warships where the hull narrows above the waterline, making it harder for enemies to board and improving the ship's stabili
+  - Example: "no longer eclipsed by the hull’s tumblehome" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Baroque** (`baroque-style`) — 1 chapter
+  - The ornate, highly decorative, and theatrical style of architecture, art, and music that flourished in Europe from the early 17th century to the mid-1
+  - Example: "Thomas More Anglesey, Duke of Gunfleet... in the barock style." (Royal Society Meeting, Gunfleet House)
+- **Elixir Proprietatis** (`elixir-proprietatis`) — 1 chapter
+  - A famous alchemical medicine originally attributed to Paracelsus, consisting of aloes, myrrh, and saffron dissolved in alcohol; LeFebure's version oft
+  - Example: "“The Elixir Proprietalis LeFebure is greatly admired at Court”" (Royal Society Meeting, Gunfleet House)
+- **Erebus** (`erebus`) — 1 chapter
+  - In Greek mythology, a personification of darkness and a region of the underworld; the Furies (Erinyes) were deities of vengeance who resided there.
+  - Example: "rushing up out of Erebus to goad men unto madness" (Royal Society Meeting, Gunfleet House)
+- **Hooke's Medical Regimen** (`hookes-health`) — 1 chapter
+  - Robert Hooke was a notorious hypochondriac who recorded his constant self-medication and use of emetics in his diaries.
+  - Example: "inserted the whalebone deep into his throat—wiggled it—and immediately began to " (Royal Society Meeting, Gunfleet House)
+- **Dissidents (Nonconformists)** (`english-dissidents`) — 1 chapter
+  - Protestants who drifted from the established Church of England (Anglicans), including Puritans, Quakers, and Baptists, often facing legal persecution.
+  - Example: "higher than usual number of Dissident, and even a few Anglican, preachers." (Royal Society Meeting, Gunfleet House)
+- **Freedom of Conscience** (`freedom-of-conscience`) — 1 chapter
+  - A central 17th-century debate regarding the right of an individual to follow their own religious beliefs without state interference or persecution.
+  - Example: "prate about Freedom of Conscience!" (Royal Society Meeting, Gunfleet House)
+- **Drogues** (`drogues`) — 1 chapter
+  - Devices towed behind a vessel to produce drag; in this context, they are used as a ruse to make a fast ship appear slow and lure victims into a trap.
+  - Example: "perhaps she has thrown out drogues, and that is why she wallows along so pitiabl" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **The Aegis** (`the-aegis`) — 1 chapter
+  - In Greek mythology, the Aegis is the shield or breastplate of Athena; here it serves as the emblem for the Minerva, named after the Roman equivalent o
+  - Example: "a Dutch flag, and below it, a smaller one depicting the Ægis" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Nailing colors to the mast** (`nailing-colors-to-the-mast`) — 1 chapter
+  - A defiant naval tradition where a captain nails his flag to the mast to signal that the ship will never surrender, as the flag cannot be lowered.
+  - Example: "drive them through the hem of each flag into the wood of the mast" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+- **Naval Gunpowder Management** (`naval-gunpowder-management`) — 1 chapter
+  - The transition from loose powder to pre-measured cartridges (bags) was a significant safety and efficiency innovation in 17th-century naval warfare.
+  - Example: "magazine of one of His Majesty’s Ships of War" (The City of London)
+- **Davy Jones's Locker** (`davy-jones-locker`) — 1 chapter
+  - An idiom for the bottom of the sea; Roger is euphemistically stating that the powder bags were lost at sea or sunk.
+  - Example: "found their way into David Jones’s Magazine" (The City of London)
+- **Early Contraception** (`early-contraception`) — 1 chapter
+  - A reference to early condoms made from animal intestines (sheepgut), which were used in the 17th century primarily to prevent the spread of syphilis.
+  - Example: "Ten inches of sheepgut with a knot in one end" (The City of London)
+- **Dysentery (The Bloody Flux)** (`dysentery-bloody-flux`) — 1 chapter
+  - A common and often fatal period term for dysentery, characterized by severe diarrhea with blood.
+  - Example: "during an attaque of the bloody phlux" (The City of London)
+- **Arianism** (`arianism`) — 1 chapter
+  - A theological belief that denied the divinity of Jesus Christ; in this era, it was considered a dangerous heresy and was a secret belief held by some 
+  - Example: "outlawed certain extreme heretics, such as Arians who didn’t believe in the Trin" (The City of London)
+- **Early Condoms** (`history-of-condoms`) — 1 chapter
+  - In the 17th century, 'sausage-casings' or 'sheaths' made of animal intestines (sheep or goat) were used primarily to prevent venereal disease and, as 
+  - Example: "sausage-casings in a bedchamber... ten inches of knotted sheepgut" (The City of London)
+- **Sailing Large** (`sailing-large`) — 1 chapter
+  - A nautical term for sailing with the wind blowing from behind the widest part of the ship, allowing for maximum speed and efficiency.
+  - Example: "she begins the passage to the Old World sailing large before a quartering wind" (Aboard Minerva, Cape Cod Bay, Massachusetts)
+### Places
+
+- **Woolsthorpe Manor** (`woolsthorpe-manor`) — 3 chapters
+  - Newton's family home in Lincolnshire, where he famously retreated during the Great Plague and performed his most significant work on calculus, optics,
+  - Example: "Newton would not have to go back home to Woolsthorpe" (Aboard Minerva, Massachusetts Bay)
+- **Whitehall Palace** (`whitehall-palace`) — 3 chapters
+  - The main residence of the English monarchs in London from 1530 until 1698, when it was mostly destroyed by fire.
+  - Example: "Whitehall Palace" (Charing Cross)
+- **St Paul's Cathedral** (`st-pauls-cathedral`) — 2 chapters
+  - The medieval cathedral was destroyed in the Great Fire; Christopher Wren spent decades designing and building the iconic domed replacement.
+  - Example: "once and future St. Paul’s, now a moraine of blackened stones" (Gresham’s College, Bishopsgate, London)
+- **The Dutch Republic** (`dutch-republic`) — 1 chapter
+  - A major 17th-century European power known for its religious tolerance, maritime trade, and scientific advancement during its 'Golden Age.'
+  - Example: "spent rather a lot of time in the Dutch Republic" (College of the Holy and Undivided Trinity, Cambridge)
+- **London Bridge** (`old-london-bridge`) — 1 chapter
+  - The medieval bridge was a crowded street of shops and houses; the nursery rhyme refers to its frequent need for repair and the fire hazards it posed.
+  - Example: "London Bridge is falling down, falling down, falling down" (Boston, Massachusetts Bay Colony)
+- **The Guinea Coast** (`guinea-coast-slave-trade`) — 1 chapter
+  - A region in West Africa that was a major hub for the Atlantic slave trade during the 17th and 18th centuries.
+  - Example: "taken, in chains, off the coast of Guinea" (Boston, Massachusetts Bay Colony)
+- **Leiden** (`leiden-pilgrims`) — 1 chapter
+  - A Dutch city that served as a refuge for English Separatists (Pilgrims) before many of them departed for America on the Mayflower.
+  - Example: "the town of Leyden was crowded with English pilgrims" (The Plague Year)
+- **St Lawrence Jewry** (`st-lawrence-jewry`) — 1 chapter
+  - A prominent guild church in the City of London where John Wilkins served as vicar.
+  - Example: "St. Lawrence Jewry" (The Plague Year)
+- **Inigo Jones's Portico** (`old-st-pauls-cathedral`) — 1 chapter
+  - The 'Old' St. Paul's Cathedral featured a famous classical portico designed by architect Inigo Jones, which stood in stark contrast to the medieval Go
+  - Example: "newfangled Classical porch slapped onto it some three or four decades ago" (The Plague Year)
+- **Roman London (Londinium)** (`roman-london`) — 1 chapter
+  - The passage references the Roman origins of London; the Governor's Palace was a massive complex located near modern Cannon Street station.
+  - Example: "spilled into the Thames at the Provincial Governor’s Palace" (The Plague Year)
+- **The New Exchange** (`new-exchange`) — 1 chapter
+  - A popular 17th-century shopping arcade in London known for luxury goods, fashion, and social posturing.
+  - Example: "at the New Exchange, just a stone’s throw up the Strand" (Charing Cross)
+- **Tyburn** (`tyburn`) — 1 chapter
+  - Tyburn was London's primary location for public executions; it was also a common spot for duels due to its open space at the edge of the city.
+  - Example: "Meet me tomorrow morning at Tyburn." (Charing Cross)
+- **St. James’s Palace** (`st-jamess-palace`) — 1 chapter
+  - The senior royal palace in London; it became the principal residence of the monarch after the Palace of Whitehall burned down, but was already a major
+  - Example: "St. James’s Palace" (Royal Society Meeting, Gresham’s College)
+- **Holbein Gate** (`holbein-gate`) — 1 chapter
+  - A monumental gateway built in 1532 at the Palace of Whitehall. It survived the Great Fire but was eventually demolished in 1759 to widen the road.
+  - Example: "They drove directly towards the Holbein Gate, which was a four-turreted Gothic c" (Royal Society Meeting, Gresham’s College)
+- **Banqueting House, Whitehall** (`banqueting-house`) — 1 chapter
+  - The only major remaining component of Whitehall Palace, designed by Inigo Jones. Its ceiling features a famous series of paintings by Peter Paul Ruben
+  - Example: "the Banqueting House, a giant white stone snuff-box of a building... buxom godde" (Royal Society Meeting, Gresham’s College)
+- **Billingsgate Market** (`billingsgate-market`) — 1 chapter
+  - London's principal wholesale fish market, famous for its bustling trade and the notoriously foul language of its 'fishwives'.
+  - Example: "It’s like selling fish at Billingsgate" (Royal Society Meeting, Gresham’s College)
+- **Mughal Empire** (`mughal-empire`) — 1 chapter
+  - The wealthy empire ruling most of India; it was a primary destination for European silver in exchange for spices, textiles, and tea.
+  - Example: "stops in the Orient, in the vaults of the Great Mogul" (Royal Society Meeting, Gresham’s College)
+- **The Monument to the Great Fire of London** (`the-monument`) — 1 chapter
+  - A Doric column designed by Wren and Hooke that also served as a giant zenith telescope for scientific observations.
+  - Example: "Hooke and Wren could build a monument there" (Gresham’s College, Bishopsgate, London)
+- **Monument to the Great Fire of London** (`monument-to-the-great-fire`) — 1 chapter
+  - A Doric column in London built between 1671 and 1677 to commemorate the Great Fire and celebrate the city's rebuilding.
+  - Example: "save a few special plots such as the Monument site" (Gresham’s College, Bishopsgate, London)
+- **Spanish Netherlands** (`spanish-netherlands`) — 1 chapter
+  - A collection of Holy Roman Empire states in the Low Countries held in personal union by the Spanish Crown; it was a frequent battleground between Fran
+  - Example: "the Spanish Netherlands!" (Gresham’s College, Bishopsgate, London)
+- **Republic of Venice** (`republic-of-venice`) — 1 chapter
+  - In the 17th century, Venice was famous for its decadence, opera, and sophisticated (often scandalous) social life, making it a popular destination for
+  - Example: "Venetian finishing-school" (Once More into the Breeches)

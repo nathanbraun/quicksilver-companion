@@ -1,0 +1,76 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import { getChapterForPage } from '../../utils/chapters';
+import { getPrevNextPages, getAnnotationPages } from '../../utils/navigation';
+
+export async function getStaticPaths() {
+  const annotations = await getCollection('annotations');
+  const pages = [...new Set(annotations.map(a => a.data.page))];
+  return pages.map(page => ({ params: { page: String(page) } }));
+}
+
+const { page } = Astro.params;
+const pageNum = parseInt(page!);
+
+const annotations = await getCollection('annotations');
+const pageAnnotations = annotations.filter(a => a.data.page === pageNum);
+
+if (pageAnnotations.length === 0) {
+  return Astro.redirect('/');
+}
+
+const chapter = getChapterForPage(pageNum);
+const { prev, next } = await getPrevNextPages(pageNum);
+
+// Render the annotation content
+const rendered = await Promise.all(
+  pageAnnotations.map(async (ann) => {
+    const { Content } = await render(ann);
+    return { data: ann.data, Content };
+  })
+);
+---
+
+<BaseLayout title={`Page ${pageNum}`}>
+  <div class="content-narrow">
+    {chapter && (
+      <div class={`chapter-context book-${chapter.book}`}>
+        <span class="chapter-context-item">
+          <span class="chapter-context-label">Book {chapter.book}:</span>
+          <a href={`/book/${chapter.book}`}>{chapter.book_title}</a>
+        </span>
+        <span class="chapter-context-item">
+          <span class="chapter-context-label">Chapter p.{chapter.page}:</span>
+          {chapter.location}
+        </span>
+        <span class="chapter-context-item">
+          <span class="chapter-context-label">Date:</span>
+          {chapter.date}
+        </span>
+      </div>
+    )}
+
+    <h1>Page {pageNum}</h1>
+
+    {rendered.map(({ data, Content }) => (
+      <article class="annotation-content">
+        <Content />
+        {data.original_authors.length > 0 && (
+          <p style="font-size: 0.8rem; color: var(--color-text-muted); margin-top: 1.5rem;">
+            Original annotations by: {data.original_authors.join(', ')}
+          </p>
+        )}
+      </article>
+    ))}
+
+    <nav class="prev-next">
+      {prev ? (
+        <a href={`/page/${prev}`}>&larr; Page {prev}</a>
+      ) : <span class="prev-next-placeholder" />}
+      {next ? (
+        <a href={`/page/${next}`} class="next">Page {next} &rarr;</a>
+      ) : <span class="prev-next-placeholder" />}
+    </nav>
+  </div>
+</BaseLayout>

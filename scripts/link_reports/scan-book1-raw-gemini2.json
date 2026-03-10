@@ -1,0 +1,3306 @@
+[
+  {
+    "quote": "Jack Ketch stands there, elbows locked, for all the world like a carpenter",
+    "subject": "Jack Ketch",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "jack-ketch",
+    "note": "Jack Ketch was a famous English executioner, known for his brutality and association with public executions. Knowing this adds context to the description.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "diversions of a London hanging: no catcalls, jugglers, or pickpockets",
+    "subject": "London hanging",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "public-executions-in-london",
+    "note": "Public executions in London were major public events, often attracting large crowds and various forms of entertainment. Understanding this contrast highlights the more somber nature of the Boston hanging.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "squadron of lobsterbacks drills and marches round the base of a hummock",
+    "subject": "lobsterbacks",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "lobsterbacks",
+    "note": "\"Lobsterbacks\" was a common nickname for British soldiers, derived from the red coats they wore. Knowing this identifies the soldiers' allegiance.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "On Sir Isaac Newton\u2019s temperature scale, where freezing is zero",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "Newton devised his own temperature scale. This is a reference to his wide-ranging scientific pursuits.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "If Herr Fahrenheit were here with one of his new quicksilver-filled",
+    "subject": "Fahrenheit",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "daniel-gabriel-fahrenheit",
+    "note": "Daniel Gabriel Fahrenheit was a physicist who invented the mercury-in-glass thermometer and the Fahrenheit scale. This is a reference to the development of accurate temperature measurement.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "flasks of quicksilver",
+    "subject": "quicksilver",
+    "type": "term",
+    "existing_topic": "quicksilver-mercury",
+    "note": "Quicksilver is another name for the element mercury, which was used in scientific experiments and alchemical practices. Knowing this helps understand the contents of Enoch's saddlebags.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "occult symbols of Alchemists and Kabalists",
+    "subject": "alchemy",
+    "type": "term",
+    "existing_topic": "Alchemy",
+    "note": "Alchemy was a proto-scientific tradition that combined philosophy, mysticism, and chemistry. Kabbalah is a mystical interpretation of the Hebrew Bible. Understanding these contexts helps interpret the nature of Enoch's books.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "French or Spanish galleons that might trespass on the bay",
+    "subject": "Spanish galleons",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "spanish-galleon",
+    "note": "Spanish galleons were armed sailing ships used by the Spanish Empire from the 15th to 18th centuries. They were a key part of Spain's naval power and trade. This reference highlights the ongoing threat of naval conflict.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "Cartesian number-line\u2014what Leibniz would call the Ordinate",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "Leibniz was a prominent German polymath and philosopher who developed calculus independently of Newton. The reference to the 'Ordinate' connects to his mathematical work and the development of coordinate systems.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "Slavers, merchants of rum and molasses and tea and tobacco",
+    "subject": "Slave trade",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "atlantic-slave-trade",
+    "note": "The reference to 'slavers' and the mention of rum, molasses, tea, and tobacco are all tied to the Atlantic slave trade. A brief explanation of the trade's structure and its impact on the Americas, Europe, and Africa would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Back in America and among Puritans",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "Puritans",
+    "note": "The Puritans were a significant religious group in colonial America. Providing context on their beliefs, social structure, and influence in New England would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Back in England, where Puritans are a memory of a bygone age",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "Puritans",
+    "note": "This highlights the changing status of Puritans in England vs. America. Some context on the decline of Puritan influence in England after the Restoration would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "A Peace has been signed at Utrecht",
+    "subject": "Treaty of Utrecht",
+    "type": "event",
+    "existing_topic": "Treaty of Utrecht",
+    "note": "The Treaty of Utrecht was a series of treaties that ended the War of the Spanish Succession. A brief explanation of the treaty's terms and significance would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "France gets Spain. Austria gets the Spanish Netherlands.",
+    "subject": "War of the Spanish Succession",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "war-of-the-spanish-succession",
+    "note": "This refers to the War of the Spanish Succession. A summary of the causes, major players, and consequences of the war would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "We get Gibraltar, Newfoundland, St. Kitts, and\u2014",
+    "subject": "Gibraltar, Newfoundland, St. Kitts",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "gibraltar-newfoundland-st-kitts",
+    "note": "These are territories acquired by Great Britain as a result of the Treaty of Utrecht. A brief explanation of their strategic and economic importance would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "the slave trade...the Asiento",
+    "subject": "Asiento",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "asiento",
+    "note": "The Asiento was a contract granted by the Spanish crown to foreign powers for the right to provide African slaves to Spanish colonies. Explaining its significance in the context of the slave trade would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "The War of the Spanish Succession...King Carlos the Sufferer",
+    "subject": "Carlos II of Spain",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "carlos-ii-of-spain",
+    "note": "Carlos II's lack of an heir triggered the War of the Spanish Succession. A brief overview of his reign and the succession crisis would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "The Glorious Revolution!",
+    "subject": "Glorious Revolution",
+    "type": "event",
+    "existing_topic": "Glorious Revolution",
+    "note": "The Glorious Revolution was a pivotal event in English history. Providing context on its causes, key figures, and consequences would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "William and Mary!",
+    "subject": "William and Mary",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "william-iii-and-mary-ii",
+    "note": "William and Mary were the joint monarchs who replaced James II after the Glorious Revolution. A brief overview of their reign and their significance in English history would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "The Civil War",
+    "subject": "English Civil War",
+    "type": "event",
+    "existing_topic": "English Civil War",
+    "note": "The English Civil War was a series of conflicts that led to the execution of Charles I and the establishment of the Commonwealth. Providing context on its causes, key figures, and consequences would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "the Restoration",
+    "subject": "Restoration",
+    "type": "event",
+    "existing_topic": "Restoration London",
+    "note": "The Restoration refers to the return of the monarchy in England after the Interregnum. Providing context on its causes, key figures, and consequences would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Archbishop Laud",
+    "subject": "William Laud",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "william-laud",
+    "note": "William Laud was the Archbishop of Canterbury under Charles I. He was a key figure in the religious tensions that led to the English Civil War. A brief overview of his role and his policies would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Charles the First...in Charing Cross",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "Charles I",
+    "note": "Charles I was the King of England whose execution marked a turning point in English history. Providing context on his reign, his conflicts with Parliament, and his execution would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Cromwell",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "Oliver Cromwell",
+    "note": "Oliver Cromwell was a key figure in the English Civil War and the subsequent Commonwealth. Providing context on his role and his policies would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "grammar school",
+    "subject": "Grammar school",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "grammar-school",
+    "note": "Grammar schools in this period were secondary schools focused on classical education. A brief explanation of their curriculum and social role would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "He watched the head of King Charles the First being chopped off.",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "suggested_slug": null,
+    "note": "Charles I was King of England, Scotland, and Ireland. His execution in 1649 was a pivotal event in English history.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Archbishop Laud had caused his ears and his nose to be cut off in Star Chamber",
+    "subject": "Star Chamber",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "star-chamber",
+    "note": "The Star Chamber was an English court of law that became notorious for its secret and arbitrary proceedings, often used by Charles I to suppress dissent.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "the one I seek had an excellent view of the beheading, for he was sitting upon his father\u2019s shoulders.",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "suggested_slug": null,
+    "note": "Puritans were a religious group who sought to purify the Church of England. They played a significant role in the English Civil War and the colonization of America.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "the coins that are being stamped out by Sir Isaac Newton in the Royal Mint at the Tower of London.",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Isaac Newton was a highly influential physicist, mathematician, and natural philosopher. He served as Warden and Master of the Royal Mint.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "the Royal Mint at the Tower of London.",
+    "subject": "Royal Mint",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "royal-mint",
+    "note": "The Royal Mint is the official mint of the United Kingdom, responsible for producing coins. Its location at the Tower of London has historical significance.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "The only coinage here is Spanish\u2014the same coins that are changing hands, at this moment, in Lima, Manila, Macao, Goa, Bandar Abbas, Mocha, Cairo, Smyrna, Malta, Madrid, the Canary Islands, Marseilles.",
+    "subject": "Spanish Coinage",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "spanish-coinage",
+    "note": "The reference is to the widespread use of Spanish silver coins (especially the 'Piece of Eight') in international trade during this period. It highlights Spain's global economic influence.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "one-eighth of a Piece of Eight, or a bit, as they are called.",
+    "subject": "Piece of Eight",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "piece-of-eight",
+    "note": "A 'Piece of Eight' was a Spanish silver coin worth 8 reales, commonly used in international trade. A 'bit' was one-eighth of the coin.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Caribbean to go a-pirating on the Spanish Main.",
+    "subject": "Pirates",
+    "type": "term",
+    "existing_topic": "pirates",
+    "suggested_slug": null,
+    "note": "The 'Spanish Main' refers to the mainland coast of the Americas bordering the Caribbean Sea, a region known for piracy and Spanish colonial activity.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "The ferryman\u2019s hefty Africans pace short reciprocating arcs on the deck",
+    "subject": "Slavery",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "atlantic-slave-trade",
+    "note": "The presence of African slaves highlights the transatlantic slave trade and its impact on colonial societies. The branding of the King of Spain's arms indicates their origin and ownership.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "tracing out fading and flattening conic sections that Sir Isaac could probably work out in his head.",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "This refers to Newton's mathematical abilities and his work on conic sections, which are geometric shapes formed by the intersection of a plane and a cone.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "The Hypothesis of Vortices is pressed with many difficulties.",
+    "subject": "Hypothesis of Vortices",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "vortex-theory-of-gravity",
+    "note": "The 'Hypothesis of Vortices' refers to Descartes' theory of gravity, which posited that celestial bodies were caught in a system of swirling vortices. Newton's theory of universal gravitation eventually replaced it.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "The slave is very dark, and the arms of the King of Spain are branded into his left shoulder, and so he is probably Angolan.",
+    "subject": "Angola",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "angola-and-the-slave-trade",
+    "note": "Angola was a major source of slaves for the transatlantic slave trade, particularly to Spanish colonies. The branding indicates the slave's origin and ownership.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "abducted by Africans fiercer than he, chained up in a hole in Luanda",
+    "subject": "Luanda",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "luanda",
+    "note": "Luanda was a major port city in Angola and a key hub for the transatlantic slave trade.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "his brethren in London (and that is a very good assumption)",
+    "subject": "religious conflict in London",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "religious-conflict-london-1600s",
+    "note": "This alludes to the ongoing religious tensions and conflicts in London during this period, particularly between Puritans and the established Church of England. Some context on the political and social climate would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "the Pool of London",
+    "subject": "Pool of London",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "pool-of-london",
+    "note": "The Pool of London was a stretch of the River Thames in London, serving as a major port. Some context on its importance as a center of trade and shipping would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "thousands of slaves\u2014some Irish, the rest Angolan",
+    "subject": "Irish slavery",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "irish-indentured-servitude",
+    "note": "The passage mentions Irish slaves alongside Angolan slaves. Providing context on the history of Irish indentured servitude and its relationship to African slavery in the Americas would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Lobsterbacks tromping after them",
+    "subject": "Lobsterbacks",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "lobsterbacks",
+    "note": "\"Lobsterbacks\" was a common nickname for British soldiers, referring to their red coats. A brief explanation of the term would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "halcyon days of Cathedral-sacking and King-killing",
+    "subject": "English Civil War",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "note": "This refers to the English Civil War and the execution of Charles I. Some context on the events and the role of radical Puritan factions would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Some would say it\u2019s the unnatural philosophers that are to blame for Protestants fighting Protestants in England and Catholics everywhere else.",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "note": "This is a reference to the perception that new scientific ideas were undermining traditional religious beliefs and contributing to conflict. Some context on the relationship between natural philosophy and religion in the 17th century would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "As when your own Judges finally went up to Salem and pointed out that the people there were going crazy.",
+    "subject": "Salem Witch Trials",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "salem-witch-trials",
+    "note": "This refers to the Salem Witch Trials. Some context on the events, the accusations of witchcraft, and the eventual intervention of authorities would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Sir Isaac\u2014who is the President of the Royal Society",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "This refers to Isaac Newton, who was later President of the Royal Society. Some context on his scientific achievements and his role in the Royal Society would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "the King\u2019s Arrow\u2014going to build ships for the Navy",
+    "subject": "King's Arrow",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "king's-arrow",
+    "note": "The King's Arrow was a mark used to identify trees reserved for the Royal Navy. A brief explanation of its purpose and significance would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "all the way to Newtowne, where Harvard College is",
+    "subject": "Harvard College",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "harvard-college",
+    "note": "Harvard College was a relatively new institution at this time. Some context on its founding, purpose, and early curriculum would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "last year\u2019s London mode",
+    "subject": "London fashion",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "london-fashion-17th-century",
+    "note": "This refers to the latest fashions from London. Some context on the styles and trends of the time would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Some of them have a dour Puritan look about them",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "note": "This refers to the Puritan influence in the Massachusetts Bay Colony. Some context on their beliefs and social customs would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "They guess that he has come on some Alchemical errand",
+    "subject": "alchemy",
+    "type": "science",
+    "existing_topic": "alchemy",
+    "note": "This refers to the practice of alchemy. Some context on its goals, methods, and place in the intellectual landscape of the time would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "primum mobile",
+    "subject": "Primum Mobile",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "primum-mobile",
+    "note": "Primum mobile is a term from Aristotelian cosmology, referring to the outermost sphere that drives the motion of all other spheres. A brief explanation of its meaning and significance would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "vis viva is conducted into Dr. Waterhouse\u2019s gear-boxes",
+    "subject": "vis viva",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "vis-viva",
+    "note": "The term 'vis viva' (living force) was a precursor to the concept of kinetic energy. Understanding its historical context in the development of physics is helpful.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "He\u2019s not entirely satisfied with Harvard College then!?",
+    "subject": "Harvard College",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "harvard-university-history",
+    "note": "A brief overview of Harvard's founding and status in the late 17th/early 18th century would provide context for its role in colonial intellectual life.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "He is a Fellow of the Royal Society!",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "note": "Knowing the Royal Society's role in promoting scientific inquiry and its membership criteria would add depth to the scene.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "fallen quite under the spell of Herr Leibniz",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "A brief overview of Leibniz's philosophical and scientific contributions, especially his work on calculus and metaphysics, is relevant here.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "him that stole the calculus from Sir Isaac",
+    "subject": "calculus",
+    "type": "science",
+    "existing_topic": "calculus-priority-dispute",
+    "note": "This refers to the famous priority dispute between Newton and Leibniz over the invention of calculus. Understanding the controversy is crucial.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "like Leibniz, is infected with Metaphysickal thinking",
+    "subject": "Metaphysickal thinking",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "metaphysics-17th-century",
+    "note": "In this context, 'metaphysical thinking' refers to a style of philosophical inquiry that the Royal Society was reacting against. A brief explanation of the term's negative connotation at the time would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "a Mill\u2014designed after Leibniz\u2019s principles\u2014that he imagines will discover new truths through computation!",
+    "subject": "computation",
+    "type": "science",
+    "existing_topic": "computing-machines",
+    "note": "This alludes to Leibniz's ideas about mechanical computation and its potential for discovering new knowledge. Some background on early computing machines would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "the humour of anger and ill-temper",
+    "subject": "humour",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "humoral-theory",
+    "note": "This refers to the classical theory of humors (blood, phlegm, yellow bile, black bile) that was still influential in medicine at this time. Understanding this theory is necessary to understand the reference.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "Their colleagues are muttering to them words like \u201cHanover\u201d and \u201cAnsbach.\u201d",
+    "subject": "Hanover",
+    "type": "place",
+    "existing_topic": "hanoverian-succession",
+    "note": "This refers to the House of Hanover and the impending Hanoverian succession to the British throne. Knowing the political context is important.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "Queen Anne were already dead and buried",
+    "subject": "Queen Anne",
+    "type": "person",
+    "existing_topic": "queen-anne",
+    "note": "Knowing that Queen Anne's reign was nearing its end and that the succession was a major political issue is important for understanding the scene.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "the peace of Westphalia did.",
+    "subject": "Peace of Westphalia",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "peace-of-westphalia",
+    "note": "The Peace of Westphalia (1648) ended the Thirty Years' War in the Holy Roman Empire and the Eighty Years' War between Spain and the Dutch Republic. It is often seen as a turning point in European history, establishing the modern state system.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "the removal of the King\u2019s head from the rest of the King",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "note": "Refers to the execution of King Charles I of England in 1649, a pivotal event in the English Civil War.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Cromwell smashed the Royalists for the umpteenth and final time at Worcester.",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell led the Parliamentarian forces during the English Civil War. The Battle of Worcester in 1651 was a decisive victory for Cromwell, effectively ending Royalist resistance.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Charles the Second ran off to Paris",
+    "subject": "Charles II",
+    "type": "person",
+    "existing_topic": "charles-ii",
+    "note": "After the defeat at Worcester, Charles II fled into exile in France. He would later be restored to the throne in 1660.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Through the Dutch Republic, of course.",
+    "subject": "Dutch Republic",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "dutch-republic",
+    "note": "The Dutch Republic (roughly 1581-1795) was a major European power during this period, known for its trade, naval strength, and relative religious tolerance.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "look in on a Mr. Huygens in the Hague.",
+    "subject": "Christiaan Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christiaan-huygens",
+    "note": "Christiaan Huygens (1629-1695) was a prominent Dutch physicist, mathematician, astronomer and inventor. He made significant contributions to optics, mechanics, and horology (timekeeping).",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "the Navigation Act.",
+    "subject": "Navigation Acts",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "navigation-acts",
+    "note": "The Navigation Acts were a series of English laws restricting the use of foreign ships for trade between England and its colonies. They were designed to promote English shipping and trade, and were a major source of tension with the Dutch Republic.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Rich Tories, no less!",
+    "subject": "Tories",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "tories",
+    "note": "The term 'Tory' originally referred to Irish Catholic outlaws, but in English politics it came to denote those who supported the monarchy and the established Church, in opposition to the Whigs.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "before Natural Philosophy as we know it.",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "note": "Natural Philosophy was the term used to describe the study of nature in the pre-modern era, encompassing what we now call science. It emphasized observation, experimentation, and reasoning to understand the natural world.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Francis Bacon, Galileo, Descartes",
+    "subject": "Francis Bacon",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "francis-bacon",
+    "note": "Francis Bacon (1561-1626) was an English philosopher and statesman who advocated for the scientific method and empirical observation.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Alchemy.",
+    "subject": "alchemy",
+    "type": "science",
+    "existing_topic": "Alchemy",
+    "note": "Alchemy was a philosophical and protoscientific tradition that aimed to transmute base metals into gold, discover a universal elixir, and achieve spiritual enlightenment.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Monsieur LeFebure, who was the apothecary to the French Court.",
+    "subject": "Nicolas Le Febvre",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "nicolas-le-febvre",
+    "note": "Nicolas Le Febvre (c. 1610-1669) was a French chemist and apothecary who served as the royal apothecary to Louis XIV. He was a proponent of iatrochemistry, applying chemical principles to medicine.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "the coronation of the French King.",
+    "subject": "Louis XIV",
+    "type": "person",
+    "existing_topic": "louis-xiv",
+    "note": "Louis XIV (1638-1715), known as the Sun King, was the King of France from 1643 until his death. His reign was marked by absolute monarchy, cultural flourishing, and numerous wars.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "They anointed him with angel-balm, a thousand years old.",
+    "subject": "Holy Ampulla",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "holy-ampulla",
+    "note": "The Holy Ampulla (Sainte Ampoule) was a vial containing oil used to anoint the kings of France during their coronation ceremonies. Legend held that it was brought from heaven by a dove to Saint Remigius for the baptism of Clovis I in 496.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Cromwell and his New Model Army.",
+    "subject": "New Model Army",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "new-model-army",
+    "note": "The New Model Army was a professional army formed by the Parliamentarians during the English Civil War. It was known for its discipline, religious zeal, and effectiveness in battle.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "John Wilkins",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "note": "John Wilkins (1614-1672) was an English clergyman, natural philosopher, and one of the founders of the Royal Society. He was a proponent of scientific inquiry and innovation.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Cromwell and his New Model Army",
+    "subject": "New Model Army",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "suggested_slug": null,
+    "note": "The New Model Army was a key force in the English Civil War, instrumental in Oliver Cromwell's rise to power. Understanding its role helps contextualize the political landscape.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Oxford, meaning only to pay a call on John Wilkins",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins was a prominent figure in the scientific revolution, a founder of the Royal Society, and known for his interest in cryptography and mechanical inventions. Knowing this gives context to his role in the story.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "compendium of secret codes and cyphers that this chap Wilkins",
+    "subject": "cryptography",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "cryptography",
+    "note": "Wilkins's interest in cryptography reflects a broader interest in secret communication and code-breaking during this period, which was relevant to both political and scientific endeavors.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Warden of Wadham College, which is part of the University of Oxford",
+    "subject": "Wadham College",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "wadham-college",
+    "note": "Wadham College, Oxford, was a center of scientific and intellectual activity in the 17th century. Knowing this adds context to Wilkins's position and influence.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "make the ultimate sacrifice in the name of Natural Philosophy",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "suggested_slug": null,
+    "note": "Natural Philosophy is the historical term for what we now call science. Understanding this helps the reader understand the context of the scientific pursuits of the characters.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "he married Cromwell\u2019s sister.",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "suggested_slug": null,
+    "note": "Oliver Cromwell was the Lord Protector of England, Scotland, and Ireland. His family connections were politically significant.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Experimental Philosophical Clubb met. Christopher Wren, Robert Boyle, Robert Hooke",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "suggested_slug": null,
+    "note": "Robert Hooke was a pioneering scientist and inventor, known for his work in microscopy and elasticity. His presence in this group highlights its scientific importance.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Experimental Philosophical Clubb met. Christopher Wren, Robert Boyle, Robert Hooke",
+    "subject": "Robert Boyle",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "robert-boyle",
+    "note": "Robert Boyle was a key figure in the scientific revolution, known for Boyle's Law and his work in chemistry and physics. His presence in this group highlights its scientific importance.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Experimental Philosophical Clubb met. Christopher Wren, Robert Boyle, Robert Hooke",
+    "subject": "Christopher Wren",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christopher-wren",
+    "note": "Christopher Wren was a renowned architect and scientist, famous for rebuilding London after the Great Fire. His presence in this group highlights its scientific importance.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "they\u2019d run out of space and moved to an apothecary\u2019s shop",
+    "subject": "apothecary",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "apothecaries",
+    "note": "Apothecaries were early pharmacists and often centers of medical and scientific knowledge. This detail provides insight into the scientific community of the time.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Mr. Clarke in Grantham.",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Mr. Clarke is a reference to Isaac Newton. Knowing this foreshadows Newton's importance in the story and the scientific themes that will be explored.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "table of Huygens\u2019s house in the Hague",
+    "subject": "Christiaan Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christiaan-huygens",
+    "note": "Christiaan Huygens was a prominent Dutch scientist, known for his work in optics, mechanics, and astronomy, including the development of the pendulum clock. His work is central to the scientific advancements discussed.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "pendulum-clock I\u2019d seen on the table of Huygens\u2019s house",
+    "subject": "pendulum clock",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "pendulum-clock",
+    "note": "The pendulum clock was a significant invention that greatly improved timekeeping accuracy, crucial for scientific experiments and navigation. Understanding its impact helps appreciate the scientific context.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Galileo had timed his experiments by counting his pulse",
+    "subject": "Galileo Galilei",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "galileo-galilei",
+    "note": "Galileo Galilei was a key figure in the scientific revolution, known for his work in astronomy, physics, and mathematics. The reference to his timekeeping methods highlights the advancements made since his time.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "HOBBES, Leviathan",
+    "subject": "Leviathan",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "leviathan-hobbes",
+    "note": "Thomas Hobbes's *Leviathan* (1651) is a foundational work of political philosophy, arguing for a social contract and strong central authority. Knowing its basic themes helps understand the intellectual climate of the time.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "Archbishop-Elector von Sch\u00f6nborn",
+    "subject": "Archbishop-Elector",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "prince-elector",
+    "note": "The Archbishop-Electors of the Holy Roman Empire were powerful figures who, in addition to their religious roles, had the right to elect the Holy Roman Emperor. This context clarifies their political importance.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "Cromwell\u2019s England",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell was the Lord Protector of England, Scotland, and Ireland following the English Civil War. Understanding his role and the nature of the Commonwealth is crucial.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "Puritans had killed the king",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "note": "Charles I was executed in 1649, a pivotal event in English history. Knowing the circumstances of his execution and the reasons behind it provides important context.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "Dr. John Lambe",
+    "subject": "Dr. John Lambe",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "john-lambe",
+    "note": "John Lambe was an astrologer and advisor to the Duke of Buckingham who was lynched by a mob. This anecdote illustrates the dangers of being associated with the occult at the time.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "last round of Plague",
+    "subject": "Plague",
+    "type": "event",
+    "existing_topic": "plague",
+    "note": "Outbreaks of plague were common in Europe during this period. Knowing the social and medical context of plague outbreaks helps understand the fear and paranoia of the time.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "Wilkins\u2019s chambers",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "note": "John Wilkins was a clergyman, natural philosopher, and one of the founders of the Royal Society. His association with scientific inquiry is important.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "Experimental Philosophical Clubb",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "note": "The Experimental Philosophical Clubb was an early precursor to the Royal Society, a key institution in the development of modern science. Understanding its goals and members is helpful.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "Civil War",
+    "subject": "English Civil War",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "note": "The English Civil War (1642-1651) had a profound impact on English society and politics. Knowing the basic causes and consequences of the war is essential.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "King\u2019s head had rolled in Charing Cross",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "note": "Charing Cross was the location of Charles I's execution. Knowing this helps the reader understand the significance of the event and its impact on the characters.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "Philosophick Mercury",
+    "subject": "quicksilver",
+    "type": "term",
+    "existing_topic": "Alchemy",
+    "note": "Philosophick Mercury is a key concept in alchemy, representing a purified and transformative substance. Understanding its significance within alchemical theory is important.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "burning mountain in Italy",
+    "subject": "Volcanoes",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "volcanoes-italy",
+    "note": "Likely a reference to Mount Vesuvius or Mount Etna. The sulfur collected from these volcanoes was important for alchemical processes.",
+    "chapter": "1655",
+    "chunk": 0
+  },
+  {
+    "quote": "borrowed it from Wilkins",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins (1614-1672) was an English clergyman, natural philosopher and writer, and one of the founders of the Royal Society. Knowing his role as a prominent intellectual figure of the time adds context to his association with Enoch.",
+    "chapter": "1655",
+    "chunk": 1
+  },
+  {
+    "quote": "as regular as the precession of the zodiac",
+    "subject": "precession of the zodiac",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "precession-of-the-zodiac",
+    "note": "The precession of the zodiac (or precession of the equinoxes) is the slow, continuous movement of the Earth's axis of rotation, which causes the positions of the stars and constellations to gradually shift over long periods of time. Understanding this astronomical concept highlights the boy's skill in creating a regular pattern.",
+    "chapter": "1655",
+    "chunk": 1
+  },
+  {
+    "quote": "Cromwell must have shown as he beheld the butchering of the Irish at Drogheda",
+    "subject": "Drogheda",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "siege-of-drogheda",
+    "note": "The Siege of Drogheda (1649) was a particularly brutal episode during the Cromwellian conquest of Ireland, in which Oliver Cromwell's forces massacred much of the town's garrison and civilian population. Understanding the scale of the atrocity provides context for the comparison.",
+    "chapter": "1655",
+    "chunk": 1
+  },
+  {
+    "quote": "like a Cavalier",
+    "subject": "Cavalier",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "cavaliers",
+    "note": "Cavaliers were supporters of King Charles I during the English Civil War. Understanding the historical context of the Cavaliers as royalists adds depth to the description of Enoch's urge.",
+    "chapter": "1655",
+    "chunk": 1
+  },
+  {
+    "quote": "Clarke was sipping tay",
+    "subject": "tay",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "history-of-tea",
+    "note": "Tea was becoming increasingly popular in England during this period, though still relatively expensive. Knowing this provides context for Clarke's leisurely activity.",
+    "chapter": "1655",
+    "chunk": 1
+  },
+  {
+    "quote": "alchemical treatise",
+    "subject": "alchemy",
+    "type": "term",
+    "existing_topic": "Alchemy",
+    "suggested_slug": null,
+    "note": "Alchemy was a philosophical and protoscientific tradition that sought to transmute base metals into gold, discover a universal elixir, and achieve spiritual enlightenment. Understanding the goals and practices of alchemy provides context for Clarke's reading material.",
+    "chapter": "1655",
+    "chunk": 1
+  },
+  {
+    "quote": "like a Cavalier",
+    "subject": "Cavalier",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "cavaliers",
+    "note": "Cavaliers were supporters of King Charles I during the English Civil War. Understanding their historical context as royalists helps understand the urge Enoch is resisting.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "good empiric, he had to see all and alter nothing",
+    "subject": "empiric",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "empiricism",
+    "note": "In the context of natural philosophy, empiricism is the idea that knowledge comes primarily from sensory experience. Understanding this philosophical stance is important for understanding Enoch's character and motivations.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Bates\u2019s\nThe Mysteries of Nature & Art,",
+    "subject": "The Mysteries of Nature & Art",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "the-mysteries-of-nature-and-art",
+    "note": "This was a popular book of practical knowledge, including recipes and instructions for various crafts and experiments. Knowing this helps understand the boy's activities.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Galileo and Descartes were only harbingers.",
+    "subject": "Ren\u00e9 Descartes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rene-descartes",
+    "note": "Ren\u00e9 Descartes (1596-1650) was a highly influential French philosopher, mathematician, and scientist. Understanding his role in the scientific revolution is important for understanding the context of the discussion.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Hooke and Wren and Boyle",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "note": "Robert Hooke (1635-1703) was an English scientist and polymath. He was a key figure in the Royal Society and made significant contributions to various fields. This is his first mention in the book.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Hooke and Wren and Boyle",
+    "subject": "Robert Boyle",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "robert-boyle",
+    "note": "Robert Boyle (1627-1691) was an Anglo-Irish natural philosopher, chemist, physicist, and inventor. He is regarded today as one of the founders of modern chemistry.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "There\u2019s a boy in Leipzig like this one.",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "This is the first mention of Leibniz in the book. He was a prominent German polymath and philosopher who later became a central figure in the calculus priority dispute with Newton.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Scholastic way of memorizing old books",
+    "subject": "Scholasticism",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "scholasticism",
+    "note": "Scholasticism was a method of learning and teaching prevalent in medieval universities, emphasizing dialectical reasoning and adherence to established authorities. Understanding this helps contrast it with the empiricist approach.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Principia Philosophica,\nthe last thing Descartes wrote",
+    "subject": "Principia Philosophiae",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "principia-philosophiae",
+    "note": "Principia Philosophiae (Principles of Philosophy) is a book by Ren\u00e9 Descartes published in 1644. It laid out his views on metaphysics, physics, and cosmology.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Dedicated to young Elizabeth, the Winter Queen\u2019s daughter\u2026",
+    "subject": "Elizabeth of Bohemia",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "elizabeth-of-bohemia",
+    "note": "Elizabeth of Bohemia (1618-1680) was the daughter of Frederick V, Elector Palatine, and Elizabeth Stuart, the 'Winter Queen' of Bohemia. She was a philosopher and correspondent of Descartes.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Huygens has made a clock that is regulated by a pendulum.",
+    "subject": "Christiaan Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christiaan-huygens",
+    "note": "Christiaan Huygens (1629-1695) was a prominent Dutch physicist, mathematician, astronomer and inventor. His invention of the pendulum clock was a major advance in timekeeping.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Wilkins, down in Oxford, is trying to bring them together.",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "note": "John Wilkins (1614-1672) was an English clergyman, natural philosopher and author, and one of the founders of the Royal Society. He was known for his interest in promoting scientific collaboration.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Thanks to Descartes, there are other uses for mathematics now",
+    "subject": "Ren\u00e9 Descartes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rene-descartes",
+    "note": "Descartes's development of analytic geometry, which linked algebra and geometry, revolutionized mathematics and provided new tools for scientific inquiry.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Tell your brother to show the boy Euclid",
+    "subject": "Euclid",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "euclid",
+    "note": "Euclid was a Greek mathematician, often referred to as the 'father of geometry'. His book 'Elements' was a foundational text in mathematics for centuries.",
+    "chapter": "1655",
+    "chunk": 2
+  },
+  {
+    "quote": "Thanks to Descartes, there are other uses for mathematics now",
+    "subject": "Ren\u00e9 Descartes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rene-descartes",
+    "note": "Ren\u00e9 Descartes (1596-1650) was a French philosopher, mathematician, and scientist. His work in analytic geometry provided a crucial link between algebra and geometry and influenced the development of calculus.",
+    "chapter": "1655",
+    "chunk": 3
+  },
+  {
+    "quote": "Tell your brother to show the boy Euclid and let him find his own way.",
+    "subject": "Euclid",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "euclid",
+    "note": "Euclid was a Greek mathematician, often referred to as the 'father of geometry'. His book *Elements* is one of the most influential works in the history of mathematics, serving as the main textbook for teaching mathematics (especially geometry) from its publication until the late 19th or early 20th century.",
+    "chapter": "1655",
+    "chunk": 3
+  },
+  {
+    "quote": "One windowsill after another came under him and was wiped clean of the name I. NEWTON.",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "This passage refers to a young Isaac Newton. Providing context about his later scientific achievements and his role in the Scientific Revolution would be helpful.",
+    "chapter": "1655",
+    "chunk": 3
+  },
+  {
+    "quote": "DANIEL DEFOE, A Plan of the English Commerce",
+    "subject": "Daniel Defoe",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "daniel-defoe",
+    "note": "Daniel Defoe (c. 1660 \u2013 1731) was an English writer, journalist, and spy, most famous for his novel Robinson Crusoe. Knowing his background as a commentator on English commerce provides context for the quote.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Royal Society, after nearly a lifetime of service",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "note": "The Royal Society was (and is) a highly influential scientific society founded in London in 1660. Understanding its role in promoting scientific inquiry is important.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Sir John Floyer just invented the practice",
+    "subject": "Sir John Floyer",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "john-floyer",
+    "note": "Sir John Floyer (1649-1734) was an English physician who pioneered the practice of pulse counting. This reference highlights the nascent state of medical science at the time.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "faculty of Harvard College would have him believe",
+    "subject": "Harvard College",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "harvard-college",
+    "note": "Harvard College, founded in 1636, was the first institution of higher learning in the American colonies. Knowing its early role and status provides context.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "binary notation lately perfected by Leibniz",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "Gottfried Wilhelm Leibniz (1646 \u2013 1716) was a prominent German polymath and philosopher who developed binary code. Understanding his contributions to mathematics and philosophy is helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "The Skepticism of Pyrrhon of Elis",
+    "subject": "Pyrrhon of Elis",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "pyrrhon-of-elis",
+    "note": "Pyrrho of Elis (c. 360 \u2013 c. 270 BC) was a Greek philosopher of classical antiquity and is credited as the founder of Pyrrhonism, the school of skeptical philosophy. Understanding the basics of Pyrrhonism would help the reader understand the reference.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "The Kamakura bakufu",
+    "subject": "Kamakura bakufu",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "kamakura-bakufu",
+    "note": "The Kamakura bakufu (1185\u20131333) was the feudal military government of Japan during the Kamakura period. Knowing this was a period of shogunate rule in Japan provides context.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Election & Reign of Rudolf of Hapsburg",
+    "subject": "Rudolf of Hapsburg",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rudolf-of-hapsburg",
+    "note": "Rudolf I of Habsburg (1218 \u2013 1291) was the King of the Romans from 1273 until his death. Understanding his significance in the Holy Roman Empire and the rise of the Habsburg dynasty provides context.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "the Investiture Controversy",
+    "subject": "Investiture Controversy",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "investiture-controversy",
+    "note": "The Investiture Controversy was a significant conflict in medieval Europe (11th-12th centuries) between the Church and the Holy Roman Empire over the appointment of church officials. Understanding the conflict's nature and implications is helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "the Arminian heresy",
+    "subject": "Arminian heresy",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "arminianism",
+    "note": "Arminianism is a theological movement within Protestantism that rejects predestination and emphasizes free will. Understanding its key tenets and historical context is helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Personal friend of Dr. Leibniz.",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "Gottfried Wilhelm Leibniz (1646 \u2013 1716) was a prominent German polymath and philosopher. Understanding his contributions to mathematics and philosophy is helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "The Electress Sophie?",
+    "subject": "Electress Sophie",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "electress-sophie-of-hanover",
+    "note": "Electress Sophia of Hanover (1630-1714) was in line to become Queen of Great Britain through the Act of Settlement 1701, but died before Queen Anne. Understanding her role in the Hanoverian succession is helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Princess Caroline want of me?",
+    "subject": "Princess Caroline",
+    "type": "person",
+    "existing_topic": "caroline-of-ansbach",
+    "note": "Princess Caroline of Ansbach (1683-1737) was the wife of George II and Queen consort of Great Britain and Ireland. Knowing her intellectual interests and influence would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Personal friend of Dr. Leibniz.",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "suggested_slug": null,
+    "note": "Leibniz was a prominent German polymath and philosopher, a major figure in the history of both philosophy and mathematics. He is central to the plot of Quicksilver.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "The Electress Sophie?",
+    "subject": "Electress Sophie of Hanover",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "sophie-of-hanover",
+    "note": "Sophie of Hanover was in line to become Queen of Great Britain due to the Act of Settlement 1701. Her relationship to Leibniz is relevant to the plot.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "What does Princess Caroline want of me?",
+    "subject": "Princess Caroline of Ansbach",
+    "type": "person",
+    "existing_topic": "caroline-of-ansbach",
+    "suggested_slug": null,
+    "note": "Caroline of Ansbach was the daughter-in-law of Electress Sophie and a friend and intellectual sparring partner of Leibniz. She later became Queen Consort of Great Britain.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "What other use is there for a broken-down old computational monadologist?",
+    "subject": "Monadology",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "monadology",
+    "note": "Monadology is a philosophical concept developed by Leibniz, referring to simple, indivisible, and immaterial entities that are the ultimate constituents of reality. Understanding this concept is helpful for understanding Waterhouse's intellectual background.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "what, to Harvard, would\u2019ve been what Gresham\u2019s College was to Oxford.",
+    "subject": "Gresham College",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "gresham-college",
+    "note": "Gresham College was a center of scientific learning in London, founded in 1597. It played a key role in the development of natural philosophy in England and was closely linked to the early Royal Society.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "When I was a student, a prism was a wonder. Went to Sturbridge Fair with Isaac",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Sir Isaac Newton was a highly influential physicist, mathematician, astronomer, natural philosopher, alchemist, and theologian. His work on optics and calculus is central to the novel.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "Newtonian or Leibnizian calculus?",
+    "subject": "Calculus Priority Dispute",
+    "type": "event",
+    "existing_topic": "calculus-priority-dispute",
+    "suggested_slug": null,
+    "note": "The priority dispute between Newton and Leibniz over the invention of calculus was a bitter and protracted controversy that divided the scientific community. It's a major theme in the book.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "all Englishmen believe that Leibniz is a villain\u2014a plagiarist?",
+    "subject": "Calculus Priority Dispute",
+    "type": "event",
+    "existing_topic": "calculus-priority-dispute",
+    "suggested_slug": null,
+    "note": "The accusation of plagiarism against Leibniz in the development of calculus was a key aspect of the priority dispute and fueled nationalistic tensions.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "House of Hanover is packing up its pointed helmets",
+    "subject": "Hanoverian Succession",
+    "type": "event",
+    "existing_topic": "hanoverian-succession",
+    "suggested_slug": null,
+    "note": "The Hanoverian succession refers to the succession of the House of Hanover to the British throne after the death of Queen Anne. This is a major political backdrop to the novel.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "deaths of all seventeen of Queen Anne\u2019s children",
+    "subject": "Queen Anne",
+    "type": "person",
+    "existing_topic": "queen-anne",
+    "suggested_slug": null,
+    "note": "Queen Anne's lack of a surviving heir led to the Hanoverian succession. The political instability caused by this is a key plot element.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "George Louis will become Newton\u2019s King and\u2014as Sir Isaac is still at the Mint",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Newton served as Warden and then Master of the Royal Mint, responsible for overseeing the coinage of England. This position gave him significant power and influence.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "dove to fly between the Pillars of Hercules.",
+    "subject": "Pillars of Hercules",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "pillars-of-hercules",
+    "note": "The Pillars of Hercules is the ancient name given to the promontories that flank the entrance to the Strait of Gibraltar. Symbolically, they represent a boundary or limit, and in this context, an almost impossible task.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "That judge is no more drunk than any magistrate of the Old Bailey.",
+    "subject": "Old Bailey",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "old-bailey",
+    "note": "The Old Bailey is the Central Criminal Court of England and Wales, located in London. It was known for its harsh justice and association with criminal trials.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "Her Majesty\u2019s Navy",
+    "subject": "Royal Navy",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "royal-navy",
+    "note": "Refers to the British Royal Navy. A brief explanation of its importance in the 17th/18th centuries would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Tories and Archbishops",
+    "subject": "Tories",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "tories",
+    "note": "The term 'Tory' in this period refers to a political faction in England, generally supporting the monarchy and the Church of England. A brief explanation of their political stance would be useful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Baroque minuet",
+    "subject": "Baroque minuet",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "baroque-minuet",
+    "note": "A minuet is a dance form, and 'Baroque' refers to a specific period in music history. A short explanation of Baroque music would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Drake, educated me for one reason alone...the Apocalypse. He reckoned it would occur in the year 1666",
+    "subject": "Apocalypticism",
+    "type": "term",
+    "existing_topic": "Apocalypticism",
+    "note": "Belief in the imminent end of the world was common in this period, especially with events like the Plague and the Great Fire of London. The specific year 1666 held significance due to the Number of the Beast.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "execution of Hugh Peters\u2014Cromwell\u2019s chaplain",
+    "subject": "Hugh Peters",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "hugh-peters",
+    "note": "Hugh Peters was a prominent Puritan minister and supporter of Oliver Cromwell, executed after the Restoration. Some context on his role and execution would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Cromwell",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell was Lord Protector of England. A brief reminder of his role in English history would be useful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Wilkins at Trinity College",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "note": "John Wilkins was a prominent scientist and clergyman, one of the founders of the Royal Society. Some context on his scientific interests and connections would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Anno 1656 he married Robina. Cromwell\u2019s sister.",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "This provides additional context about John Wilkins's connection to Cromwell.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "that was undone by the Restoration",
+    "subject": "Restoration",
+    "type": "event",
+    "existing_topic": "restoration-london",
+    "note": "The Restoration refers to the restoration of the monarchy in England in 1660, when Charles II returned to the throne. A brief explanation of its significance would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Cryptonomicon",
+    "subject": "Cryptonomicon",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "cryptonomicon-wilkins",
+    "note": "While this is the title of a later Stephenson novel, here it refers to a real book (or a book Wilkins was known to have been working on) about cryptography and secret writing. Some context on the historical interest in cryptography would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Wilkins let me sit in a chair for half an hour",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins was a clergyman, natural philosopher, and one of the founders of the Royal Society. A brief overview of his role in the scientific community would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "proofs of Boyle\u2019s The Skeptical Chemist",
+    "subject": "The Skeptical Chemist",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "the-skeptical-chemist",
+    "note": "Robert Boyle's *The Sceptical Chymist* (1661) was a foundational text in chemistry, arguing for a more empirical and experimental approach. Knowing its significance would enrich the reader's understanding.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "natural philosopher like Boyle or Huygens",
+    "subject": "Christiaan Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christiaan-huygens",
+    "note": "Christiaan Huygens was a prominent Dutch physicist, mathematician, astronomer and inventor. Some context on his scientific contributions would be useful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "Gresham\u2019s College where he and a few of his old Oxford cronies",
+    "subject": "Gresham College",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "gresham-college",
+    "note": "Gresham College was an important center for scientific learning in London. A brief description of its role and significance would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "Trinity College, Cambridge",
+    "subject": "Trinity College, Cambridge",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "trinity-college-cambridge",
+    "note": "Trinity College, Cambridge was (and is) a prominent college at Cambridge University, and a center of scientific and intellectual life. Newton was a fellow there.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "Halley predicted the return of the comet",
+    "subject": "Edmond Halley",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "edmond-halley",
+    "note": "Edmond Halley was an English astronomer and mathematician. Some context on his work on comets would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "working on the second edition of the Principia",
+    "subject": "Principia",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "principia-mathematica",
+    "note": "A brief explanation of Isaac Newton's *Principia Mathematica* and its significance in the history of science would be useful for readers unfamiliar with it.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "Roger Cotes",
+    "subject": "Roger Cotes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "roger-cotes",
+    "note": "Roger Cotes was a mathematician who worked with Newton on the second edition of the Principia. Some context on his contributions would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "reconciliation with Leibniz",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "suggested_slug": null,
+    "note": "Leibniz was a German polymath and a major figure in the development of calculus. This refers to the ongoing dispute between Newton and Leibniz over priority in the invention of calculus.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "Royal Society is infested with actuaries and statisticians",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "suggested_slug": null,
+    "note": "The Royal Society was a leading scientific organization. Some context on its role in promoting scientific inquiry and its membership would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "those swindlers at the \u2018Change",
+    "subject": "Royal Exchange",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "royal-exchange",
+    "note": "The Royal Exchange was a center for commerce and finance in London. Some context on its role in the economy of the time would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "mysterious catastrophe in \u201993",
+    "subject": "Isaac Newton's breakdown",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "isaac-newton-1693-breakdown",
+    "note": "This refers to a period of mental instability Newton experienced in 1693. There are various theories about the cause, and it marked a turning point in his career.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "vomiting flames at Leibniz",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "suggested_slug": null,
+    "note": "This refers to the bitter and protracted Calculus Priority Dispute between Newton and Leibniz.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "Glorious one back in \u201988",
+    "subject": "Glorious Revolution",
+    "type": "event",
+    "existing_topic": "glorious-revolution",
+    "suggested_slug": null,
+    "note": "The Glorious Revolution of 1688 was the overthrow of King James II of England. A brief overview of its causes and consequences would be helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "calculus dispute is becoming a schism",
+    "subject": "Calculus Priority Dispute",
+    "type": "event",
+    "existing_topic": "calculus-priority-dispute",
+    "suggested_slug": null,
+    "note": "The Calculus Priority Dispute was a bitter argument between Newton and Leibniz over who invented calculus first. This passage refers to the way the dispute was dividing the scientific community.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 3
+  },
+  {
+    "quote": "just after the Restoration, and found himself among young men of the Quality",
+    "subject": "Restoration London",
+    "type": "event",
+    "existing_topic": "restoration-london",
+    "suggested_slug": null,
+    "note": "The Restoration refers to the restoration of the monarchy in England in 1660, when Charles II returned to the throne after the period of the Commonwealth under Oliver Cromwell. This had a significant impact on English society and culture.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "the sword falling silently on the neck of Charles I",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "suggested_slug": null,
+    "note": "Charles I was the King of England, Scotland, and Ireland whose conflicts with Parliament led to the English Civil War and his subsequent execution in 1649.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "This was the English Civil War.",
+    "subject": "English Civil War",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "suggested_slug": null,
+    "note": "The English Civil War (1642-1651) was a series of armed conflicts and political machinations between Parliamentarians and Royalists in the Kingdom of England.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "Archbishop Laud had built around the altar",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "suggested_slug": null,
+    "note": "William Laud was the Archbishop of Canterbury under Charles I. His High Church policies were opposed by Puritans, and his execution was one of the demands of Parliament at the start of the English Civil War.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "After Cromwell had won and the Civil War ended",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "suggested_slug": null,
+    "note": "Oliver Cromwell was an English military and political leader who led the Parliamentarian victory in the English Civil War and served as Lord Protector of the Commonwealth of England, Scotland, and Ireland.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "Sir Roger L\u2019Estrange, the Surveyor of the Press",
+    "subject": "Restoration London",
+    "type": "term",
+    "existing_topic": "restoration-london",
+    "suggested_slug": null,
+    "note": "Sir Roger L'Estrange was the Surveyor of the Press during the Restoration. He was responsible for censoring publications and suppressing dissent.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "England had a King, who was called Charles II",
+    "subject": "Charles II",
+    "type": "person",
+    "existing_topic": "charles-ii",
+    "suggested_slug": null,
+    "note": "Charles II was the King of England, Scotland, and Ireland whose reign marked the Restoration period after the Interregnum. His reign was known for its cultural and social changes.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "One of them, John Comstock, had drawn up an Act of Uniformity",
+    "subject": "Puritans",
+    "type": "event",
+    "existing_topic": "puritans",
+    "suggested_slug": null,
+    "note": "The Act of Uniformity 1662 was an Act of the Parliament of England which prescribed the form of public prayers, rites, and ceremonies to be used in the Church of England. It led to the ejection of many Puritan ministers from their livings.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "Wilkins\u2014who for a brief while had been Master of Trinity",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins was an English clergyman, natural philosopher and author, and one of the founders of the Royal Society. He was briefly Master of Trinity College, Cambridge.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "to launch the Royal Society.",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "suggested_slug": null,
+    "note": "The Royal Society of London for Improving Natural Knowledge is a learned society and the United Kingdom's national academy of sciences. Founded in 1660, it played a key role in the scientific revolution.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "learnt everything he might have cared to know of Natural Philosophy",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "suggested_slug": null,
+    "note": "Natural philosophy was the term used to describe the study of nature in the early modern period, encompassing what we now call science. It included fields like physics, astronomy, and chemistry.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "This was the Duke of Monmouth.",
+    "subject": "Monmouth",
+    "type": "person",
+    "existing_topic": "monmouth",
+    "suggested_slug": null,
+    "note": "James Scott, 1st Duke of Monmouth, was the illegitimate son of Charles II. He led a rebellion against James II in 1685.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "Monmouth and Upnor and Jeffreys",
+    "subject": "Judge Jeffreys",
+    "type": "person",
+    "existing_topic": "judge-jeffreys",
+    "suggested_slug": null,
+    "note": "Judge Jeffreys was a controversial English judge known for his harsh sentences, particularly during the Bloody Assizes following the Monmouth Rebellion.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 4
+  },
+  {
+    "quote": "the King of England. This was the Duke of Monmouth.",
+    "subject": "Duke of Monmouth",
+    "type": "person",
+    "existing_topic": "monmouth",
+    "suggested_slug": null,
+    "note": "James Scott, 1st Duke of Monmouth, was the illegitimate son of Charles II. Understanding his relationship to the king and his later rebellion provides important context.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 5
+  },
+  {
+    "quote": "Monmouth and Upnor and Jeffreys",
+    "subject": "Judge Jeffreys",
+    "type": "person",
+    "existing_topic": "judge-jeffreys",
+    "suggested_slug": null,
+    "note": "George Jeffreys, 1st Baron Jeffreys, was a controversial judge known for his harsh sentences, especially after Monmouth's Rebellion. Knowing his reputation adds weight to his presence in the scene.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 5
+  },
+  {
+    "quote": "the John Comstock who\u2019d written the Act of Uniformity",
+    "subject": "Act of Uniformity",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "act-of-uniformity-1662",
+    "note": "The Act of Uniformity 1662 was a key piece of legislation in Restoration England that enforced religious conformity to the Church of England. Understanding its impact on religious dissenters is helpful.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 5
+  },
+  {
+    "quote": "Trinity",
+    "subject": "Trinity College, Cambridge",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "trinity-college-cambridge",
+    "note": "Trinity College, Cambridge, is one of the most prestigious colleges at Cambridge University. Knowing its reputation and history provides context for Daniel's attendance.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 5
+  },
+  {
+    "quote": "smelly Phanatiques",
+    "subject": "Phanatiques",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "religious-fanaticism",
+    "note": "The term 'fanatic' was often used pejoratively in the 17th century to describe religious extremists, particularly radical Protestant sects. Understanding the negative connotations helps understand the character's disdain.",
+    "chapter": "Newtowne, Massachusetts Bay Colony",
+    "chunk": 5
+  },
+  {
+    "quote": "Bernard Mandeville",
+    "subject": "Bernard Mandeville",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "bernard-mandeville",
+    "note": "Bernard Mandeville (1670-1733) was a Dutch-born philosopher, political economist and satirist who spent most of his life in England and is known for *The Fable of the Bees*.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Ursa Major",
+    "subject": "Ursa Major",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "ursa-major",
+    "note": "Ursa Major, also known as the Great Bear, is a prominent constellation in the northern sky. Understanding its position would help the reader visualize the time of night.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "godly nation required divines who were fluent in Greek and Latin and Hebrew",
+    "subject": "role of clergy",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "historical-role-of-clergy",
+    "note": "In this period, clergy were often the most educated members of society, and fluency in classical languages was essential for theological study and interpretation of religious texts.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Cavaliers",
+    "subject": "Cavaliers",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "cavaliers",
+    "note": "Cavaliers were supporters of King Charles I during the English Civil War. The term was often used to describe those associated with the monarchy and aristocracy, known for their flamboyant style and opposition to Puritanism.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Duke of Monmouth",
+    "subject": "Duke of Monmouth",
+    "type": "person",
+    "existing_topic": "monmouth",
+    "note": "James Scott, 1st Duke of Monmouth (1649-1685) was the illegitimate son of King Charles II. He led a rebellion against James II in 1685.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "the Backs\u2014the boggy floodplain of the river Cam",
+    "subject": "The Backs",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "the-backs-cambridge",
+    "note": "The Backs are the picturesque riverside area to the rear of the Cambridge University colleges, characterized by its meadows and the River Cam. Understanding the geography helps visualize the scene.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Pieta",
+    "subject": "Pieta",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "pieta",
+    "note": "The Piet\u00e0 is a common subject in Christian art depicting the Virgin Mary cradling the dead body of Jesus. Reference to a painting of the Pieta helps the reader understand the beauty of Jeffreys' eyes.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Roger Comstock, the sizar",
+    "subject": "Sizar",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "sizar",
+    "note": "A sizar was a student at Cambridge or Dublin University who received financial assistance in return for performing certain duties. This helps understand Comstock's social standing.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Jeffreys",
+    "subject": "Judge Jeffreys",
+    "type": "person",
+    "existing_topic": "judge-jeffreys",
+    "note": "George Jeffreys, 1st Baron Jeffreys (1645-1689), was a controversial English judge known for his harsh sentences, particularly during the Bloody Assizes following the Monmouth Rebellion.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Phanatique\u2014a Puritan, or possibly a Barker",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "note": "Puritans were a religious group who sought to purify the Church of England. The term 'phanatique' was a derogatory term used to describe religious extremists.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Earl...personal friend of the King",
+    "subject": "Social Hierarchy",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "social-hierarchy-17th-century",
+    "note": "Understanding the rigid social hierarchy of the time is crucial. An Earl held significant power and influence, and being a friend of the King provided even more protection.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Justice of the Peace",
+    "subject": "Justice of the Peace",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "justice-of-the-peace",
+    "note": "A Justice of the Peace was a local magistrate responsible for maintaining law and order. Knowing their role helps understand the legal implications of the situation.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "coroner",
+    "subject": "Coroner",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "coroner",
+    "note": "A coroner is an official who investigates deaths, especially those that are sudden, suspicious, or unwitnessed. Knowing their role helps understand the legal implications of the situation.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Monmouth and all that lot spent the Interregnum in Paris",
+    "subject": "Interregnum",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "english-interregnum",
+    "note": "The Interregnum was the period between the execution of Charles I in 1649 and the restoration of the monarchy under Charles II in 1660. Understanding this period of political upheaval is crucial for understanding the context of the novel.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "Academy of Monsieur du Plessis, near the Palais Cardinal",
+    "subject": "Academy of Monsieur du Plessis",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "academy-of-monsieur-du-plessis",
+    "note": "This refers to a fencing academy in Paris, a common destination for young nobles to learn swordsmanship and courtly manners. Knowing this provides context for the French influence on Monmouth and Upnor.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "the reign of King Richard Lionheart",
+    "subject": "Richard Lionheart",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "richard-lionheart",
+    "note": "Richard I, King of England in the late 12th century. The reference highlights the Comstock family's long history.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "the recent Declaration of Uniformity",
+    "subject": "Declaration of Uniformity",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "declaration-of-uniformity",
+    "note": "The Act of Uniformity 1662 mandated the form of public prayers, rites, and ceremonies in the Church of England, leading to the ejection of many Puritan ministers. This explains why Drake's house is full of jobless Ranters, Barkers, and Quakers.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "Archbishop Laud school",
+    "subject": "Archbishop Laud",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "archbishop-laud",
+    "note": "William Laud was the Archbishop of Canterbury under Charles I. His High Church policies were controversial and contributed to the English Civil War. Understanding his legacy helps explain the religious tensions of the time.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "the pilgrims had sojourned before going to Massachusetts",
+    "subject": "pilgrims",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "pilgrims",
+    "note": "The Pilgrims were English Separatists who founded Plymouth Colony in America. Their time in Leiden, Netherlands, is a key part of their story and informs Daniel's understanding of the Dutch Republic.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "the first King Charles had occurred not because Cromwell",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "note": "King of England, Scotland, and Ireland whose conflicts with Parliament led to the English Civil War and his execution. Understanding his reign is essential for grasping the political context.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "Cromwell was such a great general",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell was a key figure in the English Civil War and the subsequent Interregnum. He led the Parliamentarian forces to victory and ruled as Lord Protector. Understanding his role is crucial for understanding the period.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "Usquebaugh",
+    "subject": "Usquebaugh",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "usquebaugh",
+    "note": "Usquebaugh is an archaic term for whiskey, particularly Irish whiskey. Knowing this clarifies the type of drink Jeffreys is consuming.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "Justice of the Peace was probably finished with his breakfast",
+    "subject": "Justice of the Peace",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "justice-of-the-peace",
+    "note": "A Justice of the Peace was a local magistrate, often a landowner, responsible for maintaining law and order in their area. Understanding their role as both judge and administrator provides context for their involvement in the murder investigation.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "But Jeffreys, having made himself comfortable here",
+    "subject": "Judge Jeffreys",
+    "type": "person",
+    "existing_topic": "judge-jeffreys",
+    "note": "George Jeffreys was a real judge known for his harsh sentences, especially after the Monmouth Rebellion. Knowing his reputation adds weight to his menacing behavior towards Daniel.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "the King was back, England was Babylon",
+    "subject": "Restoration London",
+    "type": "event",
+    "existing_topic": "restoration-london",
+    "note": "This refers to the Restoration of the monarchy in 1660, when Charles II returned to the throne after the Interregnum. Some Puritans viewed the restored court as decadent and immoral, comparing England to Babylon.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "eye on the year sixteen hundred and sixty-six",
+    "subject": "Apocalypticism",
+    "type": "term",
+    "existing_topic": "apocalypticism",
+    "note": "The year 1666 was widely believed by some to be the year of the apocalypse, based on interpretations of the Book of Revelation. This belief influenced many people's actions and perceptions during that time.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "For the Act of Uniformity stated, among other things",
+    "subject": "Act of Uniformity",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "act-of-uniformity",
+    "note": "The Act of Uniformity 1662 mandated adherence to the Book of Common Prayer and Anglican practices, leading to the persecution of dissenting religious groups like Puritans. Understanding this law explains why the barn church is exactly five miles from Cambridge.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "if Daniel occasionally woke up to find the Duke of Monmouth",
+    "subject": "Monmouth",
+    "type": "person",
+    "existing_topic": "monmouth",
+    "note": "James Scott, 1st Duke of Monmouth, was the illegitimate son of Charles II. He later led a rebellion against James II. Knowing his status and later role provides context.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "Others like you got on a ship and sailed to Massachusetts",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "note": "Puritans were a religious group who sought to purify the Church of England. Many emigrated to North America to establish their own religious communities. Understanding their history and motivations is important for understanding Daniel's internal conflict.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "Plymouth Rock",
+    "subject": "Plymouth Rock",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "plymouth-rock",
+    "note": "Plymouth Rock is the traditional site of disembarkation of William Bradford and the Mayflower Pilgrims who founded Plymouth Colony in 1620. It is a key symbol in American history.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "Daniel knew nothing of him\u2014he had made no impression upon the College whatsoever. But once Daniel got in the habit of looking for him, he began to notice him here and there, skulking around the edges of University life.",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "This is the first introduction of Isaac Newton in the novel. Knowing his later scientific achievements makes his initial obscurity more striking.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "The boy was a sizar",
+    "subject": "Sizar",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "sizar",
+    "note": "A sizar was a student at Cambridge or Dublin University who received financial assistance in exchange for performing menial tasks. Understanding their social status highlights the contrast between Newton and other students like Daniel.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "pensioners (e.g., Daniel) and fellow-commoners (e.g., Monmouth and Upnor)",
+    "subject": "Pensioner (Cambridge)",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "pensioner-cambridge",
+    "note": "In this context, a pensioner was a student who paid for their own tuition and board at Cambridge. This contrasts with sizars who received financial aid. Fellow-commoners were students of noble birth who paid higher fees and enjoyed certain privileges.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "natural philosophy",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "note": "Natural philosophy was the study of nature and the physical universe, which later evolved into modern science. Understanding this term helps to contextualize Daniel and Isaac's shared interests.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 2
+  },
+  {
+    "quote": "alienated Puritan with a secret interest in natural philosophy",
+    "subject": "natural philosophy",
+    "type": "term",
+    "existing_topic": "Natural Philosophy",
+    "suggested_slug": null,
+    "note": "Natural philosophy was the study of nature and the physical universe before the development of modern science. Understanding this term helps frame the intellectual context of the characters.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "Musket-balls had been fired in through their window during the Civil War",
+    "subject": "English Civil War",
+    "type": "event",
+    "existing_topic": "English Civil War",
+    "suggested_slug": null,
+    "note": "The English Civil War (1642-1651) was a series of armed conflicts and political machinations between Parliamentarians and Royalists. Knowing this provides context for the bullet holes and the era's political turmoil.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "sent him to Cambridge as a pensioner. But out of miserliness, or spite, or some hostility toward education in general, she\u2019d sent him as a sizar instead",
+    "subject": "sizar",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "sizar",
+    "note": "A sizar was a student at Cambridge or Oxford who received financial assistance in exchange for performing menial tasks. Understanding this clarifies Newton's social standing and his mother's actions.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "working their separate ways through Aristotle",
+    "subject": "Aristotle",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "aristotle",
+    "note": "Aristotle (384\u2013322 BC) was a Greek philosopher and polymath whose works were highly influential in European thought until the Scientific Revolution. Knowing this helps understand the intellectual background of the characters.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "as though by some alchemical refinement\u2014the slag and dross raked away, the radiant spirit allowed to shine forth, like the Philosophick Mercury",
+    "subject": "alchemy",
+    "type": "term",
+    "existing_topic": "Alchemy",
+    "suggested_slug": null,
+    "note": "Alchemy was a philosophical and protoscientific tradition aiming at transmuting base metals into gold and discovering a universal elixir. Understanding this illuminates the symbolic meaning of the drawing.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "Whitsunday",
+    "subject": "Whitsunday",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "whitsunday",
+    "note": "Whitsunday, also known as Pentecost, is a Christian holiday commemorating the descent of the Holy Spirit upon the Apostles. Knowing this clarifies the religious context of the scene.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "Books of Common Prayer",
+    "subject": "Book of Common Prayer",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "book-of-common-prayer",
+    "note": "The Book of Common Prayer is the foundational liturgical text of the Church of England. Knowing this helps understand the religious service being described.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "Jeffreys",
+    "subject": "Judge Jeffreys",
+    "type": "person",
+    "existing_topic": "Judge Jeffreys",
+    "suggested_slug": null,
+    "note": "Judge Jeffreys was a notorious English judge known for his harsh sentences, particularly during the Bloody Assizes. Knowing this adds context to the character's role and Daniel's fear.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "meeting with Wilkins",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "John Wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins was an English clergyman, natural philosopher and polymath, and one of the founders of the Royal Society. Knowing this helps understand Daniel's shift towards natural philosophy.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "Drake the predestinationist",
+    "subject": "predestination",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "predestination",
+    "note": "Predestination is a theological doctrine, particularly associated with Calvinism, that God has foreordained all events, especially regarding who will be saved. Knowing this clarifies Drake's theological views.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "Euclid",
+    "subject": "Euclid",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "euclid",
+    "note": "Euclid was a Greek mathematician, often referred to as the 'father of geometry'. His book *Elements* was a standard textbook for centuries. Knowing this helps understand Daniel's intellectual pursuits.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 3
+  },
+  {
+    "quote": "Like a good CARTESIAN who measures everything against a fixed point",
+    "subject": "Cartesianism",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "cartesianism",
+    "note": "Refers to the philosophy of Ren\u00e9 Descartes, emphasizing rationalism and a mechanistic view of the universe. A brief explanation of Cartesian thought would be helpful.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Sir Isaac would have it that all matter is a sort of permanent ongoing miracle",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "Isaac Newton was a highly influential physicist, mathematician, and natural philosopher. This passage refers to his views on the role of God in maintaining the order of the universe.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Princess Caroline of Ansbach",
+    "subject": "Caroline of Ansbach",
+    "type": "person",
+    "existing_topic": "caroline-of-ansbach",
+    "note": "Caroline of Ansbach was the Princess of Wales and later Queen consort of Great Britain. Knowing her role in the Hanoverian court and her patronage of science and philosophy would be useful.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "What are they teaching at Harvard these days?",
+    "subject": "Harvard",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "harvard-university",
+    "note": "Harvard College (now Harvard University) was founded in 1636 and was an important center of learning in the Massachusetts Bay Colony. Its theological leanings are relevant to the conversation.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "this Colony was founded by people fleeing from those who backed the concept of Free Will?",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "note": "The Massachusetts Bay Colony was founded by Puritans seeking religious freedom, but they themselves held strict Calvinist beliefs, including predestination (the opposite of Free Will). This context is important for understanding the debate.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Calvinists in Geneva",
+    "subject": "Calvinism",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "calvinism",
+    "note": "Calvinism is a major branch of Protestantism emphasizing the sovereignty of God and predestination. Knowing its origins in Geneva and its influence on Puritan theology is helpful.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Natural Philosophy",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "note": "Natural Philosophy was the term used for what we now call science, particularly physics. Understanding this historical context is important.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "puts me in mind of Alchemy",
+    "subject": "alchemy",
+    "type": "term",
+    "existing_topic": "Alchemy",
+    "note": "Alchemy was a proto-scientific tradition that sought to transmute base metals into gold and discover a universal elixir. Its association with mysticism and the occult is relevant here.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Sir Isaac Newton has devoted his life to the project",
+    "subject": "alchemy",
+    "type": "term",
+    "existing_topic": "Alchemy",
+    "note": "Newton's deep involvement in alchemy is a surprising fact that contrasts with his scientific achievements. This adds depth to the discussion of the soul and the limits of scientific understanding.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "men such as John Wilkins",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "note": "John Wilkins was a clergyman, natural philosopher, and one of the founders of the Royal Society. Knowing his role in promoting scientific inquiry and religious tolerance is helpful.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Independent sympathies",
+    "subject": "Religious Independents",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "religious-independents",
+    "note": "Religious Independents (or Congregationalists) were a Protestant movement advocating for self-governing churches, separate from the Church of England. This is relevant to the discussion of religious freedom.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Gathered, as opposed to Established, churches",
+    "subject": "Established Church",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "established-church",
+    "note": "An Established Church is a state-supported religious institution, like the Church of England. The contrast with 'gathered' (independent) churches is key to understanding the religious landscape.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Archbishop Laud",
+    "subject": "William Laud",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "william-laud",
+    "note": "William Laud was the Archbishop of Canterbury under Charles I, known for his High Church policies that were opposed by Puritans. Understanding his role in the religious conflicts of the time is helpful.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Arminians versus Puritans",
+    "subject": "Arminianism",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "arminianism",
+    "note": "Arminianism was a theological movement that challenged Calvinist predestination, emphasizing free will. Understanding this theological dispute is important for the context of the conversation.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Galileo, Descartes, Huygens, Newton, Leibniz.",
+    "subject": "Christiaan Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christiaan-huygens",
+    "note": "Christiaan Huygens was a prominent Dutch physicist, mathematician, and astronomer. He made significant contributions to optics, mechanics, and astronomy, and was a contemporary of Newton and Leibniz.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Newton nor Leibniz",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "Gottfried Wilhelm von Leibniz was a German polymath and philosopher who independently developed calculus. His philosophical views and rivalry with Newton are relevant here.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 0
+  },
+  {
+    "quote": "Neither Newton nor Leibniz would agree with you",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Isaac Newton (1643-1727) was an English physicist and mathematician, and a key figure in the scientific revolution.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "Neither Newton nor Leibniz would agree with you",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "suggested_slug": null,
+    "note": "Gottfried Wilhelm Leibniz (1646-1716) was a German polymath and philosopher who independently developed calculus at the same time as Newton, leading to a bitter dispute.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "JOHN BUNYAN, The Pilgrim\u2019s Progress",
+    "subject": "The Pilgrim's Progress",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "pilgrims-progress",
+    "note": "The Pilgrim's Progress is a 1678 Christian allegory written by John Bunyan while imprisoned for violating the Conventicle Act. The quote is from the beginning of the story, when Christian flees the City of Destruction.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "When pirates are put to death, it is because they have been out on the high seas violating Admiralty law",
+    "subject": "Admiralty law",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "admiralty-law",
+    "note": "Admiralty law (also known as maritime law) is a body of law that governs maritime issues and offenses. It has a specific jurisdiction, which is relevant to the placement of pirate gallows.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "There is no shortage of Irish slaves in the West Indies",
+    "subject": "Irish slaves in the West Indies",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "irish-indentured-servitude",
+    "note": "While chattel slavery was primarily associated with Africans, a system of indentured servitude also existed for the Irish, particularly in the West Indies. This system, while different from chattel slavery, involved forced labor and exploitation.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "the ladder becomes Jacob\u2019s",
+    "subject": "Jacob's Ladder",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "jacobs-ladder",
+    "note": "Jacob's Ladder is a biblical reference to a ladder that Jacob saw in a dream, connecting Earth to Heaven. It symbolizes a connection between the earthly and divine realms.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "the captain none other than Drake himself",
+    "subject": "Drake",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "francis-drake",
+    "note": "Sir Francis Drake (c. 1540-1596) was an English sea captain, privateer, navigator, and politician of the Elizabethan era. His presence in the dream is a reference to English maritime power and exploration.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "a couple of lascars, their flesh and breath suffused with saffron, asaf\u0153tida, and cardamom",
+    "subject": "lascars",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "lascars",
+    "note": "Lascars were sailors or military personnel from the Indian subcontinent, Southeast Asia, and other regions employed on European ships, especially from the 16th to the 20th centuries. They often had distinct cultural practices and diets.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 1
+  },
+  {
+    "quote": "Newton\u2019s Principia Mathematica",
+    "subject": "Principia Mathematica",
+    "type": "work",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": "principia-mathematica",
+    "note": "Newton's *Principia Mathematica* (1687) is one of the most important books in the history of science, laying out his laws of motion and universal gravitation. A brief overview of its significance and contents would be helpful.",
+    "chapter": "Boston, Massachusetts Bay Colony",
+    "chunk": 2
+  },
+  {
+    "quote": "Trinity College",
+    "subject": "Trinity College, Cambridge",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "trinity-college-cambridge",
+    "note": "Trinity College is one of the constituent colleges of the University of Cambridge in England, and has a long history of association with scientific and intellectual achievement.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Memoirs of the Right Villanous John Hall, 1708",
+    "subject": "John Hall",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "john-hall",
+    "note": "John Hall (1627-1656) was an English poet, essayist and pamphleteer. The quote is fictional, as Hall died long before 1708.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "business as usual at Trinity College",
+    "subject": "Trinity College, Cambridge",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "trinity-college-cambridge",
+    "note": "Trinity College is one of the constituent colleges of the University of Cambridge in England, and has a long history of association with scientific and intellectual achievement.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Aristotle",
+    "subject": "Aristotle",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "aristotle",
+    "note": "Aristotle (384\u2013322 BC) was a Greek philosopher and polymath during the Classical period in Ancient Greece. He is considered a foundational figure in Western philosophy and science.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Euclid",
+    "subject": "Euclid",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "euclid",
+    "note": "Euclid (fl. 300 BC) was a Greek mathematician, often referred to as the 'father of geometry'. His book *Elements* is one of the most influential works in the history of mathematics.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "sizar",
+    "subject": "sizar",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "sizar",
+    "note": "A sizar was a student at the universities of Cambridge and Dublin who received financial assistance, often in return for performing duties such as waiting tables.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Papist fanatics who, after they died, were found to\u2019ve been secretly wearing hair shirts",
+    "subject": "hair shirt",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "hair-shirt",
+    "note": "A hair shirt is a garment made of coarse animal hair worn next to the skin as a form of penance or mortification of the flesh.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Whitsunday",
+    "subject": "Whitsunday",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "whitsunday",
+    "note": "Whitsunday, also known as Pentecost, is a Christian holiday commemorating the descent of the Holy Spirit upon the Apostles of Jesus Christ.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Boyle\u2019s latest",
+    "subject": "Robert Boyle",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "robert-boyle",
+    "note": "Robert Boyle (1627-1691) was an Anglo-Irish natural philosopher, chemist, physicist, and inventor. He is regarded today as one of the founders of modern chemistry.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Experiments and Considerations Touching Colors",
+    "subject": "Experiments and Considerations Touching Colors",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "experiments-and-considerations-touching-colors",
+    "note": "*Experiments and Considerations Touching Colours* is a book by Robert Boyle, published in 1664, in which he discusses his experiments and theories about color.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Cartesian analysis",
+    "subject": "Cartesian analysis",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "cartesian-analysis",
+    "note": "Cartesian analysis refers to the analytical geometry developed by Ren\u00e9 Descartes, which uses algebra to describe geometric shapes and solve geometric problems.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "homunculus squatting in the middle of his skull",
+    "subject": "homunculus",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "homunculus",
+    "note": "The homunculus argument is a philosophical problem arising from the attempt to explain consciousness. It involves postulating an internal 'little man' inside the brain who is doing the observing, which then leads to the question of who is observing the little man, and so on, creating an infinite regress.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "chromatic aberrations",
+    "subject": "chromatic aberration",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "chromatic-aberration",
+    "note": "Chromatic aberration is a type of distortion in lenses that causes different colors of light to focus at different points, resulting in colored fringes in images.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "to be Isaac Newton: a permanent ongoing epiphany",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Isaac Newton was a highly influential physicist, mathematician, and natural philosopher. A brief overview of his major contributions would be helpful for understanding his significance.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 1
+  },
+  {
+    "quote": "Daniel of the green fields of Massachusetts all the way to England.",
+    "subject": "Massachusetts",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "massachusetts-bay-colony",
+    "note": "The Massachusetts Bay Colony was a British settlement in the 17th century. A brief overview of its history and relationship to England would be helpful.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "College of the Holy and Undivided Trinity, Cambridge",
+    "subject": "Trinity College, Cambridge",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "trinity-college-cambridge",
+    "note": "Trinity College is one of the constituent colleges of the University of Cambridge in England, and has a long history of association with scientific and intellectual achievement.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "King\u2019s",
+    "subject": "King's College, Cambridge",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "kings-college-cambridge",
+    "note": "King's College is another constituent college of Cambridge, known for its chapel and historical rivalry with Trinity.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "Descartes gave us the plane.",
+    "subject": "Ren\u00e9 Descartes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rene-descartes",
+    "note": "Ren\u00e9 Descartes was a French philosopher, mathematician, and scientist. His development of analytic geometry, using a coordinate plane, is crucial to Newton's work.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "the moon that Christian Huygens had lately discovered revolving around Saturn",
+    "subject": "Christian Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christian-huygens",
+    "note": "Christiaan Huygens was a Dutch physicist, mathematician, astronomer and inventor. He discovered Titan, the largest moon of Saturn, in 1655.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "expulsion from Eden and that would very soon culminate in the Apocalypse",
+    "subject": "Apocalypse",
+    "type": "term",
+    "existing_topic": "Apocalypticism",
+    "note": "The reference to the Apocalypse reflects the widespread apocalyptic anxieties of the 17th century, influenced by religious and social upheaval.",
+    "chapter": "College of the Holy and Undivided Trinity, Cambridge",
+    "chunk": 0
+  },
+  {
+    "quote": "HOBBES, Leviathan",
+    "subject": "Leviathan",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "leviathan",
+    "note": "Thomas Hobbes's *Leviathan* (1651) is a foundational work of political philosophy, arguing for a social contract and a strong central authority. Knowing its basic arguments provides context for the quote's relevance to the narrative.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "rules that Bernoulli has set down using the calculus\u2014Leibniz\u2019s version",
+    "subject": "Bernoulli",
+    "type": "person",
+    "existing_topic": "bernoulli-family",
+    "note": "The Bernoulli family were a prominent family of Swiss mathematicians and physicists. Knowing that several members contributed to the development of calculus and its applications to physics provides context.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "calculus\u2014Leibniz\u2019s version",
+    "subject": "calculus",
+    "type": "science",
+    "existing_topic": "calculus-priority-dispute",
+    "note": "Calculus was a revolutionary mathematical tool developed independently by Isaac Newton and Gottfried Wilhelm Leibniz. Understanding the basics of what calculus is and the historical context of the priority dispute is helpful.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Leibniz",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "Gottfried Wilhelm Leibniz was a prominent German polymath and philosopher who independently developed calculus. Knowing his broader intellectual contributions provides context.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Newton",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "Isaac Newton was a pivotal figure in the scientific revolution, known for his laws of motion, universal gravitation, and development of calculus. Understanding his key contributions is essential.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Cambridge",
+    "subject": "Cambridge",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "cambridge-university",
+    "note": "Cambridge University was a center of intellectual life in England, and Newton's academic home. Knowing its role in the scientific revolution and its institutional culture provides context.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Puritans who had been packed into the place by Cromwell",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell was a key figure in the English Civil War and the subsequent Commonwealth. Understanding his Puritan beliefs and his impact on English society and institutions is important.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Isaac Barrow",
+    "subject": "Isaac Barrow",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "isaac-barrow",
+    "note": "Isaac Barrow was an English mathematician and theologian, and Newton's mentor at Cambridge. Knowing his role in Newton's intellectual development provides context.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Luther\u2019s theses on the church-door",
+    "subject": "Luther\u2019s theses",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "ninety-five-theses",
+    "note": "Martin Luther's Ninety-Five Theses, posted in 1517, sparked the Protestant Reformation. Understanding the significance of this event as a challenge to established authority provides context.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Euclid\u2019s geometry",
+    "subject": "Euclid",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "euclid",
+    "note": "Euclid was an ancient Greek mathematician, considered the father of geometry. Understanding the basics of Euclidean geometry and its historical importance is helpful.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Athens of Plato and Aristotle",
+    "subject": "Plato and Aristotle",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "plato-and-aristotle",
+    "note": "Plato and Aristotle were foundational figures in ancient Greek philosophy. Understanding their influence on Western thought and education provides context for the passage's critique of traditional learning.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Alexandria",
+    "subject": "Alexandria",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "alexandria",
+    "note": "Alexandria was a major center of learning and culture in the ancient world, particularly during the Hellenistic period. Knowing its historical significance as a hub of intellectual activity provides context.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Monsieur Descartes",
+    "subject": "Descartes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rene-descartes",
+    "note": "Ren\u00e9 Descartes was a French philosopher and mathematician, known for his work on analytic geometry and his famous dictum \"Cogito, ergo sum.\" Understanding his contributions to mathematics and philosophy is helpful.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Cartesian analysis",
+    "subject": "Cartesian analysis",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "cartesian-geometry",
+    "note": "Cartesian analysis, or analytic geometry, is a method of representing geometric shapes using algebraic equations. Understanding the basics of this approach is helpful for understanding the passage's discussion of mathematics.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "Trinity",
+    "subject": "Trinity",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "trinity-college-cambridge",
+    "note": "Trinity College, Cambridge, was Newton's college and a center of intellectual life. Knowing its role in the scientific revolution and its institutional culture provides context.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 0
+  },
+  {
+    "quote": "natural philosophy that his teachers at Trinity",
+    "subject": "natural philosophy",
+    "type": "term",
+    "existing_topic": "Natural Philosophy",
+    "suggested_slug": null,
+    "note": "Natural philosophy was the study of nature and the physical universe before the development of modern science. Understanding this term helps contextualize the intellectual environment of the time.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "Isaac Barrow, the first Lucasian Professor of Mathematics",
+    "subject": "Isaac Barrow",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "isaac-barrow",
+    "note": "Isaac Barrow was a real mathematician and theologian, and Newton's mentor. A brief biography would help the reader understand his role.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "Barrow had been traveling in the Mediterranean, the ship on which he\u2019d been passenger had been assaulted by pirates",
+    "subject": "pirates",
+    "type": "term",
+    "existing_topic": "Pirates",
+    "suggested_slug": null,
+    "note": "Piracy was a significant issue in the Mediterranean (and elsewhere) during this period. Knowing this provides context for Barrow's actions.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "Barrow\u2019s Latin translation of Euclid",
+    "subject": "Euclid",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "euclid",
+    "note": "Euclid was a Greek mathematician whose work *Elements* was foundational to geometry. Understanding his importance to mathematics at the time is helpful.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "Newton would not have to go back home to Woolsthorpe",
+    "subject": "Woolsthorpe",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "woolsthorpe-manor",
+    "note": "Woolsthorpe Manor was Newton's childhood home. Knowing this helps understand the stakes of his academic success.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "invention of the calculus",
+    "subject": "calculus",
+    "type": "science",
+    "existing_topic": "Calculus Priority Dispute",
+    "suggested_slug": null,
+    "note": "The invention of calculus and the priority dispute between Newton and Leibniz is a major theme. This is the first explicit mention.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "Spring of 1665, Isaac Newton and I decided to walk out to Stourbridge Fair",
+    "subject": "Stourbridge Fair",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "stourbridge-fair",
+    "note": "Stourbridge Fair was a large and important annual trade fair. Knowing its scale and significance provides context for the scene.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "the term calculus , were invented by Leibniz",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "Gottfried Wilhelm von Leibniz",
+    "suggested_slug": null,
+    "note": "Leibniz was a major philosopher and mathematician, and Newton's rival in the development of calculus. This is his first mention.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "Cartesian coordinates",
+    "subject": "Cartesian coordinates",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "cartesian-coordinates",
+    "note": "Cartesian coordinates are a fundamental concept in mathematics. Knowing who Descartes was and the significance of his coordinate system is helpful.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "numbered lines employed by Monsieur Descartes in his Geometry",
+    "subject": "Ren\u00e9 Descartes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rene-descartes",
+    "note": "Ren\u00e9 Descartes was a key figure in the Scientific Revolution. A brief biography would help the reader understand his influence.",
+    "chapter": "Aboard Minerva, Massachusetts Bay",
+    "chunk": 1
+  },
+  {
+    "quote": "JOHN BUNYAN, The Pilgrim\u2019s Progress",
+    "subject": "The Pilgrim's Progress",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "pilgrims-progress",
+    "note": "John Bunyan's *The Pilgrim's Progress* is a famous 17th-century allegorical Christian novel. Knowing its basic premise (a journey to the Celestial City beset by worldly temptations) helps understand the chapter's opening.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "Meaning the Aristotelian approach",
+    "subject": "Aristotelian approach",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "aristotelian-physics",
+    "note": "The 'Aristotelian approach' refers to Aristotelian physics and natural philosophy, which emphasized inherent qualities and distinct categories of objects, in contrast to the emerging mathematical approach of figures like Newton.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "the alchemist does when he extracts, from some crude ore, a pure spirit",
+    "subject": "alchemy",
+    "type": "science",
+    "existing_topic": "Alchemy",
+    "note": "Alchemy was a philosophical and protoscientific tradition aiming at transmuting base metals into gold, discovering a universal elixir, and achieving enlightenment. Understanding its goals and methods provides context for the analogy being made.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "Stourbridge Fair",
+    "subject": "Stourbridge Fair",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "stourbridge-fair",
+    "note": "Stourbridge Fair was a very large annual fair held near Cambridge, England, from the 13th century to the 20th century. Knowing its scale and importance as a trading hub enriches the description.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "Puritans used to set a better example",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "Puritans",
+    "note": "Puritans were a significant religious group in 17th-century England and America, known for their strict moral code and emphasis on religious purity. Understanding their values helps explain the character's reaction.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "Cromwell had readmitted these people to England",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "Oliver Cromwell",
+    "note": "Oliver Cromwell was Lord Protector of England during the Interregnum. His decision to readmit Jews to England in 1656, after their expulsion in 1290, was a significant historical event.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "pieces of eight",
+    "subject": "pieces of eight",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "pieces-of-eight",
+    "note": "\"Pieces of eight\" were Spanish silver coins widely used in international trade during this period. Knowing this helps understand the lens-grinder's initial assumption about the buyer's wealth.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "Sun King",
+    "subject": "Louis XIV",
+    "type": "person",
+    "existing_topic": "Louis XIV",
+    "note": "Louis XIV, the 'Sun King,' was the King of France from 1643 to 1715. Knowing his reputation for opulence and power explains the reference to the *louis d'or*.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "Joachimsthalers",
+    "subject": "Joachimsthalers",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "joachimsthaler",
+    "note": "Joachimsthalers were silver coins originating from Joachimsthal (J\u00e1chymov) in Bohemia, widely circulated in Europe. They were the origin of the word 'dollar'.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 0
+  },
+  {
+    "quote": "James I died half a century ago",
+    "subject": "James I",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "james-i-of-england",
+    "note": "James I (1566-1625) was King of Scotland as James VI, and King of England and Ireland as James I. Understanding his reign helps contextualize the age of the coins being discussed.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "Cromwell is dead, and Interregnum coins demonetized",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell (1599-1658) was Lord Protector of England, Scotland, and Ireland. Knowing about his rule and the Interregnum period is crucial for understanding the context of the coinage.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "the King is beginning to mint new coins",
+    "subject": "Charles II",
+    "type": "person",
+    "existing_topic": "charles-ii",
+    "note": "Charles II (1630-1685) was the King of England, Scotland, and Ireland during the Restoration period. Understanding his reign is essential for the context of the new coinage.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "CAROLUS II DEI GRATIA",
+    "subject": "CAROLUS II DEI GRATIA",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "carolus-ii-dei-gratia",
+    "note": "This is Latin for \"Charles II, by the Grace of God,\" a common inscription on coins of the period. Knowing this helps understand the significance of the coin.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "Guineas, because they are made of gold that the Duke of York\u2019s company is taking out of Africa",
+    "subject": "Guinea coin",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "guinea-coin",
+    "note": "The Guinea was an English gold coin first struck in 1663, named after the Guinea region of West Africa, where much of the gold used to make the coins originated. The Duke of York was involved in the Royal African Company.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "King brought with him a French savant, Monsieur Blondeau, on loan from King Louis",
+    "subject": "Louis XIV",
+    "type": "person",
+    "existing_topic": "louis-xiv",
+    "note": "Louis XIV (1638-1715) was the King of France and a major figure in European politics. Understanding his relationship with Charles II provides context.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "Queen Elizabeth shilling",
+    "subject": "Elizabeth I",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "elizabeth-i",
+    "note": "Elizabeth I (1533-1603) was Queen of England and Ireland. Knowing the historical context of her reign helps understand the age and value of the shilling.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "reign of Edward VI",
+    "subject": "Edward VI",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "edward-vi",
+    "note": "Edward VI (1537-1553) was the King of England and Ireland. Understanding his reign helps contextualize the age of the coins being discussed.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "the Great Debasement, when, before Sir Thomas Gresham could get matters in hand, prices doubled.",
+    "subject": "Great Debasement",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "great-debasement",
+    "note": "The Great Debasement was a period in English history (1544-1551) when the silver content of coinage was reduced, leading to inflation. Sir Thomas Gresham was a financier who advised the crown.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "Battle of Naseby",
+    "subject": "Battle of Naseby",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "battle-of-naseby",
+    "note": "The Battle of Naseby (1645) was a decisive battle in the English Civil War, where Parliamentarian forces defeated the Royalists. Knowing this helps understand the context of the shilling found there.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "Tower of London where new coins are minted",
+    "subject": "Tower of London",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "tower-of-london",
+    "note": "The Tower of London served as the Royal Mint for centuries. Knowing this provides context for the coin's origin.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 1
+  },
+  {
+    "quote": "halfway to Ely",
+    "subject": "Ely",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "ely",
+    "note": "Ely is a cathedral city in Cambridgeshire, England. Knowing its location relative to Cambridge helps the reader understand the distance the porters are fleeing.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 2
+  },
+  {
+    "quote": "I admire Monsieur Descartes\u2019 analysis",
+    "subject": "Ren\u00e9 Descartes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rene-descartes",
+    "note": "Ren\u00e9 Descartes (1596-1650) was a French philosopher, mathematician, and scientist. His mechanistic philosophy is being referenced here.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 2
+  },
+  {
+    "quote": "The year 1665 is halfway over\u2014you know what year comes next. I must to London. Plague has come to England.",
+    "subject": "The Plague",
+    "type": "event",
+    "existing_topic": "plague",
+    "note": "This refers to the Great Plague of London (1665-1666). Knowing the severity and impact of this event is crucial for understanding the characters' reactions.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 2
+  },
+  {
+    "quote": "a harbinger of the Apocalypse.",
+    "subject": "apocalypticism",
+    "type": "term",
+    "existing_topic": "apocalypticism",
+    "note": "Understanding the religious and cultural significance of the Apocalypse, especially in the 17th century, provides context for Daniel's fear and interpretation of the plague.",
+    "chapter": "Banks of the River Cam",
+    "chunk": 2
+  },
+  {
+    "quote": "He can present the data to the Royal Society if-God-willing-he-reaches-London.",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "suggested_slug": null,
+    "note": "The Royal Society was (and is) a highly influential scientific society founded in London in the 17th century. Understanding its role as a center for scientific inquiry and debate is helpful.",
+    "chapter": "Aboard Minerva, off the Coast of New England",
+    "chunk": 0
+  },
+  {
+    "quote": "Daniel wishes there were a comforting analogy to the Royal Society to be made here, but as that lot are currently trying to throw one of their own number (Baron Gottfried Wilhelm von Leibniz) overboard, it doesn\u2019t really work.",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "suggested_slug": null,
+    "note": "Gottfried Wilhelm von Leibniz was a prominent German polymath and philosopher. His contentious relationship with the Royal Society, particularly regarding the calculus priority dispute with Newton, is relevant here.",
+    "chapter": "Aboard Minerva, off the Coast of New England",
+    "chunk": 0
+  },
+  {
+    "quote": "Daniel wishes there were a comforting analogy to the Royal Society to be made here, but as that lot are currently trying to throw one of their own number (Baron Gottfried Wilhelm von Leibniz) overboard, it doesn\u2019t really work.",
+    "subject": "calculus priority dispute",
+    "type": "event",
+    "existing_topic": "calculus-priority-dispute",
+    "suggested_slug": null,
+    "note": "The dispute between Leibniz and Newton over who invented calculus first was a major intellectual conflict of the time. Knowing the basics of this controversy adds context to the reference.",
+    "chapter": "Aboard Minerva, off the Coast of New England",
+    "chunk": 0
+  },
+  {
+    "quote": "a Huguenot",
+    "subject": "Huguenot",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "huguenots",
+    "note": "Huguenots were French Protestants during the 16th and 17th centuries who faced persecution. Knowing their history and the reasons for their diaspora enriches the understanding of this character's presence on the ship.",
+    "chapter": "Aboard Minerva, off the Coast of New England",
+    "chunk": 0
+  }
+]

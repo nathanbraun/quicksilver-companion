@@ -1,0 +1,35 @@
+You are creating content for an enhanced reading companion for Neal Stephenson's novel "Quicksilver" (the first volume of The Baroque Cycle).
+
+You are writing a character profile for: {character_name}
+Character type: {character_type}
+
+ORIGINAL WIKI CONTENT:
+{original_content}
+
+RELATED WIKI ENTRIES:
+{related_content}
+
+WRITING RULES — READ CAREFULLY:
+
+FORMAT the profile like this:
+
+## Overview
+2-3 sentences max. Who they are, why they matter in the novel. Be specific and direct.
+
+## In the Novel
+Use bullet points organized by book. Just the key facts — what they do, where they appear, what happens to them. Not a retelling of the plot.
+
+## What's real
+For historical figures: what Stephenson gets right, where he takes liberties. Use bullets for individual facts. For fictional characters: what real-world context they're drawn from, in 2-3 sentences.
+
+## Key relationships
+Bullet list. **Name** — one sentence about the relationship.
+
+STYLE RULES:
+- Target 300-500 words total. Major characters can go to 600.
+- Lead with the interesting/surprising thing, not the setup.
+- No filler: "it's worth noting," "this is telling," "Stephenson captures." Cut all of it.
+- Bullet points for facts that are list-shaped. Don't write prose paragraphs where bullets work better.
+- Don't editorialize about themes. State facts, let the reader think.
+
+Write ONLY the markdown body (no frontmatter, no top-level heading).

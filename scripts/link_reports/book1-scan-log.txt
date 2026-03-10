@@ -1,0 +1,154 @@
+Loaded 53 existing topic pages
+Chapters to scan: 27
+
+  [1/27]   Scanning 'Boston Common' (48191 chars, 7 chunks)
+    Chunk 1/7... 9 references found
+    Chunk 2/7... 13 references found
+    Chunk 3/7... 11 references found
+    Chunk 4/7... 11 references found
+    Chunk 5/7... 11 references found
+    Chunk 6/7... 13 references found
+    Chunk 7/7... 11 references found
+  [2/27]   Scanning '1655' (24843 chars, 4 chunks)
+    Chunk 1/4... 10 references found
+    Chunk 2/4... 11 references found
+    Chunk 3/4... 17 references found
+    Chunk 4/4... 5 references found
+  [3/27]   Scanning 'Newtowne, Massachusetts Bay Colony' (39614 chars, 6 chunks)
+    Chunk 1/6... 13 references found
+    Chunk 2/6... 12 references found
+    Chunk 3/6... 12 references found
+    Chunk 4/6... 10 references found
+    Chunk 5/6... 17 references found
+    Chunk 6/6... 7 references found
+  [4/27]   Scanning 'College of the Holy and Undivided Trinity, Cambridge' (30386 chars, 4 chunks)
+    Chunk 1/4... 13 references found
+    Chunk 2/4... 16 references found
+    Chunk 3/4... 10 references found
+    Chunk 4/4... 11 references found
+  [5/27]   Scanning 'Boston, Massachusetts Bay Colony' (15814 chars, 3 chunks)
+    Chunk 1/3... 15 references found
+    Chunk 2/3... 11 references found
+    Chunk 3/3... 2 references found
+  [6/27]   Scanning 'College of the Holy and Undivided Trinity, Cambridge' (7998 chars, 2 chunks)
+    Chunk 1/2... 14 references found
+    Chunk 2/2... 2 references found
+  [7/27]   Scanning 'Aboard Minerva, Massachusetts Bay' (2268 chars, 1 chunks)
+    Chunk 1/1... 2 references found
+  [8/27]   Scanning 'College of the Holy and Undivided Trinity, Cambridge' (4419 chars, 1 chunks)
+    Chunk 1/1... 7 references found
+  [9/27]   Scanning 'Aboard Minerva, Massachusetts Bay' (14009 chars, 2 chunks)
+    Chunk 1/2... 11 references found
+    Chunk 2/2... 10 references found
+  [10/27]   Scanning 'Banks of the River Cam' (17982 chars, 3 chunks)
+    Chunk 1/3... 11 references found
+    Chunk 2/3... 13 references found
+    Chunk 3/3... 5 references found
+  [11/27]   Scanning 'Aboard Minerva, off the Coast of New England' (5641 chars, 1 chunks)
+    Chunk 1/1... 8 references found
+  [12/27]   Scanning 'The Plague Year' (44831 chars, 6 chunks)
+    Chunk 1/6... 15 references found
+    Chunk 2/6... 21 references found
+    Chunk 3/6... 14 references found
+    Chunk 4/6... 13 references found
+    Chunk 5/6... 15 references found
+    Chunk 6/6... 13 references found
+  [13/27]   Scanning 'Epsom' (77126 chars, 11 chunks)
+    Chunk 1/11... 11 references found
+    Chunk 2/11... 18 references found
+    Chunk 3/11... 9 references found
+    Chunk 4/11... 11 references found
+    Chunk 5/11... 11 references found
+    Chunk 6/11... 13 references found
+    Chunk 7/11... 10 references found
+    Chunk 8/11... 10 references found
+    Chunk 9/11... 11 references found
+    Chunk 10/11... 10 references found
+    Chunk 11/11... 1 references found
+  [14/27]   Scanning 'Aboard Minerva, Plymouth Bay, Massachusetts' (6934 chars, 1 chunks)
+    Chunk 1/1... 9 references found
+  [15/27]   Scanning 'Woolsthorpe, Lincolnshire' (30918 chars, 5 chunks)
+    Chunk 1/5... 10 references found
+    Chunk 2/5... 10 references found
+    Chunk 3/5... 15 references found
+    Chunk 4/5... 10 references found
+    Chunk 5/5... 1 references found
+  [16/27]   Scanning 'Aboard Minerva, Plymouth Bay, Massachusetts' (11890 chars, 2 chunks)
+    Chunk 1/2... 10 references found
+    Chunk 2/2... 5 references found
+  [17/27]   Scanning 'Charing Cross' (36024 chars, 5 chunks)
+    Chunk 1/5... 17 references found
+    Chunk 2/5... 11 references found
+    Chunk 3/5... 11 references found
+    Chunk 4/5... 9 references found
+    Chunk 5/5... 6 references found
+  [18/27]   Scanning 'Royal Society Meeting, Gresham’s College' (80458 chars, 11 chunks)
+    Chunk 1/11... 24 references found
+    Chunk 2/11... 17 references found
+    Chunk 3/11... 14 references found
+    Chunk 4/11... 13 references found
+    Chunk 5/11... 9 references found
+    Chunk 6/11... 14 references found
+    Chunk 7/11... 11 references found
+    Chunk 8/11... 13 references found
+    Chunk 9/11... 11 references found
+    Chunk 10/11... 16 references found
+    Chunk 11/11... 11 references found
+  [19/27]   Scanning 'Aboard Minerva, Cape Cod Bay, Massachusetts' (10693 chars, 2 chunks)
+    Chunk 1/2... 10 references found
+    Chunk 2/2... 5 references found
+  [20/27]   Scanning 'Gresham’s College, Bishopsgate, London' (35915 chars, 5 chunks)
+    Chunk 1/5... 16 references found
+    Chunk 2/5... 14 references found
+    Chunk 3/5... 10 references found
+    Chunk 4/5... 11 references found
+    Chunk 5/5... 11 references found
+  [21/27]   Scanning 'Once More into the Breeches' (56758 chars, 8 chunks)
+    Chunk 1/8... 13 references found
+    Chunk 2/8... 12 references found
+    Chunk 3/8... 12 references found
+    Chunk 4/8... 17 references found
+    Chunk 5/8... 10 references found
+    Chunk 6/8... 11 references found
+    Chunk 7/8... 8 references found
+    Chunk 8/8... 7 references found
+  [22/27]   Scanning 'London Bridge' (43948 chars, 6 chunks)
+    Chunk 1/6... 8 references found
+    Chunk 2/6... 17 references found
+    Chunk 3/6... 14 references found
+    Chunk 4/6... 16 references found
+    Chunk 5/6... 14 references found
+    Chunk 6/6... 10 references found
+  [23/27]   Scanning 'Aboard Minerva, Cape Cod Bay, Massachusetts' (7948 chars, 2 chunks)
+    Chunk 1/2... 8 references found
+    Chunk 2/2... 1 references found
+  [24/27]   Scanning 'Royal Society Meeting, Gunfleet House' (42946 chars, 6 chunks)
+    Chunk 1/6... 12 references found
+    Chunk 2/6... 9 references found
+    Chunk 3/6... 16 references found
+    Chunk 4/6... 14 references found
+    Chunk 5/6... 13 references found
+    Chunk 6/6... 14 references found
+  [25/27]   Scanning 'Aboard Minerva, Cape Cod Bay, Massachusetts' (11649 chars, 2 chunks)
+    Chunk 1/2... 9 references found
+    Chunk 2/2... 5 references found
+  [26/27]   Scanning 'The City of London' (58525 chars, 8 chunks)
+    Chunk 1/8... 11 references found
+    Chunk 2/8... 14 references found
+    Chunk 3/8... 15 references found
+    Chunk 4/8... 12 references found
+    Chunk 5/8... 14 references found
+    Chunk 6/8... 9 references found
+    Chunk 7/8... 11 references found
+    Chunk 8/8... 10 references found
+  [27/27]   Scanning 'Aboard Minerva, Cape Cod Bay, Massachusetts' (10621 chars, 2 chunks)
+    Chunk 1/2... 7 references found
+    Chunk 2/2... 6 references found
+
+Filtered: 1293 raw → 1215 after noise removal
+
+Raw findings: /Users/nathanbraun/code/github.com/nathanbraun/quicksilver-wiki/enhanced/scripts/link_reports/scan-book1-raw.json
+Clean findings: /Users/nathanbraun/code/github.com/nathanbraun/quicksilver-wiki/enhanced/scripts/link_reports/scan-book1-clean-clean.json
+Report: /Users/nathanbraun/code/github.com/nathanbraun/quicksilver-wiki/enhanced/scripts/link_reports/report-book1.md
+
+Unique references: 495 (42 existing, 453 new)

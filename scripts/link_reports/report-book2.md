@@ -1,0 +1,1338 @@
+# Quicksilver Reading Guide — Reference Scan Report
+
+Total unique references: 447
+Already have topic pages: 29
+Need new topic pages: 418
+
+## Existing Topics — Chapter Appearances
+
+These topics already have wiki pages. Use this to add links in annotations.
+
+- **Louis XIV** (`louis-xiv`) — 7 chapters
+  - Chapters: The Continent, The Place, The Dutch Republic, Paris, The Hague, France, Amsterdam
+- **Quicksilver (Mercury) and Alchemy** (`quicksilver-mercury`) — 7 chapters
+  - Chapters: Erstwhile Camp of Grand Vizier Khan Mustapha, Leipzig, Saxony, The Harz Mountains, The Place, Paris, France
+- **The Restoration** (`charles-ii`) — 6 chapters
+  - Chapters: The Mud Below London, The Dutch Republic, Paris, The Hague, France, Amsterdam
+- **James II** (`james-ii`) — 6 chapters
+  - Chapters: The Continent, Bohemia, The Dutch Republic, Paris, The Hague, Amsterdam
+- **The Plague** (`plague`) — 4 chapters
+  - Chapters: The Continent, Erstwhile Camp of Grand Vizier Khan Mustapha, Bohemia, The Dutch Republic
+- **Barbary Corsairs** (`pirates`) — 4 chapters
+  - Chapters: Erstwhile Camp of Grand Vizier Khan Mustapha, Saxony, Paris, Coast of Europe and of Northern Africa
+- **Alchemy** (`alchemy`) — 4 chapters
+  - Chapters: Bohemia, Leipzig, Saxony, The Place
+- **Gottfried Wilhelm von Leibniz** (`gottfried-wilhelm-von-leibniz`) — 4 chapters
+  - Chapters: Leipzig, Saxony, The Harz Mountains, Amsterdam
+- **Coffeehouses** (`coffeehouses`) — 4 chapters
+  - Chapters: The Place, The Dutch Republic, Paris, Amsterdam
+- **Apocalypticism** (`apocalypticism`) — 3 chapters
+  - Chapters: The Continent, Bohemia, Saxony
+- **Puritans** (`puritans`) — 3 chapters
+  - Chapters: The Continent, Erstwhile Camp of Grand Vizier Khan Mustapha, The Dutch Republic
+- **Duke of Monmouth** (`monmouth`) — 3 chapters
+  - Chapters: Bohemia, The Hague, Amsterdam
+- **Binary Number System** (`computing-machines`) — 3 chapters
+  - Chapters: Leipzig, Saxony, The Place
+- **Restoration Theater** (`restoration-theater`) — 2 chapters
+  - Chapters: The Mud Below London, Bohemia
+- **Charles I** (`charles-i`) — 2 chapters
+  - Chapters: Bohemia, The Hague
+- **The Great Fire of London** (`great-fire-of-london`) — 2 chapters
+  - Chapters: Bohemia, The Place
+- **The English Civil War** (`english-civil-war`) — 2 chapters
+  - Chapters: Bohemia, The Hague
+- **House of Brunswick-Lüneburg** (`hanoverian-succession`) — 2 chapters
+  - Chapters: Leipzig, Amsterdam
+- **Neptunism vs Plutonism** (`natural-philosophy`) — 2 chapters
+  - Chapters: The Harz Mountains, Amsterdam
+- **Oliver Cromwell** (`oliver-cromwell`) — 1 chapters
+  - Chapters: Bohemia
+- **Mercury, or the Secret and Swift Messenger** (`john-wilkins`) — 1 chapters
+  - Chapters: Leipzig
+- **The Calculus Priority Dispute** (`calculus-priority-dispute`) — 1 chapters
+  - Chapters: Saxony
+- **Isaac Newton** (`isaac-newton`) — 1 chapters
+  - Chapters: Saxony
+- **The Royal Society** (`royal-society`) — 1 chapters
+  - Chapters: Saxony
+- **Enoch Root** (`enoch-root`) — 1 chapters
+  - Chapters: The Harz Mountains
+- **Universal Characteristic** (`universal-characteristic`) — 1 chapters
+  - Chapters: The Place
+- **Restoration London** (`restoration-london`) — 1 chapters
+  - Chapters: The Place
+- **Bob Shaftoe** (`bob-shaftoe`) — 1 chapters
+  - Chapters: France
+- **Financial preparations for the Glorious Revolution** (`glorious-revolution`) — 1 chapters
+  - Chapters: Amsterdam
+
+## New Topics Needed
+
+Grouped by type, sorted by number of chapter appearances.
+
+### Persons
+
+- **John Churchill, 1st Duke of Marlborough** (`john-churchill`) — 5 chapters
+  - One of England's greatest military commanders. At this time, he was a loyal lieutenant to the Duke of York (the future James II).
+  - Example: "soldier under John Churchill, who was in the household of the Duke of York" (The Continent)
+- **Sophia of the Palatinate** (`sophia-of-the-palatinate`) — 4 chapters
+  - Electress of Hanover and mother of George I; she was a patron of Leibniz and a key figure in the Hanoverian Succession.
+  - Example: "LISELOTTE IN A LETTER TO SOPHIE" (Leipzig)
+- **Daniel Defoe** (`daniel-defoe`) — 3 chapters
+  - English writer and spy, best known for 'Robinson Crusoe'. 'Moll Flanders' (1722) depicts the life of a woman navigating poverty and crime, mirroring t
+  - Example: "DANIEL DEFOE, Moll Flanders" (The Continent)
+- **Kara Mustafa Pasha** (`kara-mustafa-pasha`) — 3 chapters
+  - The Ottoman Grand Vizier who led the massive central European campaign in 1683, culminating in the Siege of Vienna.
+  - Example: "Grand Vizier Khan Mustapha was still besieging the city of Vienna" (The Continent)
+- **John Churchill, 1st Duke of Marlborough** (`john-churchill-duke-of-marlborough`) — 3 chapters
+  - One of England's greatest military commanders, who would go on to lead Allied forces during the War of the Spanish Succession.
+  - Example: "young John Churchill" (Bohemia)
+- **William III of Orange** (`william-iii-of-orange`) — 3 chapters
+  - The Stadtholder of the Dutch Republic and later King of England. He was the primary European antagonist to the ambitions of Louis XIV.
+  - Example: "William of Orange, who was thought to know more’n anyone about staving off the C" (The Dutch Republic)
+- **Leopold I, Holy Roman Emperor** (`leopold-i`) — 2 chapters
+  - The head of the House of Habsburg and Holy Roman Emperor (1658–1705) during the conflicts with Louis XIV and the Ottoman Empire.
+  - Example: "the Emperor’s armies would rape and pillage it from the East" (The Continent)
+- **Jean Martinet** (`jean-martinet`) — 2 chapters
+  - A French lieutenant colonel and drillmaster whose strict, standardized training methods for Louis XIV's army gave rise to the term 'martinet' for a ri
+  - Example: "brought to ruin by many tiresome reforms... by one Martinet" (The Continent)
+- **John III Sobieski** (`john-iii-sobieski`) — 2 chapters
+  - The King of Poland and Grand Duke of Lithuania whose arrival with his relief force was decisive in lifting the Siege of Vienna.
+  - Example: "army of Poland-Lithuania, and their terrible King was John Sobieski" (The Continent)
+- **Barbara Palmer, 1st Duchess of Cleveland** (`barbara-palmer`) — 2 chapters
+  - Barbara Palmer, also known as Lady Castlemaine, was a powerful and influential mistress of Charles II; John Churchill was one of her well-known lovers
+  - Example: "The bed of the favorite mistress of King Charles the Second of England." (Bohemia)
+- **Jean Bart** (`jean-bart`) — 2 chapters
+  - A famous French naval commander and privateer from Dunkirk known for his daring exploits against the Dutch and English.
+  - Example: "big warships of that arch-privateer Jean Bart" (The Dutch Republic)
+- **Jean-Antoine de Mesmes, Comte d'Avaux** (`comte-davaux`) — 2 chapters
+  - A prominent French diplomat under Louis XIV who served as ambassador to the Dutch Republic during the 1680s.
+  - Example: "Jean Antoine de Mesmes, comte d’Avaux, your most humble servant" (The Hague)
+- **Jean-Antoine de Mesmes, comte d'Avaux** (`comte-d-avaux`) — 2 chapters
+  - A veteran French diplomat and ambassador who served Louis XIV, specifically tasked with undermining Dutch influence and managing French interests in T
+  - Example: "d’Avaux by planting the blades sideways" (The Hague)
+- **Mary II of England** (`mary-ii`) — 2 chapters
+  - The daughter of James II and wife of William of Orange; she later reigned jointly with her husband as Mary II after the Glorious Revolution.
+  - Example: "This was Mary—the daughter of the new King of England, and William of Orange’s w" (The Hague)
+- **Françoise d'Aubigné, Marquise de Maintenon** (`madame-de-maintenon`) — 2 chapters
+  - The second wife of Louis XIV; though they were married in a private ceremony around 1683, she was never officially recognized as Queen, yet she wielde
+  - Example: "King Looie has secretly married Mademoiselle de Maintenon" (France)
+- **John Donne** (`john-donne`) — 2 chapters
+  - A leading English poet of the Metaphysical movement and a cleric in the Church of England, known for his complex metaphors and exploration of both car
+  - Example: "JOHN DONNE, “Breake of Day”" (Amsterdam)
+- **Ordinary of Newgate** (`ordinary-of-newgate`) — 1 chapter
+  - The chaplain of Newgate Prison whose duty was to provide spiritual comfort to condemned prisoners and exhort them to confess before execution.
+  - Example: "A preacher—the Ordinary of Newgate—was there" (The Mud Below London)
+- **Jack Ketch** (`jack-ketch`) — 1 chapter
+  - An infamous 17th-century executioner whose name became a generic nickname for all hangmen in England for centuries.
+  - Example: "Jack Ketch was now the man to watch." (The Mud Below London)
+- **Colonel James Turner** (`james-turner-execution`) — 1 chapter
+  - James (often called John) Turner was a high-profile criminal whose 1664 execution for burglary was a major public spectacle, famously attended and wri
+  - Example: "And damn Jack Ketch; the late John Turner" (The Mud Below London)
+- **Charles II, Elector Palatine** (`charles-ii-elector-palatine`) — 1 chapter
+  - The last Elector of the Simmern line. His death in 1685 without an heir triggered the devastating War of the Palatine Succession (Nine Years' War).
+  - Example: "an impotent madman named Charles, who liked to stage mock battles" (The Continent)
+- **The Grand Turk** (`the-grand-turk`) — 1 chapter
+  - A common European title for the Sultan of the Ottoman Empire; at the time of the Battle of Vienna, this was Mehmed IV.
+  - Example: "parts of the Grand Turk’s camp" (The Continent)
+- **Grand Vizier** (`grand-vizier`) — 1 chapter
+  - The de facto prime minister of the Ottoman Empire, second only to the Sultan. At the time of the Siege of Vienna, this was Kara Mustafa Pasha.
+  - Example: "he gave me to the Grand Vizier." (The Continent)
+- **Gabriel Nicolas de la Reynie** (`gabriel-nicolas-de-la-reynie`) — 1 chapter
+  - The first Lieutenant General of Police in Paris under Louis XIV, credited with cleaning up the 'Court of Miracles' and modernizing urban policing.
+  - Example: "King Looie’s puissant man, who has an exorbitant scope of powers—a most cruel op" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Elizabeth Stuart, Queen of Bohemia** (`elizabeth-stuart`) — 1 chapter
+  - The daughter of James I of England and sister to Charles I. Her brief reign in Bohemia earned her the nickname 'The Winter Queen' and her many descend
+  - Example: "One of those lords married an English girl, name of Elizabeth—the sister of Chuc" (Bohemia)
+- **Frederick V and Elizabeth Stuart** (`winter-king-and-queen`) — 1 chapter
+  - Frederick V of the Palatinate and his wife Elizabeth Stuart, whose reign in Bohemia lasted only one winter (1619–1620) before they were defeated and e
+  - Example: "The Winter Queen and the Winter King, as they were called after that" (Bohemia)
+- **Charles I Louis, Elector Palatine** (`charles-i-louis-elector-palatine`) — 1 chapter
+  - The son of the Winter Queen who regained his father's title and lands following the Peace of Westphalia.
+  - Example: "The eldest became Elector Palatinate after the war" (Bohemia)
+- **Henry Morgan** (`henry-morgan`) — 1 chapter
+  - A famous Welsh privateer and later Lieutenant Governor of Jamaica who led daring raids against Spanish settlements in the Caribbean.
+  - Example: "only a few years since Captain Morgan had personally sacked Portobelo and Panama" (Bohemia)
+- **Sir Winston Churchill (1620–1688)** (`sir-winston-churchill-17th-century`) — 1 chapter
+  - The father of the 1st Duke of Marlborough and ancestor of the 20th-century Prime Minister; he was a Royalist politician and historian during the Resto
+  - Example: "Sir Winston Churchill" (Bohemia)
+- **Nell Gwyn** (`nell-gwyn`) — 1 chapter
+  - A celebrated actress of the Restoration era and one of the most famous mistresses of King Charles II, representing the rise of celebrity culture.
+  - Example: "the King’s other favorite mistress is Nell Gwyn—an actress." (Bohemia)
+- **Charles de Batz de Castelmore d'Artagnan** (`dartagnan`) — 1 chapter
+  - The real-life captain of the Musketeers of the Guard who served Louis XIV and died at the Siege of Maastricht; the inspiration for Dumas's character.
+  - Example: "located Monsieur D’Artagnan, the officer in ch—" (Bohemia)
+- **Claude Louis Hector de Villars** (`claude-louis-hector-de-villars`) — 1 chapter
+  - A prominent French military commander under Louis XIV who became one of only six Marshals General of France.
+  - Example: "Louis Hector de Villars, have performed" (Bohemia)
+- **Holy Roman Emperor** (`holy-roman-emperor`) — 1 chapter
+  - In 1683, this would refer to Leopold I. The Empire was a complex union of territories in Central Europe, primarily Germanic.
+  - Example: "proposing to blow up the Holy Roman Emperor’s palace" (Bohemia)
+- **Elizabeth Charlotte, Madame Palatine** (`liselotte-palatine`) — 1 chapter
+  - Known as Liselotte, she was the sister-in-law of Louis XIV and a prolific letter writer whose correspondence provides deep insight into the Bourbon co
+  - Example: "LISELOTTE IN A LETTER TO SOPHIE, 30 JULY 1705" (Leipzig)
+- **Minerva** (`minerva`) — 1 chapter
+  - The Roman goddess of wisdom and strategic warfare. In this context, she represents the intellectual and artisanal skill required for successful commer
+  - Example: "Sometimes he was paired against Minerva with her snaky shield" (Leipzig)
+- **The Fugger Family** (`fugger-family`) — 1 chapter
+  - A dominant German banking and mercantile family in the 15th and 16th centuries, often compared to the Medicis.
+  - Example: "prosperous industry, upon which the fortunes of great families such as the Fugge" (Leipzig)
+- **Elizabeth Stuart, Queen of Bohemia** (`the-winter-queen`) — 1 chapter
+  - Elizabeth Stuart was known as the 'Winter Queen' because her reign in Bohemia lasted only one winter; she was a central figure in the events leading t
+  - Example: "the daughter of the Winter Queen herself" (Saxony)
+- **Sophia Charlotte of Hanover** (`sophia-charlotte-of-hanover`) — 1 chapter
+  - The daughter of Sophia of the Palatinate; her marriage to Frederick of Brandenburg (later Frederick I of Prussia) was a major dynastic event in the la
+  - Example: "Sophie’s daughter, Sophie Charlotte, was fixing to marry the Elector of Brandenb" (Saxony)
+- **Vizier** (`vizier`) — 1 chapter
+  - A high-ranking political advisor or minister in the Ottoman Empire.
+  - Example: "Vizier in Constantinople" (Saxony)
+- **Martin Luther** (`martin-luther`) — 1 chapter
+  - The German priest and central figure of the Protestant Reformation. His presence here signifies the religious identity of the region and the building'
+  - Example: "found himself looking at a portrait of Martin Luther" (The Harz Mountains)
+- **Saint Barbara** (`saint-barbara`) — 1 chapter
+  - The patron saint of miners, armorers, and mathematicians. Miners in the Harz region traditionally invoked her for protection against explosions and ca
+  - Example: "recognized the woman as St. Barbara, patron of men who dug holes in the ground" (The Harz Mountains)
+- **Richard Shaftoe** (`richard-shaftoe`) — 1 chapter
+  - Though a member of the fictional Shaftoe family, his death in the Thames is a recurring memory for Jack; context on the dangerous, crowded nature of t
+  - Example: "poor brother Dick who had drowned in the Thames" (The Harz Mountains)
+- **Pope Innocent XI** (`pope-innocent-xi`) — 1 chapter
+  - The Pope from 1676 to 1689 who had a famously contentious relationship with Louis XIV over the rights of the French crown versus the Church.
+  - Example: "challenging Pope Innocent XI to a staredown" (The Place)
+- **Sophia of the Palatinate and Ernest Augustus, Elector of Hanover** (`sophia-of-hanover`) — 1 chapter
+  - The Electress Sophia was a major intellectual figure and the mother of King George I of Great Britain; her husband Ernest Augustus was the Elector of 
+  - Example: "Sophie and Ernst August had inherited their library" (The Place)
+- **Thomas Hobbes** (`thomas-hobbes`) — 1 chapter
+  - An English philosopher whose 1651 work 'Leviathan' established the foundation for social contract theory and modern political philosophy.
+  - Example: "HOBBES, Leviathan" (The Place)
+- **John Dee** (`john-dee`) — 1 chapter
+  - An Elizabethan mathematician, astronomer, and occultist who served as an advisor to Elizabeth I and was famous for his attempts to communicate with an
+  - Example: "Dr. John Dee, the famed alchemist and mountebank?" (The Place)
+- **Jewish Community of Amsterdam** (`jews-in-amsterdam`) — 1 chapter
+  - Amsterdam was a rare haven for Sephardic Jews fleeing the Inquisition in Spain and Portugal; they became central to the city's banking and trading suc
+  - Example: "numerous Jews among them" (The Place)
+- **Sir Winston Churchill (1620–1688)** (`winston-churchill-elder`) — 1 chapter
+  - The father of the Duke of Marlborough and a Royalist politician. His service to the crown helped place his children in the royal household.
+  - Example: "thanks to the maneuverings of his daddy Winston" (The Dutch Republic)
+- **Ferdinand Magellan** (`ferdinand-magellan`) — 1 chapter
+  - A Portuguese explorer who led the first expedition to circumnavigate the globe; used here as a metaphor for adventurous, pioneering rats.
+  - Example: "These were the savants, the Magellans" (The Dutch Republic)
+- **Louis XIII** (`louis-xiii`) — 1 chapter
+  - The father of Louis XIV; an equestrian statue of him stood in the center of the Place Royale until it was destroyed during the French Revolution.
+  - Example: "statue of King Looie’s dear old pop, Looie the Thirteenth—on horseback" (Paris)
+- **Cardinal Mazarin** (`cardinal-mazarin`) — 1 chapter
+  - The Chief Minister of France who held de facto power during Louis XIV's youth; Louis only began personal rule after Mazarin's death.
+  - Example: "until the death of Cardinal Mazarin on the ninth of March, 1661" (The Hague)
+- **Marquis de Louvois** (`marquis-de-louvois`) — 1 chapter
+  - The French Secretary of State for War under Louis XIV, famous for expanding and modernizing the French army.
+  - Example: "Acting as a cat’s-paw for the Marquis de Louvois" (The Hague)
+- **Duke of Braunschweig-Lüneburg** (`duke-of-braunschweig-luneburg`) — 1 chapter
+  - A title held by members of the House of Welf; at this time, it refers to the rulers of the territory that would become the Electorate of Hanover.
+  - Example: "the Duke of Braunschweig-Lüneburg controls his Faulbaum inventory" (The Hague)
+- **Christiaan Huygens** (`christiaan-huygens`) — 1 chapter
+  - A preeminent Dutch mathematician, physicist, and astronomer who invented the pendulum clock and proposed the wave theory of light.
+  - Example: "lectures of Monsieur Huygens" (The Hague)
+- **Louis XIV's Legitimated Children** (`legitimated-princes-of-france`) — 1 chapter
+  - Louis XIV had several children by his mistresses (notably Madame de Montespan) whom he legitimized and sought to marry into high-ranking European nobi
+  - Example: "making Mary available for marriage to one of his French bastards" (The Hague)
+- **Frederick Henry, Prince of Orange** (`frederick-henry-prince-of-orange`) — 1 chapter
+  - The Stadtholder (de facto ruler) of the United Provinces from 1625 to 1647, known for his military successes and legal edicts during the Dutch Golden 
+  - Example: "one of them written in the time of the Stadholder Frederick Henry." (The Hague)
+- **Brueghel family** (`brueghel-family`) — 1 chapter
+  - A famous dynasty of Flemish painters known for detailed landscapes and scenes of peasant life.
+  - Example: "daubed on canvas by one of those Brueghels" (Amsterdam)
+- **William III and Mary II** (`william-and-mary`) — 1 chapter
+  - William of Orange (the Stadtholder of the Netherlands) and his wife Mary (daughter of James II of England). They would eventually co-rule England foll
+  - Example: "William and Mary entering their box. Everyone rose and applauded." (Amsterdam)
+- **The De La Vega Family** (`de-la-vega-family`) — 1 chapter
+  - Based on the historical Joseph de la Vega, a Sephardic Jewish merchant in Amsterdam who wrote 'Confusion de Confusiones,' the first book on stock exch
+  - Example: "Abraham de la Vega... his uncle, Aaron de la Vega" (Amsterdam)
+- **Baruch Spinoza** (`baruch-spinoza`) — 1 chapter
+  - A major Dutch philosopher of the Enlightenment who famously earned his living as a highly skilled lens grinder, which likely contributed to the lung i
+  - Example: "lenses ground... by his late second cousin, Baruch de Spinoza" (Amsterdam)
+- **John Bunyan** (`john-bunyan`) — 1 chapter
+  - An English writer and Puritan preacher best known for 'The Pilgrim's Progress' (1678), one of the most significant works of religious English literatu
+  - Example: "JOHN BUNYAN, The Pilgrim’s Progress" (Paris)
+- **Sarah Churchill, Duchess of Marlborough** (`sarah-churchill`) — 1 chapter
+  - One of the most influential women of her time due to her close friendship with the future Queen Anne.
+  - Example: "I’ve taken a sound, some would say stern, English bride: Sarah." (Paris)
+- **Louis, Duke of Bourbon** (`duc-de-bourbon`) — 1 chapter
+  - A member of the French royal family; the anecdote about the snuff-box refers to a real historical incident involving the poet Jean Santeul.
+  - Example: "The duc de Bourbon hosted a dinner party. Invited a certain eminent writer." (Paris)
+- **Arnold Joost van Keppel** (`arnold-joost-van-keppel`) — 1 chapter
+  - A close confidant and rumored lover of William of Orange, Keppel later became the 1st Earl of Albemarle and a powerful figure in both Dutch and Englis
+  - Example: "Arnold Joost van Keppel,” he explained curtly, “page to the Prince of Orange." (Amsterdam)
+- **Frederick William, Elector of Brandenburg** (`elector-of-brandenburg`) — 1 chapter
+  - Known as the 'Great Elector,' he was the ruler of Brandenburg-Prussia and a key player in the shifting European alliances against Louis XIV.
+  - Example: "save that the Elector has a palace there." (Amsterdam)
+- **William III of England (William of Orange)** (`william-of-orange`) — 1 chapter
+  - The Sovereign Prince of Orange and Stadtholder of the Dutch Republic who eventually took the English throne during the Glorious Revolution.
+  - Example: "fell to her knees in front of the Prince of Orange" (Amsterdam)
+### Events
+
+- **Battle of Vienna (1683)** (`battle-of-vienna`) — 7 chapters
+  - The 1683 Siege of Vienna by the Ottoman Empire was a turning point in European history, marking the end of Ottoman expansion into Central Europe.
+  - Example: "suspected he could strike a better deal closer to Vienna" (The Continent)
+- **The Thirty Years' War** (`thirty-years-war`) — 5 chapters
+  - A reference to the extreme devastation of the German lands during the Thirty Years' War (1618–1648), which left much of the region depopulated and des
+  - Example: "nothing alive that is more than fifty years old" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Siege of Vienna** (`siege-of-vienna`) — 3 chapters
+  - The two-month siege in 1683 where Ottoman forces surrounded the city, leading to the climactic battle mentioned above.
+  - Example: "Vienna was a small town dwarfed by its own defenses, in turn engulfed by a large" (The Continent)
+- **Franco-Dutch War** (`franco-dutch-war`) — 3 chapters
+  - Also known as the 'Year of Disaster' (Rampjaar) for the Dutch, when France, England, and others invaded the Dutch Republic.
+  - Example: "during the run-up to the 1672 war" (The Hague)
+- **Battle of Vienna** (`battle-of-vienna-1683`) — 2 chapters
+  - A turning point in history where the Ottoman Empire's advance into Europe was halted by a coalition of Holy Roman Empire and Polish forces.
+  - Example: "at the head of an army of two hundred thousand Turks" (The Continent)
+- **Siege of Vienna (1683)** (`siege-of-vienna-1683`) — 2 chapters
+  - The 1683 Siege of Vienna was a turning point in history where the Ottoman Empire's expansion into Europe was halted by the Holy Roman Empire and the P
+  - Example: "These trenches must, instead, be part of the assault against Vienna." (The Continent)
+- **Leipzig Trade Fair** (`leipzig-trade-fair`) — 2 chapters
+  - One of the oldest and most important trade fairs in Central Europe, serving as a crucial junction for trade between Western Europe and the Ottoman/Rus
+  - Example: "Leipzig one... where goods of the East... are exchanged for goods of the West" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **The Year of Disaster (Rampjaar) 1672** (`rampjaar-1672`) — 2 chapters
+  - In 1672, the Dutch intentionally flooded their own land to stop the invading French army of Louis XIV from reaching Amsterdam.
+  - Example: "William of Orange had opened the sluices and flooded the land" (The Place)
+- **Sale of Dunkirk** (`sale-of-dunkirk`) — 2 chapters
+  - In 1662, Charles II sold the strategic port of Dunkirk to Louis XIV for five million livres to alleviate his chronic financial problems.
+  - Example: "King Looie had bought Dunkirk from King Chuck" (The Dutch Republic)
+- **The Regicides of Charles I** (`the-regicides`) — 1 chapter
+  - After the Restoration in 1660, the men who had signed the death warrant of King Charles I (the regicides) were hunted down and executed, often by bein
+  - Example: "But, with so many lordly regicides / Who’ve lately come to Tyburn" (The Mud Below London)
+- **Annexation of Strasbourg** (`annexation-of-strasbourg`) — 1 chapter
+  - Strasbourg was a Free Imperial City of the Holy Roman Empire until it was surrounded and seized by the forces of Louis XIV in 1681 during the War of t
+  - Example: "Strasbourg. This was a city on the Rhine, formerly German and, as of quite recen" (The Continent)
+- **The Holy League (1684)** (`the-holy-league`) — 1 chapter
+  - This refers to the alliance of European powers organized by Pope Innocent XI to oppose the Ottoman Empire during the Great Turkish War.
+  - Example: "Crusaders’ red cross, bishops and archbishops with their jeweled shepherd’s-hook" (The Continent)
+- **Bartholomew Fair** (`bartholomew-fair`) — 1 chapter
+  - A massive, chaotic annual summer fair held in Smithfield, London, known for its rowdy entertainment, sideshows, and 'geeks' (performers of grotesque a
+  - Example: "My life, since I approached Vienna, is become some kind of Bartholomew-Fair geek" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Barbary Slave Trade** (`barbary-slave-trade`) — 1 chapter
+  - Between the 16th and 19th centuries, Barbary pirates captured and enslaved an estimated 1 million to 1.25 million Europeans, a major geopolitical issu
+  - Example: "we were added to the general pool of European slaves there—some tens of thousand" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Ramadan** (`ramadan`) — 1 chapter
+  - The ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, and reflection.
+  - Example: "which met on a fortnightly rotation except during Ramadan" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Defenestration of Prague (1618)** (`defenestration-of-prague`) — 1 chapter
+  - The event that triggered the Thirty Years' War, where Bohemian Protestants threw Catholic regents out of a window at Prague Castle.
+  - Example: "threw several of ’em out a castle window into a dung-heap, and declared this cou" (Bohemia)
+- **Clubmen** (`clubmen`) — 1 chapter
+  - Third-party vigilante groups during the English Civil War who rose up to protect their local areas from the depredations of both Royalist and Parliame
+  - Example: "Clubmen—armies of peasants who’d once roamed that part of the country with cudge" (Bohemia)
+- **The Interregnum** (`the-interregnum`) — 1 chapter
+  - The period between the execution of Charles I in 1649 and the Restoration of Charles II in 1660, when England was a republic under Oliver Cromwell.
+  - Example: "probably whined about his great loyalty during the Interregnum" (Bohemia)
+- **Tangier Garrison** (`english-tangier`) — 1 chapter
+  - Tangier was an English possession from 1661 to 1684; the garrison there saw frequent conflict with the Moors and Barbary pirates.
+  - Example: "John Churchill went to Tangiers for a few years to fight Barbary Pirates." (Bohemia)
+- **Siege of Maastricht (1673)** (`siege-of-maastricht-1673`) — 1 chapter
+  - A key battle in the Franco-Dutch War where John Churchill distinguished himself and Vauban's siege tactics were famously employed.
+  - Example: "the Siege of Maestricht—a city in Holland." (Bohemia)
+- **Treaty of Dover** (`treaty-of-dover`) — 1 chapter
+  - The secret 1670 treaty where Charles II promised to assist Louis XIV in a war against the Dutch and convert to Catholicism in exchange for subsidies.
+  - Example: "Charles II had made a pact with, of all people, that King Looie of France" (Bohemia)
+- **Devastation of the Palatinate** (`devastation-of-the-palatinate`) — 1 chapter
+  - The systematic destruction of the Rhenish Palatinate by French forces, particularly during the Nine Years' War, which caused widespread outrage in Eur
+  - Example: "sacking the Palatinate for the hundredth time" (Bohemia)
+- **Sacking of the Palatinate** (`sacking-of-the-palatinate`) — 1 chapter
+  - Refers to the devastation of the Rhenish Palatinate by French forces under Louis XIV, particularly during the Franco-Dutch War and later the Nine Year
+  - Example: "Bob went to Westphalia with him and campaigned under French generals... sacking " (Bohemia)
+- **Spanish Silver Mining in the Americas** (`spanish-silver-trade`) — 1 chapter
+  - The massive influx of cheap silver from mines like Potosí and Zacatecas caused significant inflation in Europe and led to the decline of traditional E
+  - Example: "Spanish could mine and refine silver in Mexico... cheaper than Herr Geidel" (Leipzig)
+- **Leipzig Trade Fair** (`leipzig-messe`) — 1 chapter
+  - The Leipzig Messe was one of the most important trade fairs in Central Europe, dating back to the Middle Ages, where merchants from across the contine
+  - Example: "Holy Spirit of the Messe that made all tongues one" (Leipzig)
+- **Smallpox** (`smallpox-history`) — 1 chapter
+  - Smallpox was a devastating endemic disease in the 17th century; survivors were often left with deep facial scarring (pockmarks), a common sight in thi
+  - Example: "He had battled smallpox and won" (Leipzig)
+- **Leibniz's Harz Mountain Mining Project** (`harz-mountain-mining-project`) — 1 chapter
+  - Leibniz spent years attempting to use wind power to pump water out of the silver mines in the Harz Mountains, a project that was largely a failure.
+  - Example: "trying to beg money from the likes of Lothar von Hacklheber... so that I could d" (Saxony)
+- **Leipzig and Frankfurt Book Fairs** (`leipzig-and-frankfurt-book-fairs`) — 1 chapter
+  - These were the most important centers for the book trade in Europe; Leibniz proposed a national archive and bibliography system based on the catalogs 
+  - Example: "booksellers at the Leipzig and Frankfurt fairs" (Saxony)
+- **Witch trials in the Holy Roman Empire** (`witch-trials-germany`) — 1 chapter
+  - While witch trials were declining in England, they remained frequent and brutal in German territories during the late 17th century.
+  - Example: "vertical post fixed in the ground and half buried in a pile of faggots... the wi" (Saxony)
+- **Walpurgisnacht** (`walpurgisnacht`) — 1 chapter
+  - A traditional German spring festival (April 30–May 1) associated with witches gathering on the Brocken, the highest peak in the Harz Mountains.
+  - Example: "The Harz Mountains WALPURGISNACHT 1684" (The Harz Mountains)
+- **17th Century Book Censorship** (`amsterdam-publishing-trade`) — 1 chapter
+  - Amsterdam was the center of the 'forbidden' book trade in Europe, where works banned by French or Catholic censors were printed and smuggled back acro
+  - Example: "burnt in Paris and bootlegged in Amsterdam" (The Harz Mountains)
+- **Expulsion of Jews from French territories** (`expulsion-of-jews-france`) — 1 chapter
+  - Refers to the increasing persecution of religious minorities under Louis XIV, leading up to the 1685 Edict of Fontainebleau.
+  - Example: "expelling Jewry from Bordeaux" (The Place)
+- **Dutch Revolt** (`dutch-revolt`) — 1 chapter
+  - Also known as the Eighty Years' War (1568–1648), where the northern provinces of the Netherlands fought for independence from Catholic Spanish rule.
+  - Example: "these fucking Dutchmen turned Calvinist and revolted" (The Dutch Republic)
+- **The Water Line** (`the-water-line`) — 1 chapter
+  - Refers to the Dutch strategy during the Franco-Dutch War (1672) of intentionally flooding low-lying land (the Hollandic Water Line) to stop the advanc
+  - Example: "stopp’d King Looie at the cost of turning half his country into a moat" (The Dutch Republic)
+- **Calico Acts** (`calico-acts`) — 1 chapter
+  - Legislation passed to protect the domestic wool and silk industries from the popular, cheap cotton fabrics (calicoes) imported from India by the East 
+  - Example: "and Calicoe-smuggling from Jack" (The Dutch Republic)
+- **Exemplary Punishment** (`exemplary-punishment`) — 1 chapter
+  - The practice of displaying the heads of executed criminals or traitors on pikes at city gates (like London Bridge or the Porte Saint-Denis) served as 
+  - Example: "The heads on the spikes before the city-gates." (The Dutch Republic)
+- **The Reformation** (`protestant-reformation`) — 1 chapter
+  - These names represent the leaders of the Protestant Reformation; their depiction as demons reflects the Counter-Reformation Catholic sentiment in 17th
+  - Example: "demons who were toppling backwards onto a mess of books labelled... M. Luther, J" (The Dutch Republic)
+- **History of Coffee in France** (`coffee-trade-marseille`) — 1 chapter
+  - Marseille was the primary entry point for coffee into France from the Levant, with the first commercial shipments arriving in the mid-17th century.
+  - Example: "sailed the first ship of coffee, ever, into Marseille in 1644" (Paris)
+- **Coronation of Charles II at Scone** (`coronation-at-scone`) — 1 chapter
+  - Charles II was crowned King of Scotland at Scone in 1651 while still in exile from England, a point of contention regarding the official start of his 
+  - Example: "A rabble of Scots at Scone tossed a crown at Charles’s head" (The Hague)
+- **Johan and Cornelis de Witt** (`the-de-witt-brothers`) — 1 chapter
+  - Dutch statesmen who were brutally lynched and partially eaten by an Orangist mob in 1672 after being blamed for the French invasion.
+  - Example: "as they did so memorably to the de Witt brothers" (The Hague)
+- **Siege of Maastricht (1673)** (`siege-of-maastricht`) — 1 chapter
+  - A key battle in the Franco-Dutch War where Monmouth, fighting for the French (allies of England at the time), gained fame for his bravery.
+  - Example: "Duke of Monmouth who distinguished himself at the Siege of Maestricht" (The Hague)
+- **Battle of Saint-Denis (1678)** (`battle-of-saint-denis`) — 1 chapter
+  - A battle fought near Mons where Monmouth and William of Orange fought together against the French, illustrating the shifting European alliances of the
+  - Example: "fighting by William’s side, against the French, at Mons" (The Hague)
+- **Pope-Burning Processions** (`pope-burning-processions`) — 1 chapter
+  - Highly organized anti-Catholic demonstrations in London during the Exclusion Crisis (late 1670s/early 1680s) intended to whip up public sentiment agai
+  - Example: "burn the Pope in effigy" (The Hague)
+- **Treaty of Breda** (`treaty-of-breda`) — 1 chapter
+  - The 1667 treaty that ended the Second Anglo-Dutch War, resulting in England gaining New Amsterdam (New York).
+  - Example: "After the Peace of Breda he put on a ballet" (Amsterdam)
+- **Atlantic Slave Trade** (`guinea-coast-slave-trade`) — 1 chapter
+  - References the Dutch and English involvement in the trans-Atlantic slave trade through fortified trading posts in West Africa.
+  - Example: "slave-forts on the Guinea coast" (Amsterdam)
+- **Great Turkish War** (`great-turkish-war`) — 1 chapter
+  - A series of conflicts between the Ottoman Empire and the Holy League. The mention of Hungary refers to the liberation of Buda and the rollback of Otto
+  - Example: "nudging the wreckage of the Turkish Army back across Hungary" (Amsterdam)
+- **Norman Conquest** (`norman-conquest`) — 1 chapter
+  - The 1066 invasion by William the Conqueror which introduced French as the language of the ruling class, leading to the linguistic split between German
+  - Example: "French people had conquered England at least one time, and thereby confused the " (Paris)
+- **Dutch East India Company in the Maldives** (`dutch-maldives-trade`) — 1 chapter
+  - The Dutch East India Company (VOC) sought to monopolize the cowrie shell trade in the Maldives to control the 'currency' used to purchase slaves in We
+  - Example: "Dutch had acquired certain isles, near India, called the Maldives and Laccadives" (Amsterdam)
+- **Trans-Atlantic Slave Trade** (`trans-atlantic-slave-trade`) — 1 chapter
+  - The historical triangular trade involving the transport of enslaved Africans to the Americas, which was a central pillar of the 17th and 18th-century 
+  - Example: "You are going into the slave trade" (Amsterdam)
+- **Orangism** (`orangists`) — 1 chapter
+  - A political faction in the Dutch Republic that supported the House of Orange-Nassau (specifically William III) against the 'States' faction of wealthy
+  - Example: "the feral mob of Orangist patriots" (Amsterdam)
+- **Universal Monarchy** (`universal-monarchy`) — 1 chapter
+  - The contemporary political fear that one monarch (Louis XIV) would achieve total hegemony over Europe, effectively ending the sovereignty of other nat
+  - Example: "Louis wants to enslave all of Christendom." (Amsterdam)
+- **Transatlantic Slave Trade** (`transatlantic-slave-trade`) — 1 chapter
+  - The ship is part of the triangular trade, heading to Africa to purchase enslaved people, a central pillar of the 17th-century global economy.
+  - Example: "recalled he was on a slaver-ship" (Coast of Europe and of Northern Africa)
+### Sciences
+
+- **Humorism** (`humorism`) — 5 chapters
+  - The ancient medical system of 'humours' (blood, phlegm, yellow bile, black bile) was still a dominant way of understanding health, temperament, and ge
+  - Example: "I’d not, at that age, begun to exude the womanly humours" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Phosphorus Discovery** (`discovery-of-phosphorus`) — 3 chapters
+  - A reference to Hennig Brand's 1669 discovery of phosphorus in Hamburg, which he achieved by boiling down vast quantities of human urine.
+  - Example: "foul-smelling steam was gushing from the mouths of iron tubs... It smelled like " (Saxony)
+- **Ship of the Line** (`ship-of-the-line`) — 2 chapters
+  - A type of naval warship constructed to take part in the naval tactic known as the line of battle. A forty-gun ship would be a significant and formidab
+  - Example: "forty-gun pirate-galleon cruising offshore. Not some ramshackle barge but a prop" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Damascus Steel** (`damascus-steel`) — 2 chapters
+  - A famed type of steel used in Middle Eastern swordmaking, characterized by distinctive patterns of banding and mottling reminiscent of flowing water, 
+  - Example: "For that is Damascus steel, more than likely." (Bohemia)
+- **Early Paleontology and Stratigraphy** (`early-paleontology`) — 2 chapters
+  - In the 17th century, the origin of fossils was hotly debated; some believed they grew in the earth, while others (like Steno and Leibniz) correctly id
+  - Example: "There are shells scattered upon the mountains! ... This creature must’ve been bu" (Saxony)
+- **Matchlock vs Flintlock** (`matchlock-and-flintlock`) — 1 chapter
+  - The transition from matchlock (ignited by a burning cord) to flintlock (ignited by sparks from flint) was a major technological shift in 17th-century 
+  - Example: "Half of the musketeer-formations were impaired by older, flintless weapons calle" (The Continent)
+- **Trace Italienne (Star Fort)** (`trace-italienne`) — 1 chapter
+  - The 'modern' style of fortification designed to resist gunpowder artillery, characterized by low, thick walls and bastions providing interlocking fiel
+  - Example: "sloping walls, backed up by earth (to deflect and absorb cannonballs) laid out i" (The Continent)
+- **Siegeworks and Fortifications** (`bastion-fortress-engineering`) — 1 chapter
+  - The 'trace italienne' or star fort design used geometric bastions and glacis (slopes) to withstand cannon fire, forcing attackers to use 'sapping' (tr
+  - Example: "undoing the work of the Engineers one shovel-load at a time." (The Continent)
+- **Matchlock** (`matchlock-firearms`) — 1 chapter
+  - A matchlock was a type of firearm that used a slow-burning piece of rope (the match) to ignite gunpowder; the 'smouldering ropes' Jack sees are the ig
+  - Example: "Stray Bavarian matchlock men ran to and fro" (The Continent)
+- **Ottoman Mining Warfare** (`ottoman-mining-warfare`) — 1 chapter
+  - The Ottomans were renowned for their advanced sapping and mining techniques, using tunnels to plant explosives under city walls to breach defenses.
+  - Example: "This must be a mine, an enormous one, that the Turks had dug beneath the bastion" (The Continent)
+- **Hang fire** (`flintlock-mechanics`) — 1 chapter
+  - A common and dangerous malfunction in flintlock firearms where there is a delay between the ignition of the priming powder and the main charge.
+  - Example: "This was known as a hang fire. The fire in the pan had not traveled into the bar" (The Continent)
+- **Astronomical Clocks** (`astronomical-clocks`) — 1 chapter
+  - Famous examples like the Prague Orloj or the Strasbourg clock featured complex automata (moving mechanical figures) that performed religious or allego
+  - Example: "ancient clocks that are as big as houses... Death comes out and does a fandango" (Bohemia)
+- **Flintlock Mechanism** (`flintlock-technology`) — 1 chapter
+  - A relatively new ignition system for firearms in the 17th century that replaced the matchlock, offering greater reliability and speed for soldiers and
+  - Example: "flintlocks and pistols" (Leipzig)
+- **Number Theory** (`number-theory`) — 1 chapter
+  - The transition from mystical numerology to mathematical number theory was a key development in the Scientific Revolution, championed by figures like L
+  - Example: "disentangle the worthy science of number theory from the base superstition of nu" (Leipzig)
+- **Humorism** (`four-humors`) — 1 chapter
+  - The prevailing medical theory that human health and temperament were governed by four fluids (humors); yellow bile was associated with a choleric or i
+  - Example: "rid themselves of the yellow bile" (Saxony)
+- **Gunpowder ingredients** (`gunpowder-components`) — 1 chapter
+  - Saltpeter (potassium nitrate) and brimstone (sulfur) are the primary chemical ingredients of gunpowder, essential commodities in a century defined by 
+  - Example: "laden with saltpeter from India, others with brimstone" (Saxony)
+- **Gunpowder Manufacture** (`gunpowder-manufacture`) — 1 chapter
+  - Gunpowder was made by mixing sulfur (brimstone), saltpeter, and charcoal; the process was extremely dangerous due to the risk of accidental ignition d
+  - Example: "gunpowder-mills. Here... charcoal. This was taken to a water-powered mill to be " (Saxony)
+- **Vertical Axis Windmill** (`vertical-axis-windmill`) — 1 chapter
+  - A design (like the Panemone windmill) that Leibniz actually attempted to implement in the Harz mines to power pumps, though his experiments were large
+  - Example: "a curious windmill, spinning round sideways like a top instead of rolling like a" (Saxony)
+- **Iron as a medical treatment** (`iron-deficiency-history`) — 1 chapter
+  - The understanding of iron's role in blood (treating 'chlorosis' or anemia) was an emerging realization in 17th-century medicine.
+  - Example: "She wants iron... Red meat contains iron." (Saxony)
+- **Amanita muscaria** (`amanita-muscaria`) — 1 chapter
+  - The fly agaric mushroom, known for its hallucinogenic properties, which explains Jack's subsequent dreamlike state and visions of people flying.
+  - Example: "red mushrooms with white speckles" (The Harz Mountains)
+- **Brocken Spectre** (`brocken-spectre`) — 1 chapter
+  - A natural optical phenomenon where a person's shadow is cast onto clouds or mist, often appearing magnified and surrounded by a halo. It is named afte
+  - Example: "Satan the Prince of Darkness... a jet-black figure... dancing in the boiling, sm" (The Harz Mountains)
+- **Mine Ventilation** (`mine-ventilation-principles`) — 1 chapter
+  - An early application of thermodynamics where fires were lit at the base of 'upcast' shafts to create a draft, pulling fresh air through the mine; here
+  - Example: "with a sufficiently enormous fire they could suck all of the air out of the mine" (The Harz Mountains)
+- **Mine Pumping Engines** (`early-steam-pumps`) — 1 chapter
+  - The late 17th century saw the first experiments with atmospheric engines and steam power (like Savery's pump) to solve the problem of flooding in deep
+  - Example: "large item of machinery that was making loud booming and sucking noises as it pu" (The Harz Mountains)
+- **Dutch Water Line** (`dutch-water-line`) — 1 chapter
+  - A sophisticated defensive system of fortifications and intentional flooding zones used to protect the heart of the Netherlands.
+  - Example: "lines of circumvallation... walls, ditches, ramparts, palisades, moats" (The Place)
+- **Amalgamation Process** (`amalgamation-process`) — 1 chapter
+  - A metallurgical technique (often called the Patio Process) using mercury to extract silver; the addition of copper salts (magistral) accelerated the c
+  - Example: "mixed with water, salt, and the dross from copper-making to produce a sticky cla" (The Place)
+- **Patio Process** (`patio-process`) — 1 chapter
+  - A process for extracting silver from ore using mercury (quicksilver) to form an amalgam; it often involved 'treading' the mixture with feet or mules t
+  - Example: "the way the workers mixed the amalgam with their feet." (The Place)
+- **Binary System** (`binary-number-system`) — 1 chapter
+  - While ancient, the modern binary system was refined by Leibniz (the 'Doctor' in this passage) during this era as a fundamental component of his univer
+  - Example: "these digits are binary." (The Place)
+- **Early Paleontology and Fossils** (`early-fossil-theory`) — 1 chapter
+  - Refers to the emerging 17th-century debate on whether fossils were 'sports of nature' or the remains of once-living organisms buried in sediment.
+  - Example: "small creatures got buried in river-bottoms" (The Place)
+- **Three-field system** (`three-field-system`) — 1 chapter
+  - A regime of crop rotation used in medieval and early modern Europe to improve soil fertility and increase agricultural yields.
+  - Example: "one-third of the fields had wheat, one-third oats, and the remaining third were " (The Dutch Republic)
+- **Treadwheel Crane** (`treadwheel-crane`) — 1 chapter
+  - A medieval and early modern wooden lifting device powered by humans walking inside a large drum, used extensively in the construction of stone cities.
+  - Example: "cranes powered by pairs of large stepped wheels" (The Dutch Republic)
+- **Albinism in Horses** (`albino-horses`) — 1 chapter
+  - The description of pink-eyed white horses refers to a rare genetic trait; in the context of the novel, these 'white' horses are highly prized status s
+  - Example: "Four horses, all white as clouds, save for pink eyes and mottled hooves" (Paris)
+- **Saltpeter** (`saltpeter`) — 1 chapter
+  - Potassium nitrate, a vital ingredient in gunpowder; its supply was a major strategic concern for 17th-century militaries.
+  - Example: "they’ll be heavy laden with saltpeter" (The Hague)
+- **Short Selling** (`history-of-short-selling`) — 1 chapter
+  - The practice of selling shares one does not yet own, hoping to buy them back later at a lower price, was pioneered and debated in the 17th-century Ams
+  - Example: "selling short, is a bit of zargon I have heard Dutchmen and Jews bandy about" (The Hague)
+- **Clockwork Universe** (`clockwork-universe`) — 1 chapter
+  - A popular 17th-century scientific metaphor suggesting the universe functions like a mechanical clock governed by deterministic laws, often linked to t
+  - Example: "But the Cosmos, Like clock-work... provides!" (France)
+- **Early Condoms** (`history-of-condoms`) — 1 chapter
+  - A reference to early forms of contraception and protection against syphilis, which were often made from animal intestines (caeca).
+  - Example: "Turkish innovation involving sheep-intestines" (Paris)
+- **Spermaceti** (`spermaceti`) — 1 chapter
+  - A waxy substance found in the head cavities of sperm whales. It was the premium fuel for candles and lamps in the 17th and 18th centuries because it b
+  - Example: "A hundred sperm whales must have given up their bodily fluids to light the lante" (Paris)
+- **Astrolabe** (`astrolabe`) — 1 chapter
+  - An ancient astronomical instrument used by mariners and astronomers to calculate the position of celestial bodies, essential for navigation before the
+  - Example: "one hand fingering an astrolabe" (Paris)
+- **Flintlock** (`flintlock-mechanism`) — 1 chapter
+  - A type of firearm ignition mechanism introduced in the early 17th century, replacing the matchlock and wheellock.
+  - Example: "examining the flintlock mechanism on a pistol" (Paris)
+- **Cauterization** (`cauterization`) — 1 chapter
+  - The medical practice of burning tissue to stop bleeding or prevent infection, a common but agonizing treatment for wounds before modern medicine.
+  - Example: "cauterizing to be done... while the irons were applied" (Coast of Europe and of Northern Africa)
+- **Bloodletting** (`bloodletting`) — 1 chapter
+  - A standard medical practice based on the theory of the four humors, where blood was drained from a patient to treat fevers and other ailments.
+  - Example: "relentless bleedings meted out by the ship’s barber" (Coast of Europe and of Northern Africa)
+- **Backstaff** (`backstaff`) — 1 chapter
+  - A navigational instrument used to measure the altitude of the sun to determine latitude without the navigator having to look directly into the sun.
+  - Example: "taking measurements with a back-staff" (Coast of Europe and of Northern Africa)
+- **Swivel Gun** (`swivel-gun`) — 1 chapter
+  - A small, portable cannon mounted on a rotating stand, used on ships for close-quarters defense against boarding parties rather than for sinking other 
+  - Example: "single swivel-gun astern that might have pelted the lead galley" (Coast of Europe and of Northern Africa)
+- **Jib Sails** (`jib-sails`) — 1 chapter
+  - Triangular staysails set ahead of the foremast. The development of multiple jibs allowed for greater maneuverability and speed in 17th-century sailing
+  - Example: "points of the inner jib, the outer jib, and the flying jib" (Coast of Europe and of Northern Africa)
+### Institutions
+
+- **Janissaries** (`janissaries`) — 6 chapters
+  - The elite infantry units that formed the Ottoman Sultan's household troops and bodyguards, known for their discipline and distinct status.
+  - Example: "The way you fought those Janissaries" (The Continent)
+- **Polish Winged Hussars** (`winged-hussars`) — 3 chapters
+  - An elite heavy cavalry unit known for the wooden frames with feathers ('wings') worn on their backs, which created a terrifying sound and visual durin
+  - Example: "his mighty, gleaming cavalry were called the Winged Hussars" (The Continent)
+- **Holy Roman Empire** (`holy-roman-empire`) — 3 chapters
+  - A multi-ethnic complex of territories in central Europe; at the time of the Siege of Vienna, it was ruled by Leopold I of the Habsburg dynasty.
+  - Example: "Directly above us is the Court of the Holy Roman Emperor" (The Continent)
+- **Amsterdam Stock Exchange (Beurs van Berlage)** (`amsterdam-stock-exchange`) — 3 chapters
+  - Founded in 1602, it was the first formal stock exchange in the world and the heart of the Dutch Golden Age economy.
+  - Example: "large courtyard called the Exchange" (The Place)
+- **Newgate Prison** (`newgate-prison`) — 2 chapters
+  - London's primary prison for centuries, notorious for its overcrowding, filth, and the 'Newgate Calendar' of executions.
+  - Example: "The mudlarks were packed off to Newgate." (The Mud Below London)
+- **Old Bailey** (`old-bailey`) — 2 chapters
+  - The Central Criminal Court of London, which has stood on the same site since the 16th century near Newgate Prison.
+  - Example: "straight and narrow passage to the Old Bailey" (The Mud Below London)
+- **The Holy League** (`holy-league-1684`) — 2 chapters
+  - The alliance of European powers organized by Pope Innocent XI to oppose the Ottoman Empire during the Great Turkish War.
+  - Example: "appreciated that the Army of Christendom had become an immense machine" (The Continent)
+- **Imperial Harem** (`imperial-harem`) — 2 chapters
+  - The secluded living quarters for the wives, concubines, and female relatives of the Sultan; in historical accounts of the 1683 retreat, the Grand Vizi
+  - Example: "Probably one of those famous harems." (The Continent)
+- **Barbary Corsairs** (`barbary-corsairs`) — 2 chapters
+  - Pirates and privateers who operated from North Africa (the Barbary Coast). They frequently raided European coasts for slaves, including remote areas l
+  - Example: "Kings of England have long suffered—nay, encouraged, and possibly even bribed—th" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Knights Hospitaller** (`knights-of-malta`) — 2 chapters
+  - A Catholic military order that ruled Malta and acted as a primary maritime force against Ottoman expansion and piracy in the Mediterranean.
+  - Example: "castle of the Knights of Malta" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Jesuits** (`jesuits`) — 2 chapters
+  - The Society of Jesus, a Catholic order known for its rigorous education, missionary work, and often controversial political influence in European cour
+  - Example: "A skeptical Jesuit?" (Saxony)
+- **Dutch East India Company (VOC)** (`voc-dutch-east-india-company`) — 2 chapters
+  - The Vereenigde Oost-Indische Compagnie (VOC) was a powerful chartered company that dominated the spice trade and functioned almost as a sovereign stat
+  - Example: "small letters O and C impaled on the horns of a large V, which meant the Dutch E" (The Place)
+- **Dutch East India Company (VOC)** (`dutch-east-india-company`) — 2 chapters
+  - The VOC was the world's first formally listed public company and dominated the 17th-century spice and textile trade from Asia, making Amsterdam the we
+  - Example: "India ships offloading spices and calico into small boats" (The Place)
+- **Lieutenant General of Police** (`lieutenant-general-of-police`) — 2 chapters
+  - The office created by Louis XIV (first held by Gabriel Nicolas de la Reynie) to modernize urban order, lighting, and surveillance in Paris.
+  - Example: "an agent of King Looie’s Lieutenant of Police" (The Dutch Republic)
+- **Papal States Military** (`papal-states-military`) — 1 chapter
+  - The Pope at this time (Innocent XI) was a temporal ruler of the Papal States and contributed significant funding and troops to the defense of Christen
+  - Example: "Legions of the Pope of Rome who were coming up from Italy" (The Continent)
+- **Ottoman Empire (The Turks)** (`ottoman-empire`) — 1 chapter
+  - The Ottoman Empire was the primary antagonist of the Holy Roman Empire in Eastern Europe, reaching its furthest westward expansion during this period.
+  - Example: "Exactly what would happen when the Turks strung their outlandish recurved bows" (The Continent)
+- **Polish Hussars** (`polish-hussars`) — 1 chapter
+  - The 'Winged Hussars' were the elite heavy cavalry of the Polish-Lithuanian Commonwealth, famous for their decisive charge at the Battle of Vienna.
+  - Example: "Those Janissaries are being put to the sword by Polish hussars." (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Lord Lieutenant** (`lord-lieutenant`) — 1 chapter
+  - The monarch's personal representative in each county, responsible for local militia and maintaining order.
+  - Example: "Lord Lieutenant thereabouts—that’s a job that the King gives to the gents" (Bohemia)
+- **Guilds** (`guilds`) — 1 chapter
+  - Powerful associations of craftsmen or merchants that controlled practice of their craft in a particular town and maintained monopolies.
+  - Example: "before the European silver mines had crashed, this never would’ve worked because" (Leipzig)
+- **The Bourse** (`the-bourse`) — 1 chapter
+  - A stock exchange or gathering place for merchants to trade commodities and bills of exchange. The Leipzig Bourse was a central pillar of the city's ec
+  - Example: "Consequently they found themselves at the Bourse" (Leipzig)
+- **Leipzig Stock Exchange** (`leipzig-bourse`) — 1 chapter
+  - The Leipzig Bourse (Alte Handelsbörse) was a central hub for trade and finance in Saxony, completed in 1687, reflecting the city's importance as a com
+  - Example: "the Bourse, a small tidy rectangular building of white stone packed with well-dr" (Leipzig)
+- **Joint-Stock Company** (`joint-stock-company`) — 1 chapter
+  - A precursor to the modern corporation where shares are owned by shareholders; Eliza uses this financial metaphor to describe her own commodification.
+  - Example: "dividend does to a joint stock corporation" (Saxony)
+- **The Dutch Republic** (`dutch-republic`) — 1 chapter
+  - A confederation of seven provinces that became a leading world power in the 17th century through trade, finance, and naval strength.
+  - Example: "Dutch Republic" (The Place)
+- **Dutch Workhouses (Rasphuis)** (`dutch-workhouses`) — 1 chapter
+  - Amsterdam was famous for its 'correction houses' where vagrants and criminals were forced to perform hard labor, like rasping brazilwood for dye.
+  - Example: "thrown into a workhouse to be reformed" (The Place)
+- **Amsterdam Entrepôt and Bank of Amsterdam** (`wisselbank`) — 1 chapter
+  - The Wisselbank (Exchange Bank), established in 1609, was a precursor to modern central banks and allowed Amsterdam to become the center of global fina
+  - Example: "Exchange Bank was the same thing as the Town Hall" (The Place)
+- **Bibliothèque du Roi** (`bibliotheque-du-roi`) — 1 chapter
+  - The royal library of France, which was moved to the Rue Vivienne under Jean-Baptiste Colbert and became a center of European scholarship.
+  - Example: "the King’s Library" (The Dutch Republic)
+- **The Conciergerie** (`the-conciergerie`) — 1 chapter
+  - A former royal palace on the Île de la Cité that became a notorious prison and seat of the French judicial system.
+  - Example: "twin, round towers of the Conciergerie" (The Dutch Republic)
+- **Palais de Justice** (`palais-de-justice`) — 1 chapter
+  - The center of the French legal system, housing the Parlement of Paris, which acted as a high court.
+  - Example: "The Palais de Justice was there, too" (The Dutch Republic)
+- **Les Invalides** (`les-invalides`) — 1 chapter
+  - A complex of buildings in Paris initiated by Louis XIV in 1670 as a home and hospital for aged and unwell soldiers.
+  - Example: "cross the green before Les Invalides—surrounded by its own wall and moat" (Paris)
+- **Genoese Banking Network** (`genoese-bankers`) — 1 chapter
+  - Genoese bankers were central to European finance in the 17th century, operating a sophisticated private postal and intelligence network that often mov
+  - Example: "headed for Genoa and Marseilles" (Paris)
+- **The States-General and the Binnenhof** (`states-general-binnenhof`) — 1 chapter
+  - The Binnenhof is a complex of buildings in The Hague that has served as the location of the Dutch parliament (States-General) since the 13th century.
+  - Example: "dispatching swift-skating message-boys towards the States-General and the Binnen" (The Hague)
+- **Schutterij (Civic Guards)** (`dutch-civic-guards`) — 1 chapter
+  - The 'Schutterij' were voluntary civic guards in Dutch cities, often divided into guilds (like St. George or St. Sebastian) based on social class and t
+  - Example: "is your beau wanted by the Guild of St. George?" (The Hague)
+- **States-General of the Netherlands** (`states-general`) — 1 chapter
+  - The bicameral legislature of the Netherlands that represented the various provinces; it was the sovereign body of the Dutch Republic.
+  - Example: "because the States-General are meeting here at the moment" (The Hague)
+- **House of Orange** (`house-of-orange`) — 1 chapter
+  - The royal dynasty of the Netherlands; the color orange became the symbol of the Dutch principality and its supporters.
+  - Example: "musketeers and archers dressed in blue outfits with lace cravats and orange sash" (The Hague)
+- **St. George Guild** (`st-george-guild`) — 1 chapter
+  - A civic guard or marksmen's guild (Schutterij) in The Hague, responsible for city defense and often social elites.
+  - Example: "the headquarters of the St. George Guild." (The Hague)
+- **Blue Guards and St. George Guilds** (`blue-guards-and-guilds`) — 1 chapter
+  - The Blue Guards were an elite infantry unit of the Dutch States Army; the St. George Guilds were traditional civic militias or shooting fraternities i
+  - Example: "draw applause from Blue Guards, St. George Guildsmen" (The Hague)
+- **Dutch East India Company (VOC) Finance** (`voc-shares`) — 1 chapter
+  - The Vereenigde Oost-Indische Compagnie (VOC) was the first company to issue stock. 'Ducat shares' were fractional units that allowed smaller investors
+  - Example: "I trade ducat shares, which have one-tenth the value of proper V.O.C. shares" (The Hague)
+- **Hôtel-Dieu de Paris** (`hotel-dieu`) — 1 chapter
+  - The oldest hospital in Paris, which served as a catch-all institution for the sick, the poor, and the dying under the administration of the Church.
+  - Example: "Hôtel-Dieu—that colossal poorhouse just by Notre Dame" (France)
+- **Dutch Republic Government** (`dutch-government-structure`) — 1 chapter
+  - The Raadspensionary (Grand Pensionary) was the most powerful political official in the Dutch Republic; Regents were the merchant-oligarchs who ruled D
+  - Example: "the Raadspensionary, and diverse Regents and Magistrates" (Amsterdam)
+- **Blue Guards** (`blue-guards`) — 1 chapter
+  - An elite Dutch infantry regiment that served as the personal bodyguard for William of Orange; they were known for their distinctive blue uniforms.
+  - Example: "the Blue Guards were making an endless thrash" (Amsterdam)
+- **Barbary Pirates** (`barbary-pirates`) — 1 chapter
+  - Privateers and pirates from North Africa who raided European shipping and coastal towns for cargo and slaves; they are central to the backstory of Eli
+  - Example: "Barbary pirate-galley" (Paris)
+- **Amsterdam Stock Exchange** (`amsterdam-capital-market`) — 1 chapter
+  - The Amsterdam Stock Exchange, established by the Dutch East India Company (VOC) in 1602, was the first modern securities market in the world.
+  - Example: "extremely vigorous capital market right here in Amsterdam" (Amsterdam)
+- **Regents of Amsterdam** (`amsterdam-regents`) — 1 chapter
+  - The 'Regenten' were the merchant-oligarchs who ruled Dutch cities; they often clashed with the House of Orange over trade interests and peace with Fra
+  - Example: "In fact, the Regents of Amsterdam were plotting with your friend d’Avaux" (Amsterdam)
+- **Imperial Harem of the Ottoman Empire** (`ottoman-harem`) — 1 chapter
+  - The secluded quarters of the Sultan's household in Constantinople; Eliza's backstory involves being captured by corsairs and sold into this system.
+  - Example: "you learned this and many other practices in the Harim of the Sultan" (Amsterdam)
+### Works
+
+- **Kama Sutra** (`kama-sutra`) — 2 chapters
+  - An ancient Indian Sanskrit text on sexuality and emotional fulfillment, which would have been viewed as exotic and scandalous 'book-learning' in 17th-
+  - Example: "certain arts have been taught to me from Books of India." (The Continent)
+- **Picaresque novel** (`picaresque-novel`) — 2 chapters
+  - A popular genre of the era (e.g., 'Lazarillo de Tormes') featuring a low-born adventurer surviving by their wits. The Doctor is teasing Jack and Eliza
+  - Example: "they are about picaroons—that means a sort of rogue or scoundrel" (Saxony)
+- **Paradise Lost** (`paradise-lost`) — 2 chapters
+  - John Milton's 1667 epic poem; Stephenson uses this specific passage to link the act of mining and the pursuit of wealth to a fall from grace.
+  - Example: "MILTON, Paradise Lost" (Saxony)
+- **Magna Carta** (`magna-carta`) — 1 chapter
+  - Jack is referring to the Magna Carta and the emerging English concept of 'the rights of an Englishman,' which contrasted with the more feudal systems 
+  - Example: "certain God-given rights that were (as rumor had it) written down in a Charter s" (The Continent)
+- **The Qur'an** (`quran`) — 1 chapter
+  - The central religious text of Islam. The reference highlights the religious identity of the Barbary raiders as 'Mahometans' (Muslims) to the young Eli
+  - Example: "hollering certain key verses of the Holy Qur’an" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **I Ching (Hexagrams)** (`i-ching`) — 1 chapter
+  - The 'stack of six lines' refers to the hexagrams of the I Ching. Leibniz (the 'Doctor') was famously fascinated by these, seeing them as a precursor t
+  - Example: "diagram on a book-page consisting of a stack of six short horizontal lines" (Leipzig)
+- **Acta Eruditorum** (`acta-eruditorum`) — 1 chapter
+  - The first scientific journal of German-speaking lands, founded by Leibniz in 1682, which became a primary venue for his mathematical papers.
+  - Example: "Acta Eruditorum—it is a journal that the Doctor founded two years ago." (Saxony)
+- **Hava Nagila** (`hava-nagila`) — 1 chapter
+  - A Jewish folk song. Its appearance here is an intentional anachronism by Stephenson, as the modern lyrics were not written until 1918, though the melo
+  - Example: "Havah nagilah, Havah nagilah, Havah nagilah, v’nism’chah!" (Coast of Europe and of Northern Africa)
+### Terms
+
+- **Bills of Exchange** (`bills-of-exchange`) — 5 chapters
+  - A primary instrument of international trade and finance in the 17th century, allowing merchants to transfer large sums of money without the risk of ca
+  - Example: "bills of exchange drawn on trading-houses in Genoa, Venice, Lyons, Amsterdam, Se" (The Continent)
+- **Pieces of eight** (`piece-of-eight`) — 4 chapters
+  - Spanish silver coins (pesos de ocho) that were the first global currency and widely sought after by scavengers and pirates.
+  - Example: "pieces of eight scattered up and down the shore" (The Continent)
+- **Kuxen** (`kuxen`) — 4 chapters
+  - A 'Kux' was a specific type of mining share used in German-speaking lands, representing a portion of a mine's ownership and its potential profits or l
+  - Example: "The word is Kuxen, she said, we wish to buy Kuxen in a silver mine." (Leipzig)
+- **Kienspan** (`kienspan`) — 3 chapters
+  - A traditional lighting source made from resinous pine wood (fatwood), commonly used by miners and peasants in Central Europe.
+  - Example: "Their lights were called kienspans" (Saxony)
+- **Huguenots** (`huguenots`) — 3 chapters
+  - French Protestants who followed the Reformed tradition. During this period, they faced increasing persecution under Louis XIV, leading many to flee Fr
+  - Example: "But it was quite significant to this Huguenot." (The Dutch Republic)
+- **Fleur-de-lis** (`fleur-de-lis`) — 3 chapters
+  - The stylized lily that served as the primary symbol of the French monarchy and the Catholic Church in France.
+  - Example: "shield decorated with a trinity of fleur-de-lis" (The Dutch Republic)
+- **Branding (Punishment)** (`judicial-branding`) — 2 chapters
+  - Criminals who successfully claimed benefit of clergy were often branded on the thumb (T for thief, M for murderer) to prevent them from using the lega
+  - Example: "a red-hot iron in the shape of a T had been plunged into the brawn of his thumb" (The Mud Below London)
+- **Brown Bess** (`brown-bess`) — 2 chapters
+  - The iconic muzzle-loading smoothbore musket of the British Empire. While the term became standard later, Stephenson uses it here to describe the early
+  - Example: "Like all English musketeers, Jack called his weapon Brown Bess." (The Continent)
+- **The Imp of the Perverse** (`imp-of-the-perverse`) — 2 chapters
+  - While popularized later by Edgar Allan Poe, the concept refers to the psychological urge to do the wrong thing simply because it is forbidden or self-
+  - Example: "Jack was almost invariably possessed by something that Bob had heard about in Ch" (The Continent)
+- **Syphilis (French Pox)** (`syphilis-french-pox`) — 2 chapters
+  - Commonly known as the 'French Pox' in England, syphilis was a rampant and devastating venereal disease in the 17th century, often treated with dangero
+  - Example: "learnt a cure for the French Pox from a traveling alchemist." (The Continent)
+- **Privateers** (`privateers`) — 2 chapters
+  - State-sponsored pirates authorized by a government (via a 'Letter of Marque') to attack and rob enemy vessels during wartime.
+  - Example: "my mate Tom Flinch had a bad finger that needed removal... during a naval engage" (The Continent)
+- **Barber-Surgeon** (`barber-surgeon`) — 2 chapters
+  - Medical practitioners in the early modern period who performed surgery and bloodletting, distinct from university-educated physicians.
+  - Example: "get you to a Surgeon-Barber, or, failing that, a Barber-Surgeon" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Thieves' Cant** (`thieves-cant`) — 2 chapters
+  - A secret language or 'jargon' used by beggars, thieves, and drifters in early modern Europe to communicate without being understood by authorities.
+  - Example: "zargon and the code-signs of Vagabonds" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Sabots** (`sabots`) — 2 chapters
+  - Traditional wooden shoes worn by peasants in France and the Low Countries; the term is the root of the word 'sabotage' (from workers throwing shoes in
+  - Example: "Jack explained airily... No one but a Frenchman wears those sabots." (Bohemia)
+- **Thaler** (`thaler`) — 2 chapters
+  - A silver coin used throughout Europe for centuries; the name originates from Joachimsthal, where the silver was mined, and is the etymological ancesto
+  - Example: "they shortened ‘Joachimsthaler’ to ‘thaler,’ so why not reform the word even fur" (Leipzig)
+- **Hurdy-gurdy** (`hurdy-gurdy`) — 2 chapters
+  - A stringed instrument that produces sound by a hand-cranked-turned, rosined wheel rubbing against the strings. It was a common street instrument in th
+  - Example: "grinding hurdy-gurdys or plucking at mutant lutes" (Leipzig)
+- **Spanish Real** (`spanish-real`) — 2 chapters
+  - The 'royal' or real was a unit of currency; eight reals equaled one 'piece of eight.' It was the basis of the Spanish monetary system.
+  - Example: "a Spanish mark of silver, at the standard level of fineness, is worth eight piec" (The Place)
+- **Windhandel (Wind Trade)** (`windhandel`) — 2 chapters
+  - Literally 'trading in wind,' this referred to the practice of derivative trading or speculation where no physical goods changed hands, most famously a
+  - Example: "They call it Windhandel." (The Place)
+- **Galley Slavery** (`galley-slavery`) — 2 chapters
+  - A common punishment in Bourbon France where convicts were sentenced to row in the Mediterranean fleet, often a death sentence due to the conditions.
+  - Example: "end with Jack chained to an oar in Marseille" (The Dutch Republic)
+- **Galley Slaves** (`galley-slaves`) — 2 chapters
+  - In 17th-century France, being sentenced to the galleys (rowing naval vessels) was a common and brutal punishment, though the text here highlights the 
+  - Example: "selling themselves as galley-slaves, just to get warm" (Paris)
+- **Stadholder** (`stadholder`) — 2 chapters
+  - The office of hereditary chief magistrate and military leader of the Dutch Republic, held at this time by William III of Orange.
+  - Example: "Made arrangements for the Stadholder to summon the English Ambassador back to th" (The Hague)
+- **Mudlarks** (`mudlarks`) — 1 chapter
+  - Historically, mudlarks were scavengers who searched the muddy shores of the River Thames at low tide for anything of value, often associated with the 
+  - Example: "The way of the mudlarks (as the men who trafficked through Mother Shaftoe’s bed " (The Mud Below London)
+- **Galjoot** (`galjoot`) — 1 chapter
+  - A galjoot (or galliot) was a type of shallow-draft Dutch merchant ship with a rounded hull, common in the 17th century for coastal trading.
+  - Example: "Nearing the stern of a tubby Dutch galjoot" (The Mud Below London)
+- **Benefit of Clergy** (`benefit-of-clergy`) — 1 chapter
+  - A legal loophole where defendants could avoid the death penalty by proving they could read; the 51st Psalm was so commonly used for this test it becam
+  - Example: "the purpose of which was to get the mudlarks to memorize the 51st Psalm" (The Mud Below London)
+- **Psalm 51** (`psalm-51-miserere`) — 1 chapter
+  - Known as the 'Miserere,' this specific psalm was traditionally used for the 'benefit of clergy' test because its first verse begins with a plea for me
+  - Example: "memorize the 51st Psalm... Have mercie upon me, o God" (The Mud Below London)
+- **The Triple Tree** (`the-triple-tree`) — 1 chapter
+  - A unique three-sided gallows at Tyburn that allowed for the simultaneous execution of multiple people.
+  - Example: "meet him at the Triple Tree on the morning of his execution." (The Mud Below London)
+- **Coin Clipping** (`coin-clipping`) — 1 chapter
+  - A common practice in the 17th century where the edges of silver or gold coins were shaved off to melt down for bullion, leading to a currency crisis a
+  - Example: "The coins were clipped, worn, and blackened, but they were coins." (The Mud Below London)
+- **Necklace of Harmonia** (`necklace-of-harmonia`) — 1 chapter
+  - In Greek mythology, a cursed object that brought misfortune and death to any who wore it, despite its great beauty.
+  - Example: "For, like the Necklace of Harmonia" (The Mud Below London)
+- **Hanging 'Short Drop' practices** (`short-drop-hanging`) — 1 chapter
+  - Before the invention of the 'long drop' (which broke the neck), prisoners died of slow strangulation. Families or 'hangers-on' would often pull on the
+  - Example: "To dangle from my legs, which lacking ballast" (The Mud Below London)
+- **The Mobile / The Mob** (`the-mobile-vulgus`) — 1 chapter
+  - The term 'mobile' is a 17th-century shortening of the Latin 'mobile vulgus' (the fickle crowd), which eventually evolved into the modern English word 
+  - Example: "And make a sort of entertainment for / The / mobile." (The Mud Below London)
+- **Types of War Horses** (`war-horses`) — 1 chapter
+  - Early modern cavalrymen required different specialized horses for marching, battle, hunting, and ceremony to ensure their primary 'destrier' or battle
+  - Example: "cheval de bataille, a fresh cheval de marche or two, a cheval de poursuite... an" (The Continent)
+- **Twelve Apostles (Bandolier)** (`twelve-apostles-bandolier`) — 1 chapter
+  - Commonly known as 'The Twelve Apostles,' these were pre-measured wooden powder charges worn on a bandolier before the widespread use of paper cartridg
+  - Example: "dangled a dozen thumb-sized and -shaped wooden flasks... They clinked together m" (The Continent)
+- **Pike and Shot** (`pike-and-shot-tactics`) — 1 chapter
+  - The dominant military tactic of the era, where infantry formations combined musketeers for ranged attacks and pikemen to defend against cavalry.
+  - Example: "smaller square of men carrying extremely long pointed sticks called pikes." (The Continent)
+- **Grapeshot** (`grapeshot`) — 1 chapter
+  - A type of ammunition consisting of a cluster of small iron balls fired from a cannon, designed to act like a giant shotgun against infantry.
+  - Example: "men were being cut down in swathes by Turkish grape-shot" (The Continent)
+- **Sappers and Miners** (`sapping-and-mining`) — 1 chapter
+  - Military specialists who dug trenches (saps) and tunnels (mines) to approach or collapse enemy fortifications.
+  - Example: "to protect their sappers and miners as they advanced" (The Continent)
+- **Ostrich Plumes** (`ostrich-plumes-trade`) — 1 chapter
+  - In the 17th century, ostrich feathers were a high-status luxury fashion item in European courts, often imported from Africa via the Ottoman Empire.
+  - Example: "those were the plumes of the, what’s it called the, the…the ostrich" (The Continent)
+- **Saracen** (`saracen`) — 1 chapter
+  - A term used by Christian Europeans in the Middle Ages and early modern period to refer to Muslims, Arabs, or Turks.
+  - Example: "Jack had lost his weapon to some sort of accident, and his mount to some Saracen" (The Continent)
+- **Ottoman Harem Hierarchy** (`ottoman-harem-ranks`) — 1 chapter
+  - Specific ranks within the Imperial Harem: 'Gözde' (the favorite) was the lowest rank of a concubine noticed by the Sultan, while 'İkbal' was a higher 
+  - Example: "I was gozde, which means that the Sultan had taken note of me; but before I was " (The Continent)
+- **Vagabond Branding** (`branding-of-vagabonds`) — 1 chapter
+  - Under various English Vagrancy Acts, persistent beggars or 'vagabonds' could be legally branded with a 'V' as a permanent mark of their status.
+  - Example: "rubbing the base of the other hand’s thumb, where a red-hot iron, shaped like a " (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Court Jews** (`court-jews`) — 1 chapter
+  - Jewish bankers or merchants who handled the finances of, and lent money to, European royalty and nobility, often following armies to manage logistics 
+  - Example: "I sold mine to an industrious Jew." (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Wog (Etymology)** (`wog-etymology`) — 1 chapter
+  - A racial slur used historically in British English. In the context of the novel, Stephenson often uses period-appropriate (though offensive) slang to 
+  - Example: "those darkies have muskets—so I’ll pretend to stay behind to help that stupid wo" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Bastinado** (`bastinado`) — 1 chapter
+  - A form of corporal punishment involving the beating of the soles of a person's bare feet with a stick or rod, common in the Ottoman Empire.
+  - Example: "cabin-boy would be heartily bastinadoed until he agreed to go aft" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Popery** (`popery`) — 1 chapter
+  - A derogatory term used by Protestants (like Jack) to refer to the doctrines and practices of the Roman Catholic Church, particularly in the Habsburg t
+  - Example: "especially nunneries (which were thick as fleas in this Popish land)" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Deserving and Undeserving Poor** (`deserving-and-undeserving-poor`) — 1 chapter
+  - A common early modern social distinction: 'God's Poor' were those impoverished by misfortune (widows, disabled), while 'The Devil's Poor' were able-bo
+  - Example: "The Devil’s Poor" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Haiduks** (`haiduks`) — 1 chapter
+  - A term used throughout the Balkans and Central Europe for outlaws, highwaymen, or guerrilla freedom fighters who resisted Ottoman or local noble autho
+  - Example: "Since the Papists slew all the decent folk, this is a country of bandits, haiduk" (Bohemia)
+- **Morality Play** (`morality-plays`) — 1 chapter
+  - A genre of medieval and early modern theatrical entertainment that used allegorical characters to teach moral lessons, often featuring the figure of D
+  - Example: "Ever seen a morality play?" (Bohemia)
+- **Sugar and Slavery** (`sugar-and-slavery`) — 1 chapter
+  - The 17th-century global economy was heavily driven by the sugar trade, which relied almost entirely on the forced labor of enslaved Africans in the At
+  - Example: "I know that in the Cape Verde Islands and Madeira, all sugar is cultivated by sl" (Bohemia)
+- **English Radical Sects** (`radical-religious-groups`) — 1 chapter
+  - Various radical religious and political movements that emerged during the English Civil War era, often advocating for communal property or social equa
+  - Example: "Ranters, Diggers, Levellers, Quakers" (Bohemia)
+- **Enclosure** (`enclosure-acts`) — 1 chapter
+  - The legal process in England of consolidating small landholdings into larger farms and fencing off 'common' land, which displaced many peasants.
+  - Example: "undoing Enclosure, poached game in forests" (Bohemia)
+- **Serfdom in Eastern Europe** (`serfdom`) — 1 chapter
+  - The system of unfree labor where peasants were legally bound to a lord's estate, which remained much harsher and lasted longer in Poland and Russia th
+  - Example: "When Polish serfs run away, their lords hunt ’em down and brand ’em" (Bohemia)
+- **Tyburn and Jack Ketch** (`tyburn-and-jack-ketch`) — 1 chapter
+  - Tyburn was London's primary location for public executions; Jack Ketch was a notoriously famous and often clumsy executioner of the 17th century.
+  - Example: "crowd at Tyburn baying for Jack Ketch’s blood" (Bohemia)
+- **Hajduk** (`hajduk`) — 1 chapter
+  - Outlawed guerrilla fighters and bandits in Central and Eastern Europe who resisted Ottoman Turkish rule.
+  - Example: "haiduks—runaway serfs who’d made a living preying on the Turks" (Bohemia)
+- **Brimstone!** (`brimstone-sulfur`) — 1 chapter
+  - Brimstone is an archaic term for sulfur, often associated with volcanic activity and mining. In this context, it refers to the sulfurous deposits foun
+  - Example: "digging up brittle rock that smelled like London in the Plague Years. Brimstone!" (Bohemia)
+- **Early Contraception** (`early-condoms`) — 1 chapter
+  - Before the invention of vulcanized rubber, condoms were made from 'animal skins' (processed intestines). Eliza refers to them as a 'Turkish practice,'
+  - Example: "If you could find me a length of sound, unbroken deer or sheep intestine" (Bohemia)
+- **Chakra** (`chakras-in-western-thought`) — 1 chapter
+  - An energy point in the subtle body in Indian religions. Its mention here reflects the era's growing (though often misunderstood) exposure to Eastern m
+  - Example: "I’m trying to locate a certain chakra" (Bohemia)
+- **Syphilis** (`french-pox`) — 1 chapter
+  - Commonly known as the 'French Pox' in England (and the 'Naples Sickness' in France), this was a widespread and devastating venereal disease in the ear
+  - Example: "slow-burning fuse of the French Pox" (Leipzig)
+- **Lutheranism** (`lutheranism`) — 1 chapter
+  - A major branch of Protestantism based on the teachings of Martin Luther; Leipzig was a stronghold of Lutheranism, which influenced its culture and arc
+  - Example: "sign of its being a Lutheran burg" (Leipzig)
+- **Pfennig** (`pfennig`) — 1 chapter
+  - A small German coin or penny; the currency system in the Holy Roman Empire was highly fragmented with various local denominations.
+  - Example: "ten pfennigs each at the town gate" (Leipzig)
+- **Hookah** (`hookah-culture-europe`) — 1 chapter
+  - The introduction of tobacco and water pipes to Europe followed the Ottoman wars, leading to a brief but notable fascination with 'Oriental' customs in
+  - Example: "A hookah-smoking area where Turkish boys in pointy-toed slippers" (Leipzig)
+- **Banca (Banking)** (`history-of-banking`) — 1 chapter
+  - The Italian word for 'bench' or 'counter,' from which the modern word 'bank' is derived. It refers to the physical table where money-changers and lend
+  - Example: "grave man in good clothes sat at a mighty desk, or banca" (Leipzig)
+- **The French Pox (Syphilis)** (`syphilis-historical`) — 1 chapter
+  - A common 17th-century term for syphilis. Jack's fear of 'detonation' refers to the tertiary stage of the disease, which can cause neurological decay a
+  - Example: "mines that the French Pox had (he suspected) been patiently excavating under his" (Leipzig)
+- **Early Modern Currency** (`early-modern-currency`) — 1 chapter
+  - The list illustrates the chaotic variety of coinage in Europe before standardized national currencies. Money-changers were essential for determining t
+  - Example: "Louis d’or, Maximilian d’or, souverain d’or, rand, ducat... English shilling, ru" (Leipzig)
+- **Pilsner Beer** (`pilsen-beer`) — 1 chapter
+  - While modern 'Pilsner' was developed in the 19th century, the city of Pilsen had a brewing tradition dating back to the 13th century that was highly r
+  - Example: "fine golden beer from Pilsen" (Leipzig)
+- **Jahrmarkt** (`jahrmarkt`) — 1 chapter
+  - Literally 'Yearly Market,' these were seasonal fairs that combined commerce with entertainment, often featuring the 'freak shows' and performers descr
+  - Example: "general quarter of the Jahrmarkt, which (never mind what the German words litera" (Leipzig)
+- **17th Century Men's Fashion** (`restoration-fashion`) — 1 chapter
+  - High-heeled shoes were a standard part of aristocratic male dress in the late 17th century, popularized by the French court of Louis XIV.
+  - Example: "He was up on his three-inch platform heels right away" (Leipzig)
+- **Spion (Window Mirrors)** (`spion-mirrors`) — 1 chapter
+  - Known as 'Spion' or 'spy-mirrors,' these were common in Northern European cities, allowing residents to observe the street or courtyard from inside wi
+  - Example: "mirrors about a foot square, canted at diverse angles... their silvered faces we" (Leipzig)
+- **Transubstantiation** (`transubstantiation`) — 1 chapter
+  - The theological debate over whether the bread and wine in the Eucharist literally or symbolically become the body and blood of Christ, a central point
+  - Example: "Catholic vs. Lutheran views on transubstantiation" (Saxony)
+- **Mammon** (`mammon`) — 1 chapter
+  - A biblical term for wealth or greed, personified here as a fallen angel who encourages humanity to strip-mine the earth for riches.
+  - Example: "Mammon led them on, Mammon, the least erected Spirit that fell From heav’n" (Saxony)
+- **Brimstone and Saltpeter** (`brimstone-and-saltpeter`) — 1 chapter
+  - Brimstone is an archaic name for sulfur. Saltpeter (potassium nitrate) was a vital military resource often harvested from decomposed organic matter or
+  - Example: "the Doctor supplied them with brimstone and saltpeter from the wagons." (Saxony)
+- **Arschleder** (`arschleder`) — 1 chapter
+  - A traditional piece of German mining equipment (literally 'ass-leather') worn to protect the seat of the trousers and keep the miner dry while sitting
+  - Example: "The Doctor told him that the pieces of ox-hide were called arsch-leders" (Saxony)
+- **Sabotage** (`sabotage-etymology`) — 1 chapter
+  - The term 'sabotage' is often attributed to the practice of Dutch or French workers throwing their wooden shoes (sabots) into machinery to stop product
+  - Example: "how easy would it be to slip a sabot off one’s foot and ‘accidentally’ let it fa" (Saxony)
+- **Apothecary** (`apothecary`) — 1 chapter
+  - Historical medical professionals who formulated and dispensed remedies; they were the precursors to modern pharmacists but often dealt in herbalism an
+  - Example: "find an apothecary, and buy some kind of potion or philtre" (Saxony)
+- **Wattle and Daub** (`wattle-and-daub`) — 1 chapter
+  - A composite building method used for centuries where a woven lattice of wooden strips (wattle) is daubed with a sticky material made of wet soil, clay
+  - Example: "It was all built half-timbered... woven mats of sticks into the gaps and then sl" (Saxony)
+- **Actaeon and Artemis** (`actaeon-and-artemis`) — 1 chapter
+  - A reference to the Greek myth of Actaeon, often depicted in Baroque art and literature to explore themes of transformation and divine punishment.
+  - Example: "the poor sap of a hunter who chanced upon the naked hunt-goddess while she was b" (Saxony)
+- **Minerva** (`minerva-athena`) — 1 chapter
+  - The Roman goddess of wisdom and strategic warfare (Greek Athena), often used as a symbol for the Enlightenment and the Royal Society.
+  - Example: "helmeted Minerva... with a cold and steady look about her, one arm holding her s" (Saxony)
+- **Walpurgis Night** (`walpurgis-night`) — 1 chapter
+  - A traditional German feast day (April 30) associated with witchcraft and the gathering of witches on the Brocken mountain.
+  - Example: "But Jack heard snatches like “Walpurgis”" (Saxony)
+- **The Boot (torture instrument)** (`the-boot-torture`) — 1 chapter
+  - A method of torture used to crush the bones of the feet and legs, commonly employed during judicial interrogations and witch trials.
+  - Example: "going at her feet and legs with the old wedges-and-sledgehammers trick" (Saxony)
+- **Garrotting (mercy in executions)** (`garrotting-execution`) — 1 chapter
+  - Executioners often strangled victims before the flames reached them as an act of mercy, though this was sometimes seen as 'cheating' the crowd of a fu
+  - Example: "passed the loose end of the rope around her neck... strangling the woman probabl" (Saxony)
+- **Wächter** (`waechter`) — 1 chapter
+  - German for 'guards' or 'watchmen'; in this context, they represent the authorities attempting to suppress the pagan/folk rituals of the locals.
+  - Example: "the word Wächer... perhaps meant “Watchers.”" (The Harz Mountains)
+- **Hexen** (`hexen`) — 1 chapter
+  - The German word for witches; the passage plays on the folklore of the Brocken as a site for the Witches' Sabbath.
+  - Example: "The Hexen (no point in denying it any more)" (The Harz Mountains)
+- **Hexen (Witches)** (`hexen-harz-mountains`) — 1 chapter
+  - German for 'witches.' The Harz Mountains, particularly the Brocken peak, were legendary in European folklore as the site of Walpurgis Night, where wit
+  - Example: "The Hexen had led a black goat up onto the ruin" (The Harz Mountains)
+- **Antediluvian Giants** (`antediluvian-giants`) — 1 chapter
+  - In the 17th century, large fossils or unusual rock formations were often interpreted literally as the remains of giants who lived before the Biblical 
+  - Example: "remains of a giant... who’d died on his back with his bony fingers thrust up" (The Harz Mountains)
+- **German cast-iron stoves** (`german-iron-stoves`) — 1 chapter
+  - Distinctive, highly efficient heating appliances (often called 'Kachelofen' or 'box stoves') that were a technological marvel of the era compared to o
+  - Example: "one of the towering black iron stoves favored by Germans" (The Harz Mountains)
+- **Haspel (Windlass)** (`mining-haspel`) — 1 chapter
+  - A hand-cranked windlass or winch used in mining to raise ore and lower miners into shafts.
+  - Example: "passed by a hand-haspel crammed into a niche" (The Harz Mountains)
+- **Theseus and the Labyrinth** (`theseus-and-the-labyrinth`) — 1 chapter
+  - A reference to the Greek myth of Theseus, who used a ball of thread provided by Ariadne to navigate the Labyrinth and escape after slaying the Minotau
+  - Example: "the thread that, as with that bloke in the myth, was showing him the way out" (The Harz Mountains)
+- **Lindworm** (`lindworm`) — 1 chapter
+  - In Germanic folklore (appropriate for the Harz Mountains setting), a 'Worm' or 'Wyrm' refers to a flightless dragon or serpent-like monster.
+  - Example: "He heard a bubbling, hissing sound, such as a dragon or Worm might make" (The Harz Mountains)
+- **Hookah (Nargile)** (`hookah-history`) — 1 chapter
+  - Also known as a water-pipe or shisha; Jack is observing the physics of air being drawn through water, a technology introduced to Europe via Ottoman tr
+  - Example: "the hubbly-bubblies that the Turks smoked in Leipzig" (The Harz Mountains)
+- **Dark-lantern and Slow Match** (`seventeenth-century-lighting`) — 1 chapter
+  - A dark-lantern had a shutter to hide the light; a 'match' in this era was a chemically treated cord that burned slowly, used to ignite lamps or firear
+  - Example: "opened a dark-lantern, took out a burning match" (The Harz Mountains)
+- **17th Century French Fashion** (`french-court-fashion`) — 1 chapter
+  - Under Louis XIV, France became the fashion capital of the world. The 'freakish' attire mentioned likely refers to the elaborate periwigs, fontanges (h
+  - Example: "The latest fashions from Paris" (The Harz Mountains)
+- **Hollandgänger** (`holland-ganger`) — 1 chapter
+  - Seasonal migrant workers from German territories who traveled to the prosperous Dutch Republic for work in agriculture or peat cutting.
+  - Example: "hordes of unemployed men going to look for work in Dutch cities—Holland-gänger" (The Place)
+- **Industrial crops of the Dutch Golden Age** (`dutch-industrial-crops`) — 1 chapter
+  - The Dutch specialized in high-value 'industrial' crops used for textiles, dyes (woad/madder), and brewing rather than just subsistence grain.
+  - Example: "growing flax, hemp, rape, hops, tobacco, woad, and madder" (The Place)
+- **Dutch Bleaching Industry** (`dutch-bleaching-industry`) — 1 chapter
+  - Haarlem and other Dutch areas were world-renowned for bleaching linen and cloth using a process involving sour milk and sunlight.
+  - Example: "bleaching bolts of English cloth in buttermilk" (The Place)
+- **Mokum** (`mokum`) — 1 chapter
+  - A Yiddish-derived nickname for Amsterdam (from the Hebrew 'makom' meaning 'place' or 'safe haven'), reflecting the city's significant Jewish populatio
+  - Example: "The Jews don’t even bother to give it a name... they just call it mokum" (The Place)
+- **Peat as Fuel** (`dutch-peat-industry`) — 1 chapter
+  - The Dutch Golden Age was powered largely by peat, a cheap and abundant fuel source that allowed for industrial growth and domestic heating in the abse
+  - Example: "barges laden with peat" (The Place)
+- **Lines of Circumvallation** (`circumvallation`) — 1 chapter
+  - A military engineering term for a line of fortifications built by besiegers to protect themselves from the besieged; here used to describe Amsterdam's
+  - Example: "Lines of Circumvallation. To the north, the broad Ij" (The Place)
+- **Calvinism and Predestination** (`calvinism-predestination`) — 1 chapter
+  - The Dutch Reformed Church followed Calvinist theology, which held that God had already chosen (predestined) who would be saved and who would be damned
+  - Example: "The landlady was a hound-faced Calvinist who had immediately recognized Eliza as" (The Place)
+- **Hollandgänger** (`hollandganger`) — 1 chapter
+  - Seasonal migrant workers, mostly from German territories, who traveled to the wealthy Dutch Republic for work in agriculture or construction.
+  - Example: "Hollandgänger coming in from the East" (The Place)
+- **Impressment (Press-Ganging)** (`impressment`) — 1 chapter
+  - The practice of forcibly recruiting men into navy or merchant service, often through trickery or violence, to meet the high demand for sailors.
+  - Example: "press-ganging: one blunder into a dark alley... and he’d wake up with a headache" (The Place)
+- **Syphilis** (`the-french-pox`) — 1 chapter
+  - A common period term for syphilis, reflecting the tendency of European nations to name the disease after their rivals. Jack's 'penis incident' and mem
+  - Example: "French Pox had amazed and riddled his memories" (The Dutch Republic)
+- **The King's Shilling** (`the-kings-shilling`) — 1 chapter
+  - A slang term for enlisting in the British army or navy, derived from the practice of giving a recruit a shilling as an earnest payment.
+  - Example: "Bob took the King’s shilling" (The Dutch Republic)
+- **Calico** (`calico-trade`) — 1 chapter
+  - A plain-woven cotton textile from India. Its popularity led to protectionist bans in England and France (the Calico Acts) to protect domestic wool and
+  - Example: "inexpensive cloth coming out of Calicoe in India" (The Dutch Republic)
+- **Fluyt** (`fluyt-ships`) — 1 chapter
+  - A Dutch type of sailing vessel designed to maximize cargo space and be handled by a small crew, a key factor in Dutch maritime dominance.
+  - Example: "small cargo-vessels called flutes" (The Dutch Republic)
+- **Water Carriers** (`water-carriers`) — 1 chapter
+  - Before indoor plumbing, thousands of laborers carried water from the Seine or public fountains to private homes for a fee.
+  - Example: "porteurs d’eau, their stout bodies harnessed into frames all a-dangle with woode" (The Dutch Republic)
+- **Passe-volante** (`passe-volante`) — 1 chapter
+  - A term for 'false soldiers' or mercenaries used to pad muster rolls; in the context of the Vagabonds, it refers to a specific type of social grift or 
+  - Example: "the passe-volante trade has been quashed" (The Dutch Republic)
+- **Armenian Coffee Sellers in Paris** (`armenian-coffee-merchants`) — 1 chapter
+  - In the 1670s and 80s, Armenian merchants were the primary vendors of coffee in Paris, often dressing in 'Oriental' fashion to market the exotic bevera
+  - Example: "All of the Turks who sell coffee in the streets are actually Armenians" (The Dutch Republic)
+- **Louis d'or** (`louis-dor`) — 1 chapter
+  - The standard French gold coin introduced by Louis XIII in 1640, used as a high-value international currency.
+  - Example: "louis d’or" (The Dutch Republic)
+- **Galley Slavery** (`galley-punishment`) — 1 chapter
+  - A common form of penal servitude in France where convicts were sentenced to row in the navy's Mediterranean fleet.
+  - Example: "send you to the galleys" (The Dutch Republic)
+- **Retail in 17th Century Paris** (`seventeenth-century-retail`) — 1 chapter
+  - In this era, most goods were sold by street hawkers or at markets; fixed-address shops were a luxury reserved for high-end guilds like mercers and wig
+  - Example: "The only people who could afford to keep fixed shops were members of a few princ" (The Dutch Republic)
+- **Apothecaries** (`apothecaries`) — 1 chapter
+  - Medical professionals who formulated and dispensed remedies; in Paris, they were often located in the same districts as perfumers due to their shared 
+  - Example: "unbeknownst to the apothecaries and par-fumiers" (The Dutch Republic)
+- **Rat-catchers** (`rat-catchers`) — 1 chapter
+  - A recognized, though low-status, profession in European cities; 'mort-aux-rats' (rat death) was the common French term for these tradesmen who often w
+  - Example: "Your father was mort-aux-rats, no?" (The Dutch Republic)
+- **Entresol** (`entresol`) — 1 chapter
+  - Technically a mezzanine floor between the ground floor and the first floor, though here used ironically to describe a makeshift rooftop dwelling.
+  - Example: "a sort of lean-to shack, called by the grand name of entresol" (The Dutch Republic)
+- **Denier** (`denier-currency`) — 1 chapter
+  - A medieval French coin of low value; by the 17th century, it was the smallest unit of currency, often made of copper or billon.
+  - Example: "flinging handfuls of blackened copper deniers at him" (Paris)
+- **Cornemuse** (`cornemuse`) — 1 chapter
+  - A type of traditional French bagpipe common in folk music and street performances during the Baroque period.
+  - Example: "one of the latter began to play accompanying music on a cornemuse" (Paris)
+- **Pays and Internal Tolls** (`french-internal-customs`) — 1 chapter
+  - Pre-Revolutionary France was divided into various administrative regions (pays) with complex internal customs barriers and tolls that significantly sl
+  - Example: "The countryside was divided up into innumerable separate pays with their own tol" (Paris)
+- **Jesuits** (`jesuit-sophistry`) — 1 chapter
+  - The Society of Jesus (Jesuits) were often stereotyped by their detractors as using 'sophistry' or 'casuistry'—clever but fallacious reasoning to justi
+  - Example: "And they love to accuse Jesuits of sophistry!" (The Hague)
+- **Stadtholder** (`stadtholder`) — 1 chapter
+  - The office of hereditary chief magistrate and military commander of the Dutch Republic, held at this time by William III of Orange.
+  - Example: "The commoners and country folk, as always, side with the Stadholder." (The Hague)
+- **East Indiaman** (`east-indiaman`) — 1 chapter
+  - Large, armed merchant ships used by the East India companies of major European powers to trade with South and East Asia.
+  - Example: "a fleet of Indiamen are expected at Texel any day" (The Hague)
+- **Ultima Ratio Regum** (`ultima-ratio-regum`) — 1 chapter
+  - Latin for 'the last argument of kings,' a motto Louis XIV had cast onto his cannons to signify that force was the final resort in disputes.
+  - Example: "King Louis stamps Ultima Ratio Regum on all of his cannon" (The Hague)
+- **Perfidious Albion** (`perfidious-albion`) — 1 chapter
+  - A pejorative rhetorical term for Great Britain (or England), referring to its alleged tendency to betray treaties and alliances for its own interest.
+  - Example: "a maneuver in which the diplomats of perfidious Albion are well practiced." (The Hague)
+- **Polders** (`polders`) — 1 chapter
+  - Low-lying tracts of land reclaimed from the sea or rivers by dikes and canals, a defining feature of Dutch geography and engineering.
+  - Example: "polder-land of the Dutch Republic" (The Hague)
+- **Early Stock Market Trading** (`early-stock-market-terms`) — 1 chapter
+  - The terms 'bulls' and 'bears' originated in this era; 'liefhebberen' (lovers/amateurs) and 'contremines' were the contemporary Dutch terms for market 
+  - Example: "liefhebberen or bulls who want the stock to rise, and contremines or bears" (The Hague)
+- **Appealing to Frederick** (`appealing-to-frederick`) — 1 chapter
+  - A historical legal loophole in Dutch law where traders could repudiate short-selling contracts because the practice was technically illegal under Fred
+  - Example: "he can ‘appeal to Frederick.’" (The Hague)
+- **Nerf de boeuf** (`nerf-de-boeuf`) — 1 chapter
+  - A whip or truncheon made from a dried bull's penis, commonly used by French law enforcement and guards for corporal punishment.
+  - Example: "uncoiled his nerf du boeuf" (France)
+- **Syphilis** (`the-great-pox`) — 1 chapter
+  - Syphilis was often named after rival nations; the French called it the 'Neapolitan itch,' while the English and others often called it the 'French Pox
+  - Example: "Is this the effect of the English Pox?" (France)
+- **Quicklime** (`quicklime`) — 1 chapter
+  - Calcium oxide was historically spread over corpses in mass graves to accelerate decomposition and control the stench of decay, particularly during pla
+  - Example: "streaked with white quick-lime and speckled with human skulls and bones" (France)
+- **Q.E.D.** (`qed`) — 1 chapter
+  - Latin for 'which was to be demonstrated.' It is the traditional conclusion to a mathematical or philosophical proof, highlighting the chapter's theme 
+  - Example: "Quod, erat demonstrandum. Quod, erat demonstrandum…" (France)
+- **Free Will** (`free-will`) — 1 chapter
+  - The philosophical counterpoint to predestination, arguing that humans have the agency to make choices; a central tension in the Enlightenment's religi
+  - Example: "Jack’s life’s proves irrefutably Th’existence of Free Will" (France)
+- **First Communion** (`first-communion`) — 1 chapter
+  - A Catholic rite of passage where a child first receives the Eucharist; in the 17th century, it was a significant social and religious milestone often 
+  - Example: "young Papists wore to their first communion" (France)
+- **Divine Grace** (`divine-grace`) — 1 chapter
+  - A central theological concept in the friction between Catholicism and Protestantism (like Jack's and Daniel's backgrounds) regarding how a soul achiev
+  - Example: "What’s the payoff? UNDESERVED GRACE!" (France)
+- **Arrondissement** (`arrondissement`) — 1 chapter
+  - The administrative districts into which Paris is divided, though the formal system of twenty districts was not established until later.
+  - Example: "flew halfway to the next arrondissement" (France)
+- **Papist** (`papism`) — 1 chapter
+  - A derogatory term for Roman Catholics, used frequently in 17th-century England to imply that their primary loyalty was to the Pope rather than the Cro
+  - Example: "some Papist who must draw up a schedule of his sins" (Amsterdam)
+- **Ps and Qs** (`ps-and-qs`) — 1 chapter
+  - A period expression referring to 'Pints and Quarts' tallied on a tavern wall to track a patron's debt.
+  - Example: "Ps and Qs chalked up on the wall" (Amsterdam)
+- **Regenten** (`dutch-regents`) — 1 chapter
+  - The 'Regenten' were the ruling class of merchant-oligarchs who dominated the city councils and government of the Dutch Republic.
+  - Example: "Amsterdam Regent" (Amsterdam)
+- **Baroque Architecture** (`baroque-style`) — 1 chapter
+  - A highly ornate and theatrical style of architecture, art, and design that flourished in Europe from the late 16th to the mid-18th century.
+  - Example: "festoons and garlands of Barock plasterwork" (Amsterdam)
+- **Galliard** (`galliard-dance`) — 1 chapter
+  - A form of Renaissance dance and music popular all over Europe in the 16th and 17th centuries, known for its athletic leaps and hops.
+  - Example: "as the first galliard was drawing to a close" (Amsterdam)
+- **Galérien** (`galerien`) — 1 chapter
+  - A galley slave; in 17th-century France, criminals were often sentenced to row in the royal galleys, a brutal and often fatal punishment.
+  - Example: "You are now a galérien. Your group departs for Marseille tomorrow morning." (Paris)
+- **Galley Slaves** (`galeriens`) — 1 chapter
+  - In 17th-century France, 'galériens' were convicts or persecuted groups (like Huguenots) sentenced to manual labor rowing in the French Royal Galley co
+  - Example: "A naked galérien can’t carry a purse" (Paris)
+- **L'Emmerdeur** (`l-emmerdeur`) — 1 chapter
+  - A French vulgarity meaning 'the troublemaker' or 'the pain in the ass,' literally 'the shitter,' which becomes a recurring nickname for Jack Shaftoe.
+  - Example: "l’Emmerdeur does not need his help." (Paris)
+- **Hôtel particulier** (`hotel-particulier`) — 1 chapter
+  - In French context, an 'hôtel' is not a public inn but a grand private townhouse for a nobleman, typically featuring a courtyard (cour) and a garden.
+  - Example: "Hôtel d’Arcachon" (Paris)
+- **Beeswax candles** (`beeswax-candles`) — 1 chapter
+  - Unlike cheap tallow candles made from animal fat, beeswax candles were expensive, burned cleanly, and smelled pleasant, marking the extreme wealth of 
+  - Example: "fragrance of honey-scented Mauritanian beeswax" (Paris)
+- **Masquerade Ball** (`masquerade-ball`) — 1 chapter
+  - A popular form of entertainment for the 17th-century nobility where guests dressed in 'fancy-dress' or exotic costumes, often representing allegories,
+  - Example: "little knots of Puritans, Færy-Queens, Persians, and Red Indians" (Paris)
+- **Beauty marks (Mouches)** (`beauty-marks-mouches`) — 1 chapter
+  - In the 17th century, artificial beauty marks made of silk or velvet (mouches) were highly fashionable and often used to hide smallpox scars or communi
+  - Example: "clasped both hands to her black-spotted face" (Paris)
+- **Emmerdeur** (`emmerdeur`) — 1 chapter
+  - A French vulgarity roughly translating to 'troublemaker' or 'pain in the ass,' but in this context, it refers to Jack's disguise as a 'shitter' or som
+  - Example: "Emmerdeur" (Paris)
+- **Moors** (`moors`) — 1 chapter
+  - A term used in early modern Europe to refer to Muslim inhabitants of the Maghreb, North Africa, and the Iberian Peninsula.
+  - Example: "ostrich-plume-wearing Moors" (Paris)
+- **Baroque Ceiling Painting** (`baroque-ceiling-painting`) — 1 chapter
+  - The passage describes the collapse of an elaborate frescoed ceiling, a staple of Baroque architecture often depicting allegorical figures (like the Wi
+  - Example: "The East Wind had been split open... It led straight to the French Navy" (Paris)
+- **Horseshoes** (`fers-de-cheval`) — 1 chapter
+  - French for 'horseshoes.' The passage highlights the danger of iron shoes on polished marble floors during the chaos of the scene.
+  - Example: "his hard fers de cheval slipped and scrabbled on the marble" (Paris)
+- **Tarantella** (`tarantella`) — 1 chapter
+  - A rapid folk dance from Southern Italy, historically associated with 'tarantism,' a form of hysterical dancing believed to cure the bite of a wolf spi
+  - Example: "a crowd of ladies who were doing a sort of tarantella" (Paris)
+- **Oakum** (`oakum`) — 1 chapter
+  - A preparation of loose fiber obtained by untwisting old rope, used with tar to caulk the seams of wooden ships to make them watertight.
+  - Example: "crevices between planks had been sealed with oakum, just like a ship’s planking" (Paris)
+- **Raskolnik** (`raskolniks`) — 1 chapter
+  - A member of the 'Old Believers' who split from the Russian Orthodox Church in the mid-17th century to protest liturgical reforms; they faced severe pe
+  - Example: "That’s Yevgeny the Raskolnik." (Amsterdam)
+- **Trade Winds** (`trade-winds`) — 1 chapter
+  - The permanent east-to-west prevailing winds that flow in the Earth's equatorial region, which were essential for sailing ships crossing the Atlantic.
+  - Example: "running before the trade winds" (Amsterdam)
+- **Huguenots and Sephardim** (`religious-refugees-in-amsterdam`) — 1 chapter
+  - Amsterdam became a haven for French Protestants (Huguenots) fleeing persecution under Louis XIV and Sephardic Jews fleeing the Spanish and Portuguese 
+  - Example: "Huguenots and Sephardim had come to live here" (Amsterdam)
+- **Bottomry (Prêt à la grosse aventure)** (`bottomry-loans`) — 1 chapter
+  - A maritime contract where a shipowner borrows money for a voyage; if the ship is lost, the lender loses their money, but if it succeeds, the lender is
+  - Example: "made Mr. Vliet a loan à la grosse aventure" (Amsterdam)
+- **Doubting Thomas** (`doubting-thomas`) — 1 chapter
+  - A biblical reference to the Apostle Thomas, who refused to believe Jesus had been resurrected until he could touch the wounds; used here to describe E
+  - Example: "doubting Thomas" (Amsterdam)
+- **Cowrie Shells as Currency** (`cowrie-shell-currency`) — 1 chapter
+  - Small sea shells used for centuries as a global commodity money, particularly in the slave trade between Europe, Africa, and southern Asia.
+  - Example: "Cowrie shells... In Africa, this is money!" (Amsterdam)
+- **Piece of India (Pieza de India)** (`pieza-de-india`) — 1 chapter
+  - A unit of value used in the trans-Atlantic slave trade, originally referring to a 'standard' healthy male slave against which other 'goods' were measu
+  - Example: "exchange our cowrie-shells for pieces of India" (Amsterdam)
+- **Kaag (ship)** (`kaag-vessel`) — 1 chapter
+  - A traditional Dutch shallow-draft sailing vessel used for inland navigation on canals and lakes, characterized by its distinctive curved hull and leeb
+  - Example: "This kaag will take you" (Amsterdam)
+- **Drost** (`drost`) — 1 chapter
+  - A Dutch administrative official or bailiff responsible for maintaining order and justice in a specific district.
+  - Example: "It was up to the drost to interrogate the very few witnesses" (Amsterdam)
+- **Dragoons** (`dragoons`) — 1 chapter
+  - Mounted infantry used by Louis XIV to suppress dissent, most notably in the 'Dragonnades' against French Protestants (Huguenots).
+  - Example: "for fear of French dragoons" (Amsterdam)
+- **Cowrie Shells** (`cowrie-shells`) — 1 chapter
+  - Small shells used as a major form of currency in the slave trade along the African coast during this period.
+  - Example: "clink of cowrie-shells being sifted to and fro" (Coast of Europe and of Northern Africa)
+- **Galley Slave** (`galley-slave`) — 1 chapter
+  - A prisoner or enslaved person forced to row a galley; this was a common and brutal fate for captives taken by Barbary pirates.
+  - Example: "intended to make galley-slaves out of them" (Coast of Europe and of Northern Africa)
+- **Turning Turk** (`turning-turk`) — 1 chapter
+  - A period phrase meaning to convert to Islam, often used specifically for Europeans who joined the Barbary pirates to escape slavery or seek fortune.
+  - Example: "Who’s for turning Turk?" (Coast of Europe and of Northern Africa)
+- **Rais** (`rais`) — 1 chapter
+  - An Arabic title for a leader or captain, specifically used for the commanders of Barbary pirate vessels.
+  - Example: "the rais, or captain of the starboard galley" (Coast of Europe and of Northern Africa)
+- **Cowrie Shells** (`cowrie-currency`) — 1 chapter
+  - Used as a form of currency in parts of Africa and Asia; the pirates' lack of interest highlights the specific trade routes and economic systems of the
+  - Example: "lacked enthusiasm for the cowrie shells" (Coast of Europe and of Northern Africa)
+### Places
+
+- **Harz Mountains** (`harz-mountains`) — 3 chapters
+  - A mountain range in northern Germany famous for its silver mines and folklore (including Walpurgis Night).
+  - Example: "The lovely Harz Mountains—a few days’ journey west of here." (Leipzig)
+- **Port Royal** (`port-royal`) — 2 chapters
+  - A city in Jamaica that served as a notorious haven for privateers and pirates in the 17th century before being largely destroyed by an earthquake in 1
+  - Example: "Port Royal. I wanted to see Port Royal, which is to pirates as Amsterdam is to J" (Bohemia)
+- **Jáchymov (Joachimsthal)** (`joachimsthal`) — 2 chapters
+  - A mining town in Bohemia famous for its silver mines; it is the namesake of the 'thaler' coin, from which the word 'dollar' is derived.
+  - Example: "Joachimsthal" (Leipzig)
+- **Les Halles** (`les-halles`) — 2 chapters
+  - The traditional central market of Paris, known for its immense scale, noise, and the distinct social class of its vendors.
+  - Example: "the great market-place of Les Halles" (The Dutch Republic)
+- **The Marais** (`the-marais`) — 2 chapters
+  - An aristocratic district of Paris that, by the late 17th century, was also a bustling center for artisans and trade.
+  - Example: "the district called the Marais" (The Dutch Republic)
+- **Pont-Neuf** (`pont-neuf`) — 2 chapters
+  - The 'New Bridge' was the first in Paris built without houses on it, becoming the city's primary social hub for commerce, gossip, and street performers
+  - Example: "toward his old playground, the Pont-Neuf" (The Dutch Republic)
+- **Place Royale (Place des Vosges)** (`place-des-vosges`) — 2 chapters
+  - The oldest planned square in Paris, built by Henri IV; it was a highly fashionable residential area for the nobility and a site for equestrian display
+  - Example: "horse-market par excellence at the Place Royale" (Paris)
+- **Tyburn** (`tyburn-gallows`) — 1 chapter
+  - The primary location for public executions in London, famous for its 'Triple Tree' gallows and the massive crowds that gathered to watch.
+  - Example: "sentenced, of course, to hang by the neck until dead at Tyburn." (The Mud Below London)
+- **London City Gates** (`london-city-gates`) — 1 chapter
+  - The historic gates in the London Wall that controlled entry into the City of London; by the 17th century, many served as prisons or landmarks rather t
+  - Example: "large fabricks called Gates, viz. Ludgate, Moorgate, and Bishopsgate. They had e" (The Mud Below London)
+- **The Press-Yard** (`press-yard`) — 1 chapter
+  - A section of Newgate Prison where wealthy prisoners could pay for better accommodations; it was also the site where prisoners who refused to plead wer
+  - Example: "the Press-Yard, where the richest prisoners sat drinking port and claret" (The Mud Below London)
+- **The Inner and Middle Temple** (`the-temple-london`) — 1 chapter
+  - The Temple was the center of the English legal profession (the Inns of Court). In the Restoration, the area was known for a mix of high-status lawyers
+  - Example: "from a side-table in a brothel near the Temple" (The Mud Below London)
+- **St. Stephen's Cathedral (Stephansdom)** (`st-stephens-cathedral-vienna`) — 1 chapter
+  - The iconic landmark of Vienna; during the siege, the star and crescent (an old Viennese symbol, not Islamic in this context) was replaced by a cross a
+  - Example: "a cathedral with a dunce-cap tower topped by a curious symbol, a star wedged in " (The Continent)
+- **The Hofburg Palace** (`hofburg-palace`) — 1 chapter
+  - The principal winter residence of the Habsburg dynasty in Vienna, which served as the seat of the Holy Roman Emperors.
+  - Example: "glimpsed the high roof of the Emperor’s Palace" (The Continent)
+- **Poland-Lithuania** (`polish-lithuanian-commonwealth`) — 1 chapter
+  - The Polish-Lithuanian Commonwealth was one of the largest and most populous countries in 17th-century Europe, known for its powerful cavalry.
+  - Example: "men of great countries, such as France or Poland-Lithuania" (The Continent)
+- **Qasbah of Algiers** (`casbah-of-algiers`) — 1 chapter
+  - The citadel and heart of the city of Algiers, which served as a major base for the Barbary pirates and the seat of Ottoman power in the region.
+  - Example: "Mummy had been sold into the harem of an Ottoman military official at the Qasbah" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **The Danube River** (`danube-river-history`) — 1 chapter
+  - The second-longest river in Europe, which served as a vital frontier and transport artery between the Holy Roman Empire and the Ottoman Empire.
+  - Example: "Danube ferry" (Erstwhile Camp of Grand Vizier Khan Mustapha)
+- **Tyburn** (`tyburn-tree`) — 1 chapter
+  - The principal location for public executions in London, famous for the 'Tyburn Tree' (a triple gallows).
+  - Example: "The great hangings at Tyburn stopped." (Bohemia)
+- **Barbary Coast** (`barbary-coast`) — 1 chapter
+  - The coastal regions of North Africa known for privateering and the slave trade, where Eliza was previously held captive.
+  - Example: "In Barbary, all the coins were pieces of eight" (Leipzig)
+- **Ore Mountains (Erzgebirge)** (`ore-mountains`) — 1 chapter
+  - A mountain range forming the border between Saxony and Bohemia, historically one of the most important sources of silver, tin, and iron in Europe.
+  - Example: "referred to in his tongue simply as the Ore Range" (Leipzig)
+- **Electorate of Saxony** (`saxony`) — 1 chapter
+  - A powerful state within the Holy Roman Empire, ruled by the Electors of Saxony, known for its mineral wealth and as a center of the Protestant Reforma
+  - Example: "Saxony" (Leipzig)
+- **Old Town Hall (Leipzig)** (`leipzig-althaus`) — 1 chapter
+  - The Altes Rathaus, built in 1556 in the Renaissance style with distinct gables, served as the center of municipal power and trade regulation.
+  - Example: "Dutch-looking gables above and an arcade of vaulted brown stone" (Leipzig)
+- **St. Nicholas Church, Leipzig** (`nicolaikirche`) — 1 chapter
+  - A major church in Leipzig; historically significant as a center of Lutheranism and later for its role in the 1989 'Peaceful Revolution'.
+  - Example: "a stop at the Nicolaikirche so that the Doctor could make devotions" (Saxony)
+- **Leipzig** (`leipzig`) — 1 chapter
+  - A major German city near the Harz Mountains, known in this period as a center of trade, printing, and learning, and home to a famous university where 
+  - Example: "a voice that could probably be heard in Leipzig" (The Harz Mountains)
+- **Herrenhausen Gardens** (`herrenhausen-gardens`) — 1 chapter
+  - The famous Baroque gardens in Hanover, modeled after Versailles, where Sophia of Hanover spent much of her time and where Leibniz frequently walked wi
+  - Example: "Herrenhausen, her great garden" (The Place)
+- **Warmoesstraat** (`warmoesstraat`) — 1 chapter
+  - One of the oldest and most important commercial streets in Amsterdam, historically the center of the city's trade and wealthy merchant residences.
+  - Example: "The richest of those warehouse-streets was Warmoesstraat" (The Place)
+- **Texel** (`texel-roadstead`) — 1 chapter
+  - The island of Texel served as the main anchorage for the Dutch East India Company's fleets; ships would wait here for favorable winds before departing
+  - Example: "ocean at Texel" (The Place)
+- **Spanish Netherlands** (`spanish-netherlands`) — 1 chapter
+  - A collection of Holy Roman Empire states in the Low Countries held in personal union by the Spanish Crown; it was a primary battleground for the Franc
+  - Example: "laying waste to the Spanish Netherlands" (The Dutch Republic)
+- **Basilica of Saint-Denis** (`basilica-of-st-denis`) — 1 chapter
+  - A major monastery and burial site of French kings located just north of Paris; it was a significant destination for pilgrims and a gathering place for
+  - Example: "the perpetual pilgrim-camp around St.-Denis" (The Dutch Republic)
+- **Porte Saint-Denis and Porte Saint-Martin** (`porte-saint-denis-and-porte-saint-martin`) — 1 chapter
+  - These monumental triumphal arches were built by Louis XIV to replace old medieval city gates, celebrating his victories on the Rhine.
+  - Example: "The gate of St.-Denis was impossibly congested, so he tried his luck at the gate" (The Dutch Republic)
+- **The Temple (Paris)** (`the-temple-paris`) — 1 chapter
+  - Originally the fortified headquarters of the Knights Templar, by this period it was a semi-autonomous precinct held by the Knights Hospitaller (Knight
+  - Example: "the towers and bastions of the Temple, where those Knights of Malta had their ow" (The Dutch Republic)
+- **Tuileries Garden** (`tuileries-garden`) — 1 chapter
+  - A famous formal garden in Paris; the 'torture' refers to the practice of topiary and strict geometric landscaping popular in the French formal garden 
+  - Example: "In the garden of Tuileries... trees... being tortured and racked by the King’s g" (The Dutch Republic)
+- **Isfahan** (`isfahan`) — 1 chapter
+  - The capital of the Safavid Empire in Persia, Isfahan was a major center of global trade and home to a significant Armenian merchant community.
+  - Example: "family in Isfahan" (Paris)
+- **Place Dauphine** (`place-dauphine`) — 1 chapter
+  - A public square in Paris completed under Henry IV, located near the Pont Neuf; it was a center of commerce and, as noted, public spectacles.
+  - Example: "Place Dauphine, which was the sharp downstream tip of the Île de la Cité" (Paris)
+- **Abbey of Saint-Germain-des-Prés** (`st-germain-des-pres`) — 1 chapter
+  - A powerful Benedictine monastery that sat outside the walls of Paris; its surrounding 'faubourg' became a fashionable district and site of the famous 
+  - Example: "St. Germain des Pres, outside the walls: a large quadrangle of monks’ residences" (Paris)
+- **The Bastille** (`the-bastille`) — 1 chapter
+  - A fortress in Paris that served as a state prison and armory; it was a symbol of royal authority and stood at the eastern edge of the city.
+  - Example: "maneuvered round the trundling manure-carts all the way to the Bastille" (Paris)
+- **Lyons (Lyon)** (`lyon-banking-center`) — 1 chapter
+  - In the 17th century, Lyon was a major European banking and silk-trading hub, serving as a vital link between French and Italian financial markets.
+  - Example: "To Lyons was a long journey, almost all the way to Italy" (Paris)
+- **Binnenhof** (`binnenhof`) — 1 chapter
+  - The complex of buildings in The Hague that has served as the center of Dutch politics for centuries; in the 17th century, it was the seat of the State
+  - Example: "the long front of the Binnenhof" (The Hague)
+- **The Tower of London** (`tower-of-london`) — 1 chapter
+  - A historic castle on the north bank of the River Thames; in this era, it served as a royal palace, a prison, and the site of the Royal Mint and the Cr
+  - Example: "The Tower of London" (The Hague)
+- **Palace of Versailles** (`palace-of-versailles`) — 1 chapter
+  - The principal residence of the French kings from 1682, it served as the center of political power and a symbol of the absolute monarchy of Louis XIV.
+  - Example: "managing the assets of half the population of Versailles" (Amsterdam)
+- **Harz Mountains Mining** (`harz-mountains-mining`) — 1 chapter
+  - The Harz region in Germany was a major center for silver and lead mining, where Leibniz (the 'Doctor') historically attempted to use wind power to pum
+  - Example: "the Doctor’s mine, deep beneath the Harz" (Amsterdam)
+- **Dunkirk** (`dunkirk-privateers`) — 1 chapter
+  - In this era, Dunkirk was a notorious nest for privateers and smugglers, often changing hands between the Spanish, French, and English.
+  - Example: "Dunkirk went Mr. Vliet... sell goods quickly in Dunkirk" (Amsterdam)
+- **Cape of Good Hope** (`cape-of-good-hope`) — 1 chapter
+  - The southern tip of Africa; the primary maritime route for European trade with Asia before the Suez Canal, known for its treacherous waters.
+  - Example: "round the Cape of Good Hope" (Amsterdam)

@@ -1,0 +1,793 @@
+[
+  {
+    "quote": "Jack Ketch stands there, elbows locked, for all the world like a carpenter",
+    "subject": "Jack Ketch",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "jack-ketch",
+    "note": "Jack Ketch was a famous English executioner, known for his brutality and incompetence. A brief explanation of his notoriety would add context.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "diversions of a London hanging: no catcalls, jugglers, or pickpockets.",
+    "subject": "London hanging",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "public-executions-in-london",
+    "note": "Public executions in London were major public events, often attracting large crowds and various forms of entertainment. A short description of the atmosphere would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "squadron of lobsterbacks drills and marches round the base",
+    "subject": "lobsterbacks",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "lobsterbacks",
+    "note": "\"Lobsterbacks\" was a common nickname for British soldiers, referring to their red coats. A brief explanation of the term would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "On Sir Isaac Newton\u2019s temperature scale, where freezing is zero",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "Newton proposed a temperature scale based on 0 for freezing and 12 for body temperature. This is different from Fahrenheit or Celsius, and a brief explanation of its context and limitations would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "If Herr Fahrenheit were here with one of his new quicksilver-filled",
+    "subject": "Fahrenheit",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "daniel-gabriel-fahrenheit",
+    "note": "Daniel Gabriel Fahrenheit was a physicist and instrument maker best known for inventing the alcohol thermometer (1709) and the mercury thermometer (1714), and for developing a temperature scale now named after him. This is a very early reference to his work.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "books in Hebrew, Greek, and Latin pocked with the occult symbols of Alchemists and Kabalists",
+    "subject": "alchemy",
+    "type": "science",
+    "existing_topic": "Alchemy",
+    "note": "Alchemy was a philosophical and protoscientific tradition practiced throughout Europe, Africa and Asia. A brief explanation of its goals and methods would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "Navy\u2019s very largest men-of-war is able to moor at its end.",
+    "subject": "men-of-war",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "man-of-war",
+    "note": "A \"man-of-war\" was a type of warship, typically a large sailing vessel with multiple gun decks. A brief explanation of its role and significance in naval warfare would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "Cartesian number-line\u2014what Leibniz would call the Ordinate",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "Leibniz was a prominent German polymath and philosopher who developed calculus independently of Newton. The reference to the \"Ordinate\" alludes to his work in mathematics and coordinate systems.",
+    "chapter": "Boston Common",
+    "chunk": 0
+  },
+  {
+    "quote": "Slavers, merchants of rum and molasses and tea and tobacco",
+    "subject": "Slave trade",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "atlantic-slave-trade",
+    "note": "The reference to slavers and merchants dealing in rum, molasses, tea, and tobacco highlights the interconnectedness of the slave trade with other commodities in the colonial economy. A brief explanation of the triangular trade would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Back in America and among Puritans",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "note": "The Puritans were a significant religious group in colonial America. Providing context on their beliefs, social structure, and influence in New England would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Christendom",
+    "subject": "Christendom",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "christendom",
+    "note": "The term 'Christendom' refers to the historical and cultural concept of a unified Christian world. Explaining its significance in the 17th/18th century context, especially in contrast to other cultural spheres like Islam, would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "A Peace has been signed at Utrecht. France gets Spain.",
+    "subject": "Treaty of Utrecht",
+    "type": "event",
+    "existing_topic": "treaty-of-utrecht",
+    "note": "The Treaty of Utrecht was a series of peace treaties that ended the War of the Spanish Succession. A summary of the treaty's main provisions and its impact on European power dynamics would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "the slave trade.",
+    "subject": "Asiento",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "asiento",
+    "note": "The Asiento was a contract granted by the Spanish crown to various European powers for the right to provide African slaves to the Spanish colonies. Explaining its significance and the powers involved would be useful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "The War of the Spanish Succession,\u201d says Ben, \u201cwhose cause was the death in Madrid of King Carlos the Sufferer.",
+    "subject": "War of the Spanish Succession",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "war-of-the-spanish-succession",
+    "note": "The War of the Spanish Succession was a major European conflict triggered by the death of Charles II of Spain. Providing context on the competing claims to the Spanish throne and the alliances involved would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "The Glorious Revolution!",
+    "subject": "Glorious Revolution",
+    "type": "event",
+    "existing_topic": "glorious-revolution",
+    "note": "The Glorious Revolution was the overthrow of King James II of England. Explaining the causes, key figures, and consequences of this event would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "William and Mary!",
+    "subject": "William and Mary",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "william-iii-and-mary-ii",
+    "note": "William III and Mary II were the joint monarchs who replaced James II after the Glorious Revolution. Providing context on their reign and their significance in English history would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "The Civil War,\u201d says Ben.",
+    "subject": "English Civil War",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "note": "The English Civil War was a series of conflicts between Parliamentarians and Royalists. Explaining the causes, key figures (like Cromwell), and consequences of this event would be beneficial.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "later came the Restoration",
+    "subject": "Restoration",
+    "type": "event",
+    "existing_topic": "restoration-london",
+    "note": "The Restoration refers to the return of the monarchy in England with Charles II after the period of the Commonwealth. Explaining the political and social changes that occurred during this period would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Archbishop Laud",
+    "subject": "Archbishop Laud",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "william-laud",
+    "note": "William Laud was the Archbishop of Canterbury under Charles I. Explaining his role in the religious tensions that led to the English Civil War would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Charles the First. The Puritans paid him back by chopping off the head of that same Charles in Charing Cross, in the year of our lord sixteen hundred and forty-nine.",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "note": "Charles I was the King of England whose execution marked a turning point in English history. Providing context on his reign, his conflicts with Parliament, and his eventual execution would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "Cromwell",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell was a key figure in the English Civil War and the subsequent Commonwealth. Explaining his role as Lord Protector and his impact on English society would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "tallow-chandlers\u2019 sons do not go to grammar school",
+    "subject": "Grammar school",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "grammar-school-education",
+    "note": "Grammar schools in this period were secondary schools that focused on classical education, primarily for the upper classes. Explaining the curriculum and social implications would be helpful.",
+    "chapter": "Boston Common",
+    "chunk": 1
+  },
+  {
+    "quote": "He watched the head of King Charles the First being chopped off.",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "suggested_slug": null,
+    "note": "Charles I was King of England, Scotland, and Ireland until his execution in 1649 during the English Civil War. Understanding the circumstances of his execution provides context for the political climate of the time.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Archbishop Laud had caused his ears and his nose to be cut off in Star Chamber",
+    "subject": "Star Chamber",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "star-chamber",
+    "note": "The Star Chamber was an English court of law that became notorious for its secret and arbitrary proceedings, often used by the monarchy to suppress dissent. Knowing this helps understand the father's persecution.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Against all Kings.",
+    "subject": "Kings",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "anti-monarchism",
+    "note": "The father's agitation 'against all Kings' indicates a republican or anti-monarchist sentiment, which was a significant political position during and after the English Civil War.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Shocking how different this place is from London.",
+    "subject": "London",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "london-in-the-17th-century",
+    "note": "Understanding the social and political differences between Boston and London in the 17th century is important. Boston was a Puritan settlement, while London was the center of the English monarchy and Restoration culture.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "the coins that are being stamped out by Sir Isaac Newton in the Royal Mint at the Tower of London.",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Isaac Newton was Master of the Royal Mint at this time. This is a detail that highlights his involvement in practical matters beyond his scientific pursuits.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "the coins that are being stamped out by Sir Isaac Newton in the Royal Mint at the Tower of London.",
+    "subject": "Royal Mint",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "royal-mint",
+    "note": "The Royal Mint is the institution responsible for producing the coinage of England (and later, Great Britain). Knowing this helps understand the context of Newton's role.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "the coins that are being stamped out by Sir Isaac Newton in the Royal Mint at the Tower of London.",
+    "subject": "Tower of London",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "tower-of-london",
+    "note": "The Tower of London served as the location of the Royal Mint at this time. It was also a prison, armory, and treasury.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Spanish\u2014the same coins that are changing hands, at this moment, in Lima, Manila, Macao, Goa, Bandar Abbas, Mocha, Cairo, Smyrna, Malta, Madrid, the Canary Islands, Marseilles.",
+    "subject": "Spanish coins",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "spanish-currency-in-the-17th-century",
+    "note": "The prevalence of Spanish coinage in global trade reflects Spain's economic power and colonial reach at the time. Understanding this context is important for grasping the global economy of the era.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Piece of Eight, or a bit, as they are called.",
+    "subject": "Piece of Eight",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "piece-of-eight",
+    "note": "The 'Piece of Eight' was a Spanish silver coin widely used in international trade. Knowing its value and use helps understand the economic transactions in the novel.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Caribbean to go a-pirating on the Spanish Main.",
+    "subject": "Spanish Main",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "spanish-main",
+    "note": "The Spanish Main refers to the mainland territories of the Spanish Empire in the Americas, particularly the Caribbean coast. It was a prime target for pirates and privateers.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "Sir Isaac could probably work out in his head.",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Reference to Newton's mathematical abilities, specifically his work with conic sections, highlights his genius and its relevance to the scientific understanding of the world at the time.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "The Hypothesis of Vortices is pressed with many difficulties.",
+    "subject": "Hypothesis of Vortices",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "vortex-theory-of-gravity",
+    "note": "The Hypothesis of Vortices was a theory of gravity proposed by Ren\u00e9 Descartes, which Newton refuted with his law of universal gravitation. This reference highlights the ongoing scientific debates of the era.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "arms of the King of Spain are branded into his left shoulder, and so he is probably Angolan.",
+    "subject": "Angolan",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "angola-slave-trade",
+    "note": "Angola was a major source of slaves for the transatlantic slave trade. The branding indicates the slave's origin and ownership, highlighting the brutal realities of the slave trade.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "abducted by Africans fiercer than he, chained up in a hole in Luanda",
+    "subject": "Luanda",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "luanda",
+    "note": "Luanda was a major port in Angola and a key hub for the transatlantic slave trade. Understanding its role in the slave trade provides context for the slave's experience.",
+    "chapter": "Boston Common",
+    "chunk": 2
+  },
+  {
+    "quote": "his brethren in London (and that is a very good assumption)",
+    "subject": "religious conflict in England",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "english-religious-tensions",
+    "note": "This refers to the ongoing tensions between various Protestant sects (like the fictional 'Barkers') and the established Church of England, a major theme in the book's historical context.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Lobsterbacks tromping after them in leapfrogging blocks",
+    "subject": "British soldiers",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "lobsterbacks",
+    "note": "'Lobsterbacks' was a common nickname for British soldiers, referring to their red coats.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "that fell Sect during their halcyon days of Cathedral-sacking and King-killing",
+    "subject": "English Civil War",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "note": "This alludes to the role of radical Puritan factions during the English Civil War, including the execution of Charles I and the destruction of religious art and architecture.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Some would say it\u2019s the unnatural philosophers that are to blame for Protestants fighting Protestants in England and Catholics everywhere else.",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "note": "This reflects the period's anxieties about the social and religious impact of new scientific ideas associated with natural philosophy.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "As when your own Judges finally went up to Salem and pointed out that the people there were going crazy.",
+    "subject": "Salem Witch Trials",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "salem-witch-trials",
+    "note": "This refers to the Salem Witch Trials, a period of mass hysteria and persecution in colonial Massachusetts.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Sir Isaac\u2014who is the President of the Royal Society",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "Isaac Newton was a towering figure in the scientific revolution and later became President of the Royal Society.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "the King\u2019s Arrow\u2014going to build ships for the Navy.",
+    "subject": "King's Arrow",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "kings-arrow",
+    "note": "The King's Arrow was a mark placed on trees reserved for use by the Royal Navy, indicating they were the property of the Crown.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Harvard College is.",
+    "subject": "Harvard College",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "harvard-college",
+    "note": "Harvard College, founded in 1636, was one of the earliest institutions of higher learning in the American colonies.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "Some of them have a dour Puritan look about them",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "note": "Puritans were a significant religious group in colonial New England, known for their strict moral code and emphasis on religious piety.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "They guess that he has come on some Alchemical errand",
+    "subject": "alchemy",
+    "type": "science",
+    "existing_topic": "alchemy",
+    "note": "Alchemy was a proto-scientific tradition that sought to transform base metals into gold and discover the elixir of life.",
+    "chapter": "Boston Common",
+    "chunk": 3
+  },
+  {
+    "quote": "vis viva is conducted into Dr. Waterhouse\u2019s gear-boxes",
+    "subject": "vis viva",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "vis-viva",
+    "note": "Vis viva is Latin for 'living force.' In early formulations of mechanics, it was a concept related to kinetic energy. Understanding this term helps to grasp the scientific context of Waterhouse's work.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "He\u2019s not entirely satisfied with Harvard College then!?",
+    "subject": "Harvard College",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "harvard-college",
+    "note": "Harvard College (now Harvard University) was founded in 1636 and was a prominent institution in the Massachusetts Bay Colony. Knowing its role and status provides context for Waterhouse's alternative institute.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "He is a Fellow of the Royal Society!",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "note": "The Royal Society was (and is) a prestigious scientific institution in England. Being a Fellow signifies high standing in the scientific community. This establishes Enoch Root's credibility.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "fallen quite under the spell of Herr Leibniz",
+    "subject": "Gottfried Wilhelm von Leibniz",
+    "type": "person",
+    "existing_topic": "gottfried-wilhelm-von-leibniz",
+    "note": "Gottfried Wilhelm von Leibniz was a prominent German polymath and philosopher. His association with Waterhouse and the negative reaction of the Harvard dons is important to understand.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "him that stole the calculus from Sir Isaac",
+    "subject": "calculus",
+    "type": "science",
+    "existing_topic": "calculus-priority-dispute",
+    "note": "This refers to the calculus priority dispute between Leibniz and Newton. Understanding this controversy adds depth to the characters' opinions and scientific rivalries.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "notwithstanding Sir Isaac\u2019s having exploded the old ways",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "Sir Isaac Newton was a hugely influential physicist and mathematician. Knowing his impact on science helps understand the context of 'exploding the old ways'.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "Mill\u2014designed after Leibniz\u2019s principles\u2014that he imagines will discover new truths through computation!",
+    "subject": "computing",
+    "type": "science",
+    "existing_topic": "computing-machines",
+    "note": "This refers to early mechanical computing devices. Understanding Leibniz's ideas about computation and its potential for discovering new truths is crucial.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "Their colleagues are muttering to them words like \u201cHanover\u201d and \u201cAnsbach.\u201d",
+    "subject": "Hanover",
+    "type": "place",
+    "existing_topic": "hanoverian-succession",
+    "note": "The mention of Hanover and Ansbach alludes to the Hanoverian succession in England. Knowing that the Electress Sophia of Hanover was in line to succeed Queen Anne, and that Caroline of Ansbach was her granddaughter-in-law, provides context for the dons' reaction to the letter.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "Queen Anne were already dead and buried, and the Hanovers on the throne.",
+    "subject": "Queen Anne",
+    "type": "person",
+    "existing_topic": "queen-anne",
+    "note": "Queen Anne was the reigning monarch of England at this time. The dons' behavior suggests they are anticipating her death and the succession of the House of Hanover.",
+    "chapter": "Boston Common",
+    "chunk": 4
+  },
+  {
+    "quote": "the peace of Westphalia did.",
+    "subject": "Peace of Westphalia",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "peace-of-westphalia",
+    "note": "The Peace of Westphalia (1648) ended the Thirty Years' War in the Holy Roman Empire and the Eighty Years' War between Spain and the Dutch Republic. It is often seen as a turning point in European history, establishing the modern state system.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "the removal of the King\u2019s head from the rest of the King",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "note": "This refers to the execution of King Charles I of England in 1649, a pivotal event in the English Civil War.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Cromwell smashed the Royalists for the umpteenth and final time at Worcester.",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell was a key figure in the English Civil War and later Lord Protector of England, Scotland, and Ireland. The Battle of Worcester in 1651 effectively ended Royalist hopes of restoring the monarchy at that time.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Charles the Second ran off to Paris",
+    "subject": "Charles II",
+    "type": "person",
+    "existing_topic": "charles-ii",
+    "note": "Charles II fled to France after the Battle of Worcester. He lived in exile until the Restoration of the monarchy in 1660.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Through the Dutch Republic, of course.",
+    "subject": "Dutch Republic",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "dutch-republic",
+    "note": "The Dutch Republic (c. 1581-1795) was a major European power during this period, known for its trade, naval strength, and relative religious tolerance.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "look in on a Mr. Huygens in the Hague.",
+    "subject": "Christiaan Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christiaan-huygens",
+    "note": "Christiaan Huygens (1629-1695) was a prominent Dutch physicist, mathematician, astronomer and inventor. He made significant contributions to optics and mechanics, and improved the design of pendulum clocks.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "the Navigation Act. And a sea-war against the Dutch.",
+    "subject": "Navigation Acts",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "navigation-acts",
+    "note": "The Navigation Acts were a series of English laws restricting the use of foreign ships for trade between England and its colonies. These acts were designed to benefit English shipping and trade, and were a major cause of conflict with the Dutch Republic, leading to several Anglo-Dutch Wars.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Rich Tories, no less!",
+    "subject": "Tories",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "tories",
+    "note": "The term 'Tory' originally referred to those who supported the hereditary right of the monarch, as opposed to the Whigs, who favored parliamentary supremacy. The terms emerged in English politics during the Exclusion Crisis (1678-1681).",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "before Natural Philosophy as we know it.",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "note": "Natural Philosophy was the term used to describe the study of nature in the period before the rise of modern science. It encompassed what we now call physics, chemistry, biology, and other sciences.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Francis Bacon, Galileo, Descartes",
+    "subject": "Francis Bacon",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "francis-bacon",
+    "note": "Francis Bacon (1561-1626) was an English philosopher, statesman, scientist, jurist, and author. He served both as Attorney General and as Lord Chancellor of England. Bacon is considered one of the fathers of modern science, advocating for empirical, inductive reasoning known as the scientific method.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Francis Bacon, Galileo, Descartes",
+    "subject": "Galileo Galilei",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "galileo-galilei",
+    "note": "Galileo Galilei (1564-1642) was an Italian astronomer, physicist and engineer, sometimes described as a polymath. Galileo has been called the \"father of observational astronomy\", the \"father of modern physics\", the \"father of the scientific method\", and the \"father of modern science\". His work was controversial due to his support of heliocentrism.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Francis Bacon, Galileo, Descartes",
+    "subject": "Ren\u00e9 Descartes",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "rene-descartes",
+    "note": "Ren\u00e9 Descartes (1596-1650) was a French philosopher, mathematician, and scientist. Dubbed the father of modern western philosophy, much of subsequent Western philosophy is a response to his writings, which are studied closely to this day. He is best known for the philosophical statement \"I think, therefore I am\".",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Alchemy.",
+    "subject": "alchemy",
+    "type": "term",
+    "existing_topic": "Alchemy",
+    "note": "Alchemy was a philosophical and protoscientific tradition practiced throughout Europe, Africa, and Asia. It aimed to purify, mature, and perfect certain objects. Common goals were the transmutation of base metals into noble metals (gold); creating an elixir of immortality; and creating panaceas able to cure any disease.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Monsieur LeFebure, who was the apothecary to the French Court.",
+    "subject": "Nicolas Le Febvre",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "nicolas-le-febvre",
+    "note": "Nicolas Le Febvre (c. 1610-1669) was a French chemist and apothecary. He served as the apothecary to Louis XIV and was known for his work in alchemy and chemistry.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Louis the Fourteenth. His formal coronation was in 1654.",
+    "subject": "Louis XIV",
+    "type": "person",
+    "existing_topic": "louis-xiv",
+    "note": "Louis XIV (1638-1715), known as the Sun King, was King of France from 1643 until his death. His reign of 72 years and 110 days is the longest of any monarch of a sovereign country in European history. He was a major patron of the arts and sciences, and his court at Versailles became a model for other European monarchs.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "pendulums were an old idea\u2014but he did something simple and beautiful",
+    "subject": "pendulum clock",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "pendulum-clock",
+    "note": "The pendulum clock was a significant invention in timekeeping. While the principle of the pendulum was known earlier, Huygens's improvements made it a reliable and accurate timekeeping device.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "New Model Army.",
+    "subject": "New Model Army",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "new-model-army",
+    "note": "The New Model Army was formed in 1645 by the Parliamentarians during the English Civil War. It was distinguished by its professional soldiers, religious discipline, and merit-based promotions, and was instrumental in defeating the Royalists.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "John Wilkins",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "note": "John Wilkins (1614-1672) was an English clergyman, natural philosopher and author, and one of the founders of the Royal Society.",
+    "chapter": "Boston Common",
+    "chunk": 5
+  },
+  {
+    "quote": "Cromwell and his New Model Army",
+    "subject": "New Model Army",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "suggested_slug": null,
+    "note": "The New Model Army was a key force in the English Civil War, led by Oliver Cromwell. Understanding its role helps contextualize the political climate.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Oxford, meaning only to pay a call on John Wilkins",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins was a prominent figure in the scientific revolution, a founder of the Royal Society, and known for his interest in cryptography and mechanical inventions. Knowing this gives context to his possession of the Cryptonomicon.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Warden of Wadham College, which is part of the University of Oxford",
+    "subject": "Wadham College",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "wadham-college",
+    "note": "Wadham College, Oxford was a center of scientific and philosophical inquiry in the 17th century, particularly associated with John Wilkins and the early Royal Society. Knowing this highlights the intellectual environment of the time.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Natural Philosophy",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "suggested_slug": null,
+    "note": "Natural Philosophy is the historical term for what we now call science. Understanding this helps interpret the characters' motivations and activities.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "he married Cromwell\u2019s sister",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "suggested_slug": null,
+    "note": "Oliver Cromwell was Lord Protector of England. Knowing this gives context to the social implications of Wilkins marrying his sister.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Experimental Philosophical Clubb met. Christopher Wren, Robert Boyle, Robert Hooke",
+    "subject": "Robert Boyle",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "robert-boyle",
+    "note": "Robert Boyle was a pioneering chemist and physicist, known for Boyle's Law. His presence in the Experimental Philosophical Clubb highlights its scientific importance.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Experimental Philosophical Clubb met. Christopher Wren, Robert Boyle, Robert Hooke",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "suggested_slug": null,
+    "note": "Robert Hooke was a polymath scientist and inventor, known for his work on microscopy and elasticity. His presence in the Experimental Philosophical Clubb highlights its scientific importance.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Huygens\u2019s house in the Hague",
+    "subject": "Christiaan Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christiaan-huygens",
+    "note": "Christiaan Huygens was a prominent Dutch physicist, mathematician, and astronomer, known for his work on optics, mechanics, and timekeeping. His invention of the pendulum clock is a key plot point.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  },
+  {
+    "quote": "Galileo had timed his experiments",
+    "subject": "Galileo Galilei",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "galileo-galilei",
+    "note": "Galileo Galilei was a pivotal figure in the scientific revolution, known for his work on astronomy, physics, and mathematics. The contrast between his methods and Huygens's highlights the progress in scientific measurement.",
+    "chapter": "Boston Common",
+    "chunk": 6
+  }
+]

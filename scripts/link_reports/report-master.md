@@ -1,0 +1,2570 @@
+# Quicksilver Reading Guide — Master Reference Inventory
+
+Combined scan of all 3 books in Volume 1.
+
+- Total unique references: 1233
+- Already have topic pages: 41
+- Need new topic pages: 1192
+
+## Existing Topics — Cross-Book Appearances
+
+- **Gottfried Wilhelm von Leibniz** (`gottfried-wilhelm-von-leibniz`) — 28 chapters (B1, B2, B3)
+- **Isaac Newton** (`isaac-newton`) — 23 chapters (B1, B2, B3)
+- **Louis XIV** (`louis-xiv`) — 23 chapters (B1, B2, B3)
+- **The Royal Society** (`royal-society`) — 22 chapters (B1, B2, B3)
+- **James II** (`james-ii`) — 22 chapters (B1, B2, B3)
+- **Philosophick Mercury** (`alchemy`) — 21 chapters (B1, B2, B3)
+- **Robert Hooke** (`robert-hooke`) — 21 chapters (B1, B3)
+- **John Wilkins** (`john-wilkins`) — 20 chapters (B1, B3)
+- **Natural Philosophy** (`natural-philosophy`) — 18 chapters (B1, B2, B3)
+- **The Restoration** (`charles-ii`) — 16 chapters (B1, B2, B3)
+- **Oliver Cromwell** (`oliver-cromwell`) — 16 chapters (B1, B2, B3)
+- **Apocalypticism** (`apocalypticism`) — 13 chapters (B1, B2, B3)
+- **Judge Jeffreys** (`judge-jeffreys`) — 12 chapters (B1, B3)
+- **Quicksilver (Mercury) and Alchemy** (`quicksilver-mercury`) — 12 chapters (B1, B2, B3)
+- **The Great Plague of London** (`plague`) — 11 chapters (B1, B2, B3)
+- **Puritans** (`puritans`) — 10 chapters (B1, B2, B3)
+- **Henry Oldenburg and the Montmor Academy** (`henry-oldenburg`) — 10 chapters (B1, B3)
+- **Execution of Charles I** (`english-civil-war`) — 9 chapters (B1, B2)
+- **Newton's optics experiments** (`newtons-optics`) — 9 chapters (B1, B3)
+- **Charles I** (`charles-i`) — 8 chapters (B1, B2, B3)
+- **The Glorious Revolution** (`glorious-revolution`) — 7 chapters (B1, B3)
+- **Computing Machines** (`computing-machines`) — 7 chapters (B1, B2, B3)
+- **An Essay Towards a Real Character, and a Philosophical Language** (`universal-characteristic`) — 7 chapters (B1, B2)
+- **The Calculus Priority Dispute** (`calculus-priority-dispute`) — 6 chapters (B1, B2, B3)
+- **Coffeehouses** (`coffeehouses`) — 6 chapters (B1, B2, B3)
+- **Samuel Pepys** (`samuel-pepys`) — 6 chapters (B1, B3)
+- **Duke of Monmouth** (`monmouth`) — 6 chapters (B1, B2, B3)
+- **John Locke** (`john-locke`) — 5 chapters (B1, B3)
+- **The Great Plague and Great Fire of London** (`great-fire-of-london`) — 5 chapters (B1, B2, B3)
+- **Restoration Theater** (`restoration-theater`) — 5 chapters (B1, B2)
+- **Pirates** (`pirates`) — 4 chapters (B1, B2)
+- **Treaty of Utrecht** (`treaty-of-utrecht`) — 2 chapters (B1)
+- **Zeno's Paradox** (`zenos-paradox`) — 2 chapters (B1)
+- **Enoch Root** (`enoch-root`) — 2 chapters (B2, B3)
+- **Bob Shaftoe** (`bob-shaftoe`) — 2 chapters (B2, B3)
+- **Princess Caroline of Ansbach** (`caroline-of-ansbach`) — 2 chapters (B3)
+- **Queen Anne** (`queen-anne`) — 1 chapters (B1)
+- **Restoration London** (`restoration-london`) — 1 chapters (B1)
+- **Fermat's Last Theorem** (`fermats-last-theorem`) — 1 chapters (B1)
+- **longitude** (`longitude`) — 1 chapters (B3)
+- **Hanoverian Succession** (`hanoverian-succession`) — 1 chapters (B3)
+
+## New Topics Needed
+
+Grouped by type, sorted by frequency across all books.
+
+### Person (226 topics)
+
+- **Christiaan Huygens** (`christiaan-huygens`) — 21 chapters (B1, B2, B3)
+  - A Dutch mathematician and physicist who invented the pendulum clock in 1656, vastly increasing the accuracy of timekeeping.
+- **John Churchill, 1st Duke of Marlborough** (`john-churchill`) — 17 chapters (B1, B2, B3)
+  - A legendary English general and statesman whose career began as a courtier and soldier during the Restoration.
+- **William III of England (William of Orange)** (`william-iii-of-orange`) — 15 chapters (B1, B2, B3)
+  - The Protestant monarchs who took the throne following the Glorious Revolution, marking a shift in English religious and foreign policy.
+- **René Descartes** (`rene-descartes`) — 14 chapters (B1, B3)
+  - The French philosopher and mathematician who created analytical geometry and proposed a mechanical view of the universe.
+- **Sophia of the Palatinate and Ernest Augustus, Elector of Hanover** (`sophia-of-the-palatinate`) — 13 chapters (B1, B2, B3)
+  - The Electress of Hanover and a patron of Leibniz. Under the Act of Settlement 1701, she was the heiress presumptive to the British throne.
+- **Duke of Monmouth** (`duke-of-monmouth`) — 13 chapters (B1, B2, B3)
+  - The illegitimate son of Charles II, a popular but controversial figure who later led a rebellion to claim the throne.
+- **Robert Boyle** (`robert-boyle`) — 12 chapters (B1, B3)
+  - A founding father of modern chemistry and a pioneer of the experimental scientific method, famous for Boyle's Law.
+- **Sir Christopher Wren** (`christopher-wren`) — 10 chapters (B1, B3)
+  - Before becoming England's most famous architect, Wren was a brilliant astronomer and mathematician at Oxford.
+- **Jean-Antoine de Mesmes, Comte d'Avaux** (`comte-davaux`) — 9 chapters (B2, B3)
+  - A prominent French diplomat under Louis XIV who served as ambassador to the Dutch Republic during the 1680s.
+- **Nicaise Le Febure** (`nicaise-le-febure`) — 8 chapters (B1, B3)
+  - A real chemist and apothecary to Louis XIV and later Charles II; he was a significant figure in the transition from alchemy to chemistry.
+- **Thomas Hobbes** (`thomas-hobbes`) — 7 chapters (B1, B2, B3)
+  - An influential English philosopher whose 1651 work 'Leviathan' established the foundation for Western political philosophy and the concept of the social contract.
+- **Elizabeth Stuart, Queen of Bohemia** (`the-winter-queen`) — 7 chapters (B1, B2, B3)
+  - The daughter of James I whose brief reign in Bohemia led to the Thirty Years' War; her many descendants formed the basis for the Hanoverian succession.
+- **Baruch Spinoza** (`baruch-spinoza`) — 7 chapters (B1, B2, B3)
+  - The famous Dutch philosopher who supported himself by grinding high-quality optical lenses.
+- **Jack Ketch** (`jack-ketch`) — 6 chapters (B1, B2, B3)
+  - A notorious English executioner under King Charles II; his name became a generic slang term for the hangman in English culture.
+- **Daniel Defoe** (`daniel-defoe`) — 6 chapters (B1, B2, B3)
+  - A prolific English writer and spy, best known today for 'Robinson Crusoe'. His 'A Plan of the English Commerce' (1728) reflects his interests in trade and the economic potential of the British colonie
+- **Nicolas Fatio de Duilliers** (`nicolas-fatio-de-duillier`) — 6 chapters (B3)
+  - A Swiss mathematician known for his work on zodiacal light and his close, controversial relationship with Isaac Newton.
+- **William Laud** (`william-laud`) — 5 chapters (B1, B3)
+  - The Archbishop of Canterbury under Charles I whose High Church policies and persecution of Puritans were major catalysts for the Great Migration to America.
+- **Euclid** (`euclid`) — 5 chapters (B1, B3)
+  - The ancient Greek 'Father of Geometry'; his work 'Elements' was the standard textbook for teaching mathematics and deductive reasoning for centuries.
+- **Princess Caroline of Ansbach** (`princess-caroline-of-ansbach`) — 5 chapters (B1, B3)
+  - A highly intellectual princess and friend of Leibniz who later became Queen of Great Britain as the wife of George II.
+- **Sir Robert Moray** (`robert-moray`) — 5 chapters (B1, B3)
+  - A Scottish statesman and natural philosopher who was a key figure in the founding of the Royal Society and served as its first president.
+- **Sir Winston Churchill (1620–1688)** (`sir-winston-churchill-cavalier`) — 5 chapters (B1, B2, B3)
+  - A Royalist politician and historian, and the father of the famous Duke of Marlborough. He was an early Fellow of the Royal Society.
+- **John Flamsteed** (`john-flamsteed`) — 5 chapters (B1, B3)
+  - The first Astronomer Royal of England, known for his meticulous star catalogs and his professional rivalry with Isaac Newton.
+- **Liselotte (Elizabeth Charlotte, Madame Palatine)** (`elizabeth-charlotte-madame-palatine`) — 5 chapters (B2, B3)
+  - Known as Liselotte, she was the sister-in-law of Louis XIV and a prolific letter writer whose correspondence provides deep insight into the Bourbon court.
+- **Charles II of Spain** (`charles-ii-of-spain`) — 4 chapters (B1, B3)
+  - Known as 'El Hechizado' (The Bewitched), his death without an heir triggered a massive European power struggle over the Spanish throne.
+- **Galileo Galilei** (`galileo-galilei`) — 4 chapters (B1, B3)
+  - The Italian astronomer whose earlier studies of pendulums and falling bodies laid the groundwork for the scientific revolution.
+- **Sir Roger L'Estrange** (`roger-lestrange`) — 4 chapters (B1, B3)
+  - A staunch Royalist who aggressively censored 'seditious' Puritan pamphlets and newspapers during the Restoration.
+- **John Bunyan** (`john-bunyan`) — 4 chapters (B1, B2, B3)
+  - A Puritan preacher and author of 'The Pilgrim's Progress' (1678), one of the most significant works of English literature. The excerpt describes 'Vanity Fair,' a place of worldly corruption.
+- **Sir Thomas Gresham** (`thomas-gresham`) — 4 chapters (B1, B3)
+  - An English merchant and financier who worked to restore the value of English currency; known for 'Gresham's Law' (bad money drives out good).
+- **Anne Hyde** (`anne-hyde`) — 4 chapters (B1, B3)
+  - The first wife of James, Duke of York, and mother of two future queens; her marriage was controversial due to her status as a commoner.
+- **Barbara Palmer, 1st Duchess of Cleveland (Lady Castlemaine)** (`lady-castlemaine`) — 4 chapters (B1, B2)
+  - Known as Lady Castlemaine, she was the most influential mistress of Charles II, wielding significant political power at court for over a decade.
+- **Philippe I, Duke of Orléans (Monsieur)** (`philippe-i-duke-of-orleans`) — 4 chapters (B1, B3)
+  - The younger brother of Louis XIV, known for his flamboyant lifestyle and military success despite his exclusion from political power.
+- **Nell Gwyn** (`nell-gwyn`) — 4 chapters (B1, B2, B3)
+  - A prolific celebrity of the Restoration, she rose from being an 'orange girl' in theaters to a celebrated comic actress and one of the most famous mistresses of King Charles II.
+- **Jean-Baptiste Colbert** (`jean-baptiste-colbert`) — 4 chapters (B1, B3)
+  - The First Minister of State under Louis XIV, known for his economic reforms and patronage of the sciences and arts.
+- **Mary of Modena** (`mary-of-modena`) — 4 chapters (B1, B3)
+  - The second wife of James, Duke of York; her Catholicism and the prospect of a Catholic heir fueled political unrest in England.
+- **Françoise d'Aubigné, Marquise de Maintenon** (`madame-de-maintenon`) — 4 chapters (B2, B3)
+  - The second wife of Louis XIV; though they were married in a private ceremony around 1683, she was never officially recognized as Queen, yet she wielded enormous influence over the King's religious pol
+- **Bonaventure Rossignol** (`bonaventure-rossignol`) — 4 chapters (B3)
+  - A famous French cryptographer who, along with his father Antoine, developed the 'Great Cipher' for Louis XIV, which remained unbroken for centuries.
+- **The Bernoulli Family** (`the-bernoulli-family`) — 3 chapters (B1, B3)
+  - The Bernoulli family, particularly brothers Jacob and Johann, were early adopters and developers of Leibniz's version of calculus, applying it to fluid dynamics and the physics of sails and hulls.
+- **John Donne** (`john-donne`) — 3 chapters (B1, B2)
+  - A leading English poet of the Metaphysical movement whose work often blended the intellectual with the macabre; the poem cited was written for Cecilia Bulstrode.
+- **Henrietta Maria of France** (`henrietta-maria`) — 3 chapters (B1, B3)
+  - The Catholic queen consort of Charles I, whose religion and correspondence with foreign Catholic powers made her a target of intense suspicion by Parliament.
+- **John Amos Comenius** (`john-amos-comenius`) — 3 chapters (B1)
+  - A Czech philosopher and educator who proposed 'Pansophism,' a system of universal knowledge and language.
+- **Louise de Kérouaille, Duchess of Portsmouth** (`louise-de-keroualle`) — 3 chapters (B1, B3)
+  - A French mistress of Charles II who acted as a political agent for Louis XIV at the English court.
+- **Michiel de Ruyter** (`michiel-de-ruyter`) — 3 chapters (B1)
+  - A highly skilled Dutch admiral who led successful raids against English interests in West Africa and North America, contributing to the start of the Second Anglo-Dutch War.
+- **Elias Ashmole** (`elias-ashmole`) — 3 chapters (B1, B3)
+  - An antiquary, politician, and alchemist whose collection formed the basis of the Ashmolean Museum in Oxford.
+- **Leopold I, Holy Roman Emperor** (`leopold-i`) — 3 chapters (B2, B3)
+  - The head of the House of Habsburg and Holy Roman Emperor (1658–1705) during the conflicts with Louis XIV and the Ottoman Empire.
+- **Kara Mustafa Pasha** (`kara-mustafa-pasha`) — 3 chapters (B2)
+  - The Ottoman Grand Vizier who led the massive central European campaign in 1683, culminating in the Siege of Vienna.
+- **François-Michel le Tellier, Marquis de Louvois** (`marquis-de-louvois`) — 3 chapters (B2, B3)
+  - The French Secretary of State for War under Louis XIV, famous for expanding and modernizing the French army.
+- **Johann Philipp von Schönborn** (`johann-philipp-von-schonborn`) — 2 chapters (B1)
+  - The Archbishop-Elector of Mainz and a patron of Leibniz; he and his minister Baron von Boyneburg were known for their interest in alchemy and diplomacy.
+- **Hugh Peters** (`hugh-peters`) — 2 chapters (B1)
+  - A radical Puritan preacher and supporter of Cromwell who was executed for regicide (the killing of Charles I) after the Restoration.
+- **Edmond Halley** (`edmond-halley`) — 2 chapters (B1, B3)
+  - An English astronomer who used Newton's laws to calculate the orbit of the comet that now bears his name, proving it was a periodic visitor.
+- **Bernard Mandeville** (`bernard-mandeville`) — 2 chapters (B1, B3)
+  - An Anglo-Dutch philosopher and satirist famous for 'The Fable of the Bees,' which argued that private vices (like luxury and greed) lead to public benefits.
+- **Classical Philosophy** (`aristotle`) — 2 chapters (B1)
+  - At this time, the Cambridge curriculum was still dominated by Aristotelian logic and scholasticism, which Newton famously began to reject in favor of 'modern' philosophers.
+- **John Milton** (`john-milton`) — 2 chapters (B1)
+  - A 17th-century English poet and intellectual whose epic 'Paradise Lost' explores the tension between divine fate and human free will, a central theme of the novel.
+- **Isaac Barrow** (`isaac-barrow`) — 2 chapters (B1)
+  - A Christian theologian and mathematician who was the first Lucasian Professor of Mathematics at Cambridge and a key mentor to Isaac Newton.
+- **Peter Blondeau** (`peter-blondeau`) — 2 chapters (B1)
+  - A French moneyer who introduced mechanized 'milled' coinage to England, which helped prevent the common practice of 'clipping' silver from the edges of coins.
+- **James I** (`james-i`) — 2 chapters (B1, B3)
+  - King of England and Scotland (r. 1603–1625) whose economic policies, including the Cockayne Project to restrict cloth exports, caused significant trade disruption.
+- **Edward Teach (Blackbeard)** (`edward-teach-blackbeard`) — 2 chapters (B1)
+  - Better known as Blackbeard, Teach was one of the most notorious pirates of the Golden Age of Piracy, known for his intimidating appearance and theatrical tactics.
+- **Jonathan Goddard** (`jonathan-goddard`) — 2 chapters (B1)
+  - A physician to Oliver Cromwell and a founding member of the Royal Society, known for his 'Goddard's Drops' and early botanical studies.
+- **Charles de Batz de Castelmore d'Artagnan** (`dartagnan`) — 2 chapters (B1, B2)
+  - A real captain of the Musketeers of the Guard under Louis XIV. He famously died during the Siege of Maastricht in 1673, an event being reenacted in this passage.
+- **Catherine of Braganza** (`catherine-of-braganza`) — 2 chapters (B1, B3)
+  - The wife of Charles II; her inability to produce an heir created a succession crisis that fueled the rise of the Whig and Tory parties.
+- **Charles II, Elector Palatine** (`charles-ii-elector-palatine`) — 2 chapters (B2, B3)
+  - The last Elector of the Simmern line. His death in 1685 without an heir triggered the devastating War of the Palatine Succession (Nine Years' War).
+- **Jean Martinet** (`jean-martinet`) — 2 chapters (B2)
+  - A French lieutenant colonel and drillmaster whose strict, standardized training methods for Louis XIV's army gave rise to the term 'martinet' for a rigid disciplinarian.
+- **John III Sobieski** (`john-iii-sobieski`) — 2 chapters (B2)
+  - The King of Poland and Grand Duke of Lithuania whose arrival with his relief force was decisive in lifting the Siege of Vienna.
+- **Charles I Louis, Elector Palatine** (`charles-louis-elector-palatine`) — 2 chapters (B2, B3)
+  - The son of the Winter Queen who regained his father's title and lands following the Peace of Westphalia.
+- **Minerva** (`minerva`) — 2 chapters (B2, B3)
+  - The Roman goddess of wisdom and strategic warfare. In this context, she represents the intellectual and artisanal skill required for successful commerce.
+- **Sophia Charlotte of Hanover** (`sophia-charlotte`) — 2 chapters (B2, B3)
+  - The daughter of Sophia of the Palatinate; her marriage to Frederick of Brandenburg (later Frederick I of Prussia) was a major dynastic event in the late 17th century.
+- **Jean Bart** (`jean-bart`) — 2 chapters (B2)
+  - A famous French naval commander and privateer from Dunkirk known for his daring exploits against the Dutch and English.
+- **Mary II of England** (`mary-ii`) — 2 chapters (B2)
+  - The daughter of James II and wife of William of Orange; she later reigned jointly with her husband as Mary II after the Glorious Revolution.
+- **Sarah Churchill, Duchess of Marlborough** (`sarah-churchill`) — 2 chapters (B2, B3)
+  - One of the most influential women of her time due to her close friendship with the future Queen Anne.
+- **William III of England** (`william-iii-of-england`) — 2 chapters (B3)
+  - The Dutch Stadtholder and nephew/son-in-law of James II who would eventually lead the Glorious Revolution to take the English throne.
+- **Louis de Duras, 2nd Earl of Feversham** (`earl-of-feversham`) — 2 chapters (B3)
+  - A French-born nobleman who became a trusted military advisor to James II and commanded the royal forces during the Monmouth Rebellion.
+- **John Francis Vigani** (`john-francis-vigani`) — 2 chapters (B3)
+  - An Italian chemist who became the first Professor of Chemistry at Cambridge; he was a real-life associate of Newton until they fell out over a joke about a nun.
+- **Jules Hardouin-Mansart** (`jules-hardouin-mansart`) — 2 chapters (B3)
+  - A premier French Baroque architect for Louis XIV, known for his work on the Palace of Versailles and the Dome des Invalides.
+- **Philippe, Chevalier de Lorraine** (`chevalier-de-lorraine`) — 2 chapters (B3)
+  - A member of the House of Guise and the long-term lover of Philippe I, Duke of Orléans. He exerted significant political influence over the Duke's household.
+- **Eleanor Erdmuthe of Saxe-Eisenach** (`eleanor-erdmuthe`) — 2 chapters (B3)
+  - A real historical figure and mother of Caroline of Ansbach; her precarious social standing after her husband's death illustrates the vulnerability of noblewomen in the era.
+- **Daniel Gabriel Fahrenheit** (`daniel-gabriel-fahrenheit`) — 1 chapters (B1)
+  - The physicist who invented the mercury-in-glass thermometer in 1714 and the temperature scale that bears his name.
+- **Benjamin Franklin** (`benjamin-franklin`) — 1 chapters (B1)
+  - The boy is a young Benjamin Franklin; his father Josiah was indeed a tallow-chandler in Boston, and Ben was famously precocious and briefly attended grammar school.
+- **Early Modern Philosophers** (`early-modern-philosophers`) — 1 chapters (B1)
+  - Key figures of the Scientific Revolution who championed empirical observation and rationalism over traditional scholasticism.
+- **Robina Cromwell** (`robina-cromwell`) — 1 chapters (B1)
+  - Wilkins married Oliver Cromwell's sister in 1656, a politically savvy move that helped protect scientific interests during the Interregnum.
+- **Mr. Clark of Grantham** (`mr-clark-grantham`) — 1 chapters (B1)
+  - The apothecary with whom a young Isaac Newton lodged while attending the King's School in Grantham.
+- **John Lambe** (`john-lambe`) — 1 chapters (B1)
+  - An English astrologer and physician to the Duke of Buckingham who was stoned to death by a mob (the 'mobile') in 1628 after being accused of sorcery.
+- **Princess Elizabeth of the Palatinate** (`elizabeth-of-the-palatinate`) — 1 chapters (B1)
+  - A brilliant philosopher who engaged in a famous correspondence with Descartes regarding the mind-body problem.
+- **Sir John Floyer** (`john-floyer`) — 1 chapters (B1)
+  - An English physician who introduced the practice of pulse-counting using a 'pulse watch' to measure the rate of the heartbeat accurately.
+- **Pyrrhon of Elis** (`pyrrho-of-elis`) — 1 chapters (B1)
+  - A Greek philosopher credited as the founder of Pyrrhonism, a school of philosophical skepticism that suggests one should suspend judgment on all non-evident matters.
+- **Rudolf I of Germany** (`rudolf-of-habsburg`) — 1 chapters (B1)
+  - The first Habsburg King of Germany, elected in 1273, who established the Habsburg dynasty as one of the most powerful in European history.
+- **George I of Great Britain** (`george-i`) — 1 chapters (B1)
+  - The Elector of Hanover who became King George I of Great Britain in 1714, despite speaking little English.
+- **Roger Cotes** (`roger-cotes`) — 1 chapters (B1)
+  - A brilliant mathematician and the first Plumian Professor at Cambridge who edited the second edition of Newton's Principia.
+- **James Scott, 1st Duke of Monmouth** (`james-scott-1st-duke-of-monmouth`) — 1 chapters (B1)
+  - The illegitimate son of Charles II who later led a rebellion against James II.
+- **George Jeffreys** (`george-jeffreys`) — 1 chapters (B1)
+  - Known as the 'Hanging Judge,' Jeffreys was a notorious jurist during the reign of James II.
+- **Mother Goose** (`mother-goose`) — 1 chapters (B1)
+  - The fictionalized origin of the nursery rhyme figure; the rhymes she recites (like 'Hey Diddle Diddle') are period-appropriate folk tales.
+- **Daniel Coxe** (`daniel-coxe`) — 1 chapters (B1)
+  - A real member of the Royal Society and physician who reported on various natural phenomena and later became involved in American colonial land grants.
+- **Nathaniel Hodges** (`nathaniel-hodges`) — 1 chapters (B1)
+  - A real physician who remained in London during the Great Plague of 1665 to treat victims and later wrote 'Loimologia', a primary historical account of the epidemic.
+- **Sir William Curtius** (`sir-william-curtius`) — 1 chapters (B1)
+  - A diplomat and Fellow of the Royal Society who served as the English resident in Germany.
+- **Alexander Lindsay, 1st Earl of Balcarres** (`earl-of-balcarres`) — 1 chapters (B1)
+  - A Scottish nobleman whose heart was famously examined by the Royal Society after his death to investigate a medical anomaly.
+- **John Wilmot, 2nd Earl of Rochester** (`earl-of-rochester`) — 1 chapters (B1)
+  - A notorious Restoration poet, courtier, and rake known for his wit and hedonistic lifestyle at the court of Charles II.
+- **Charles II's interest in science** (`charles-iis-interest-in-science`) — 1 chapters (B1)
+  - Charles II was a patron of the sciences who maintained his own private laboratory and frequently challenged the Royal Society with observations and queries.
+- **Louis XIV (The Sun King)** (`louis-xiv-the-sun-king`) — 1 chapters (B1)
+  - Louis XIV of France adopted the sun as his personal emblem to symbolize his absolute power; an allusion to it in a letter to the English King would be seen as politically charged or sycophantic.
+- **Pierre de Fermat** (`pierre-de-fermat`) — 1 chapters (B1)
+  - A French lawyer and mathematician who died in 1665; he is best known for Fermat's Last Theorem.
+- **Ned Ward** (`ned-ward`) — 1 chapters (B1)
+  - A London writer and satirist known for 'The London Spy'; his work often mocked the eccentricities of the 'Virtuosos' of the Royal Society.
+- **Mary II and Queen Anne** (`mary-ii-and-queen-anne`) — 1 chapters (B1)
+  - The daughters of James II and Anne Hyde; Mary would rule with William of Orange, and Anne would be the last Stuart monarch.
+- **Dappa** (`dappa`) — 1 chapters (B1)
+  - Though a fictional character, Dappa represents the presence of educated Africans in the maritime world and the complex social hierarchies of the era.
+- **Nicolaus Copernicus** (`copernicus`) — 1 chapters (B1)
+  - A metaphorical reference to the Copernican model where the Earth revolves around the Sun, reflecting the shift in scientific thought during this era.
+- **Saint Sebastian** (`saint-sebastian`) — 1 chapters (B1)
+  - The text likely intends Saint Sebastian, the martyr famously depicted riddled with arrows; St. Anne is the mother of the Virgin Mary and not associated with this iconography.
+- **Thomas Bloodworth** (`sir-thomas-bloodworth`) — 1 chapters (B1)
+  - The Lord Mayor of London during the Great Fire, often blamed for his indecisiveness in the early hours of the blaze which allowed it to grow out of control.
+- **John Graunt** (`john-graunt`) — 1 chapters (B1)
+  - The founder of the science of demography and statistics, known for his work analyzing the London Bills of Mortality.
+- **Daniel Whistler** (`daniel-whistler`) — 1 chapters (B1)
+  - An English physician and president of the Royal College of Physicians who wrote one of the earliest descriptions of rickets.
+- **Stenka Razin** (`stenka-razin`) — 1 chapters (B1)
+  - A Cossack leader who led a major uprising against the nobility and Tsar in Southern Russia/Ukraine between 1670 and 1671.
+- **Nicholas Mercator** (`nicholas-mercator`) — 1 chapters (B1)
+  - A mathematician known for his work on logarithms; not to be confused with the map-maker Gerardus Mercator.
+- **William Croune** (`william-croune`) — 1 chapters (B1)
+  - A physician and original fellow of the Royal Society who specialized in muscle movement and embryology.
+- **Sir John Finch** (`sir-john-finch`) — 1 chapters (B1)
+  - An English ambassador and physician who was a fellow of the Royal Society and studied anatomy in Italy.
+- **Sir George Ent** (`george-ent`) — 1 chapters (B1)
+  - An English physician and friend of William Harvey, known for defending Harvey's theory of blood circulation.
+- **Sir William Curtius** (`william-curtius`) — 1 chapters (B1)
+  - A diplomat who served as the English Resident in Germany and was a fellow of the Royal Society.
+- **Giuseppe Campani** (`giuseppe-campani`) — 1 chapters (B1)
+  - An Italian optician and astronomer famous for his high-quality telescope lenses.
+- **Thomas Povey** (`thomas-povey`) — 1 chapters (B1)
+  - A civil servant and politician who was a founding fellow of the Royal Society and a friend of Samuel Pepys.
+- **Richard Waller** (`richard-waller`) — 1 chapters (B1)
+  - An English naturalist and illustrator who served as Secretary of the Royal Society.
+- **Christopher Merret** (`christopher-merret`) — 1 chapters (B1)
+  - A physician and scientist who produced the first list of British flora and fauna.
+- **Thomas Allen** (`thomas-allen`) — 1 chapters (B1)
+  - A physician and fellow of the Royal Society known for his medical observations.
+- **Sir Robert Southwell** (`robert-southwell`) — 1 chapters (B1)
+  - A diplomat and later President of the Royal Society.
+- **Regnier de Graaf** (`regnier-de-graaf`) — 1 chapters (B1)
+  - A Dutch physician and anatomist who made key discoveries regarding the reproductive system.
+- **Sir Edmund King** (`edmund-king`) — 1 chapters (B1)
+  - A physician to Charles II who performed early blood transfusion experiments.
+- **Henrietta Anne of England (Minette)** (`henrietta-anne-stuart`) — 1 chapters (B1)
+  - The sister of Charles II and sister-in-law to Louis XIV. She acted as a vital secret intermediary between the two kings during the negotiation of the Treaty of Dover.
+- **George Villiers, 2nd Duke of Buckingham** (`duke-of-buckingham`) — 1 chapters (B1)
+  - A prominent statesman and member of the 'Cabal' ministry, known for his wit and scandalous personal life.
+- **Sir Winston Churchill (1620–1688)** (`winston-churchill-ancestor`) — 1 chapters (B1)
+  - The father of the 1st Duke of Marlborough and a direct ancestor of the 20th-century Prime Minister; he was a Royalist politician and courtier.
+- **Johannes Gutenberg** (`johannes-gutenberg`) — 1 chapters (B1)
+  - The inventor of the movable-type printing press; Daniel is noting the book is a hand-copied manuscript rather than a printed volume.
+- **Giovanni Battista Riccioli** (`giovanni-battista-riccioli`) — 1 chapters (B1)
+  - An Italian Jesuit astronomer who published 'Almagestum Novum', which provided a comprehensive overview of 17th-century arguments for and against the heliocentric (Copernican) system.
+- **Barbara Villiers** (`barbara-villiers`) — 1 chapters (B1)
+  - One of the most powerful and influential mistresses of Charles II, known for her beauty and political interference.
+- **Hans Holbein the Younger** (`hans-holbein`) — 1 chapters (B1)
+  - The famous Tudor court painter whose iconic portrait of Henry VIII defined the monarch's physical image for history.
+- **Johann Philipp von Schönborn and Baron Johann Christian von Boineburg** (`boineburg-and-mainz`) — 1 chapters (B1)
+  - Leibniz's real-life patrons who involved him in high-level diplomacy to prevent French expansion into German territories.
+- **René Descartes and Pierre de Fermat** (`descartes-and-fermat`) — 1 chapters (B1)
+  - Two of the most influential mathematicians and philosophers of the 17th century whose work set the stage for the Enlightenment.
+- **René Descartes and Blaise Pascal** (`descartes-and-pascal`) — 1 chapters (B1)
+  - Two of the most influential French philosophers and mathematicians of the 17th century whose work laid the foundations for modern science.
+- **Elizabeth French** (`elizabeth-french`) — 1 chapters (B1)
+  - The wife of John Wilkins and niece of Oliver Cromwell, representing the complex familial ties between the Protectorate and the Restoration.
+- **Johann Philipp von Schönborn** (`archbishop-of-mainz`) — 1 chapters (B1)
+  - The Elector and Archbishop of Mainz who was Leibniz's early patron and a key figure in the politics of the Holy Roman Empire.
+- **Francis Bacon** (`francis-bacon`) — 1 chapters (B1)
+  - An English philosopher and statesman who is credited with developing the scientific method; his works heavily influenced the founding of the Royal Society.
+- **Lucius Quinctius Cincinnatus** (`cincinnatus`) — 1 chapters (B1)
+  - A Roman statesman and military leader who became a legendary symbol of civic virtue by resigning his near-absolute power immediately after a crisis to return to his farm.
+- **Ordinary of Newgate** (`ordinary-of-newgate`) — 1 chapters (B2)
+  - The chaplain of Newgate Prison whose duty was to provide spiritual comfort to condemned prisoners and exhort them to confess before execution.
+- **Colonel James Turner** (`james-turner-execution`) — 1 chapters (B2)
+  - James (often called John) Turner was a high-profile criminal whose 1664 execution for burglary was a major public spectacle, famously attended and written about by Samuel Pepys.
+- **The Grand Turk** (`the-grand-turk`) — 1 chapters (B2)
+  - A common European title for the Sultan of the Ottoman Empire; at the time of the Battle of Vienna, this was Mehmed IV.
+- **Grand Vizier** (`grand-vizier`) — 1 chapters (B2)
+  - The de facto prime minister of the Ottoman Empire, second only to the Sultan. At the time of the Siege of Vienna, this was Kara Mustafa Pasha.
+- **Gabriel Nicolas de la Reynie** (`gabriel-nicolas-de-la-reynie`) — 1 chapters (B2)
+  - The first Lieutenant General of Police in Paris under Louis XIV, credited with cleaning up the 'Court of Miracles' and modernizing urban policing.
+- **Frederick V and Elizabeth Stuart** (`winter-king-and-queen`) — 1 chapters (B2)
+  - Frederick V of the Palatinate and his wife Elizabeth Stuart, whose reign in Bohemia lasted only one winter (1619–1620) before they were defeated and exiled.
+- **Henry Morgan** (`henry-morgan`) — 1 chapters (B2)
+  - A famous Welsh privateer and later Lieutenant Governor of Jamaica who led daring raids against Spanish settlements in the Caribbean.
+- **Claude Louis Hector de Villars** (`claude-louis-hector-de-villars`) — 1 chapters (B2)
+  - A prominent French military commander under Louis XIV who became one of only six Marshals General of France.
+- **Holy Roman Emperor** (`holy-roman-emperor`) — 1 chapters (B2)
+  - In 1683, this would refer to Leopold I. The Empire was a complex union of territories in Central Europe, primarily Germanic.
+- **Mercury (Mythology)** (`mercury-mythology`) — 1 chapters (B2)
+  - Mercury was the Roman god of commerce, communication, and travelers. His prominence in Leipzig over religious figures signals the city's identity as a major European trade hub.
+- **The Fugger Family** (`fugger-family`) — 1 chapters (B2)
+  - A dominant German banking and mercantile family in the 15th and 16th centuries, often compared to the Medicis.
+- **Vizier** (`vizier`) — 1 chapters (B2)
+  - A high-ranking political advisor or minister in the Ottoman Empire.
+- **Martin Luther** (`martin-luther`) — 1 chapters (B2)
+  - The German priest and central figure of the Protestant Reformation. His presence here signifies the religious identity of the region and the building's role as a place of Protestant worship.
+- **Saint Barbara** (`saint-barbara`) — 1 chapters (B2)
+  - The patron saint of miners, armorers, and mathematicians. Miners in the Harz region traditionally invoked her for protection against explosions and cave-ins.
+- **Richard Shaftoe** (`richard-shaftoe`) — 1 chapters (B2)
+  - Though a member of the fictional Shaftoe family, his death in the Thames is a recurring memory for Jack; context on the dangerous, crowded nature of the 17th-century Thames helps.
+- **Pope Innocent XI** (`pope-innocent-xi`) — 1 chapters (B2)
+  - The Pope from 1676 to 1689 who had a famously contentious relationship with Louis XIV over the rights of the French crown versus the Church.
+- **John Dee** (`john-dee`) — 1 chapters (B2)
+  - An Elizabethan mathematician, astronomer, and occultist who served as an advisor to Elizabeth I and was famous for his attempts to communicate with angels.
+- **Jewish Community of Amsterdam** (`jews-in-amsterdam`) — 1 chapters (B2)
+  - Amsterdam was a rare haven for Sephardic Jews fleeing the Inquisition in Spain and Portugal; they became central to the city's banking and trading success.
+- **Sir Winston Churchill (1620–1688)** (`winston-churchill-elder`) — 1 chapters (B2)
+  - The father of the Duke of Marlborough and a Royalist politician. His service to the crown helped place his children in the royal household.
+- **Ferdinand Magellan** (`ferdinand-magellan`) — 1 chapters (B2)
+  - A Portuguese explorer who led the first expedition to circumnavigate the globe; used here as a metaphor for adventurous, pioneering rats.
+- **Louis XIII** (`louis-xiii`) — 1 chapters (B2)
+  - The father of Louis XIV; an equestrian statue of him stood in the center of the Place Royale until it was destroyed during the French Revolution.
+- **Cardinal Mazarin** (`cardinal-mazarin`) — 1 chapters (B2)
+  - The Chief Minister of France who held de facto power during Louis XIV's youth; Louis only began personal rule after Mazarin's death.
+- **Duke of Braunschweig-Lüneburg** (`duke-of-braunschweig-luneburg`) — 1 chapters (B2)
+  - A title held by members of the House of Welf; at this time, it refers to the rulers of the territory that would become the Electorate of Hanover.
+- **Louis XIV's Legitimated Children** (`legitimated-princes-of-france`) — 1 chapters (B2)
+  - Louis XIV had several children by his mistresses (notably Madame de Montespan) whom he legitimized and sought to marry into high-ranking European nobility to increase French influence.
+- **Frederick Henry, Prince of Orange** (`frederick-henry-prince-of-orange`) — 1 chapters (B2)
+  - The Stadtholder (de facto ruler) of the United Provinces from 1625 to 1647, known for his military successes and legal edicts during the Dutch Golden Age.
+- **Brueghel family** (`brueghel-family`) — 1 chapters (B2)
+  - A famous dynasty of Flemish painters known for detailed landscapes and scenes of peasant life.
+- **The De La Vega Family** (`de-la-vega-family`) — 1 chapters (B2)
+  - Based on the historical Joseph de la Vega, a Sephardic Jewish merchant in Amsterdam who wrote 'Confusion de Confusiones,' the first book on stock exchange practices.
+- **Louis, Duke of Bourbon** (`duc-de-bourbon`) — 1 chapters (B2)
+  - A member of the French royal family; the anecdote about the snuff-box refers to a real historical incident involving the poet Jean Santeul.
+- **Louis XIV (Le Roi)** (`louis-xiv-le-roi`) — 1 chapters (B2)
+  - Jack uses the phonetic 'Leroy' for 'Le Roi' (The King), referring to Louis XIV of France. The reference to the Pope concerns the fear that the Catholic monarchs of France and England were conspiring t
+- **Arnold Joost van Keppel** (`arnold-joost-van-keppel`) — 1 chapters (B2)
+  - A close confidant and rumored lover of William of Orange, Keppel later became the 1st Earl of Albemarle and a powerful figure in both Dutch and English politics.
+- **Frederick William, Elector of Brandenburg** (`elector-of-brandenburg`) — 1 chapters (B2)
+  - Known as the 'Great Elector,' he was the ruler of Brandenburg-Prussia and a key player in the shifting European alliances against Louis XIV.
+- **Ancient Greek Medicine** (`asclepius-and-hippocrates`) — 1 chapters (B3)
+  - Asclepius was the Greek god of medicine, and Hippocrates is considered the father of Western medicine; these are high classical compliments for the attending physicians.
+- **Mary I of England** (`mary-i`) — 1 chapters (B3)
+  - The Catholic Queen (reigned 1553–1558) known for her executions of Protestants, which forced many into exile.
+- **Henri de la Tour d'Auvergne, Vicomte de Turenne** (`marshal-turenne`) — 1 chapters (B3)
+  - One of the greatest military commanders in French history, under whom James II served with distinction during his exile.
+- **John Evelyn** (`john-evelyn`) — 1 chapters (B3)
+  - A contemporary of Samuel Pepys whose detailed diaries provide a primary historical account of life, culture, and politics in 17th-century England.
+- **Catherine Sedley** (`catherine-sedley`) — 1 chapters (B3)
+  - A witty and famously 'homely' mistress of James II; her Protestantism and influence at court were points of political contention.
+- **Edward Petre** (`edward-petre`) — 1 chapters (B3)
+  - A Jesuit priest and close advisor to James II; his prominent role in the King's privy council fueled anti-Catholic sentiment in England.
+- **John Huddleston** (`father-huddlestone`) — 1 chapters (B3)
+  - A Benedictine monk who helped Charles II escape after the Battle of Worcester and was brought to the King's deathbed to receive him into the Catholic Church.
+- **Edward Petre** (`father-petre`) — 1 chapters (B3)
+  - A Jesuit priest and close advisor to James II; his influence was a major source of Protestant anxiety regarding the 'popish' influence on the Crown.
+- **Paul Barillon** (`paul-barillon`) — 1 chapters (B3)
+  - The long-serving French ambassador to England who facilitated secret subsidies from Louis XIV to the English monarchy.
+- **Françoise-Athénaïs de Rochechouart, Marquise de Montespan** (`madame-de-montespan`) — 1 chapters (B3)
+  - The most celebrated mistress of Louis XIV, she bore him seven children and dominated the court until she was supplanted by Madame de Maintenon.
+- **The Dauphine** (`the-dauphine`) — 1 chapters (B3)
+  - The title given to the wife of the Dauphin (the heir apparent to the French throne); at this time, it refers to Maria Anna Victoria of Bavaria.
+- **Aurangzeb** (`aurangzeb`) — 1 chapters (B3)
+  - The sixth Mughal Emperor (reigned 1658–1707), known for expanding the empire to its greatest extent but also for his religious orthodoxy and constant warfare.
+- **Maria Theresa of Spain** (`maria-theresa-of-spain`) — 1 chapters (B3)
+  - The first wife of Louis XIV, who died in 1683. Her death allowed the King to secretly marry his mistress, Madame de Maintenon.
+- **Maria Anna Victoria of Bavaria** (`maria-anna-victoria-of-bavaria`) — 1 chapters (B3)
+  - The wife of Louis, Grand Dauphin; as the highest-ranking woman at court after the Queen's death, her household was the center of female political maneuvering.
+- **Antoine d'Aquin** (`antoine-daquin`) — 1 chapters (B3)
+  - The personal physician to Louis XIV from 1672 to 1693, whose medical failures (including the disastrous dental surgery described) eventually led to his disgrace.
+- **Henrietta of England (Minette)** (`henrietta-of-england`) — 1 chapters (B3)
+  - The youngest daughter of Charles I of England and sister to Charles II; her marriage to 'Monsieur' (the Duke of Orléans) linked the English and French royal houses.
+- **Nicolas Catinat** (`nicolas-catinat`) — 1 chapters (B3)
+  - A prominent French military commander under Louis XIV known for his campaigns in Italy and the suppression of religious minorities in the Alps.
+- **Apollonius of Perga** (`apollonius-of-perga`) — 1 chapters (B3)
+  - A Greek geometer whose work 'Conics' defined the properties of the ellipse, parabola, and hyperbola.
+- **Johannes Kepler and Nicolaus Copernicus** (`kepler-and-copernicus`) — 1 chapters (B3)
+  - Key figures of the Scientific Revolution; Copernicus proposed the heliocentric model, and Kepler established the laws of planetary motion.
+- **Giovanni Francesco Gemelli Careri** (`gemelli-careri`) — 1 chapters (B3)
+  - An Italian adventurer and traveler (1651–1725) famous for his world travels, which he funded by 'carrying' goods to avoid customs, and his book Giro del Mondo.
+- **Solomon** (`solomonic-wisdom`) — 1 chapters (B3)
+  - Newton believed that ancient figures like King Solomon possessed secret, lost knowledge of the universe (Prisca Sapientia) that he was merely 'rediscovering'.
+- **Sir Winston Churchill (1620–1688)** (`winston-churchill-senior`) — 1 chapters (B3)
+  - The father of the 1st Duke of Marlborough; a Royalist politician and historian during the Restoration.
+- **George Monck, 1st Duke of Albemarle** (`george-monck`) — 1 chapters (B3)
+  - The general (referred to here as Lewis, likely a character alias or error for Monck) who marched from Coldstream to London to facilitate the Restoration of Charles II.
+- **Sir Winston Churchill (1620–1688)** (`winston-churchill-cavalier`) — 1 chapters (B3)
+  - The father of the more famous John Churchill; he was a staunch Royalist politician and courtier under Charles II and James II.
+- **Henry FitzRoy, 1st Duke of Grafton** (`duke-of-grafton`) — 1 chapters (B3)
+  - The illegitimate son of King Charles II and the Duchess of Cleveland; he was a naval commander who initially supported James II before switching sides.
+- **Jean-Baptiste Lully** (`jean-baptiste-lully`) — 1 chapters (B3)
+  - The chief court composer for Louis XIV, Lully was the dominant figure in French Baroque music and opera.
+- **Blaise Pascal** (`blaise-pascal`) — 1 chapters (B3)
+  - A French mathematician, physicist, and Catholic theologian whose 'Pensées' was a landmark of French literature and philosophy.
+- **James FitzJames, 1st Duke of Berwick** (`duke-of-berwick`) — 1 chapters (B3)
+  - The illegitimate son of James II and Arabella Churchill; he became a highly successful French general.
+- **William Penn** (`william-penn`) — 1 chapters (B3)
+  - A prominent Quaker and the founder of the Province of Pennsylvania. He was a close friend of James II and a staunch advocate for religious toleration.
+- **Elizabeth Villiers** (`elizabeth-villiers`) — 1 chapters (B3)
+  - The long-time mistress of William of Orange, known for her influence and intellect despite her lack of traditional beauty.
+- **Elizabeth Charlotte, Madame Palatine** (`elizabeth-charlotte-liselotte`) — 1 chapters (B3)
+  - Known as Liselotte, she was the second wife of Philippe I, Duke of Orléans (the brother of Louis XIV), and a prolific letter-writer whose correspondence provides detailed accounts of the French court.
+- **Comte de Fenil** (`comte-de-fenil`) — 1 chapters (B3)
+  - A French conspirator who planned to kidnap William of Orange; Fatio de Duillier overheard and exposed his plot.
+- **William III of England (Prince of Orange)** (`william-iii`) — 1 chapters (B3)
+  - The Dutch stadtholder who became King of England following the Glorious Revolution. Fatio de Duilliers is historically credited with uncovering a plot to kidnap William.
+- **Alban Francis** (`alban-francis`) — 1 chapters (B3)
+  - A Benedictine monk whose attempt to gain a Master of Arts degree without taking the required Protestant oaths led to a major legal conflict between James II and Cambridge University.
+- **André Le Nôtre** (`andre-le-notre`) — 1 chapters (B3)
+  - The preeminent French landscape architect and gardener to King Louis XIV, best known for designing the gardens of Versailles.
+- **Cardinal Richelieu** (`cardinal-richelieu`) — 1 chapters (B3)
+  - The Chief Minister to Louis XIII who sought to consolidate royal power and crush the domestic political influence of the Huguenots.
+- **Madame de Sévigné** (`madame-de-sevigne`) — 1 chapters (B3)
+  - A French aristocrat famous for her voluminous and witty letter-writing, which provides a detailed chronicle of life at the court of Louis XIV.
+- **Elizabeth Charlotte, Madame Palatine** (`madame-palatine`) — 1 chapters (B3)
+  - The second wife of Philippe I, Duke of Orléans (Louis XIV's brother); she was known for her blunt, prolific letters describing the scandals of the French court.
+- **Antoine Coëffier de Ruzé, Marquis d'Effiat** (`marquis-deffiat`) — 1 chapters (B3)
+  - A long-time favorite and rumored lover of the Duke of Orléans, often associated with the Chevalier de Lorraine in court intrigues.
+- **Elizabeth Charlotte, Duchess of Orléans** (`elizabeth-charlotte-duchess-of-orleans`) — 1 chapters (B3)
+  - Known as 'Liselotte,' she was the second wife of Monsieur and a prolific letter writer whose correspondence provides much historical detail of the era.
+- **House of Hanover** (`house-of-hanover`) — 1 chapters (B3)
+  - The German royal house related to Madame; their presence at the French court highlights the dynastic links across Europe.
+- **Eleonore Erdmuthe of Saxe-Eisenach** (`eleonore-of-saxe-eisenach`) — 1 chapters (B3)
+  - A German noblewoman and the mother of Caroline of Ansbach; her presence highlights the displacement of German royalty during the French invasions.
+- **Sébastien Le Prestre de Vauban** (`vauban`) — 1 chapters (B3)
+  - The foremost military engineer of his age, famous for designing a 'fence of iron' (barrière de fer)—a network of sophisticated fortifications along France's borders.
+- **Elizabeth Charlotte, Princess Palatine (Liselotte)** (`elizabeth-charlotte-princess-palatine`) — 1 chapters (B3)
+  - The second wife of Monsieur. Her German heritage and claim to the Palatinate were used by Louis XIV as a pretext for the Nine Years' War.
+- **Scheherazade** (`one-thousand-and-one-nights`) — 1 chapters (B3)
+  - The legendary storyteller of 'The Arabian Nights'; Eliza identifies with her as a woman using wit and narrative to survive dangerous political environments.
+- **Elizabeth Charlotte, Madame Palatine** (`elizabeth-charlotte-duchesse-d-orleans`) — 1 chapters (B3)
+  - Known as Liselotte, she was the second wife of Philippe I, Duke of Orléans (Louis XIV's brother); her claim to the Palatinate was used by Louis XIV as a pretext for invasion.
+- **The Huygens Family** (`huygens-family`) — 1 chapters (B3)
+  - A prominent Dutch family including Constantijn (diplomat/poet) and Christiaan (famous mathematician and physicist); they were close to the House of Orange.
+- **Antoine Rossignol** (`rossignol-cryptographers`) — 1 chapters (B3)
+  - The Rossignols were a dynasty of French cryptographers who created the 'Great Cipher' for Louis XIV, which remained unbroken for centuries.
+- **Sweyn Forkbeard and Ealhmund of Kent** (`early-english-kings`) — 1 chapters (B3)
+  - Sweyn Forkbeard was a Viking King of England (1013); Ealhmund was an 8th-century King of Kent. They represent the 'ancient' warrior-kings Daniel contrasts with the modern James II.
+- **Richard the Lionheart and Saladin** (`richard-and-saladin`) — 1 chapters (B3)
+  - The legendary rivalry between the English King and the Ayyubid Sultan during the Third Crusade, often romanticized in chivalric literature.
+- **King Canute** (`king-canute`) — 1 chapters (B3)
+  - A reference to the legendary Viking King of England who demonstrated the limits of kingly power by failing to command the incoming tide to retreat.
+- **Thomas Bruce, 2nd Earl of Ailesbury** (`earl-of-ailesbury`) — 1 chapters (B3)
+  - A loyal courtier to James II who accompanied him during his flight; the 'Gentleman of the Bedchamber' was a high-ranking proximity-based court office.
+- **Thomas Tompion** (`thomas-tompion`) — 1 chapters (B3)
+  - Known as the 'Father of English Clockmaking,' Tompion was the era's most celebrated horologist, working closely with Robert Hooke to create highly accurate timepieces for the Royal Observatory.
+- **Johannes Kepler** (`johannes-kepler`) — 1 chapters (B3)
+  - The German astronomer who formulated the laws of planetary motion, confirming the heliocentric model and proving that orbits are elliptical rather than circular.
+- **Hermes Trismegistus** (`hermes-trismegistus`) — 1 chapters (B3)
+  - The legendary Hellenistic figure to whom the Hermetic Corpus is attributed; he was a central figure of inspiration for alchemists and occultists.
+- **Peter the Great** (`peter-the-great`) — 1 chapters (B3)
+  - The Tsar who modernized Russia and expanded it into a major European power through westernization and military reform.
+- **John Frederick, Margrave of Brandenburg-Ansbach** (`john-frederick-ansbach`) — 1 chapters (B3)
+  - The ruler of Ansbach and father of Caroline, known for his interest in the arts and sciences.
+- **James Francis Edward Stuart** (`the-old-pretender`) — 1 chapters (B3)
+  - The son of James II whose birth sparked the 'Warming Pan Scandal' and helped trigger the Glorious Revolution.
+- **Chevalier de Montluçon** (`chevalier-de-montlucon`) — 1 chapters (B3)
+  - The French Ambassador to the Hague; his presence highlights the diplomatic tensions between France and the Dutch Republic.
+- **Eleonore Erdmuthe of Saxe-Eisenach** (`eleonore-erdmuthe-of-saxe-eisenach`) — 1 chapters (B3)
+  - A German noblewoman who became Electress of Saxony; in the novel, she is a friend and protector to Eliza during her time in The Hague.
+- **Sophia of the Palatinate and Sophia Charlotte of Hanover** (`sophie-and-sophie-charlotte`) — 1 chapters (B3)
+  - Electress Sophia of Hanover (heir to the British throne) and her daughter Sophia Charlotte (Queen in Prussia) were both highly educated patrons of the arts and philosophy.
+- **Scientific and Philosophical Figures** (`scientific-luminaries`) — 1 chapters (B3)
+  - A gathering of the era's greatest minds: Huygens (clocks/optics), Newton (calculus/gravity), Fatio de Duillier (mathematician), Boyle (chemistry), Locke (philosophy), and Wren (architecture).
+
+### Institution (104 topics)
+
+- **Gresham College** (`gresham-college`) — 8 chapters (B1, B3)
+  - An institution in London founded in 1597 that provided free public lectures and served as an early hub for the 'New Science' and the Royal Society.
+- **Trinity College, Cambridge** (`trinity-college-cambridge`) — 8 chapters (B1, B3)
+  - The prestigious Cambridge college where Isaac Newton studied and taught, and where much of the novel's early action is set.
+- **Janissaries** (`janissaries`) — 8 chapters (B2, B3)
+  - The elite infantry units that formed the Ottoman Sultan's household troops and bodyguards, known for their discipline and distinct status.
+- **Company of Royal Adventurers Trading into Africa** (`royal-african-company`) — 6 chapters (B1)
+  - A mercantile company set up by the Stuart family and London merchants to trade along the west coast of Africa, heavily involved in the gold and slave trades.
+- **Bethlem Royal Hospital (Bedlam)** (`bedlam`) — 6 chapters (B1, B3)
+  - London's notorious psychiatric hospital, located at Bishopsgate during this period.
+- **Dutch East India Company (VOC)** (`voc-dutch-east-india-company`) — 5 chapters (B1, B2, B3)
+  - The world's first formally listed public company, which dominated the spice trade and was a major rival to English commercial interests.
+- **The Holy Roman Empire** (`holy-roman-empire`) — 5 chapters (B1, B2, B3)
+  - A complex political entity in Central Europe that was a major, often fragmented, power during the Baroque period.
+- **Cabinet Noir** (`cabinet-noir`) — 5 chapters (B3)
+  - The 'Black Chamber' was a French postal intelligence office where letters were opened, deciphered, and resealed to monitor political dissent and espionage.
+- **The Cabal Ministry** (`cabal-ministry`) — 4 chapters (B1, B3)
+  - A group of five high-ranking ministers (Clifford, Arlington, Buckingham, Ashley, Lauderdale) who ran the government under Charles II; their initials formed the acronym.
+- **The Royal Exchange** (`royal-exchange`) — 4 chapters (B1, B3)
+  - The center of commerce in London where merchants and brokers traded goods and stocks.
+- **Bibliothèque nationale de France** (`bibliotheque-du-roi`) — 4 chapters (B1, B2, B3)
+  - The King's Library in Paris, which became a massive repository of knowledge under Louis XIV and his minister Colbert.
+- **Amsterdam Stock Exchange (Beurs van Hendrick de Keyser)** (`amsterdam-stock-exchange`) — 4 chapters (B2, B3)
+  - Founded in 1602, it was the first formal stock exchange in the world and the heart of the Dutch Golden Age economy.
+- **Newton at the Royal Mint** (`royal-mint`) — 3 chapters (B1, B3)
+  - In 1696, Newton left academia to become Warden (and later Master) of the Royal Mint, where he reformatted the currency and hunted counterfeiters.
+- **The Old Bailey** (`old-bailey`) — 3 chapters (B1, B2)
+  - The central criminal court of London, famous for its high-profile trials and proximity to Newgate Prison.
+- **Royal Observatory, Greenwich** (`royal-observatory-greenwich`) — 3 chapters (B1, B3)
+  - Commissioned in 1675 by King Charles II, it played a major role in the history of astronomy and navigation.
+- **Polish Winged Hussars** (`winged-hussars`) — 3 chapters (B2)
+  - An elite heavy cavalry unit known for the wooden frames with feathers ('wings') worn on their backs, which created a terrifying sound and visual during charges.
+- **St. George Guild (Sint-Jorisdoelen)** (`st-george-guild`) — 3 chapters (B2, B3)
+  - A civic guard or marksmen's guild (Schutterij) in The Hague, responsible for city defense and often social elites.
+- **Star Chamber** (`star-chamber`) — 2 chapters (B1, B3)
+  - An English court at the Palace of Westminster known for its secretive, arbitrary procedures and brutal corporal punishments for political dissidents.
+- **Harvard College** (`harvard-college`) — 2 chapters (B1)
+  - Established in 1636 in Cambridge (formerly Newtowne), it was the first institution of higher learning in the British North American colonies.
+- **New Model Army** (`new-model-army`) — 2 chapters (B1, B3)
+  - The professionalized military force formed by the Parliamentarians, known for its discipline and religious zeal.
+- **Gresham College** (`greshams-college`) — 2 chapters (B1)
+  - A London institution founded in 1597 that provided free public lectures; it served as the early meeting place and birthplace of the Royal Society.
+- **The Royal Mint** (`the-royal-mint`) — 2 chapters (B1)
+  - The institution responsible for producing coins for the United Kingdom, which was housed within the Tower of London during this period.
+- **Montmor Academy** (`montmor-academy`) — 2 chapters (B1)
+  - A private scientific society in Paris (1654–1664) that preceded the French Academy of Sciences.
+- **Lord Chancellor** (`lord-chancellor`) — 2 chapters (B1, B3)
+  - The highest-ranking officer of the crown, responsible for the Great Seal and presiding over the House of Lords; a position of immense political and legal power.
+- **East India Company** (`east-india-company`) — 2 chapters (B1)
+  - The English chartered company formed to trade in the Indian Ocean region, often in direct conflict with the VOC.
+- **The Royal Mint** (`royal-mint-tower-of-london`) — 2 chapters (B1, B3)
+  - The Royal Mint was located within the walls of the Tower of London from 1279 until 1810; Isaac Newton later became its Warden and Master.
+- **Wren Library** (`wren-library`) — 2 chapters (B1, B3)
+  - The library at Trinity College, Cambridge, designed by Christopher Wren; at the time of this scene, it was under construction (begun 1676).
+- **Newgate Prison** (`newgate-prison`) — 2 chapters (B2)
+  - London's primary prison for centuries, notorious for its overcrowding, filth, and the 'Newgate Calendar' of executions.
+- **The Holy League (1684)** (`holy-league-1684`) — 2 chapters (B2)
+  - The alliance of European powers organized by Pope Innocent XI to oppose the Ottoman Empire during the Great Turkish War.
+- **Ottoman Imperial Harem** (`imperial-harem`) — 2 chapters (B2)
+  - The secluded living quarters for the wives, concubines, and female relatives of the Sultan; in historical accounts of the 1683 retreat, the Grand Vizier ordered the execution of women in the harem to 
+- **Barbary Corsairs** (`barbary-corsairs`) — 2 chapters (B2)
+  - Pirates and privateers who operated from North Africa (the Barbary Coast). They frequently raided European coasts for slaves, including remote areas like the British Isles.
+- **Knights Hospitaller** (`knights-of-malta`) — 2 chapters (B2)
+  - A Catholic military order that ruled Malta and acted as a primary maritime force against Ottoman expansion and piracy in the Mediterranean.
+- **Dutch East India Company (VOC)** (`dutch-east-india-company`) — 2 chapters (B2)
+  - The VOC was the world's first formally listed public company and dominated the 17th-century spice and textile trade from Asia, making Amsterdam the wealthiest city in Europe.
+- **Lieutenant General of Police** (`lieutenant-general-of-police`) — 2 chapters (B2)
+  - The office created by Louis XIV (first held by Gabriel Nicolas de la Reynie) to modernize urban order, lighting, and surveillance in Paris.
+- **Dutch Blue Guards** (`blue-guards`) — 2 chapters (B2, B3)
+  - An elite Dutch infantry regiment that served as the personal bodyguard for William of Orange; they were known for their distinctive blue uniforms.
+- **Jesuits in England** (`jesuits-in-england`) — 2 chapters (B3)
+  - Members of the Society of Jesus. In 17th-century England, they were often feared and suspected of being secret agents working to restore Catholic rule.
+- **Grenadier Guards** (`grenadier-guards`) — 2 chapters (B3)
+  - An elite infantry regiment of the British Army, originally formed in exile to protect the royal family during the Commonwealth.
+- **French East India Company** (`french-east-india-company`) — 2 chapters (B3)
+  - Established by Jean-Baptiste Colbert in 1664 to compete with the British and Dutch, it struggled with mismanagement and conflict in the Indian Ocean trade.
+- **The Spanish Inquisition** (`spanish-inquisition`) — 2 chapters (B3)
+  - A judicial institution established to maintain Catholic orthodoxy in Spain, notorious in England as a symbol of Catholic tyranny.
+- **The Oxford Philosophical Club** (`the-oxford-philosophical-club`) — 1 chapters (B1)
+  - A precursor to the Royal Society, this group of scientists met at Oxford during the 1650s to conduct experiments and discuss natural philosophy.
+- **Oxford and Cambridge Universities** (`oxford-and-cambridge-universities`) — 1 chapters (B1)
+  - In the 17th century, these were the only two universities in England. During the Interregnum and Restoration, they were centers of intense political and religious tension between Puritans and Royalist
+- **University of Cambridge** (`university-of-cambridge`) — 1 chapters (B1)
+  - One of the world's oldest universities and the center of English intellectual life where Newton would eventually study and teach.
+- **Trivium and Quadrivium** (`17th-century-university-education`) — 1 chapters (B1)
+  - Cambridge and Oxford primarily functioned as seminaries for the Church of England, focusing on classical languages and theology rather than modern science.
+- **17th Century English Law** (`restoration-legal-system`) — 1 chapters (B1)
+  - The local legal hierarchy where Justices of the Peace (unpaid gentry) handled initial criminal accusations and coroners investigated suspicious deaths.
+- **Academy of Monsieur du Plessis** (`academy-of-monsieur-du-plessis`) — 1 chapters (B1)
+  - A famous 17th-century Parisian riding and fencing academy where young aristocrats were trained in the 'arts of the courtier.'
+- **Harvard College** (`harvard-college-history`) — 1 chapters (B1)
+  - Founded in 1636 to train Puritan ministers, Harvard was the intellectual center of the Massachusetts Bay Colony.
+- **The Invisible College** (`invisible-college`) — 1 chapters (B1)
+  - A precursor to the Royal Society, consisting of a network of natural philosophers who exchanged ideas through correspondence.
+- **The Republic of Letters** (`republic-of-letters`) — 1 chapters (B1)
+  - The Royal Society acted as a hub for a global network of scholars (the Republic of Letters) including Christiaan Huygens (physics/clocks), Antonie van Leeuwenhoek (microscopy), Jan Swammerdam (biology
+- **House of Stuart** (`house-of-stuart`) — 1 chapters (B1)
+  - The royal house that ruled Scotland from 1371 and England from 1603 to 1714, characterized by conflict with Parliament and religious tension.
+- **House of Orange-Nassau** (`house-of-orange-nassau`) — 1 chapters (B1)
+  - The princely house of the Netherlands; its members often served as Stadtholders and were closely linked by marriage to the English Stuarts.
+- **Jesuits** (`jesuits-and-science`) — 1 chapters (B1)
+  - The Society of Jesus was known for its rigorous scientific education; Newton frequently clashed with Jesuit scientists like Ignace-Gaston Pardies over his theories of light.
+- **House of Bourbon** (`house-of-bourbon`) — 1 chapters (B1)
+  - The French royal dynasty. The passage notes their complex genealogy and political influence over Europe during the reign of Louis XIV.
+- **Yeomen Warders** (`yeomen-warders`) — 1 chapters (B1)
+  - The ceremonial guardians of the Tower of London, popularly known as Beefeaters.
+- **Yeomen Warders (Beefeaters)** (`yeomen-warders-beefeaters`) — 1 chapters (B1)
+  - The ceremonial guardians of the Tower of London, officially the Yeomen Warders, who in the 17th century served as actual prison guards and royal security.
+- **Royal Menagerie** (`royal-menagerie`) — 1 chapters (B1)
+  - A collection of exotic animals, including lions and bears, kept at the Tower of London for public display from the 13th century until 1835.
+- **Secretary of State** (`secretary-of-state`) — 1 chapters (B1)
+  - In this period, the Secretaries of State were the King's most powerful ministers, overseeing domestic security, intelligence, and foreign affairs.
+- **Horse Guards** (`horse-guards`) — 1 chapters (B1)
+  - The elite cavalry regiments of the British Army that acted as the sovereign's personal bodyguard and were stationed near Whitehall.
+- **City Surveyor of London** (`city-surveyor`) — 1 chapters (B1)
+  - Following the Great Fire of 1666, Hooke was appointed as one of the surveyors responsible for measuring plots and overseeing the rebuilding of London.
+- **Bridewell Palace and Prison** (`bridewell`) — 1 chapters (B1)
+  - A former palace turned into a house of correction for the 'idle poor' and 'loose women,' where inmates were forced to perform hard labor like beating hemp.
+- **Office of Ordnance** (`office-of-ordnance`) — 1 chapters (B1)
+  - The government body based at the Tower of London responsible for the supply of artillery, weapons, and ammunition to the Navy and Army.
+- **Lucasian Professor of Mathematics** (`lucasian-chair`) — 1 chapters (B1)
+  - One of the most prestigious academic chairs in the world, established at Cambridge in 1663; Newton was the second person to hold the position.
+- **Jesuit Science** (`jesuit-science`) — 1 chapters (B1)
+  - The Society of Jesus (Jesuits) were major contributors to 17th-century science, often engaging in rigorous debate with Royal Society members over optics and astronomy.
+- **Lucasian Professor of Mathematics** (`lucasian-professor-of-mathematics`) — 1 chapters (B1)
+  - A prestigious academic chair at the University of Cambridge, established in 1663 and held first by Isaac Barrow and then Newton.
+- **The Royal Navy** (`royal-navy`) — 1 chapters (B1)
+  - During the late 17th century, the Royal Navy was undergoing significant professionalization and expansion while engaged in frequent conflicts with the Dutch and French.
+- **The Inquisition** (`the-inquisition`) — 1 chapters (B1)
+  - A reference to the Catholic Church's judicial system for suppressing heresy, often used in 17th-century England as a rhetorical shorthand for Catholic cruelty and tyranny.
+- **Company of Royal Adventurers Trading into Africa** (`guinea-company`) — 1 chapters (B1)
+  - Also known as the Guinea Company, this was a chartered company set up by the Stuart family to trade in gold, ivory, and slaves; it faced financial ruin during the Anglo-Dutch Wars.
+- **Queen Anne's Revenge** (`queen-annes-revenge`) — 1 chapters (B1)
+  - The flagship of the pirate Blackbeard, originally a French slave ship named La Concorde captured in 1717.
+- **Papal States Military** (`papal-states-military`) — 1 chapters (B2)
+  - The Pope at this time (Innocent XI) was a temporal ruler of the Papal States and contributed significant funding and troops to the defense of Christendom against the Ottoman Empire.
+- **Ottoman Empire (The Turks)** (`ottoman-empire`) — 1 chapters (B2)
+  - The Ottoman Empire was the primary antagonist of the Holy Roman Empire in Eastern Europe, reaching its furthest westward expansion during this period.
+- **Polish Hussars** (`polish-hussars`) — 1 chapters (B2)
+  - The 'Winged Hussars' were the elite heavy cavalry of the Polish-Lithuanian Commonwealth, famous for their decisive charge at the Battle of Vienna.
+- **Lord Lieutenant** (`lord-lieutenant`) — 1 chapters (B2)
+  - The monarch's personal representative in each county, responsible for local militia and maintaining order.
+- **Guilds** (`guilds`) — 1 chapters (B2)
+  - Powerful associations of craftsmen or merchants that controlled practice of their craft in a particular town and maintained monopolies.
+- **The Bourse** (`the-bourse`) — 1 chapters (B2)
+  - A stock exchange or gathering place for merchants to trade commodities and bills of exchange. The Leipzig Bourse was a central pillar of the city's economy.
+- **Leipzig Stock Exchange** (`leipzig-bourse`) — 1 chapters (B2)
+  - The Leipzig Bourse (Alte Handelsbörse) was a central hub for trade and finance in Saxony, completed in 1687, reflecting the city's importance as a commercial center.
+- **House of Brunswick-Lüneburg** (`house-of-brunswick-lneburg`) — 1 chapters (B2)
+  - The German noble family that ruled the Duchy of Brunswick-Lüneburg. Leibniz served them as a librarian, historian, and mining engineer in the Harz Mountains.
+- **Joint-Stock Company** (`joint-stock-company`) — 1 chapters (B2)
+  - A precursor to the modern corporation where shares are owned by shareholders; Eliza uses this financial metaphor to describe her own commodification.
+- **Dutch Workhouses (Rasphuis)** (`dutch-workhouses`) — 1 chapters (B2)
+  - Amsterdam was famous for its 'correction houses' where vagrants and criminals were forced to perform hard labor, like rasping brazilwood for dye.
+- **Amsterdam Entrepôt and Bank of Amsterdam** (`wisselbank`) — 1 chapters (B2)
+  - The Wisselbank (Exchange Bank), established in 1609, was a precursor to modern central banks and allowed Amsterdam to become the center of global finance by providing a stable, non-debased currency.
+- **The Conciergerie** (`the-conciergerie`) — 1 chapters (B2)
+  - A former royal palace on the Île de la Cité that became a notorious prison and seat of the French judicial system.
+- **Palais de Justice** (`palais-de-justice`) — 1 chapters (B2)
+  - The center of the French legal system, housing the Parlement of Paris, which acted as a high court.
+- **Les Invalides** (`les-invalides`) — 1 chapters (B2)
+  - A complex of buildings in Paris initiated by Louis XIV in 1670 as a home and hospital for aged and unwell soldiers.
+- **Genoese Banking Network** (`genoese-bankers`) — 1 chapters (B2)
+  - Genoese bankers were central to European finance in the 17th century, operating a sophisticated private postal and intelligence network that often moved news faster than official channels.
+- **The States-General and the Binnenhof** (`states-general-binnenhof`) — 1 chapters (B2)
+  - The Binnenhof is a complex of buildings in The Hague that has served as the location of the Dutch parliament (States-General) since the 13th century.
+- **Schutterij (Civic Guards)** (`dutch-civic-guards`) — 1 chapters (B2)
+  - The 'Schutterij' were voluntary civic guards in Dutch cities, often divided into guilds (like St. George or St. Sebastian) based on social class and the weapons they used.
+- **States-General of the Netherlands** (`states-general`) — 1 chapters (B2)
+  - The bicameral legislature of the Netherlands that represented the various provinces; it was the sovereign body of the Dutch Republic.
+- **House of Orange** (`house-of-orange`) — 1 chapters (B2)
+  - The royal dynasty of the Netherlands; the color orange became the symbol of the Dutch principality and its supporters.
+- **Blue Guards and St. George Guilds** (`blue-guards-and-guilds`) — 1 chapters (B2)
+  - The Blue Guards were an elite infantry unit of the Dutch States Army; the St. George Guilds were traditional civic militias or shooting fraternities in the Low Countries.
+- **Dutch East India Company (VOC) Finance** (`voc-shares`) — 1 chapters (B2)
+  - The Vereenigde Oost-Indische Compagnie (VOC) was the first company to issue stock. 'Ducat shares' were fractional units that allowed smaller investors to participate in the market.
+- **Hôtel-Dieu de Paris** (`hotel-dieu`) — 1 chapters (B2)
+  - The oldest hospital in Paris, which served as a catch-all institution for the sick, the poor, and the dying under the administration of the Church.
+- **Dutch Republic Government** (`dutch-government-structure`) — 1 chapters (B2)
+  - The Raadspensionary (Grand Pensionary) was the most powerful political official in the Dutch Republic; Regents were the merchant-oligarchs who ruled Dutch cities.
+- **Amsterdam Stock Exchange** (`amsterdam-capital-market`) — 1 chapters (B2)
+  - The Amsterdam Stock Exchange, established by the Dutch East India Company (VOC) in 1602, was the first modern securities market in the world.
+- **Marine Insurance** (`marine-insurance`) — 1 chapters (B2)
+  - Early insurance markets, such as Lloyd's of London, began in coffeehouses where merchants and underwriters gathered to share news and trade risks.
+- **Regents of Amsterdam** (`amsterdam-regents`) — 1 chapters (B2)
+  - The 'Regenten' were the merchant-oligarchs who ruled Dutch cities; they often clashed with the House of Orange over trade interests and peace with France.
+- **Imperial Harem of the Ottoman Empire** (`ottoman-harem`) — 1 chapters (B2)
+  - The secluded quarters of the Sultan's household in Constantinople; Eliza's backstory involves being captured by corsairs and sold into this system.
+- **Lord High Admiral** (`lord-high-admiral`) — 1 chapters (B3)
+  - The titular head of the Royal Navy; James II held this post and was deeply involved in naval administration and reform.
+- **Chambre Ardente** (`chambre-ardente`) — 1 chapters (B3)
+  - A special extraordinary court of justice in France, most famously convened by Louis XIV to prosecute the Affair of the Poisons.
+- **Maison royale de Saint-Louis** (`st-cyr-school`) — 1 chapters (B3)
+  - A school founded in 1684 by Madame de Maintenon to provide an education for the daughters of impoverished noblemen who had died in the King's service.
+- **Coldstream Guards** (`coldstream-guards`) — 1 chapters (B3)
+  - The oldest regiment in the Regular Army in continuous active service, originally part of the New Model Army before serving the Monarchy.
+- **Stock Exchanges** (`amsterdam-and-london-exchanges`) — 1 chapters (B3)
+  - Refers to the Amsterdam Stock Exchange (the world's first) and the Royal Exchange in London, where commodity prices were posted on boards or 'planks' for traders.
+- **Standing Army** (`standing-army`) — 1 chapters (B3)
+  - The maintenance of a professional standing army during peacetime was highly controversial in England and seen as a tool of absolute monarchy.
+- **Academy of Saumur** (`academy-of-saumur`) — 1 chapters (B3)
+  - A famous Huguenot university in France where Penn studied; it was suppressed by Louis XIV in 1685 following the Revocation of the Edict of Nantes.
+- **Court of Star Chamber** (`court-of-star-chamber`) — 1 chapters (B3)
+  - An English court at the Palace of Westminster that became a symbol of the misuse of power by the monarchy; it was abolished because it bypassed the protections of Common Law.
+- **French Army of the 17th Century** (`french-royal-army`) — 1 chapters (B3)
+  - Under Louvois, the French army became the most disciplined and largest standing military force in Europe, introducing standardized uniforms, supply magazines, and a professional officer corps.
+- **Blue Guards** (`dutch-blue-guards`) — 1 chapters (B3)
+  - An elite infantry regiment of the United Provinces of the Netherlands who served as William of Orange's personal bodyguard and were used to secure London during the transition of power.
+
+### Event (193 topics)
+
+- **The Thirty Years' War** (`thirty-years-war`) — 10 chapters (B1, B2, B3)
+  - A devastating European conflict (1618–1648) fought largely in Central Europe over religious and political control.
+- **The Calculus Priority Dispute** (`the-calculus-priority-dispute`) — 8 chapters (B1, B3)
+  - The bitter historical controversy between Newton and Leibniz over who first invented calculus.
+- **Enemies of France** (`franco-dutch-war`) — 8 chapters (B1, B2)
+  - A major conflict (1672–1678) where Louis XIV sought to establish French dominance over the Netherlands, often supported by England under the secret Treaty of Dover.
+- **Battle of Vienna (1683)** (`battle-of-vienna`) — 8 chapters (B2, B3)
+  - The 1683 Siege of Vienna by the Ottoman Empire was a turning point in European history, marking the end of Ottoman expansion into Central Europe.
+- **The Interregnum** (`the-interregnum`) — 6 chapters (B1, B2)
+  - The period between the execution of Charles I in 1649 and the Restoration of Charles II in 1660, during which England was a republic under Oliver Cromwell.
+- **Siege of Maastricht (1673)** (`siege-of-maastricht`) — 6 chapters (B1, B2, B3)
+  - A key battle in the Franco-Dutch War where French forces, assisted by English volunteers like Monmouth and Churchill, captured the city. The reenactment described was a real event staged at Windsor fo
+- **Stourbridge Fair** (`stourbridge-fair`) — 5 chapters (B1, B3)
+  - A massive annual fair near Cambridge where Isaac Newton famously purchased prisms to conduct his experiments on light and optics.
+- **The Great Fire of London** (`the-great-fire-of-london`) — 5 chapters (B1, B2)
+  - A massive conflagration that swept through the central parts of London from September 2 to September 6, 1666.
+- **Treaty of Dover** (`treaty-of-dover`) — 4 chapters (B1, B2)
+  - A secret 1770 treaty where Charles II promised to convert to Catholicism and support France against the Dutch in exchange for French subsidies.
+- **Third Anglo-Dutch War** (`third-anglo-dutch-war`) — 4 chapters (B1)
+  - A conflict from 1672–1674, part of the larger Franco-Dutch War, where England joined Louis XIV to attack the Dutch Republic.
+- **Royal Declaration of Indulgence (1672)** (`declaration-of-indulgence`) — 4 chapters (B1, B3)
+  - Charles II's attempt to suspend penal laws against Catholics and Protestant Dissidents, which was fiercely opposed by Parliament.
+- **Barbary Pirates and White Slavery** (`barbary-slave-trade`) — 4 chapters (B2, B3)
+  - Between the 16th and 19th centuries, Barbary pirates captured and enslaved an estimated 1 million to 1.25 million Europeans, a major geopolitical issue of the era.
+- **The Bloody Assizes** (`bloody-assizes`) — 4 chapters (B3)
+  - A series of trials in 1685 following the Battle of Sedgemoor, where hundreds of rebels were executed and over a thousand were transported to the West Indies.
+- **Act of Uniformity 1662** (`act-of-uniformity-1662`) — 3 chapters (B1)
+  - A law requiring all clergy to use the Book of Common Prayer; its enforcement led to the 'Great Ejection' of over 2,000 non-conforming ministers.
+- **Spanish Silver Mining in the Americas** (`spanish-silver-trade`) — 3 chapters (B1, B2)
+  - The massive influx of silver from the Americas (specifically Potosí and Mexico) into Europe, which caused a long-term inflationary period known as the Price Revolution.
+- **Battle of Vienna (1683)** (`siege-of-vienna`) — 3 chapters (B2)
+  - The two-month siege in 1683 where Ottoman forces surrounded the city, leading to the climactic battle mentioned above.
+- **Siege of Vienna (1683)** (`siege-of-vienna-1683`) — 3 chapters (B2, B3)
+  - The 1683 Siege of Vienna was a turning point in history where the Ottoman Empire's expansion into Europe was halted by the Holy Roman Empire and the Polish–Lithuanian Commonwealth.
+- **The Great Turkish War** (`great-turkish-war`) — 3 chapters (B2, B3)
+  - A series of conflicts between the Ottoman Empire and the Holy League. The mention of Hungary refers to the liberation of Buda and the rollback of Ottoman influence in Central Europe.
+- **Monmouth Rebellion** (`monmouth-rebellion`) — 3 chapters (B2, B3)
+  - References the start of the Monmouth Rebellion in 1685, where the Duke of Monmouth attempted to overthrow his uncle, James II, by landing a fleet from the Netherlands.
+- **The Popish Plot** (`popish-plot`) — 3 chapters (B3)
+  - A fictitious conspiracy concocted by Titus Oates in 1678, alleging a Jesuit plan to assassinate Charles II, which led to a wave of anti-Catholic hysteria and executions.
+- **The Seven Stars of Taunton / Monmouth's Banners** (`maids-of-taunton`) — 3 chapters (B3)
+  - A famous historical incident where the 'Maids of Taunton' presented Monmouth with colors and a Bible; many of these girls were later imprisoned or heavily fined by Judge Jeffreys.
+- **Peace of Westphalia** (`peace-of-westphalia`) — 2 chapters (B1, B3)
+  - The 1648 treaties that ended the Thirty Years' War and the Eighty Years' War, effectively creating the modern concept of nation-state sovereignty.
+- **The Great Recoinage of 1696** (`great-recoinage`) — 2 chapters (B1, B3)
+  - During this period, English silver coins were often 'clipped' (shaved at the edges) or counterfeited, leading to a currency crisis that Newton would eventually help solve as Warden of the Mint.
+- **Dissolution of the Monasteries** (`dissolution-of-the-monasteries`) — 2 chapters (B1)
+  - The set of administrative and legal processes (1536–1541) by which Henry VIII disbanded monasteries in England, Wales, and Ireland and appropriated their income.
+- **The Great Plague of London** (`the-great-plague-of-london`) — 2 chapters (B1)
+  - The 1665 outbreak killed an estimated 100,000 people in London and forced the closure of Cambridge University, sending Newton home to Woolsthorpe where he made his greatest discoveries.
+- **Seizure of the Mint (1640)** (`seizure-of-the-mint`) — 2 chapters (B1)
+  - In 1640, Charles I seized £130,000 of gold bullion held in the Tower of London to fund his wars, destroying trust with the merchant class.
+- **Second Anglo-Dutch War** (`second-anglo-dutch-war`) — 2 chapters (B1)
+  - A conflict (1665–1667) fought over global trade routes, occurring simultaneously with the Plague and the Great Fire.
+- **Anglo-Dutch Wars** (`anglo-dutch-wars`) — 2 chapters (B1)
+  - A series of naval conflicts between England and the Dutch Republic over trade routes and maritime supremacy.
+- **Treaty of Breda** (`treaty-of-breda`) — 2 chapters (B1, B2)
+  - The 1667 treaty that ended the Second Anglo-Dutch War, where the Dutch kept Suriname and the English kept New Netherland (New Amsterdam).
+- **Siege of Maastricht (1673)** (`siege-of-maastricht-1673`) — 2 chapters (B1, B2)
+  - A key event in the Franco-Dutch War where Louis XIV's forces captured the city; it was notable for the use of advanced siege tactics by Vauban.
+- **Pope-burning processions** (`pope-burning-processions`) — 2 chapters (B1, B2)
+  - Highly political anti-Catholic demonstrations common in Restoration London, often used to protest the Catholic sympathies of the Stuart court.
+- **St. Bartholomew’s Fair** (`st-bartholomews-fair`) — 2 chapters (B1)
+  - A massive annual summer fair in London known for its 'freak shows,' theatrical entertainments, and rowdy atmosphere.
+- **The Dutch Water Line** (`dutch-water-line`) — 2 chapters (B1, B2)
+  - During the Franco-Dutch War (1672), the Dutch intentionally flooded their own land to create an impassable barrier against French invasion.
+- **Battle of Vienna (1683)** (`battle-of-vienna-1683`) — 2 chapters (B2)
+  - A turning point in history where the Ottoman Empire's advance into Europe was halted by a coalition of Holy Roman Empire and Polish forces.
+- **Leipzig Trade Fair** (`leipzig-trade-fair`) — 2 chapters (B2)
+  - One of the oldest and most important trade fairs in Central Europe, serving as a crucial junction for trade between Western Europe and the Ottoman/Russian East.
+- **The Devastation of the Palatinate** (`devastation-of-the-palatinate`) — 2 chapters (B2, B3)
+  - The systematic destruction of the Rhenish Palatinate by French forces, particularly during the Nine Years' War, which caused widespread outrage in Europe.
+- **The Year of Disaster (Rampjaar) 1672** (`rampjaar-1672`) — 2 chapters (B2)
+  - In 1672, the Dutch intentionally flooded their own land to stop the invading French army of Louis XIV from reaching Amsterdam.
+- **Sale of Dunkirk** (`sale-of-dunkirk`) — 2 chapters (B2)
+  - In 1662, Charles II sold the strategic port of Dunkirk to Louis XIV for five million livres to alleviate his chronic financial problems.
+- **Death of Charles II** (`death-of-charles-ii`) — 2 chapters (B2)
+  - King Charles II died on February 6, 1685. His death triggered a major political crisis regarding the succession of the English throne.
+- **The Fronde** (`the-fronde`) — 2 chapters (B3)
+  - A series of civil wars in France (1648–1653) where nobles rebelled against royal authority; Louis XIV’s move to Versailles was partly to domesticate these nobles.
+- **The Warming-Pan Scandal** (`warming-pan-scandal`) — 2 chapters (B3)
+  - A widespread conspiracy theory that James II's son, James Francis Edward Stuart, was a changeling smuggled into the palace to ensure a Catholic succession.
+- **Williamite War in Ireland** (`williamite-war-in-ireland`) — 2 chapters (B3)
+  - The conflict following the Glorious Revolution where the deposed James II attempted to regain his throne using Ireland as a base.
+- **Witch Trials in New England** (`new-england-witch-trials`) — 1 chapters (B1)
+  - While the Salem trials (1692) are the most famous, the passage reflects the tail end of the era of capital punishment for witchcraft in the American colonies.
+- **Queen Anne's War** (`queen-annes-war`) — 1 chapters (B1)
+  - The North American theater of the War of the Spanish Succession (1702–1713), involving conflict between British and French colonists and their respective Native American allies.
+- **Boston Fire of 1711** (`boston-fire-1711`) — 1 chapters (B1)
+  - A major fire that destroyed much of the center of Boston, including the Town House and the First Quarantine Church, leading to new building codes requiring brick or stone.
+- **Salem Witch Trials** (`salem-witch-trials`) — 1 chapters (B1)
+  - The passage is set in 1713, but refers to the lingering atmosphere of the 1692 witch trials in Massachusetts, which remain a significant cultural touchstone for the colony's Puritan identity.
+- **The Asiento and Transatlantic Slave Trade** (`asiento-slave-trade`) — 1 chapters (B1)
+  - Refers to the branding of enslaved people to show that the Spanish 'Asiento' (contract/tax) had been paid; Luanda in Angola was a major Portuguese slave port.
+- **Leisler's Rebellion** (`leislers-rebellion`) — 1 chapters (B1)
+  - A 1689 uprising in colonial New York where Jacob Leisler seized control of the city following the Glorious Revolution in England, reflecting deep-seated ethnic and religious tensions.
+- **The Hanoverian Succession** (`the-hanoverian-succession`) — 1 chapters (B1)
+  - Refers to the line of succession where the German House of Hanover (including Princess Caroline of Ansbach) was set to inherit the British throne after Queen Anne.
+- **Battle of Worcester** (`battle-of-worcester`) — 1 chapters (B1)
+  - The final battle of the English Civil War (1651) where Oliver Cromwell defeated the Royalist forces of Charles II.
+- **Navigation Acts and Anglo-Dutch Wars** (`navigation-acts`) — 1 chapters (B1)
+  - Legislation designed to restrict non-English shipping for trade; it led to a series of naval conflicts between England and the Dutch Republic.
+- **Siege of Drogheda** (`siege-of-drogheda`) — 1 chapters (B1)
+  - A 1649 military operation where Oliver Cromwell's New Model Army massacred the garrison and many civilians, a defining and controversial moment of the Cromwellian conquest of Ireland.
+- **Kamakura bakufu** (`kamakura-shogunate`) — 1 chapters (B1)
+  - The military government of Japan (shogunate) established by Minamoto no Yoritomo in 1185, marking the beginning of the samurai-dominated feudal period.
+- **Investiture Controversy** (`investiture-controversy`) — 1 chapters (B1)
+  - A 11th-12th century conflict between the Church and the state (notably the Holy Roman Empire) over the right to appoint church officials.
+- **Succession Crisis of Queen Anne** (`succession-crisis-of-queen-anne`) — 1 chapters (B1)
+  - Queen Anne had 17 pregnancies, but no children survived to adulthood, leading to the crisis that brought the German House of Hanover to the British throne.
+- **Newton's Breakdown of 1693** (`newtons-breakdown-1693`) — 1 chapters (B1)
+  - A period of mental instability and exhaustion Newton suffered in 1693, leading him to withdraw from research and eventually move to the Mint.
+- **Ninety-five Theses** (`ninety-five-theses`) — 1 chapters (B1)
+  - The list of propositions for academic debate written by Martin Luther in 1517, widely regarded as the catalyst for the Protestant Reformation.
+- **Readmission of the Jews to England** (`readmission-of-the-jews`) — 1 chapters (B1)
+  - Jews were expelled from England in 1290 by Edward I. In 1656, Oliver Cromwell informally allowed their return, recognizing their potential contribution to trade and finance.
+- **The Great Debasement** (`the-great-debasement`) — 1 chapters (B1)
+  - A period (1544–1551) where the English crown significantly reduced the silver content of coins to fund wars, leading to massive inflation.
+- **Battle of Naseby** (`battle-of-naseby`) — 1 chapters (B1)
+  - A decisive battle of the English Civil War in 1645 where the Parliamentarian New Model Army destroyed the main Royalist army.
+- **Ship Money** (`ship-money`) — 1 chapters (B1)
+  - A non-parliamentary tax revived by Charles I that became a major point of contention and a leading cause of the English Civil War.
+- **The Cockayne Project** (`cockayne-project`) — 1 chapters (B1)
+  - A failed 1614 economic plan by James I to boost the English dyeing and finishing industry by banning the export of raw cloth.
+- **The Mayflower** (`mayflower-voyage`) — 1 chapters (B1)
+  - The 1620 voyage of English Puritans to North America; 'Virginia' at the time referred to a much larger territory than the modern state.
+- **The English Reformation** (`english-reformation`) — 1 chapters (B1)
+  - The 16th-century break of the Church of England from the authority of the Pope and the Roman Catholic Church.
+- **The Covenanters** (`covenanters`) — 1 chapters (B1)
+  - Scottish Presbyterians who resisted Charles I's religious reforms, leading to the Bishops' Wars and their occupation of Northern England.
+- **Irish Rebellion of 1641** (`irish-rebellion-of-1641`) — 1 chapters (B1)
+  - An uprising by Irish Catholics against British Protestant settlers, which fueled anti-Catholic paranoia in London.
+- **Portuguese Restoration War** (`portuguese-restoration-war`) — 1 chapters (B1)
+  - The 1640 revolution that ended the Iberian Union and restored Portugal's independence from the Spanish Habsburgs.
+- **Siege of Malacca (1641)** (`siege-of-malacca`) — 1 chapters (B1)
+  - A key victory for the Dutch East India Company (VOC) over the Portuguese, securing Dutch control over the strategic Strait of Malacca.
+- **Comenius and Harvard** (`comenius-harvard-invitation`) — 1 chapters (B1)
+  - A historical legend (though debated) that Comenius was offered the presidency of the young Harvard College in 1641.
+- **17th-century Religious and Intellectual Conflict** (`jesuit-vs-royal-society-philosophy`) — 1 chapters (B1)
+  - The Royal Society faced pressure from both secular 'atheists' and Catholic Jesuits; the former doubted biblical miracles while the latter often defended Aristotelian science against new experimental m
+- **The Great Plague of London (1665-1666)** (`the-great-plague-of-london-1665-1666`) — 1 chapters (B1)
+  - The outbreak forced the closure of universities like Cambridge, leading Isaac Newton to return to his home at Woolsthorpe, where he made many of his most famous discoveries.
+- **Lubomirski's Rokosz** (`lubomirskis-rokosz`) — 1 chapters (B1)
+  - A rebellion (1665–1666) by the Polish nobility against King John II Casimir, led by Jerzy Sebastian Lubomirski.
+- **Events of the early 17th Century** (`early-stuart-era-events`) — 1 chapters (B1)
+  - Comstock lists major milestones from 1607-1611 to establish his age and the historical span of his life.
+- **Gunpowder Plot** (`gunpowder-plot`) — 1 chapters (B1)
+  - The 1605 failed assassination attempt against King James I by Catholic conspirators, which remained a major cultural touchstone for anti-Catholic sentiment.
+- **Siege of Newark** (`siege-of-newark`) — 1 chapters (B1)
+  - A significant Royalist stronghold during the English Civil War that underwent multiple sieges before surrendering in 1646.
+- **Coronation of Charles II at Scone** (`coronation-of-charles-ii-at-scone`) — 1 chapters (B1)
+  - Charles II was crowned King of Scots at Scone in 1651 during the Civil War, years before his restoration to the English throne.
+- **Death of Oliver Cromwell** (`death-of-oliver-cromwell`) — 1 chapters (B1)
+  - Cromwell died on September 3, 1658, during an exceptionally violent storm which Royalists claimed was the Devil coming to fetch his soul.
+- **War of the Spanish Succession** (`war-of-the-spanish-succession`) — 1 chapters (B1)
+  - A major European conflict (1701–1714) triggered by the death of the childless Charles II of Spain; in the Americas, it involved extensive privateering against Spanish vessels.
+- **The Commonwealth of England** (`the-commonwealth-of-england`) — 1 chapters (B1)
+  - The period from 1649 to 1660 when England was governed as a republic, following the abolition of the monarchy.
+- **The Commonwealth Sale** (`commonwealth-sale-of-art`) — 1 chapters (B1)
+  - After Charles I's execution, the Rump Parliament sold off his massive art collection (the 'King's Goods') to pay debts; Charles II spent years trying to recover these items during the Restoration.
+- **Cromwellian Conquest of Ireland** (`ireland-land-settlement`) — 1 chapters (B1)
+  - Refers to the complex and often brutal redistribution of Irish land to English settlers and creditors following the Civil War.
+- **Barbary Pirates** (`barbary-wars`) — 1 chapters (B1)
+  - Refers to English naval expeditions against North African corsairs who raided European shipping and enslaved sailors.
+- **Charles II's Dress Act of 1666** (`charles-iis-dress-act-of-1666`) — 1 chapters (B1)
+  - In 1666, Charles II introduced a 'vest' and a somber black-and-white dress code to promote English wool and discourage French fashion influence.
+- **The Cabal Ministry** (`the-cabal-ministry`) — 1 chapters (B1)
+  - A group of five high-ranking ministers (Clifford, Arlington, Buckingham, Ashley, Lauderdale) whose initials formed the word 'CABAL'.
+- **Imprisonment of Henry Oldenburg** (`oldenburg-imprisonment`) — 1 chapters (B1)
+  - Oldenburg was actually imprisoned in the Tower in 1667 on suspicion of 'dangerous designs' due to his foreign correspondence during the Second Anglo-Dutch War.
+- **Henry Oldenburg's Imprisonment** (`henry-oldenburgs-imprisonment`) — 1 chapters (B1)
+  - Oldenburg was actually imprisoned in the Tower in 1667 on suspicion of treasonous correspondence with foreigners during the Anglo-Dutch War.
+- **Secret Treaty of Dover** (`secret-treaty-of-dover`) — 1 chapters (B1)
+  - A 1670 pact between Charles II and Louis XIV where Charles promised to convert to Catholicism in exchange for French subsidies; 'Minette' was Henrietta of England, Charles's sister.
+- **Currency Debasement and Melting** (`great-recoinage-context`) — 1 chapters (B1)
+  - A major economic crisis where new, full-weight silver coins were immediately melted down and exported because the silver was worth more as bullion than as face-value currency.
+- **The Atlantic Slave Trade** (`atlantic-slave-trade`) — 1 chapters (B1)
+  - The passage references the brutal economic reality of the 17th-century sugar industry in Jamaica, which relied on a constant supply of enslaved people from West Africa.
+- **John Wilkins's final days** (`wilkins-death`) — 1 chapters (B1)
+  - Wilkins died in 1672 at the home of his stepdaughter's husband, John Tillotson, in London.
+- **Puritan Iconoclasm** (`puritan-iconoclasm`) — 1 chapters (B1)
+  - During and after the English Civil War, Puritans destroyed organs and 'idolatrous' art in churches as part of their religious reforms.
+- **Leibniz's Egyptian Plan** (`leibniz-egyptian-plan`) — 1 chapters (B1)
+  - A real historical proposal Leibniz made to Louis XIV in 1672, intended to distract France from attacking the Dutch Republic by suggesting a conquest of Egypt.
+- **Religious Tensions in the Restoration** (`restoration-religion`) — 1 chapters (B1)
+  - The political struggle between the Church of England (Anglican) and the perceived threat of a return to Catholicism under the Stuarts.
+- **Battle of Solebay** (`battle-of-solebay`) — 1 chapters (B1)
+  - The first naval battle of the Third Anglo-Dutch War (1672), where the Dutch fleet under Michiel de Ruyter surprised the joint English and French fleets.
+- **Great Stop of the Exchequer** (`great-stop-of-the-exchequer`) — 1 chapters (B1)
+  - In 1672, Charles II suspended payments on government debts, causing a financial crisis and ruining many London goldsmith-bankers.
+- **Test Act of 1673** (`test-act`) — 1 chapters (B1)
+  - The Test Act required all holders of public office to take communion in the Church of England; James resigned as Lord High Admiral because he had converted to Catholicism.
+- **Capture of New Amsterdam** (`naming-of-new-york`) — 1 chapters (B1)
+  - In 1664, the English seized New Amsterdam from the Dutch and renamed it New York in honor of the Duke of York.
+- **Royal Declaration of Indulgence (1672)** (`royal-declaration-of-indulgence`) — 1 chapters (B1)
+  - Charles II's attempt to extend religious liberty to Protestant nonconformists and Roman Catholics, which was highly controversial in Parliament.
+- **Great Plague of London** (`great-plague-of-london`) — 1 chapters (B1)
+  - The last major epidemic of the bubonic plague in England (1665-1666), which forced many characters to flee London for the countryside.
+- **Wars of the Roses** (`wars-of-the-roses`) — 1 chapters (B1)
+  - A series of 15th-century dynastic civil wars for the throne of England, used here to emphasize the ancient lineage of the 'Silver' Comstocks.
+- **Royal Declaration of Indulgence (1672)** (`declaration-of-indulgence-1672`) — 1 chapters (B1)
+  - Charles II's attempt to extend religious liberty to Protestant nonconformists and Roman Catholics, which was politically controversial and later rescinded.
+- **The Regicides of Charles I** (`the-regicides`) — 1 chapters (B2)
+  - After the Restoration in 1660, the men who had signed the death warrant of King Charles I (the regicides) were hunted down and executed, often by being hanged, drawn, and quartered.
+- **Annexation of Strasbourg** (`annexation-of-strasbourg`) — 1 chapters (B2)
+  - Strasbourg was a Free Imperial City of the Holy Roman Empire until it was surrounded and seized by the forces of Louis XIV in 1681 during the War of the Reunions.
+- **The Holy League (1684)** (`the-holy-league`) — 1 chapters (B2)
+  - This refers to the alliance of European powers organized by Pope Innocent XI to oppose the Ottoman Empire during the Great Turkish War.
+- **Bartholomew Fair** (`bartholomew-fair`) — 1 chapters (B2)
+  - A massive, chaotic annual summer fair held in Smithfield, London, known for its rowdy entertainment, sideshows, and 'geeks' (performers of grotesque acts).
+- **Ramadan** (`ramadan`) — 1 chapters (B2)
+  - The ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, and reflection.
+- **Defenestration of Prague (1618)** (`defenestration-of-prague`) — 1 chapters (B2)
+  - The event that triggered the Thirty Years' War, where Bohemian Protestants threw Catholic regents out of a window at Prague Castle.
+- **Clubmen** (`clubmen`) — 1 chapters (B2)
+  - Third-party vigilante groups during the English Civil War who rose up to protect their local areas from the depredations of both Royalist and Parliamentarian armies.
+- **Tangier Garrison** (`english-tangier`) — 1 chapters (B2)
+  - Tangier was an English possession from 1661 to 1684; the garrison there saw frequent conflict with the Moors and Barbary pirates.
+- **Sacking of the Palatinate** (`sacking-of-the-palatinate`) — 1 chapters (B2)
+  - Refers to the devastation of the Rhenish Palatinate by French forces under Louis XIV, particularly during the Franco-Dutch War and later the Nine Years' War, which caused widespread outrage in Protest
+- **Leipzig Trade Fair** (`leipzig-messe`) — 1 chapters (B2)
+  - The Leipzig Messe was one of the most important trade fairs in Central Europe, dating back to the Middle Ages, where merchants from across the continent gathered to trade goods and financial instrumen
+- **Smallpox** (`smallpox-history`) — 1 chapters (B2)
+  - Smallpox was a devastating endemic disease in the 17th century; survivors were often left with deep facial scarring (pockmarks), a common sight in this era.
+- **Leibniz's Harz Mountain Mining Project** (`harz-mountain-mining-project`) — 1 chapters (B2)
+  - Leibniz spent years attempting to use wind power to pump water out of the silver mines in the Harz Mountains, a project that was largely a failure.
+- **Leipzig and Frankfurt Book Fairs** (`leipzig-and-frankfurt-book-fairs`) — 1 chapters (B2)
+  - These were the most important centers for the book trade in Europe; Leibniz proposed a national archive and bibliography system based on the catalogs of these fairs.
+- **Witch trials in the Holy Roman Empire** (`witch-trials-germany`) — 1 chapters (B2)
+  - While witch trials were declining in England, they remained frequent and brutal in German territories during the late 17th century.
+- **Walpurgisnacht** (`walpurgisnacht`) — 1 chapters (B2)
+  - A traditional German spring festival (April 30–May 1) associated with witches gathering on the Brocken, the highest peak in the Harz Mountains.
+- **17th Century Book Censorship** (`amsterdam-publishing-trade`) — 1 chapters (B2)
+  - Amsterdam was the center of the 'forbidden' book trade in Europe, where works banned by French or Catholic censors were printed and smuggled back across borders.
+- **Expulsion of Jews from French territories** (`expulsion-of-jews-france`) — 1 chapters (B2)
+  - Refers to the increasing persecution of religious minorities under Louis XIV, leading up to the 1685 Edict of Fontainebleau.
+- **Dutch Revolt** (`dutch-revolt`) — 1 chapters (B2)
+  - Also known as the Eighty Years' War (1568–1648), where the northern provinces of the Netherlands fought for independence from Catholic Spanish rule.
+- **The Water Line** (`the-water-line`) — 1 chapters (B2)
+  - Refers to the Dutch strategy during the Franco-Dutch War (1672) of intentionally flooding low-lying land (the Hollandic Water Line) to stop the advance of Louis XIV's French army.
+- **Calico Acts** (`calico-acts`) — 1 chapters (B2)
+  - Legislation passed to protect the domestic wool and silk industries from the popular, cheap cotton fabrics (calicoes) imported from India by the East India Company.
+- **Exemplary Punishment** (`exemplary-punishment`) — 1 chapters (B2)
+  - The practice of displaying the heads of executed criminals or traitors on pikes at city gates (like London Bridge or the Porte Saint-Denis) served as a public deterrent.
+- **The Reformation** (`protestant-reformation`) — 1 chapters (B2)
+  - These names represent the leaders of the Protestant Reformation; their depiction as demons reflects the Counter-Reformation Catholic sentiment in 17th-century France.
+- **History of Coffee in France** (`coffee-trade-marseille`) — 1 chapters (B2)
+  - Marseille was the primary entry point for coffee into France from the Levant, with the first commercial shipments arriving in the mid-17th century.
+- **Coronation of Charles II at Scone** (`coronation-at-scone`) — 1 chapters (B2)
+  - Charles II was crowned King of Scotland at Scone in 1651 while still in exile from England, a point of contention regarding the official start of his reign.
+- **Johan and Cornelis de Witt** (`the-de-witt-brothers`) — 1 chapters (B2)
+  - Dutch statesmen who were brutally lynched and partially eaten by an Orangist mob in 1672 after being blamed for the French invasion.
+- **Battle of Saint-Denis (1678)** (`battle-of-saint-denis`) — 1 chapters (B2)
+  - A battle fought near Mons where Monmouth and William of Orange fought together against the French, illustrating the shifting European alliances of the era.
+- **Financial preparations for the Glorious Revolution** (`financial-preparations-for-the-glorious-revolution`) — 1 chapters (B2)
+  - The invasion of England by William of Orange was a massive financial undertaking that required the support of Amsterdam's banking and stock-trading community.
+- **Norman Conquest** (`norman-conquest`) — 1 chapters (B2)
+  - The 1066 invasion by William the Conqueror which introduced French as the language of the ruling class, leading to the linguistic split between Germanic words (cow/pig) and French-derived words (beef/
+- **Dutch East India Company in the Maldives** (`dutch-maldives-trade`) — 1 chapters (B2)
+  - The Dutch East India Company (VOC) sought to monopolize the cowrie shell trade in the Maldives to control the 'currency' used to purchase slaves in West Africa.
+- **Trans-Atlantic Slave Trade** (`trans-atlantic-slave-trade`) — 1 chapters (B2)
+  - The historical triangular trade involving the transport of enslaved Africans to the Americas, which was a central pillar of the 17th and 18th-century global economy.
+- **Orangism** (`orangists`) — 1 chapters (B2)
+  - A political faction in the Dutch Republic that supported the House of Orange-Nassau (specifically William III) against the 'States' faction of wealthy merchants.
+- **Universal Monarchy** (`universal-monarchy`) — 1 chapters (B2)
+  - The contemporary political fear that one monarch (Louis XIV) would achieve total hegemony over Europe, effectively ending the sovereignty of other nations.
+- **Transatlantic Slave Trade** (`transatlantic-slave-trade`) — 1 chapters (B2)
+  - The ship is part of the triangular trade, heading to Africa to purchase enslaved people, a central pillar of the 17th-century global economy.
+- **The Exclusion Crisis** (`exclusion-crisis`) — 1 chapters (B3)
+  - A political struggle from 1679–1681 where Parliament sought to bar the King's brother James from succession due to his Catholicism.
+- **The Rye House Plot** (`rye-house-plot`) — 1 chapters (B3)
+  - A 1683 Whig conspiracy to assassinate Charles II and James; its discovery led to the execution or exile of many leading opposition figures.
+- **Religious Conflict in England** (`jesuit-puritan-tension`) — 1 chapters (B3)
+  - The political tension between the Catholic influence (Jesuits) favored by James II and the radical Protestantism (Puritans) that had fueled the English Civil War.
+- **The Great Storm of 1658** (`great-storm-of-1658`) — 1 chapters (B3)
+  - A massive windstorm occurred on the night Oliver Cromwell died, which contemporaries interpreted as a supernatural omen regarding his soul or the state of the nation.
+- **The Covenanters** (`the-covenanters`) — 1 chapters (B3)
+  - Refers to the 'Killing Time' in Scotland, where James oversaw the suppression of Presbyterian dissidents who refused to accept the state-mandated episcopal church structure.
+- **The Dutch Water Line** (`the-dutch-water-line`) — 1 chapters (B3)
+  - During the Franco-Dutch War in 1672 (the 'Year of Disaster'), the Dutch intentionally breached dikes to flood the land and create an impassable barrier against invading French troops.
+- **The Reformation** (`the-reformation`) — 1 chapters (B3)
+  - The 16th-century religious movement that led to the establishment of the Church of England and the break from the authority of the Pope.
+- **Maratha Empire** (`maratha-empire`) — 1 chapters (B3)
+  - The Marathas, led by Shivaji, rose against the Mughal Empire in the 17th century; their 1664 and 1670 sacks of the port of Surat were major blows to European and Mughal trade.
+- **Affair of the Poisons** (`affair-of-the-poisons`) — 1 chapters (B3)
+  - A major scandal (1677–1682) involving a series of murders and alleged Satanic rituals among the high nobility of Louis XIV's court.
+- **Louis XIV's Anal Fistula** (`the-kings-fistula`) — 1 chapters (B3)
+  - In 1686, Louis XIV underwent a famous and agonizing surgery to repair an anal fistula. The success of the operation by surgeon Charles-François Félix elevated the status of surgery in France.
+- **War of Devolution** (`war-of-devolution`) — 1 chapters (B3)
+  - The conflict in which Louis XIV first attempted to claim the Spanish Netherlands and Franche-Comté, marking the beginning of his long series of expansionist wars.
+- **Marian Exiles** (`marian-exiles`) — 1 chapters (B3)
+  - Protestants who fled England during the reign of Mary I (1553–1558) to escape religious persecution, many of whom settled in Geneva and brought back radical Calvinist ideas.
+- **Calico Acts and Textile Trade** (`indian-textile-trade`) — 1 chapters (B3)
+  - The influx of cheap, high-quality Indian cottons (calicoes) threatened the traditional English wool and cloth industries, leading to protectionist laws.
+- **Penal Laws** (`penal-laws`) — 1 chapters (B3)
+  - A series of laws that upheld the rites of the Church of England and punished 'nonconformists' (dissenting Protestants) and Catholics with fines and imprisonment.
+- **The Great Recoinage of 1696** (`clipping-and-coinage`) — 1 chapters (B3)
+  - Before milled edges were standard, people 'clipped' silver from the edges of coins, leading to a currency crisis where the face value of money far exceeded its silver weight.
+- **Great Comet of 1680** (`great-comet-of-1680`) — 1 chapters (B3)
+  - The first comet discovered by telescope; its path was crucial for Newton to prove that comets followed the same laws of gravity as planets.
+- **Battle of the Dunes (1658)** (`battle-of-the-dunes`) — 1 chapters (B3)
+  - A major victory for the French and their English allies (under Cromwell) against the Spanish, fought near Dunkirk.
+- **Anti-Catholicism in England** (`papist-fears`) — 1 chapters (B3)
+  - The intense political and religious fear that James II would re-establish Catholicism and absolute monarchy in England.
+- **Execution of the Duke of Monmouth** (`execution-of-the-duke-of-monmouth`) — 1 chapters (B3)
+  - Monmouth was executed on Tower Hill in 1685; the execution was notoriously botched, requiring multiple blows from the headsman's axe.
+- **Dutch Golden Age Economy** (`dutch-golden-age-finance`) — 1 chapters (B3)
+  - In the 17th century, the Dutch Republic pioneered modern finance, including the first central bank, the first stock exchange, and sophisticated credit systems.
+- **Huguenots** (`persecution-of-the-huguenots`) — 1 chapters (B3)
+  - Refers to the state-sponsored persecution of French Protestants (Huguenots) following Louis XIV's Revocation of the Edict of Nantes in 1685.
+- **Persecution of Huguenots** (`persecution-of-huguenots`) — 1 chapters (B3)
+  - Refers to the state-sponsored harassment of Protestants (Huguenots) in France, culminating in the 1685 Edict of Fontainebleau, and the Waldensians in Savoy.
+- **League of Augsburg** (`league-of-augsburg`) — 1 chapters (B3)
+  - A coalition formed in 1686 by European powers (including the Holy Roman Empire and Spain) to resist the expansionist policies of Louis XIV's France.
+- **Destruction of the Parthenon** (`destruction-of-the-parthenon`) — 1 chapters (B3)
+  - In 1687, during the Morean War, a Venetian mortar hit an Ottoman gunpowder magazine stored inside the Parthenon, causing the massive explosion that ruined the structure.
+- **Waldensian Massacre of 1655** (`waldensians-savoy`) — 1 chapters (B3)
+  - Refers to the 'Piedmontese Easter,' a brutal massacre of the Waldensian Protestant minority by the troops of the Duke of Savoy, which caused international outrage.
+- **Penn-Calvert Boundary Dispute** (`penn-calvert-boundary-dispute`) — 1 chapters (B3)
+  - A long-running legal conflict between William Penn and Lord Baltimore over the border between Pennsylvania and Maryland, eventually settled by the Mason-Dixon line.
+- **The Founding of Pennsylvania** (`founding-of-pennsylvania`) — 1 chapters (B3)
+  - In 1681, King Charles II granted Penn a large tract of land in America to settle a debt of £16,000 owed to Penn's father, Admiral Sir William Penn.
+- **Religious Toleration** (`religious-toleration-acts`) — 1 chapters (B3)
+  - A major political issue in the 1680s as James II attempted to grant freedom of worship to Catholics and Dissenters, which many Anglicans feared was a ruse for Catholic dominance.
+- **War of the Grand Alliance (War of the League of Augsburg)** (`war-of-the-grand-alliance`) — 1 chapters (B3)
+  - Louis XIV used his sister-in-law Liselotte's dubious claim to the Palatinate as a legal pretext to invade the Rhineland in 1688.
+- **Transportation to Barbados** (`transportation-to-the-caribbean`) — 1 chapters (B3)
+  - During the 17th century, political prisoners and religious dissidents (like Puritans) were often 'transported' to Barbados to work as indentured servants on sugar plantations.
+- **The Father Francis Affair** (`father-francis-affair`) — 1 chapters (B3)
+  - A 1687 dispute where Isaac Newton and other Cambridge academics resisted James II's order to grant a Master of Arts degree to a Benedictine monk without the required oaths.
+- **Recusancy under Elizabeth I** (`elizabethan-catholic-persecution`) — 1 chapters (B3)
+  - Refers to the imprisonment of Roman Catholics (Papists) during the reign of Elizabeth I, many of whom left inscriptions in the Tower walls while awaiting execution.
+- **Trial of the Seven Bishops** (`trial-of-the-seven-bishops`) — 1 chapters (B3)
+  - A 1688 legal case where James II prosecuted seven bishops for seditious libel after they petitioned against his Declaration of Indulgence.
+- **The Warming-Pan Myth** (`warming-pan-myth`) — 1 chapters (B3)
+  - A popular conspiracy theory claiming that James II's son, James Francis Edward Stuart, was a changeling smuggled into the palace to ensure a Catholic succession.
+- **Phobos and Deimos (Allegory)** (`phobos-and-deimos-allegory`) — 1 chapters (B3)
+  - Named after the Greek personifications of Fear and Dread, these dogs serve as an allegory for the French armies poised to invade the Palatinate and the Netherlands in 1688.
+- **Protestants of Savoy (Waldensians)** (`savoyard-waldensian-massacres`) — 1 chapters (B3)
+  - Refers to the persecution and military campaigns against the Vaudois (Waldensians) in the Duchy of Savoy, often pressured by Louis XIV.
+- **The Nine Years' War (War of the Grand Alliance)** (`nine-years-war`) — 1 chapters (B3)
+  - The geopolitical tension in 1688 leading to a major European conflict between France and the Grand Alliance.
+- **Treaty of Nijmegen** (`treaty-of-nijmegen`) — 1 chapters (B3)
+  - A series of treaties signed in 1678-1679 that ended the Franco-Dutch War, a major conflict involving Louis XIV.
+- **Natural Borders of France** (`natural-borders-of-france`) — 1 chapters (B3)
+  - A long-standing French geopolitical theory that France's security depended on reaching 'natural' frontiers like the Rhine river, the Alps, and the Pyrenees.
+- **Siege of Strasbourg** (`siege-of-strasbourg`) — 1 chapters (B3)
+  - Louis XIV captured the Free Imperial City of Strasbourg in 1681, a major move in his 'Reunions' policy to expand French territory eastward.
+- **The Savoyard–Waldensian Wars** (`waldensian-massacres`) — 1 chapters (B3)
+  - Specifically the 1686 campaign against the Waldensians (Protestants) in the Piedmont region, where French and Savoyard troops conducted a brutal suppression.
+- **War of the League of Augsburg** (`war-of-the-league-of-augsburg`) — 1 chapters (B3)
+  - Also known as the Nine Years' War (1688–1697), it began largely because Louis XIV claimed the Palatinate on behalf of his sister-in-law, Liselotte.
+- **Invasion of the Palatinate** (`invasion-of-the-palatinate`) — 1 chapters (B3)
+  - This refers to the opening of the Nine Years' War (1688–1697). Louis XIV claimed the Palatinate in the name of his sister-in-law, Elizabeth Charlotte (Liselotte), leading to a brutal 'scorched earth' 
+- **Destruction of Heidelberg** (`destruction-of-the-palatinate`) — 1 chapters (B3)
+  - Refers to the systematic devastation of the Palatinate by French forces in 1688-1689 to prevent the region from supporting an imperial advance.
+- **Anti-Catholicism in 17th Century England** (`anti-catholic-sentiment`) — 1 chapters (B3)
+  - During this period, Jesuits were feared as agents of foreign Catholic powers; carrying a crucifix was seen by many Protestants as evidence of 'popish' idolatry or treason.
+- **Disposal of the Great Seal** (`disposal-of-the-great-seal`) — 1 chapters (B3)
+  - A real historical incident where James II attempted to paralyze the government by destroying the Great Seal during his flight from London.
+- **Cavaliers and Roundheads** (`cavaliers-and-roundheads`) — 1 chapters (B3)
+  - References the two sides of the English Civil War (Royalists vs. Parliamentarians), highlighting the lingering social and political divisions in England.
+- **Landing at Torbay** (`landing-at-torbay`) — 1 chapters (B3)
+  - The site where William of Orange landed his invasion force on November 5, 1688.
+- **Raid on the Medway** (`raid-on-the-medway`) — 1 chapters (B3)
+  - A humiliating English defeat during the Second Anglo-Dutch War where the Dutch navy burned the English fleet at anchor and captured the flagship, the Royal Charles.
+- **Flight of James II** (`flight-of-james-ii`) — 1 chapters (B3)
+  - In December 1688, during the Glorious Revolution, King James II attempted to flee to France. His first attempt failed when he was captured by fishermen, but he eventually escaped, effectively vacating
+- **Irish refugees in London 1688** (`irish-night-refugees`) — 1 chapters (B3)
+  - During the 'Irish Night' panic of December 1688, rumors spread that James II's disbanded Irish soldiers were marching on London to massacre Protestants, leading to mass hysteria and the displacement o
+- **James II's Flight** (`james-iis-flight`) — 1 chapters (B3)
+  - Refers to the attempted escape of King James II in December 1688 during the Glorious Revolution, where he was captured by fishermen at Sheerness.
+- **The Great Recoinage** (`clipping-and-counterfeiting`) — 1 chapters (B3)
+  - During this period, English silver coinage was in crisis due to 'clipping' (shaving edges) and counterfeiting, leading to a lack of trust in the currency's value.
+- **The Bloody Assizes** (`the-bloody-assizes`) — 1 chapters (B3)
+  - The series of trials in 1685 where Judge Jeffreys sentenced hundreds of rebels to death by hanging, drawing, and quartering after the failed Monmouth Rebellion.
+- **Treaty of Nerchinsk** (`treaty-of-nerchinsk`) — 1 chapters (B3)
+  - The 1689 treaty between Russia and the Qing dynasty that established the border between the two empires and opened trade.
+- **The Financial Revolution** (`financial-revolution`) — 1 chapters (B3)
+  - The period of economic innovation in England involving the creation of the Bank of England and the system of public credit.
+- **Smallpox** (`smallpox`) — 1 chapters (B3)
+  - A devastating infectious disease that was a leading cause of death in the 17th and 18th centuries, frequently altering lines of royal succession.
+- **Guelphs and Ghibellines** (`guelphs-and-ghibellines`) — 1 chapters (B3)
+  - Factions supporting the Pope and the Holy Roman Emperor, respectively, in central and northern Italy during the Middle Ages; Leibniz is researching these for a dynastic history.
+- **Mercantilism and 17th-century state finance** (`17th-century-state-finance`) — 1 chapters (B3)
+  - Refers to the different economic strengths of European powers: Spain's silver from the New World and France's large population under Louis XIV.
+
+### Place (89 topics)
+
+- **Whitehall Palace** (`whitehall-palace`) — 9 chapters (B1, B3)
+  - The main residence of the English monarchs in London, notorious during Charles II's reign for the perceived debauchery of his court.
+- **The Binnenhof** (`binnenhof`) — 5 chapters (B2, B3)
+  - The complex of buildings in The Hague that has served as the center of Dutch politics for centuries; in the 17th century, it was the seat of the States General of the Netherlands.
+- **Palace of Versailles** (`palace-of-versailles`) — 5 chapters (B2, B3)
+  - The principal residence of the French kings from 1682, it served as the center of political power and a symbol of the absolute monarchy of Louis XIV.
+- **The Dutch Republic** (`dutch-republic`) — 4 chapters (B1, B2, B3)
+  - A major 17th-century European power known for its religious tolerance, maritime trade, and scientific advancement during its 'Golden Age.'
+- **Spanish Netherlands** (`spanish-netherlands`) — 4 chapters (B1, B2, B3)
+  - A collection of Holy Roman Empire states in the Low Countries held in personal union by the Spanish Crown; it was a frequent battleground between France and the Dutch Republic.
+- **Woolsthorpe Manor** (`woolsthorpe-manor`) — 3 chapters (B1)
+  - Newton's family home in Lincolnshire, where he famously retreated during the Great Plague and performed his most significant work on calculus, optics, and gravitation.
+- **St Paul's Cathedral** (`st-pauls-cathedral`) — 3 chapters (B1, B3)
+  - The medieval cathedral was destroyed in the Great Fire; Christopher Wren spent decades designing and building the iconic domed replacement.
+- **Harz Mountains** (`harz-mountains`) — 3 chapters (B2)
+  - A mountain range in northern Germany famous for its silver mines and folklore (including Walpurgis Night).
+- **Pont-Neuf** (`pont-neuf`) — 3 chapters (B2, B3)
+  - The 'New Bridge' was the first in Paris built without houses on it, becoming the city's primary social hub for commerce, gossip, and street performers.
+- **Atlantic Slave Trade** (`guinea-coast-slave-trade`) — 2 chapters (B1, B2)
+  - A region in West Africa that was a major hub for the Atlantic slave trade during the 17th and 18th centuries.
+- **Banqueting House, Whitehall** (`banqueting-house`) — 2 chapters (B1, B3)
+  - The only major remaining component of Whitehall Palace, designed by Inigo Jones. Its ceiling features a famous series of paintings by Peter Paul Rubens commissioned by Charles I.
+- **Port Royal** (`port-royal`) — 2 chapters (B2)
+  - A city in Jamaica that served as a notorious haven for privateers and pirates in the 17th century before being largely destroyed by an earthquake in 1692.
+- **Tyburn Tree** (`tyburn-tree`) — 2 chapters (B2, B3)
+  - The principal location for public executions in London, famous for the 'Tyburn Tree' (a triple gallows).
+- **Jáchymov (Joachimsthal)** (`joachimsthal`) — 2 chapters (B2)
+  - A mining town in Bohemia famous for its silver mines; it is the namesake of the 'thaler' coin, from which the word 'dollar' is derived.
+- **Les Halles** (`les-halles`) — 2 chapters (B2)
+  - The traditional central market of Paris, known for its immense scale, noise, and the distinct social class of its vendors.
+- **The Marais** (`the-marais`) — 2 chapters (B2)
+  - An aristocratic district of Paris that, by the late 17th century, was also a bustling center for artisans and trade.
+- **Place Royale (Place des Vosges)** (`place-des-vosges`) — 2 chapters (B2)
+  - The oldest planned square in Paris, built by Henri IV; it was a highly fashionable residential area for the nobility and a site for equestrian displays.
+- **The Tower of London** (`tower-of-london`) — 2 chapters (B2, B3)
+  - A historic castle on the north bank of the River Thames; in this era, it served as a royal palace, a prison, and the site of the Royal Mint and the Crown Jewels.
+- **Château de Saint-Cloud** (`chateau-de-saint-cloud`) — 2 chapters (B3)
+  - The primary residence of Philippe I, Duke of Orléans (brother of Louis XIV), known for its magnificent gardens and as a center of court life outside of Versailles.
+- **The Spanish Main** (`the-spanish-main`) — 1 chapters (B1)
+  - Refers to the mainland coastal possessions of the Spanish Empire in the Americas, a primary target for pirates and privateers.
+- **London Bridge** (`old-london-bridge`) — 1 chapters (B1)
+  - The medieval bridge was a crowded street of shops and houses; the nursery rhyme refers to its frequent need for repair and the fire hazards it posed.
+- **Leiden (Leyden)** (`leiden-pilgrims`) — 1 chapters (B1)
+  - A Dutch city that served as a refuge for English Separatists (Pilgrims) before many of them departed for America on the Mayflower.
+- **St Lawrence Jewry** (`st-lawrence-jewry`) — 1 chapters (B1)
+  - A prominent guild church in the City of London where John Wilkins served as vicar.
+- **Inigo Jones's Portico** (`old-st-pauls-cathedral`) — 1 chapters (B1)
+  - The 'Old' St. Paul's Cathedral featured a famous classical portico designed by architect Inigo Jones, which stood in stark contrast to the medieval Gothic structure.
+- **Roman London (Londinium)** (`roman-london`) — 1 chapters (B1)
+  - The passage references the Roman origins of London; the Governor's Palace was a massive complex located near modern Cannon Street station.
+- **St. James's Development** (`st-jamess-development`) — 1 chapters (B1)
+  - During the 1660s, this area was transformed from open fields into a fashionable aristocratic neighborhood by developers like Henry Jermyn.
+- **The New Exchange** (`new-exchange`) — 1 chapters (B1)
+  - A popular 17th-century shopping arcade in London known for luxury goods, fashion, and social posturing.
+- **Tyburn** (`tyburn`) — 1 chapters (B1)
+  - Tyburn was London's primary location for public executions; it was also a common spot for duels due to its open space at the edge of the city.
+- **St. James’s Palace** (`st-jamess-palace`) — 1 chapters (B1)
+  - The senior royal palace in London; it became the principal residence of the monarch after the Palace of Whitehall burned down, but was already a major center of court life in the 1660s.
+- **Holbein Gate** (`holbein-gate`) — 1 chapters (B1)
+  - A monumental gateway built in 1532 at the Palace of Whitehall. It survived the Great Fire but was eventually demolished in 1759 to widen the road.
+- **Billingsgate Market** (`billingsgate-market`) — 1 chapters (B1)
+  - London's principal wholesale fish market, famous for its bustling trade and the notoriously foul language of its 'fishwives'.
+- **Mughal Empire** (`mughal-empire`) — 1 chapters (B1)
+  - The wealthy empire ruling most of India; it was a primary destination for European silver in exchange for spices, textiles, and tea.
+- **The Monument to the Great Fire of London** (`the-monument`) — 1 chapters (B1)
+  - A Doric column designed by Wren and Hooke that also served as a giant zenith telescope for scientific observations.
+- **Monument to the Great Fire of London** (`monument-to-the-great-fire`) — 1 chapters (B1)
+  - A Doric column in London built between 1671 and 1677 to commemorate the Great Fire and celebrate the city's rebuilding.
+- **Republic of Venice** (`republic-of-venice`) — 1 chapters (B1)
+  - In the 17th century, Venice was famous for its decadence, opera, and sophisticated (often scandalous) social life, making it a popular destination for wealthy travelers.
+- **Tyburn** (`tyburn-gallows`) — 1 chapters (B2)
+  - The primary location for public executions in London, famous for its 'Triple Tree' gallows and the massive crowds that gathered to watch.
+- **London City Gates** (`london-city-gates`) — 1 chapters (B2)
+  - The historic gates in the London Wall that controlled entry into the City of London; by the 17th century, many served as prisons or landmarks rather than active defensive fortifications.
+- **The Press-Yard** (`press-yard`) — 1 chapters (B2)
+  - A section of Newgate Prison where wealthy prisoners could pay for better accommodations; it was also the site where prisoners who refused to plead were 'pressed' with heavy weights (peine forte et dur
+- **The Inner and Middle Temple** (`the-temple-london`) — 1 chapters (B2)
+  - The Temple was the center of the English legal profession (the Inns of Court). In the Restoration, the area was known for a mix of high-status lawyers and the proximity of 'libertine' nightlife and br
+- **St. Stephen's Cathedral (Stephansdom)** (`st-stephens-cathedral-vienna`) — 1 chapters (B2)
+  - The iconic landmark of Vienna; during the siege, the star and crescent (an old Viennese symbol, not Islamic in this context) was replaced by a cross after the victory.
+- **The Hofburg Palace** (`hofburg-palace`) — 1 chapters (B2)
+  - The principal winter residence of the Habsburg dynasty in Vienna, which served as the seat of the Holy Roman Emperors.
+- **Poland-Lithuania** (`polish-lithuanian-commonwealth`) — 1 chapters (B2)
+  - The Polish-Lithuanian Commonwealth was one of the largest and most populous countries in 17th-century Europe, known for its powerful cavalry.
+- **Qasbah of Algiers** (`casbah-of-algiers`) — 1 chapters (B2)
+  - The citadel and heart of the city of Algiers, which served as a major base for the Barbary pirates and the seat of Ottoman power in the region.
+- **The Danube River** (`danube-river-history`) — 1 chapters (B2)
+  - The second-longest river in Europe, which served as a vital frontier and transport artery between the Holy Roman Empire and the Ottoman Empire.
+- **Barbary Coast** (`barbary-coast`) — 1 chapters (B2)
+  - The coastal regions of North Africa known for privateering and the slave trade, where Eliza was previously held captive.
+- **Ore Mountains (Erzgebirge)** (`ore-mountains`) — 1 chapters (B2)
+  - A mountain range forming the border between Saxony and Bohemia, historically one of the most important sources of silver, tin, and iron in Europe.
+- **Electorate of Saxony** (`saxony`) — 1 chapters (B2)
+  - A powerful state within the Holy Roman Empire, ruled by the Electors of Saxony, known for its mineral wealth and as a center of the Protestant Reformation.
+- **Old Town Hall (Leipzig)** (`leipzig-althaus`) — 1 chapters (B2)
+  - The Altes Rathaus, built in 1556 in the Renaissance style with distinct gables, served as the center of municipal power and trade regulation.
+- **St. Nicholas Church, Leipzig** (`nicolaikirche`) — 1 chapters (B2)
+  - A major church in Leipzig; historically significant as a center of Lutheranism and later for its role in the 1989 'Peaceful Revolution'.
+- **Leipzig** (`leipzig`) — 1 chapters (B2)
+  - A major German city near the Harz Mountains, known in this period as a center of trade, printing, and learning, and home to a famous university where Leibniz studied.
+- **Herrenhausen Gardens** (`herrenhausen-gardens`) — 1 chapters (B2)
+  - The famous Baroque gardens in Hanover, modeled after Versailles, where Sophia of Hanover spent much of her time and where Leibniz frequently walked with her.
+- **Restoration London** (`amsterdam-history`) — 1 chapters (B2)
+  - The passage describes the literal 'Dam' on the river Amstel that gave Amsterdam its name and its unique concentric canal structure (Grachtengordel).
+- **Warmoesstraat** (`warmoesstraat`) — 1 chapters (B2)
+  - One of the oldest and most important commercial streets in Amsterdam, historically the center of the city's trade and wealthy merchant residences.
+- **Texel** (`texel-roadstead`) — 1 chapters (B2)
+  - The island of Texel served as the main anchorage for the Dutch East India Company's fleets; ships would wait here for favorable winds before departing on long voyages.
+- **Basilica of Saint-Denis** (`basilica-of-st-denis`) — 1 chapters (B2)
+  - A major monastery and burial site of French kings located just north of Paris; it was a significant destination for pilgrims and a gathering place for the poor.
+- **Porte Saint-Denis and Porte Saint-Martin** (`porte-saint-denis-and-porte-saint-martin`) — 1 chapters (B2)
+  - These monumental triumphal arches were built by Louis XIV to replace old medieval city gates, celebrating his victories on the Rhine.
+- **The Temple (Paris)** (`the-temple-paris`) — 1 chapters (B2)
+  - Originally the fortified headquarters of the Knights Templar, by this period it was a semi-autonomous precinct held by the Knights Hospitaller (Knights of Malta).
+- **Tuileries Garden** (`tuileries-garden`) — 1 chapters (B2)
+  - A famous formal garden in Paris; the 'torture' refers to the practice of topiary and strict geometric landscaping popular in the French formal garden style.
+- **Isfahan** (`isfahan`) — 1 chapters (B2)
+  - The capital of the Safavid Empire in Persia, Isfahan was a major center of global trade and home to a significant Armenian merchant community.
+- **Place Dauphine** (`place-dauphine`) — 1 chapters (B2)
+  - A public square in Paris completed under Henry IV, located near the Pont Neuf; it was a center of commerce and, as noted, public spectacles.
+- **Abbey of Saint-Germain-des-Prés** (`st-germain-des-pres`) — 1 chapters (B2)
+  - A powerful Benedictine monastery that sat outside the walls of Paris; its surrounding 'faubourg' became a fashionable district and site of the famous Saint-Germain Fair.
+- **The Bastille** (`the-bastille`) — 1 chapters (B2)
+  - A fortress in Paris that served as a state prison and armory; it was a symbol of royal authority and stood at the eastern edge of the city.
+- **Lyons (Lyon)** (`lyon-banking-center`) — 1 chapters (B2)
+  - In the 17th century, Lyon was a major European banking and silk-trading hub, serving as a vital link between French and Italian financial markets.
+- **Harz Mountains Mining** (`harz-mountains-mining`) — 1 chapters (B2)
+  - The Harz region in Germany was a major center for silver and lead mining, where Leibniz (the 'Doctor') historically attempted to use wind power to pump water from the mines.
+- **Dunkirk** (`dunkirk-privateers`) — 1 chapters (B2)
+  - In this era, Dunkirk was a notorious nest for privateers and smugglers, often changing hands between the Spanish, French, and English.
+- **Cape of Good Hope** (`cape-of-good-hope`) — 1 chapters (B2)
+  - The southern tip of Africa; the primary maritime route for European trade with Asia before the Suez Canal, known for its treacherous waters.
+- **Palace of Whitehall** (`palace-of-whitehall`) — 1 chapters (B3)
+  - The main residence of the English monarchs in London from 1530 until 1698. It was a sprawling, disorganized complex of over 1,500 rooms.
+- **Old St Paul's Cathedral** (`old-st-pauls`) — 1 chapters (B3)
+  - The medieval cathedral of London that was destroyed in the Great Fire of 1666 and replaced by Christopher Wren's masterpiece.
+- **Topkapi Palace Harem** (`topkapi-harem`) — 1 chapters (B3)
+  - The secluded living quarters for the wives, concubines, and female relatives of the Ottoman Sultan, known for its complex internal hierarchy and political influence.
+- **Agra Fort** (`agra-fort`) — 1 chapters (B3)
+  - A massive 16th-century Mughal fortress that served as the main residence of the emperors until the capital shifted to Delhi (Shahjahanabad).
+- **Whitechapel** (`whitechapel`) — 1 chapters (B3)
+  - A district in East London that was historically known for poverty, overcrowding, and vice outside the city walls.
+- **Texel** (`texel`) — 1 chapters (B3)
+  - An island in the Netherlands that served as a frequent staging point for naval expeditions and political exiles.
+- **Scheveningen** (`scheveningen`) — 1 chapters (B3)
+  - A seaside district of The Hague; in the 17th century, it was a fishing village and a frequent point of arrival/departure for international travelers and royalty.
+- **Herzog August Library** (`wolfenbuttel-library`) — 1 chapters (B3)
+  - The library in Wolfenbüttel where Leibniz served as librarian; he designed a revolutionary new building (the Bibliotheca Augusta) to house the collection.
+- **Île de la Cité** (`ile-de-la-cite`) — 1 chapters (B3)
+  - The natural island in the Seine that is the historic heart of Paris, containing Notre-Dame and the Palais de Justice.
+- **The Palatinate** (`the-palatinate`) — 1 chapters (B3)
+  - A strategic region of the Holy Roman Empire (modern-day Germany) that was a major flashpoint for conflict between France and the Empire during the late 17th century.
+- **Heidelberg Castle** (`heidelberg-castle`) — 1 chapters (B3)
+  - The residence of the Electors Palatine, which was famously destroyed by French troops during the Nine Years' War shortly after the events of this passage.
+- **The Electoral Palatinate** (`electoral-palatinate`) — 1 chapters (B3)
+  - The Palatinate was a major territory of the Holy Roman Empire. Its capital, Heidelberg, and its strategic position on the Rhine made it a frequent target of French aggression under Louis XIV.
+- **Strasbourg and Alsace** (`annexation-of-alsace`) — 1 chapters (B3)
+  - Strasbourg was a Free Imperial City until it was seized by Louis XIV in 1681, a major move in his 'Reunions' policy to expand French borders.
+- **The Argonne** (`argonne-forest`) — 1 chapters (B3)
+  - A long strip of rocky, heavily forested terrain in northeast France, historically significant as a defensive barrier and a difficult military bottleneck.
+- **Duchy of Luxembourg** (`duchy-of-luxembourg`) — 1 chapters (B3)
+  - A strategically vital territory that had been captured by Louis XIV in 1684. Its fortifications, designed by Vauban, made it one of the most significant military sites in Europe.
+- **The Ardennes** (`the-ardennes`) — 1 chapters (B3)
+  - A region of extensive forests, rough terrain, and rolling hills. Historically, its difficult geography has made it a significant factor in military maneuvering and border defense.
+- **Prince-Bishopric of Liège** (`bishopric-of-liege`) — 1 chapters (B3)
+  - An ecclesiastical state within the Holy Roman Empire (modern-day Belgium) that often served as a strategic buffer and battleground between French and Dutch forces.
+- **Maastricht** (`maastricht`) — 1 chapters (B3)
+  - A heavily fortified city of immense strategic importance, frequently besieged during the 17th-century wars between France and the Dutch.
+- **River Medway** (`river-medway`) — 1 chapters (B3)
+  - A major river in Kent; its mouth was a strategic naval site and the location of a humiliating English defeat by the Dutch in 1667.
+- **Upnor Castle** (`upnor-castle`) — 1 chapters (B3)
+  - An Elizabethan artillery fort built to protect the Chatham dockyards; it famously failed to stop the Dutch Raid of 1667.
+- **Traitor's Gate** (`traitors-gate`) — 1 chapters (B3)
+  - The water entrance to the Tower of London through which many famous prisoners, accused of treason, were brought into the fortress by boat from the Thames.
+- **The Tilt Yard** (`tilt-yard-whitehall`) — 1 chapters (B3)
+  - Originally a site for jousting at Whitehall Palace, by the late 17th century it was a public area near the Horse Guards.
+- **London Wall** (`london-wall`) — 1 chapters (B3)
+  - The defensive wall first built by the Romans that defined the boundaries of the City of London until the late medieval period.
+
+### Science (186 topics)
+
+- **Humorism** (`humorism`) — 9 chapters (B1, B2, B3)
+  - The ancient medical system of 'four humors' (blood, yellow bile, black bile, phlegm) that was still a common way of understanding health and temperament in this era.
+- **Bioluminescence / Phosphorus** (`discovery-of-phosphorus`) — 6 chapters (B1, B2, B3)
+  - First isolated in 1669 by Hennig Brand (an alchemist) from human urine. Its ability to glow in the dark made it a sensation in royal courts and scientific circles.
+- **Action at a Distance** (`action-at-a-distance`) — 4 chapters (B1, B3)
+  - A concept in physics where objects interact without physical contact; Newton's theory of gravity was criticized by contemporaries for relying on this 'occult' idea.
+- **Monadology** (`monadology`) — 4 chapters (B1, B2, B3)
+  - A central concept in Leibniz's philosophy; monads are indivisible, elementary particles or 'spiritual atoms' that compose the universe.
+- **Newton's Law of Universal Gravitation** (`universal-gravitation`) — 4 chapters (B1)
+  - Newton's law stating that every particle attracts every other particle in the universe; a revolutionary concept during the novel's timeframe.
+- **Calculus** (`calculus`) — 4 chapters (B1, B3)
+  - The mathematical study of continuous change, which was a cutting-edge and highly complex discovery during the late 17th century.
+- **Bloodletting** (`bloodletting`) — 4 chapters (B2, B3)
+  - A standard medical practice based on the theory of the four humors, where blood was drained from a patient to treat fevers and other ailments.
+- **vortices in the æther** (`vortex-theory`) — 3 chapters (B1, B3)
+  - René Descartes' theory that planets were carried by whirlpools of 'aether.' Newton's 'Principia' famously debunked this in favor of gravity.
+- **Luminiferous Aether** (`aether`) — 3 chapters (B1, B3)
+  - A theoretical substance once thought to fill all space, serving as the medium through which light and gravity were believed to propagate.
+- **Binary Number System** (`binary-number-system`) — 3 chapters (B1, B2)
+  - Leibniz was a pioneer in the study of the base-2 numeral system, which he viewed as having mystical and mathematical significance.
+- **Leibniz's Stepped Reckoner** (`leibnizs-stepped-reckoner`) — 3 chapters (B1, B3)
+  - Leibniz invented a mechanical calculator (the Stepped Reckoner) in 1673 that could perform all four arithmetic operations, a major leap in early computing.
+- **Conic Sections** (`conic-sections`) — 2 chapters (B1, B3)
+  - The curves (ellipse, parabola, hyperbola) resulting from the intersection of a plane and a cone, essential to understanding orbital mechanics.
+- **Vis Viva** (`vis-viva`) — 2 chapters (B1, B3)
+  - Latin for 'living force,' this was an early scientific formulation for what we now call kinetic energy, a concept championed by Leibniz.
+- **Philosophic Mercury** (`philosophic-mercury`) — 2 chapters (B1)
+  - In alchemy, this was a theoretical 'first matter' believed to be the essential component for creating the Philosopher's Stone.
+- **Method of Fluxions** (`method-of-fluxions`) — 2 chapters (B1)
+  - Newton's specific term and conceptual framework for what we now call differential calculus, focusing on the rate of change of 'flowing' quantities.
+- **Spontaneous Generation** (`spontaneous-generation`) — 2 chapters (B1)
+  - The pre-modern scientific theory that living organisms could arise from non-living matter, a concept Isaac Newton and his contemporaries were still grappling with.
+- **London Bridge Waterworks** (`london-bridge-waterworks`) — 2 chapters (B1)
+  - In 1582, Peter Morice built a system of waterwheels under the arches of London Bridge to pump Thames water into the city's first pressurized lead pipes.
+- **The Air Pump** (`boylean-air-pump`) — 2 chapters (B1)
+  - A landmark scientific instrument developed by Hooke and Boyle to create a vacuum, allowing for the study of respiration and combustion.
+- **Vis Inertiae** (`vis-inertiae`) — 2 chapters (B1, B3)
+  - A Latin term meaning 'force of inactivity,' used in the 17th century to describe the resistance of physical objects to a change in their state of motion.
+- **Discovery of Oxygen** (`discovery-of-oxygen`) — 2 chapters (B1)
+  - References early theories of 'vital air' or 'nitro-aerial spirit' that predated the formal discovery of oxygen by Priestley and Lavoisier.
+- **The Longitude Problem** (`the-longitude-problem`) — 2 chapters (B1, B3)
+  - Accurate measurement of the Earth's radius was essential for calculating gravity and for navigation (the longitude problem).
+- **Pansophism** (`pansophism`) — 2 chapters (B1)
+  - An educational philosophy striving for universal knowledge, championed by Comenius and influential on early Royal Society members.
+- **Newton's Laws of Motion** (`newtons-laws-of-motion`) — 2 chapters (B1, B3)
+  - The passage describes the early conceptualization of inertia and universal gravitation, which would eventually be published in the 'Principia Mathematica'.
+- **Leibniz's Stepped Reckoner** (`stepped-reckoner`) — 2 chapters (B1)
+  - Leibniz's improvement on Pascal's design, utilizing the 'Leibniz wheel' to perform multiplication and division.
+- **Scholasticism vs. Mechanical Philosophy** (`mechanical-philosophy`) — 2 chapters (B1, B3)
+  - The 17th-century view that the universe and all its phenomena (including biology) can be explained as a giant machine governed by physical laws.
+- **Damascus Steel** (`damascus-steel`) — 2 chapters (B2)
+  - A famed type of steel used in Middle Eastern swordmaking, characterized by distinctive patterns of banding and mottling reminiscent of flowing water, known for its toughness and sharpness.
+- **binary cypher** (`binary-code`) — 2 chapters (B2, B3)
+  - A reference to Leibniz's development of the binary numeral system, which he viewed as having mystical and philosophical significance.
+- **Early Paleontology and Stratigraphy** (`early-paleontology`) — 2 chapters (B2)
+  - In the 17th century, the origin of fossils was hotly debated; some believed they grew in the earth, while others (like Steno and Leibniz) correctly identified them as remains of ancient life buried in
+- **Saltpeter** (`saltpeter`) — 2 chapters (B2, B3)
+  - Potassium nitrate, a vital ingredient in gunpowder; its supply was a major strategic concern for 17th-century militaries.
+- **Backstaff** (`backstaff`) — 2 chapters (B2, B3)
+  - A navigational instrument used to measure the altitude of the sun to determine latitude without the navigator having to look directly into the sun.
+- **Inverse-square law** (`inverse-square-law`) — 2 chapters (B3)
+  - The principle stating that a physical quantity (like gravity) intensity is inversely proportional to the square of the distance from the source.
+- **Pendulum Clock** (`pendulum-clock`) — 2 chapters (B3)
+  - Invented by Christiaan Huygens in 1656, the pendulum clock revolutionized timekeeping by increasing accuracy from minutes of error per day to seconds.
+- **The Stone (Bladder Stones)** (`bladder-stones`) — 2 chapters (B3)
+  - A common and extremely painful ailment in the 17th century; Samuel Pepys famously underwent a dangerous surgery to remove one.
+- **Dynamics** (`dynamics`) — 2 chapters (B3)
+  - The branch of mechanics concerned with the motion of bodies under the action of forces, a term coined by Leibniz in 1692.
+- **Newton's Scale of Temperature** (`newtons-temperature-scale`) — 1 chapters (B1)
+  - Before the Celsius or Fahrenheit scales were standardized, Newton proposed a scale in 1701 based on 0 for freezing and 12 for human body heat.
+- **Isaac Newton as Master of the Mint** (`isaac-newton-as-master-of-the-mint`) — 1 chapters (B1)
+  - Later in life, Newton served as Warden and then Master of the Royal Mint, where he applied scientific rigor to combat counterfeiting and reform English currency.
+- **Precession of the Equinoxes** (`precession-of-the-equinoxes`) — 1 chapters (B1)
+  - The slow, continuous change in the orientation of an astronomical body's rotational axis; a key concept in classical astronomy and later Newtonian physics.
+- **17th Century Astronomy** (`17th-century-astronomy`) — 1 chapters (B1)
+  - The study of comets was a major scientific focus in this era, leading to debates about whether they were atmospheric phenomena or celestial bodies.
+- **Logarithms** (`logarithms`) — 1 chapters (B1)
+  - A mathematical tool invented by John Napier that simplified complex calculations, essential for navigation and astronomy.
+- **Leibniz's Calculating Machine** (`leibnizs-calculating-machine`) — 1 chapters (B1)
+  - Leibniz's design for a mechanical calculator (the Stepped Reckoner) and his theoretical 'calculus ratiocinator' for performing logical operations.
+- **Experimental Philosophy** (`experimental-philosophy`) — 1 chapters (B1)
+  - The shift toward empirical testing, popularized by Galileo (inclined planes) and Gilbert (magnetism), which defined the Scientific Revolution.
+- **Nocturnal (instrument)** (`nocturnal-timekeeping`) — 1 chapters (B1)
+  - Before reliable pocket watches, scholars used the rotation of 'the pointers' in Ursa Major around the North Star to determine the time at night.
+- **The Mechanical Philosophy** (`the-mechanical-philosophy`) — 1 chapters (B1)
+  - The 17th-century belief that the universe and the human body function like complex clockwork or machinery.
+- **The Scientific Revolution** (`the-scientific-revolution`) — 1 chapters (B1)
+  - A list of the primary figures who transformed science from medieval scholasticism to modern physics and mathematics.
+- **Catenary curves and Euclidean geometry** (`geometry-and-curves`) — 1 chapters (B1)
+  - A catenary is the curve a hanging chain or cable assumes under its own weight; Euclidean sections refer to the classical geometry of figures like circles and triangles.
+- **Newton's Eye Experiment** (`newton-eye-experiment`) — 1 chapters (B1)
+  - A famous historical anecdote where Newton probed his own eye socket with a 'bodkin' to investigate how pressure on the eyeball affects color perception and light.
+- **Aqueous Humour** (`humours-of-the-eye`) — 1 chapters (B1)
+  - In 17th-century anatomy, the 'humours' were the fluids of the eye (aqueous, vitreous, and crystalline) believed to be essential for vision and maintaining the eye's shape.
+- **Chromatic Aberration** (`chromatic-aberration`) — 1 chapters (B1)
+  - A failure of a lens to focus all colors to the same point, resulting in colored fringes around objects; Newton's study of this led to his invention of the reflecting telescope.
+- **Ship's steering wheel** (`ships-steering-wheel`) — 1 chapters (B1)
+  - The introduction of the steering wheel to replace the whipstaff occurred around 1700; its presence here marks a specific technological advancement in maritime history.
+- **Aether** (`aether-physics`) — 1 chapters (B1)
+  - In 17th-century physics, the aether was a hypothesized medium that filled all space, thought to be necessary for the transmission of light and gravity.
+- **St. Elmo's Fire** (`st-elmos-fire`) — 1 chapters (B1)
+  - A weather phenomenon in which luminous plasma is created by a corona discharge from a sharp or pointed object in a strong electric field, often seen on ship masts during storms.
+- **Aristotelianism** (`aristotelianism`) — 1 chapters (B1)
+  - The traditional scholastic philosophy based on Aristotle, which categorized the world into distinct 'essences.' The Scientific Revolution, led by figures like Newton, replaced this with mathematical a
+- **Fahrenheit thermometer** (`fahrenheit-thermometer`) — 1 chapters (B1)
+  - Daniel Gabriel Fahrenheit proposed his temperature scale in 1724, but was developing his mercury thermometers in the years prior; it represented a major leap in precision for natural philosophy.
+- **The Gulf Stream** (`gulf-stream`) — 1 chapters (B1)
+  - While known to mariners like Ponce de León, the Gulf Stream was not scientifically charted or widely understood by the Royal Society until Benjamin Franklin's work later in the 18th century.
+- **Pendulum Experiments** (`pendulum-experiments`) — 1 chapters (B1)
+  - Early Royal Society members used long pendulums in high buildings like St. Paul's to study gravity and the rotation of the Earth.
+- **Powder of Sympathy** (`powder-of-sympathy`) — 1 chapters (B1)
+  - A form of sympathetic magic popularized by Sir Kenelm Digby, where a remedy was applied to the weapon that caused a wound rather than the wound itself.
+- **Vitriol** (`vitriol`) — 1 chapters (B1)
+  - A historical term for sulfate minerals (like copper or iron sulfate), used in alchemy, medicine, and the production of pigments.
+- **Discovery of Cells** (`discovery-of-cells`) — 1 chapters (B1)
+  - Hooke coined the term 'cell' because the plant structures he saw reminded him of the small rooms (cella) inhabited by monks.
+- **Noah's Ark in 17th-century Natural Philosophy** (`natural-philosophy-and-noahs-ark`) — 1 chapters (B1)
+  - 17th-century scholars like Wilkins treated the Ark as a literal engineering and biological challenge, using it to prove that the biblical account was scientifically plausible.
+- **Sulfuric Acid** (`oil-of-vitriol`) — 1 chapters (B1)
+  - The archaic name for sulfuric acid, a highly corrosive mineral acid used in early chemistry and alchemy.
+- **Microscopy** (`microscopy`) — 1 chapters (B1)
+  - In the 1660s, the microscope was a revolutionary tool; Hooke's 1665 book 'Micrographia' revealed a previously invisible world to the public for the first time.
+- **Speed of Light** (`speed-of-light`) — 1 chapters (B1)
+  - During this era, scientists like Ole Rømer were first beginning to prove that light travels at a finite speed rather than instantaneously.
+- **The Philosopher's Stone** (`the-philosophers-stone`) — 1 chapters (B1)
+  - The legendary alchemical substance capable of turning base metals into gold and granting immortality.
+- **Robert Hooke's Air Pump** (`robert-hookes-air-pump`) — 1 chapters (B1)
+  - Based on the vacuum pump designs of Robert Boyle and Hooke, used to study the properties of air and the necessity of air for combustion and respiration.
+- **Vivisection** (`vivisection`) — 1 chapters (B1)
+  - The practice of performing operations on live animals for scientific research was a common, though controversial, practice of the early Royal Society to understand circulation and respiration.
+- **Musica Universalis (Music of the Spheres)** (`music-of-the-spheres`) — 1 chapters (B1)
+  - An ancient philosophical concept regarding the proportions in the movements of celestial bodies as a form of music; it was a central theme in Johannes Kepler's work on planetary motion.
+- **Back-staff** (`back-staff`) — 1 chapters (B1)
+  - A navigational instrument used to measure the altitude of the sun by observing its shadow, allowing the navigator to avoid looking directly at the sun.
+- **Early Vivisection and Respiration Experiments** (`early-vivisection-experiments`) — 1 chapters (B1)
+  - Refers to real 17th-century experiments by the Royal Society involving air pumps and the physiology of breathing, which often used live animals.
+- **Newton's Prism Experiments** (`newtons-prism-experiments`) — 1 chapters (B1)
+  - Newton's 'Experimentum Crucis' proved that white light is composed of a spectrum of colors, rather than the prism 'coloring' the light as was previously believed.
+- **Newton's Reflecting Telescope** (`reflecting-telescope`) — 1 chapters (B1)
+  - Invented by Isaac Newton in 1668, this telescope used mirrors instead of lenses to avoid chromatic aberration (color blurring), a major breakthrough in optics.
+- **Squaring the Circle** (`squaring-the-circle`) — 1 chapters (B1)
+  - A classic geometric problem (later proven impossible) that was a major obsession for 17th-century mathematicians.
+- **Universal Measure** (`universal-measure`) — 1 chapters (B1)
+  - The 17th-century quest to establish standardized units of measurement based on physical constants rather than arbitrary royal decrees.
+- **Humorism** (`four-humours`) — 1 chapters (B1)
+  - The ancient medical theory that health is determined by the balance of four bodily fluids: blood, phlegm, black bile, and yellow bile.
+- **Retort** (`alchemical-equipment`) — 1 chapters (B1)
+  - A spherical glass vessel with a long, downward-pointing neck used for distillation in alchemical and chemical experiments.
+- **Humorism and Quicksilver** (`humorism-and-quicksilver`) — 1 chapters (B1)
+  - A reference to the ancient medical theory of humors; 'mercurial' (from quicksilver) personalities were thought to be volatile, eloquent, and unpredictable.
+- **18th-century explosives** (`mortar-bombs-and-fuzes`) — 1 chapters (B1)
+  - Unlike solid cannonballs, mortar bombs were hollow spheres filled with gunpowder and fitted with a timed fuze that had to be manually cut and lit.
+- **Circulatory System** (`william-harvey-circulation`) — 1 chapters (B1)
+  - William Harvey's discovery of the circulation of blood (published 1628) was a foundational moment in modern medicine and a frequent topic of discussion among natural philosophers.
+- **Stellar Parallax** (`stellar-parallax`) — 1 chapters (B1)
+  - The apparent shift in position of a star against the background of more distant stars; its absence was a major scientific argument against the Earth's motion around the Sun until the 19th century.
+- **Trace Italienne (Star Fort)** (`bastion-fortification`) — 1 chapters (B1)
+  - The evolution of gunpowder led to complex, geometric earthworks and fortifications designed to eliminate blind spots and resist cannon fire.
+- **Dutch Land Reclamation** (`dutch-polders`) — 1 chapters (B1)
+  - The Dutch were world leaders in hydraulic engineering, using windmills and dikes to reclaim land (polders) from the sea.
+- **Reverberatory Furnace** (`reverberatory-furnace`) — 1 chapters (B1)
+  - A metallurgical furnace that isolates the material being processed from the fuel, reflecting (reverberating) heat from the roof onto the target.
+- **Retort** (`retort`) — 1 chapters (B1)
+  - A glass vessel with a long, downward-pointing neck used for the distillation of substances in early chemistry and alchemy.
+- **Menstruum** (`menstruum`) — 1 chapters (B1)
+  - In alchemy, a 'menstruum' is a solvent used to dissolve solids, but the term is also a pun on menstrual blood, which alchemists believed contained 'generative spirits' or vital life forces.
+- **Gunpowder** (`gunpowder-chemistry`) — 1 chapters (B1)
+  - The chemistry of explosives was a major area of study for natural philosophers, bridging the gap between alchemy and modern chemistry.
+- **17th Century Naval Artillery** (`naval-artillery-safety`) — 1 chapters (B1)
+  - Early modern cannons were prone to 'bursting' due to metallurgical flaws or poor casting, often killing the crew and destroying the ship's hull from the inside.
+- **Pascaline** (`pascaline`) — 1 chapters (B1)
+  - The first mechanical calculator, invented by Blaise Pascal in 1642, which could add and subtract.
+- **Copernican Heliocentrism** (`copernican-hypothesis`) — 1 chapters (B1)
+  - The astronomical model in which the Earth and planets revolve around the Sun; though gaining ground, it was still debated or rejected by traditionalists in the mid-1600s.
+- **Philosophick Mercury** (`philosophick-mercury`) — 1 chapters (B1)
+  - In alchemy, this was a theoretical 'first matter' or soul of metals, believed to be the key to transmutation and the creation of the Philosopher's Stone.
+- **The Second Hand** (`invention-of-the-second-hand`) — 1 chapters (B1)
+  - The addition of a third hand to watches was a major technological breakthrough in the 1670s, made possible by the balance spring, allowing for much higher precision in timekeeping.
+- **Opium** (`history-of-opium`) — 1 chapters (B1)
+  - Derived from poppies, opium was the primary painkiller of the era but its addictive and lethal properties were becoming a subject of medical debate.
+- **Balance Spring Watch** (`balance-spring-watch`) — 1 chapters (B1)
+  - Robert Hooke and Christiaan Huygens both claimed the invention of the spiral balance spring, which allowed for portable watches to keep accurate time.
+- **Napier's Bones** (`napiers-bones`) — 1 chapters (B1)
+  - A manually-operated calculating device created by John Napier for the calculation of products and quotients.
+- **Scholasticism vs. Cartesianism** (`scholasticism-vs-cartesianism`) — 1 chapters (B1)
+  - The conflict between traditional Aristotelian logic (Scholasticism) and the new rationalist, mechanistic philosophy of René Descartes.
+- **Pineal Gland (Cartesian Dualism)** (`cartesian-dualism`) — 1 chapters (B1)
+  - Descartes famously proposed that the pineal gland was the 'seat of the soul' where the mind and body interacted.
+- **Carronades** (`carronades`) — 1 chapters (B1)
+  - A short, smoothbore cast-iron cannon used by the Royal Navy; they were devastating at short range due to their large caliber but lacked the distance of long guns.
+- **Moment of Inertia** (`moment-of-inertia`) — 1 chapters (B1)
+  - A physical quantity expressing a body's tendency to resist angular acceleration; in naval architecture, moving heavy weights to the ship's sides (gunwales) slows the rate of its roll.
+- **Fore-and-aft rig** (`fore-and-aft-rig`) — 1 chapters (B1)
+  - A sailing rig consisting of sails set along the line of the keel rather than across it; this allows a vessel to sail at a sharper angle into the wind than square-rigged ships.
+- **Archimedean Spiral** (`archimedean-spiral`) — 1 chapters (B1)
+  - A mathematical curve described by Archimedes; in the context of the theater, it is used here to create a mechanical sound effect for thunder.
+- **Leibniz formula for pi** (`leibniz-formula-pi`) — 1 chapters (B1)
+  - The infinite series (1 - 1/3 + 1/5 - 1/7...) discovered by Leibniz, which represents a major milestone in the development of calculus.
+- **Gregory's Series** (`gregory-leibniz-series`) — 1 chapters (B1)
+  - Leibniz discovered the infinite series for pi (1 - 1/3 + 1/5 - 1/7...) around 1673. It was a major milestone in early calculus, though it converges very slowly.
+- **The Tangent Problem** (`the-tangent-problem`) — 1 chapters (B1)
+  - Finding the tangent to a curve is the fundamental problem of differential calculus. Both Newton and Leibniz developed independent methods to solve this.
+- **The Labyrinth of the Continuum** (`labyrinth-of-the-continuum`) — 1 chapters (B1)
+  - Leibniz famously described two 'labyrinths' of the human mind: the first concerning free will and providence, and the second concerning the composition of the continuum (the nature of infinity and ato
+- **Ballistics** (`ballistics-and-trajectories`) — 1 chapters (B1)
+  - The study of projectile motion was a major focus of 17th-century science, moving from Aristotelian theories to the parabolic paths identified by Galileo.
+- **Rarefying Engine** (`rarefying-engine`) — 1 chapters (B1)
+  - A term used in the 17th century for an air pump, a device Robert Hooke and Robert Boyle developed to create a vacuum for scientific experimentation.
+- **Archimedes' Screw** (`archimedes-screw`) — 1 chapters (B1)
+  - A machine historically used for transferring water; Hooke is here adapting the principle for aerodynamics/propulsion.
+- **Fluxions** (`fluxions`) — 1 chapters (B1)
+  - Newton's specific term and notation for what is now known as differential calculus.
+- **Studdingsails** (`studdingsails`) — 1 chapters (B1)
+  - Extra sails used in light winds to extend the width of the square sails, significantly increasing a ship's speed when sailing downwind.
+- **Matchlock vs Flintlock** (`matchlock-and-flintlock`) — 1 chapters (B2)
+  - The transition from matchlock (ignited by a burning cord) to flintlock (ignited by sparks from flint) was a major technological shift in 17th-century warfare.
+- **Trace Italienne (Star Fort)** (`trace-italienne`) — 1 chapters (B2)
+  - The 'modern' style of fortification designed to resist gunpowder artillery, characterized by low, thick walls and bastions providing interlocking fields of fire.
+- **Siegeworks and Fortifications** (`bastion-fortress-engineering`) — 1 chapters (B2)
+  - The 'trace italienne' or star fort design used geometric bastions and glacis (slopes) to withstand cannon fire, forcing attackers to use 'sapping' (trench digging) and mining.
+- **Matchlock** (`matchlock-firearms`) — 1 chapters (B2)
+  - A matchlock was a type of firearm that used a slow-burning piece of rope (the match) to ignite gunpowder; the 'smouldering ropes' Jack sees are the ignition sources for these weapons.
+- **Ottoman Mining Warfare** (`ottoman-mining-warfare`) — 1 chapters (B2)
+  - The Ottomans were renowned for their advanced sapping and mining techniques, using tunnels to plant explosives under city walls to breach defenses.
+- **Hang fire** (`flintlock-mechanics`) — 1 chapters (B2)
+  - A common and dangerous malfunction in flintlock firearms where there is a delay between the ignition of the priming powder and the main charge.
+- **Astronomical Clocks** (`astronomical-clocks`) — 1 chapters (B2)
+  - Famous examples like the Prague Orloj or the Strasbourg clock featured complex automata (moving mechanical figures) that performed religious or allegorical plays on the hour.
+- **Flintlock Mechanism** (`flintlock-technology`) — 1 chapters (B2)
+  - A relatively new ignition system for firearms in the 17th century that replaced the matchlock, offering greater reliability and speed for soldiers and travelers.
+- **Number Theory** (`number-theory`) — 1 chapters (B2)
+  - The transition from mystical numerology to mathematical number theory was a key development in the Scientific Revolution, championed by figures like Leibniz.
+- **Leibniz's Wind-Powered Pumps** (`leibnizs-wind-powered-pumps`) — 1 chapters (B2)
+  - Leibniz spent years attempting to use wind power to pump water out of the Harz silver mines to make them profitable again.
+- **Humorism** (`four-humors`) — 1 chapters (B2)
+  - The prevailing medical theory that human health and temperament were governed by four fluids (humors); yellow bile was associated with a choleric or irritable temperament.
+- **Gunpowder ingredients** (`gunpowder-components`) — 1 chapters (B2)
+  - Saltpeter (potassium nitrate) and brimstone (sulfur) are the primary chemical ingredients of gunpowder, essential commodities in a century defined by constant warfare.
+- **Gunpowder Manufacture** (`gunpowder-manufacture`) — 1 chapters (B2)
+  - Gunpowder was made by mixing sulfur (brimstone), saltpeter, and charcoal; the process was extremely dangerous due to the risk of accidental ignition during the grinding phase.
+- **Vertical Axis Windmill** (`vertical-axis-windmill`) — 1 chapters (B2)
+  - A design (like the Panemone windmill) that Leibniz actually attempted to implement in the Harz mines to power pumps, though his experiments were largely unsuccessful.
+- **Iron as a medical treatment** (`iron-deficiency-history`) — 1 chapters (B2)
+  - The understanding of iron's role in blood (treating 'chlorosis' or anemia) was an emerging realization in 17th-century medicine.
+- **Amanita muscaria** (`amanita-muscaria`) — 1 chapters (B2)
+  - The fly agaric mushroom, known for its hallucinogenic properties, which explains Jack's subsequent dreamlike state and visions of people flying.
+- **Brocken Spectre** (`brocken-spectre`) — 1 chapters (B2)
+  - A natural optical phenomenon where a person's shadow is cast onto clouds or mist, often appearing magnified and surrounded by a halo. It is named after the Brocken peak in the Harz Mountains where it 
+- **Neptunism vs Plutonism** (`neptunism-vs-plutonism`) — 1 chapters (B2)
+  - A reference to early geological debates. 'The Doctor' (likely Leibniz) and others of the era debated whether rocks formed from crystallization in a primordial ocean (Neptunism) or through volcanic hea
+- **Mine Ventilation** (`mine-ventilation-principles`) — 1 chapters (B2)
+  - An early application of thermodynamics where fires were lit at the base of 'upcast' shafts to create a draft, pulling fresh air through the mine; here, the hunters are weaponizing the effect to suffoc
+- **Phosphorus** (`phosphorus-discovery`) — 1 chapters (B2)
+  - Phosphorus was first isolated in 1669 by Hennig Brand in Hamburg (near the Harz mountains) by boiling down urine. Its ability to glow in the dark (chemiluminescence) made it a sensation in 17th-centur
+- **Mine Pumping Engines** (`early-steam-pumps`) — 1 chapters (B2)
+  - The late 17th century saw the first experiments with atmospheric engines and steam power (like Savery's pump) to solve the problem of flooding in deep mines.
+- **Amalgamation Process** (`amalgamation-process`) — 1 chapters (B2)
+  - A metallurgical technique (often called the Patio Process) using mercury to extract silver; the addition of copper salts (magistral) accelerated the chemical reaction.
+- **Patio Process** (`patio-process`) — 1 chapters (B2)
+  - A process for extracting silver from ore using mercury (quicksilver) to form an amalgam; it often involved 'treading' the mixture with feet or mules to ensure chemical reaction.
+- **Early Paleontology and Fossils** (`early-fossil-theory`) — 1 chapters (B2)
+  - Refers to the emerging 17th-century debate on whether fossils were 'sports of nature' or the remains of once-living organisms buried in sediment.
+- **Three-field system** (`three-field-system`) — 1 chapters (B2)
+  - A regime of crop rotation used in medieval and early modern Europe to improve soil fertility and increase agricultural yields.
+- **Early Coffee Vending** (`early-coffee-vending`) — 1 chapters (B2)
+  - Before coffeehouses became permanent fixtures, 'coffee-men' walked the streets with portable copper boilers to sell the beverage by the cup.
+- **Treadwheel Crane** (`treadwheel-crane`) — 1 chapters (B2)
+  - A medieval and early modern wooden lifting device powered by humans walking inside a large drum, used extensively in the construction of stone cities.
+- **Albinism in Horses** (`albino-horses`) — 1 chapters (B2)
+  - The description of pink-eyed white horses refers to a rare genetic trait; in the context of the novel, these 'white' horses are highly prized status symbols often associated with royalty or high nobil
+- **Short Selling** (`history-of-short-selling`) — 1 chapters (B2)
+  - The practice of selling shares one does not yet own, hoping to buy them back later at a lower price, was pioneered and debated in the 17th-century Amsterdam markets.
+- **Clockwork Universe** (`clockwork-universe`) — 1 chapters (B2)
+  - A popular 17th-century scientific metaphor suggesting the universe functions like a mechanical clock governed by deterministic laws, often linked to the debate over predestination.
+- **Spermaceti** (`spermaceti`) — 1 chapters (B2)
+  - A waxy substance found in the head cavities of sperm whales. It was the premium fuel for candles and lamps in the 17th and 18th centuries because it burned brightly and without a foul odor.
+- **Astrolabe** (`astrolabe`) — 1 chapters (B2)
+  - An ancient astronomical instrument used by mariners and astronomers to calculate the position of celestial bodies, essential for navigation before the sextant.
+- **Flintlock Mechanism** (`flintlock-mechanism`) — 1 chapters (B2)
+  - A type of firearm ignition mechanism introduced in the early 17th century, replacing the matchlock and wheellock.
+- **Binary Arithmetic** (`binary-arithmetic`) — 1 chapters (B2)
+  - A reference to Leibniz's development of the binary numeral system, which he viewed as a fundamental mathematical and philosophical language.
+- **Cauterization** (`cauterization`) — 1 chapters (B2)
+  - The medical practice of burning tissue to stop bleeding or prevent infection, a common but agonizing treatment for wounds before modern medicine.
+- **Jib Sails** (`jib-sails`) — 1 chapters (B2)
+  - Triangular staysails set ahead of the foremast. The development of multiple jibs allowed for greater maneuverability and speed in 17th-century sailing vessels.
+- **Cupping** (`cupping`) — 1 chapters (B3)
+  - A treatment where heated glass cups were applied to the skin to create a vacuum, believed to draw out 'bad' humors or stimulate blood flow.
+- **Elixir Proprietalis** (`elixir-proprietalis`) — 1 chapters (B3)
+  - A common 17th-century medicine consisting of aloes, myrrh, and saffron dissolved in alcohol; the 'LeFebure' version refers to Nicaise Le Febure, a famous royal chemist.
+- **Humoral Medicine** (`humoral-medicine`) — 1 chapters (B3)
+  - The traditional medical theory that health was governed by four 'humours' (blood, phlegm, yellow bile, black bile); treatment often involved bloodletting (bleeding) or emetics (purging) to restore bal
+- **Scientific Instruments** (`17th-century-optics`) — 1 chapters (B3)
+  - Hooke's 'Micrographia' revolutionized biology, while Newton's reflecting telescope solved issues of chromatic aberration found in earlier lens-based telescopes.
+- **Bloodletting** (`bloodletting-humours`) — 1 chapters (B3)
+  - A standard medical practice of the time based on the theory of the four humours; Charles II was famously subjected to excessive bleeding and purging during his final days.
+- **Galilean Trajectory** (`galilean-mechanics`) — 1 chapters (B3)
+  - Galileo's discovery that projectiles follow a parabolic path, a cornerstone of early modern kinematics.
+- **Aether** (`aether-theory`) — 1 chapters (B3)
+  - In 17th-century physics, the aether was a hypothesized medium that filled all space to explain how forces like light and gravity could travel through a vacuum.
+- **Infinitesimals** (`infinitesimals`) — 1 chapters (B3)
+  - The mathematical concept of quantities so small they cannot be measured, which was central to the development of calculus and sparked intense philosophical debate.
+- **Great Conjunction** (`great-conjunction`) — 1 chapters (B3)
+  - The alignment of Jupiter and Saturn, which provided data for studying gravitational perturbations between planets.
+- **Theory of Tides** (`theory-of-tides`) — 1 chapters (B3)
+  - One of the major phenomena Newton sought to explain using his law of universal gravitation and the influence of the moon.
+- **Centripetal Force** (`centripetal-force`) — 1 chapters (B3)
+  - The 'center-seeking' force Newton identified as necessary to keep planets in curved orbits rather than flying off in straight lines.
+- **Theory of Tides** (`newtonian-tide-theory`) — 1 chapters (B3)
+  - Newton was the first to provide a mathematical explanation for tides by applying the law of gravity to the interaction between the Earth, Moon, and Sun.
+- **Vortex Theory** (`cartesian-vortices`) — 1 chapters (B3)
+  - René Descartes' theory that planets were carried around the sun by literal whirlpools of 'æther' (unseen matter), which Newton's work eventually debunked.
+- **Trepanning** (`trepanning`) — 1 chapters (B3)
+  - A historical surgical intervention where a hole is drilled into the human skull to treat health problems related to intracranial pressure or 'evil spirits'.
+- **Humoralism** (`humoral-theory`) — 1 chapters (B3)
+  - The ancient medical system (still prevalent in the 17th century) that held that human health and temperament were governed by the balance of four bodily fluids: blood, phlegm, yellow bile, and black b
+- **Lens Grinding** (`lens-grinding`) — 1 chapters (B3)
+  - A critical 17th-century skill for natural philosophers, essential for the development of telescopes and microscopes.
+- **Integral Calculus** (`integral-calculus`) — 1 chapters (B3)
+  - The 'stretched-out S' (∫) is the integral symbol introduced by Leibniz, which became the standard notation for calculus.
+- **Bayonet** (`history-of-the-bayonet`) — 1 chapters (B3)
+  - The plug bayonet was a relatively new military technology in the late 17th century, allowing musketeers to defend themselves against cavalry without needing separate pikemen.
+- **Vortex Theory** (`descartes-vortex-theory`) — 1 chapters (B3)
+  - René Descartes' mechanical explanation of planetary motion, which posited that space was filled with matter swirling in vortices.
+- **Congenital Syphilis** (`congenital-syphilis`) — 1 chapters (B3)
+  - In the 17th century, the hereditary nature of syphilis was observed but not scientifically understood; it was often associated with moral decay and 'tainted blood'.
+- **History of Coffee** (`history-of-coffee`) — 1 chapters (B3)
+  - The Dutch successfully broke the Arab monopoly on coffee by smuggling seedlings to Java, making 'Java' a synonymous term for coffee.
+- **Sand-sailing (Land Yachting)** (`sand-sailing`) — 1 chapters (B3)
+  - A popular Dutch pastime and engineering curiosity involving wind-powered carriages on wheels, famously improved by Simon Stevin.
+- **Orbital Mechanics** (`orbital-mechanics`) — 1 chapters (B3)
+  - Terms describing the points in an orbit closest to (perihelion) and farthest from (aphelion) the sun, referencing Kepler's laws of planetary motion.
+- **Galilean Moons** (`moons-of-jupiter`) — 1 chapters (B3)
+  - The four largest moons of Jupiter discovered by Galileo; their predictable orbits were used as a 'clock in the sky' to help solve the longitude problem.
+- **Sand-sailer (Land Yacht)** (`sand-sailer`) — 1 chapters (B3)
+  - Wind-powered wheeled vehicles. Simon Stevin famously built a large one for Prince Maurice of Orange in 1600, which could travel faster than horse-drawn carriages.
+- **Sand-sailer** (`land-yachting`) — 1 chapters (B3)
+  - Also known as land yachts or 'zeilwagens,' these were pioneered in the Netherlands by Simon Stevin in the early 17th century and were a marvel of engineering.
+- **Flintlock mechanism** (`flintlock-pistol`) — 1 chapters (B3)
+  - The standard firearm technology of the era, which relied on a piece of flint striking steel to ignite gunpowder in a 'pan'—a process highly susceptible to failure if wet or sandy.
+- **Binary System** (`binary-system`) — 1 chapters (B3)
+  - The base-2 numbering system. Leibniz is credited with inventing the modern binary system, which he linked to his philosophical and religious views.
+- **Leibniz's Harz Mountain Project** (`harz-mountain-project`) — 1 chapters (B3)
+  - Leibniz's ambitious but unsuccessful engineering attempt to use wind power to pump water out of the silver mines in the Harz Mountains.
+- **Occam's Razor** (`occams-razor`) — 1 chapters (B3)
+  - The philosophical principle that the simplest explanation is usually the correct one, attributed to the medieval scholastic William of Ockham.
+- **Automata and Clockwork** (`clockwork-automata`) — 1 chapters (B3)
+  - The 17th century saw a fascination with complex clockwork mechanisms and automata, reflecting the 'mechanical philosophy' that viewed the universe and body as machines.
+- **Medical Treatment of Louis XIV** (`medical-care-of-louis-xiv`) — 1 chapters (B3)
+  - Louis XIV's health was a matter of state; he famously survived brutal treatments including bloodletting, purgatives, and a public surgery for an anal fistula in 1686.
+- **René Descartes' Physics** (`cartesian-physics`) — 1 chapters (B3)
+  - Descartes' theory that the universe is a 'plenum' (full of matter) and that motion is transferred through direct contact of particles, rejecting the possibility of a vacuum.
+- **Aerial Telescope** (`aerial-telescope`) — 1 chapters (B3)
+  - Before the development of achromatic lenses, very long focal lengths were required to reduce chromatic aberration, leading to 'aerial telescopes' that used masts and pulleys rather than tubes.
+- **Prime Meridian** (`prime-meridian`) — 1 chapters (B3)
+  - The line of 0° longitude; while the international standard was not fixed until 1884, the Greenwich meridian was established by Flamsteed's observations.
+- **17th Century Architecture and Glassmaking** (`restoration-architecture-glass`) — 1 chapters (B3)
+  - The post-Great Fire era saw a shift from timber to brick and the development of 'crown glass,' allowing for the larger, more decorative windows that defined the new 'shops.'
+- **Tower of London Water Engine** (`tide-driven-water-engine`) — 1 chapters (B3)
+  - Refers to early hydraulic engineering projects, such as those by George Sorocold, which used the tidal power of the Thames to pump water into cities or citadels.
+- **Newton's Religious Views** (`newtons-religious-views`) — 1 chapters (B3)
+  - Refers to Newton's private rejection of the doctrine of the Trinity (Arianism), which was considered a dangerous heresy at the time.
+- **Steganography** (`steganography`) — 1 chapters (B3)
+  - The practice of concealing a secret message within an ordinary-looking text or physical object, a common technique in 17th-century espionage.
+- **Greek fire** (`greek-fire`) — 1 chapters (B3)
+  - An incendiary weapon used by the Byzantine Empire that could burn even on water; its exact composition remains a historical mystery.
+- **Horology and the Balance Spring** (`hooke-huygens-clock-dispute`) — 1 chapters (B3)
+  - Hooke and Huygens had a bitter dispute over who first invented the balance spring for pocket watches, which greatly improved timekeeping accuracy.
+- **Vivisection** (`early-modern-vivisection`) — 1 chapters (B3)
+  - Early members of the Royal Society performed experiments on live animals to study respiration and circulation.
+- **Empiricism** (`empiricism`) — 1 chapters (B3)
+  - The philosophical theory that all knowledge is derived from sense-experience, a cornerstone of the Scientific Revolution.
+
+### Term (339 topics)
+
+- **Huguenots** (`huguenots`) — 9 chapters (B1, B2, B3)
+  - French Protestants who fled France in large numbers after the 1685 Revocation of the Edict of Nantes, often settling in England, Holland, and the American colonies.
+- **The Society of Jesus (Jesuits)** (`jesuits`) — 7 chapters (B1, B2, B3)
+  - Members of the Society of Jesus, often stereotyped in Protestant England as being masters of overly complex, deceptive, or 'casuistic' theological arguments.
+- **Spanish Dollar (Real de a Ocho)** (`piece-of-eight`) — 6 chapters (B1, B2)
+  - The Spanish Dollar was often physically cut into eight 'bits' to provide smaller denominations of change.
+- **Bills of Exchange** (`bills-of-exchange`) — 6 chapters (B2, B3)
+  - A primary instrument of international trade and finance in the 17th century, allowing merchants to transfer large sums of money without the risk of carrying physical gold or silver.
+- **English Dissenters** (`english-dissenters`) — 5 chapters (B1, B3)
+  - Refers to English Protestants who separated from the Church of England; their austere lifestyle and 'probity of manners' contrasted sharply with the flamboyant Restoration court.
+- **Grubendol** (`grubendol`) — 4 chapters (B1, B3)
+  - The coded correspondence name (pseudonym) used by Henry Oldenburg, the Secretary of the Royal Society, to manage international scientific mail.
+- **Kuxen (Mining Shares)** (`kuxen`) — 4 chapters (B2)
+  - A 'Kux' was a specific type of mining share used in German-speaking lands, representing a portion of a mine's ownership and its potential profits or liabilities.
+- **Nonconformists** (`nonconformists`) — 4 chapters (B3)
+  - Protestants who did not 'conform' to the governance and usages of the Church of England; they were a significant political and religious force in the Monmouth Rebellion.
+- **Quakers** (`quakers`) — 3 chapters (B1, B3)
+  - The Religious Society of Friends, a Christian movement founded by George Fox that faced heavy persecution for refusing to swear oaths or recognize social hierarchies.
+- **Ship of the Line** (`ship-of-the-line`) — 3 chapters (B1, B2)
+  - The largest and most powerful type of naval warship during the age of sail, designed to fight in a 'line of battle'.
+- **Thaler** (`thaler`) — 3 chapters (B1, B2)
+  - A large silver coin used throughout Europe for centuries. The name 'Joachimsthaler' comes from the silver mines in Joachimsthal; the word 'dollar' is derived from 'thaler.'
+- **Lithotomy** (`lithotomy`) — 3 chapters (B1, B3)
+  - A surgical procedure to remove bladder stones. In the 17th century, this was performed without anesthesia and carried a high mortality rate, making it a last resort for sufferers.
+- **The Imp of the Perverse** (`imp-of-the-perverse`) — 3 chapters (B2, B3)
+  - While popularized later by Edgar Allan Poe, the concept refers to the psychological urge to do the wrong thing simply because it is forbidden or self-destructive.
+- **Kienspan** (`kienspan`) — 3 chapters (B2)
+  - A traditional lighting source made from resinous pine wood (fatwood), commonly used by miners and peasants in Central Europe.
+- **Fleur-de-lis** (`fleur-de-lis`) — 3 chapters (B2)
+  - The stylized lily that served as the primary symbol of the French monarchy and the Catholic Church in France.
+- **Stadholder** (`stadholder`) — 3 chapters (B2, B3)
+  - The office of hereditary chief magistrate and military leader of the Dutch Republic, held at this time by William III of Orange.
+- **Kabbalah** (`kabbalah`) — 2 chapters (B1)
+  - An esoteric method and school of thought in Jewish mysticism often studied by Christian scholars and alchemists during the Renaissance and Enlightenment.
+- **Apothecaries** (`apothecaries`) — 2 chapters (B1, B2)
+  - Medical professionals who formulated and dispensed remedies; in Grantham, Newton lodged with an apothecary named William Clarke, which exposed him to chemical experimentation.
+- **17th Century Men's Fashion** (`restoration-fashion`) — 2 chapters (B1, B2)
+  - The contrast between the 'Plain Style' of the Puritans/Commonwealth and the extravagant, French-influenced 'Cavalier' fashions that returned with Charles II.
+- **Spadroon** (`spadroon`) — 2 chapters (B1, B3)
+  - A light, straight-edged sword used for both cutting and thrusting, common in the late 17th century as a sidearm for gentlemen.
+- **Independents (Religion)** (`independents-religion`) — 2 chapters (B1, B2)
+  - Also known as Congregationalists, they believed each local church should be autonomous rather than part of a national hierarchy.
+- **Caduceus** (`caduceus`) — 2 chapters (B1)
+  - The staff of Hermes, featuring two snakes winding around a winged staff; it is a symbol of commerce, negotiation, and later, medicine.
+- **Coin Clipping** (`coin-clipping`) — 2 chapters (B1, B2)
+  - The illegal practice of shaving small amounts of precious metal from the edges of coins to melt down and sell, a major economic problem in the 17th century.
+- **Goldsmith's Notes** (`goldsmiths-notes`) — 2 chapters (B1)
+  - A precursor to modern banknotes, these were receipts issued by goldsmiths for gold deposited with them, which began to circulate as a form of paper currency in 17th-century London.
+- **Goldsmith-Bankers** (`goldsmith-bankers`) — 2 chapters (B1)
+  - In the 17th century, London goldsmiths evolved into the first modern bankers by accepting deposits of gold and issuing receipts that functioned as early paper money.
+- **Bladder Stones** (`the-stone`) — 2 chapters (B1, B3)
+  - In the 17th century, 'the stone' (bladder or kidney stones) was a common, excruciating, and often fatal condition, frequently discussed by members of the Royal Society.
+- **Goldsmith Banking** (`goldsmith-banking`) — 2 chapters (B1)
+  - In the 1660s, London goldsmiths began acting as bankers, issuing 'goldsmiths' notes' which became the earliest form of English banknotes.
+- **Swivel Gun** (`swivel-gun`) — 2 chapters (B1, B2)
+  - A small, portable cannon mounted on a rotating stand, used on small boats or ship railings for close-quarters defense and anti-personnel fire.
+- **Beauty patches** (`beauty-patches`) — 2 chapters (B1)
+  - In the 17th century, both men and women wore 'patches' of black silk or velvet to hide smallpox scars or as a fashion statement to highlight pale skin.
+- **The Persian Vest** (`persian-vest`) — 2 chapters (B1)
+  - In 1666, Charles II introduced a new fashion—a long vest or waistcoat—intended to break the dominance of French fashion and encourage the English wool trade.
+- **Punch and Judy** (`punchinello`) — 2 chapters (B1, B3)
+  - A humpbacked, hooked-nose character from the Italian commedia dell'arte, known in England as the basis for 'Punch' in Punch and Judy.
+- **Jeova Sanctus Unus** (`jeova-sanctus-unus`) — 2 chapters (B1, B3)
+  - An anagram of the Latinized 'Isaacus Neuutonus' used by Newton in his private alchemical and theological manuscripts.
+- **Baroque Architecture** (`baroque-style`) — 2 chapters (B1, B2)
+  - The ornate, highly decorative, and theatrical style of architecture, art, and music that flourished in Europe from the early 17th century to the mid-18th century.
+- **Elixir Proprietatis** (`elixir-proprietatis`) — 2 chapters (B1, B3)
+  - A famous alchemical medicine originally attributed to Paracelsus, consisting of aloes, myrrh, and saffron dissolved in alcohol; LeFebure's version often included opium.
+- **Freedom of Conscience** (`freedom-of-conscience`) — 2 chapters (B1, B3)
+  - A central 17th-century debate regarding the right of an individual to follow their own religious beliefs without state interference or persecution.
+- **Dissenters** (`dissenters`) — 2 chapters (B1, B3)
+  - A broad term for English Protestants (like Puritans, Quakers, and Baptists) who refused to conform to the Church of England.
+- **Early Condoms** (`history-of-condoms`) — 2 chapters (B1, B2)
+  - In the 17th century, 'sausage-casings' or 'sheaths' made of animal intestines (sheep or goat) were used primarily to prevent venereal disease and, as seen here, to navigate religious prohibitions agai
+- **Mudlarks** (`mudlarks`) — 2 chapters (B2, B3)
+  - Historically, mudlarks were scavengers who searched the muddy shores of the River Thames at low tide for anything of value, often associated with the extreme poverty of London's East End.
+- **Branding (Punishment)** (`judicial-branding`) — 2 chapters (B2)
+  - Criminals who successfully claimed benefit of clergy were often branded on the thumb (T for thief, M for murderer) to prevent them from using the legal loophole a second time.
+- **Brown Bess** (`brown-bess`) — 2 chapters (B2)
+  - The iconic muzzle-loading smoothbore musket of the British Empire. While the term became standard later, Stephenson uses it here to describe the early flintlock patterns.
+- **Syphilis (French Pox)** (`syphilis-french-pox`) — 2 chapters (B2)
+  - Commonly known as the 'French Pox' in England, syphilis was a rampant and devastating venereal disease in the 17th century, often treated with dangerous mercury-based 'cures'.
+- **Privateers** (`privateers`) — 2 chapters (B2)
+  - State-sponsored pirates authorized by a government (via a 'Letter of Marque') to attack and rob enemy vessels during wartime.
+- **Barber-Surgeon** (`barber-surgeon`) — 2 chapters (B2)
+  - Medical practitioners in the early modern period who performed surgery and bloodletting, distinct from university-educated physicians.
+- **Popery** (`popery`) — 2 chapters (B2, B3)
+  - A derogatory term used by Protestants (like Jack) to refer to the doctrines and practices of the Roman Catholic Church, particularly in the Habsburg territories around Vienna.
+- **Thieves' Cant** (`thieves-cant`) — 2 chapters (B2)
+  - A secret language or 'jargon' used by beggars, thieves, and drifters in early modern Europe to communicate without being understood by authorities.
+- **Sabots** (`sabots`) — 2 chapters (B2)
+  - Traditional wooden shoes worn by peasants in France and the Low Countries; the term is the root of the word 'sabotage' (from workers throwing shoes into machinery).
+- **Syphilis** (`french-pox`) — 2 chapters (B2, B3)
+  - Commonly known as the 'French Pox' in England (and the 'Naples Sickness' in France), this was a widespread and devastating venereal disease in the early modern period.
+- **Hurdy-gurdy** (`hurdy-gurdy`) — 2 chapters (B2)
+  - A stringed instrument that produces sound by a hand-cranked-turned, rosined wheel rubbing against the strings. It was a common street instrument in the 17th century.
+- **Spanish Real** (`spanish-real`) — 2 chapters (B2)
+  - The 'royal' or real was a unit of currency; eight reals equaled one 'piece of eight.' It was the basis of the Spanish monetary system.
+- **Impressment (Press-Ganging)** (`impressment`) — 2 chapters (B2, B3)
+  - The practice of forcibly recruiting men into navy or merchant service, often through trickery or violence, to meet the high demand for sailors.
+- **Windhandel (Wind Trade)** (`windhandel`) — 2 chapters (B2)
+  - Literally 'trading in wind,' this referred to the practice of derivative trading or speculation where no physical goods changed hands, most famously associated with the Tulip Mania.
+- **Galley Slavery** (`galley-slavery`) — 2 chapters (B2)
+  - A common punishment in Bourbon France where convicts were sentenced to row in the Mediterranean fleet, often a death sentence due to the conditions.
+- **French Galley Convicts** (`galley-slaves`) — 2 chapters (B2)
+  - In 17th-century France, being sentenced to the galleys (rowing naval vessels) was a common and brutal punishment, though the text here highlights the extreme poverty where the state-provided 'sustenan
+- **Stadtholder** (`stadtholder`) — 2 chapters (B2, B3)
+  - The office of hereditary chief magistrate and military commander of the Dutch Republic, held at this time by William III of Orange.
+- **Polders** (`polders`) — 2 chapters (B2, B3)
+  - Low-lying tracts of land reclaimed from the sea or rivers by dikes and canals, a defining feature of Dutch geography and engineering.
+- **Dragoons** (`dragoons`) — 2 chapters (B2, B3)
+  - Mounted infantry used by Louis XIV to suppress dissent, most notably in the 'Dragonnades' against French Protestants (Huguenots).
+- **Anti-Catholicism in England** (`anti-catholicism-in-england`) — 2 chapters (B3)
+  - A common polemic of the era where Protestants used the biblical 'Whore of Babylon' from the Book of Revelation as a derogatory metaphor for the Papacy.
+- **Hashishin (Assassins)** (`hashishin`) — 2 chapters (B3)
+  - The historical root of the word 'assassin,' referring to a medieval Nizari Ismaili sect; used here to denote a religious extremist or political killer.
+- **High Church** (`high-church-anglicanism`) — 2 chapters (B3)
+  - A faction within the Church of England that emphasized ritual, the authority of bishops, and continuity with Catholic tradition, often associated with Tory politics.
+- **Protestantism in the 17th Century** (`protestant-defender`) — 2 chapters (B3)
+  - A title reflecting William's role as the primary military and political leader resisting the Catholic expansionism of Louis XIV in Europe.
+- **Hanged, drawn and quartered** (`hanged-drawn-and-quartered`) — 2 chapters (B3)
+  - The statutory penalty in England for men convicted of high treason, involving public torture and dismemberment.
+- **Redcoats (Lobsterbacks)** (`redcoats`) — 1 chapters (B1)
+  - A derogatory nickname for British soldiers, referring to their red uniform coats.
+- **Divisions of the World in Islam** (`dar-al-islam-harb-sulh`) — 1 chapters (B1)
+  - These are traditional Islamic legal and geopolitical classifications used to describe the relationship between Muslim-governed lands and the rest of the world.
+- **The Asiento** (`asiento`) — 1 chapters (B1)
+  - The Asiento was a monopoly contract granted by the Spanish crown to other European powers to supply enslaved Africans to Spanish colonies; Britain gained this lucrative and controversial right in 1713
+- **Spanish Colonial Currency** (`spanish-colonial-currency`) — 1 chapters (B1)
+  - Spanish silver (Pieces of Eight) was the de facto global currency of the era due to the massive output of mines in the New World.
+- **The Broad Arrow** (`broad-arrow`) — 1 chapters (B1)
+  - A mark used by the British government to denote property (especially timber in the colonies) reserved for the use of the Royal Navy.
+- **Tories** (`tories-and-whigs`) — 1 chapters (B1)
+  - One of the two main political factions in England; the term originated during the Exclusion Crisis of 1679-1681.
+- **Broad Arrow Policy** (`broad-arrow-policy`) — 1 chapters (B1)
+  - The British Crown claimed all white pine trees above a certain size in the American colonies for use as ship masts, marking them with a 'broad arrow' symbol.
+- **Tories** (`tories`) — 1 chapters (B1)
+  - In the late 17th century, Tories were the political faction supporting the divine right of kings and the established Anglican Church, often opposing the interests of Puritans and Dissenters.
+- **Loggerhead** (`loggerhead-tool`) — 1 chapters (B1)
+  - An iron tool with a bulbous end that was heated in a fire and plunged into drinks like flip or punch to foam and caramelize the liquid.
+- **Baroque Music** (`baroque-music`) — 1 chapters (B1)
+  - The contrast between the formal, structured music of the European courts (like the minuet) and the folk traditions of the Irish, which were often viewed as primitive or 'wild' by Londoners.
+- **Esotericism and Global Trade Networks** (`seventeenth-century-esotericism`) — 1 chapters (B1)
+  - Refers to the various religious and mystical traditions that influenced early modern science and the secret communication networks used by marginalized merchant groups.
+- **Tophet** (`tophet`) — 1 chapters (B1)
+  - A biblical term for a place of sacrifice or burning, often used as a synonym for Hell in Puritan rhetoric.
+- **Independents (Religion)** (`independents`) — 1 chapters (B1)
+  - A faction of Protestantism that believed individual congregations should be self-governing, opposing both the state-run Anglican Church and the Presbyterian system.
+- **Fellow-commoner** (`fellow-commoner`) — 1 chapters (B1)
+  - A wealthy category of undergraduate at Cambridge who paid high fees to dine with the Fellows of the college.
+- **Phanatiques (Fanatics)** (`phanatiques-fanatics`) — 1 chapters (B1)
+  - A contemporary pejorative term for religious non-conformists or radical Puritans.
+- **Fanatics** (`fanatics`) — 1 chapters (B1)
+  - A derogatory term used in the Restoration for non-conformist Protestants perceived as religious extremists or political radicals.
+- **Ranters** (`ranters`) — 1 chapters (B1)
+  - A radical antinomian sect during the Interregnum known for pantheistic views and social behavior that shocked traditional Puritans.
+- **Low Church** (`low-church`) — 1 chapters (B1)
+  - A faction within the Church of England that placed less emphasis on ritual and hierarchy, favoring simpler worship and evangelical preaching.
+- **Free Will vs Predestination** (`free-will-vs-predestination`) — 1 chapters (B1)
+  - A core theological conflict of the era: Calvinists believed in Predestination (God pre-ordains salvation), while Arminians argued for human Free Will.
+- **Gebbeting** (`gibbeting`) — 1 chapters (B1)
+  - The practice of displaying the remains of executed criminals in a cage-like structure (a gibbet) as a public deterrent.
+- **Waste-Book** (`waste-book`) — 1 chapters (B1)
+  - A rough account book or journal used for temporary notes and calculations before they were transcribed into a formal ledger; Newton's 'Waste Book' is a famous historical manuscript.
+- **Gnomon** (`gnomon`) — 1 chapters (B1)
+  - The part of a sundial that casts a shadow. Newton’s dissatisfaction with the 'naïve' design reflects his obsession with precision and geometry.
+- **Black Money** (`black-money`) — 1 chapters (B1)
+  - Refers to copper or highly debased silver coins that turned black as they oxidized, as opposed to 'white money' (high-purity silver).
+- **The Guinea** (`the-guinea-coin`) — 1 chapters (B1)
+  - A gold coin minted in England starting in 1663, named after the Guinea region in West Africa where much of the gold was sourced.
+- **Global Maritime Labor** (`lascars-and-global-seamen`) — 1 chapters (B1)
+  - Reflects the highly international nature of 18th-century crews; 'Lascars' were sailors from South Asia or the Arab world employed on European ships.
+- **Virginal** (`virginal`) — 1 chapters (B1)
+  - A smaller, rectangular keyboard instrument of the harpsichord family, popular in the 16th and 17th centuries for domestic music-making.
+- **Star Chamber Punishments** (`star-chamber-punishments`) — 1 chapters (B1)
+  - The Court of Star Chamber often sentenced religious dissidents to have their ears cropped or faces branded (e.g., 'SL' for Seditious Libeller).
+- **Delftware** (`delftware`) — 1 chapters (B1)
+  - Famous Dutch tin-glazed earthenware, often blue and white, which attempted to emulate Chinese porcelain.
+- **Pneuma** (`pneuma`) — 1 chapters (B1)
+  - An ancient Greek concept of 'breath' or 'spirit' used in early medical and philosophical theories to explain vital forces in the body.
+- **Octavo** (`octavo-volumes`) — 1 chapters (B1)
+  - A book size created by folding a sheet of paper three times to form eight leaves; these were portable, affordable editions popular among students and scholars.
+- **Nux Vomica** (`nux-vomica`) — 1 chapters (B1)
+  - The seeds of the Strychnine tree, used historically in medicine (and as a poison) and a common item in 17th-century cabinets of curiosities.
+- **Noah's Ark** (`noahs-ark-scientific-analysis`) — 1 chapters (B1)
+  - Wilkins famously attempted to calculate the exact dimensions and capacity of Noah's Ark to prove it could scientifically hold all known animal species.
+- **Strappado** (`strappado`) — 1 chapters (B1)
+  - A form of torture where the victim's hands are tied behind their back and they are suspended by a rope, often resulting in dislocated shoulders.
+- **Money-scrivener** (`money-scriveners`) — 1 chapters (B1)
+  - A precursor to modern bankers, scriveners originally wrote legal documents but evolved into financial intermediaries who brokered loans and managed estates for the gentry.
+- **Apothecaries' system** (`units-of-measurement`) — 1 chapters (B1)
+  - Before the metric system, English scientists used various systems like Troy or Apothecaries' weight; a 'grain' was a precise unit based on the weight of a seed of cereal.
+- **cochineal** (`cochineal`) — 1 chapters (B1)
+  - A vivid red dye derived from crushed insects found in the Americas, highly prized and used here to make the fluid in a thermometer visible.
+- **Phanatiques** (`fanatics-phanatiques`) — 1 chapters (B1)
+  - A derogatory Restoration-era term for non-conformist Protestants (like Puritans) who were viewed as religious extremists and political rebels.
+- **Grenadiers** (`grenadiers`) — 1 chapters (B1)
+  - Specialized soldiers in the 17th and 18th centuries trained to throw early gunpowder grenades, often chosen for their height and strength.
+- **Newton Family Coat of Arms** (`newton-coat-of-arms`) — 1 chapters (B1)
+  - The actual historical crest of the Newton family, which Isaac Newton formally submitted to the College of Arms in 1705.
+- **Catholic Iconography** (`catholic-iconography`) — 1 chapters (B1)
+  - A reference to the Sacred Heart and other vivid Baroque religious art common in Catholic ('Papist') Europe, which would have seemed grotesque to English Puritans.
+- **Firefighting in the 17th Century** (`17th-century-firefighting`) — 1 chapters (B1)
+  - During the Great Fire, the primary method to stop the spread was creating fire-breaks by demolishing houses with gunpowder.
+- **Free Coinage** (`free-coinage-act-1666`) — 1 chapters (B1)
+  - The Free Coinage Act of 1666 abolished the charge for minting gold and silver, a major shift in monetary policy.
+- **Mysterium Tremendum** (`mysterium-tremendum`) — 1 chapters (B1)
+  - A Latin phrase referring to the 'overwhelming mystery' or the awe-inspiring, terrifying mystery of the divine.
+- **Capstan** (`capstan`) — 1 chapters (B1)
+  - A vertical-axled rotating machine used on sailing ships to multiply the pulling force of the crew for heavy tasks like weighing anchor.
+- **Messenger Cable** (`messenger-cable`) — 1 chapters (B1)
+  - Because heavy anchor cables were too thick and stiff to wind around a capstan, a smaller 'messenger' loop was used; the anchor cable was lashed to it and then unlashed as it moved.
+- **Spinoza's Philosophy** (`spinozism`) — 1 chapters (B1)
+  - Spinoza was frequently accused of atheism or pantheism because his work 'Ethics' identified God with Nature, challenging traditional religious orthodoxy.
+- **Shuttlecock** (`battledore-and-shuttlecock`) — 1 chapters (B1)
+  - An early ancestor of badminton, played with small rackets (battledores) and a feathered cork (shuttlecock).
+- **Wigwams** (`wigwam`) — 1 chapters (B1)
+  - Domed dwellings used by Native American tribes in the Northeast, such as the Wampanoag in the Plymouth area.
+- **Pirate psychological warfare** (`pirate-psychological-warfare`) — 1 chapters (B1)
+  - Teach was famous for using slow-burning fuses (punks) in his hair and beard to create a terrifying, demonic aura of smoke during battle to intimidate enemies into surrendering.
+- **Privateering** (`privateering`) — 1 chapters (B1)
+  - Many pirates began as legitimate sailors or privateers for the Royal Navy; the transition to piracy often occurred when peace treaties ended their legal employment.
+- **17th Century Fashion and Social Types** (`restoration-social-types`) — 1 chapters (B1)
+  - These terms describe the hyper-fashionable, often ridiculed young men of the Restoration era who obsessed over continental trends.
+- **Origin of the Cravat** (`history-of-the-cravat`) — 1 chapters (B1)
+  - The modern necktie (cravat) originated from the neck scarves worn by Croatian mercenaries serving in the French army.
+- **Virtuoso** (`virtuoso`) — 1 chapters (B1)
+  - In the 17th century, this referred to a person with a refined interest in arts and sciences, often a gentleman-scholar or experimentalist.
+- **Tarantism** (`tarantism`) — 1 chapters (B1)
+  - A historical psychological phenomenon in Italy where victims of a spider bite were believed to need to engage in frenzied dancing (the Tarantella) to survive.
+- **Sea-coal** (`sea-coal`) — 1 chapters (B1)
+  - A term for mineral coal (as opposed to charcoal) which caused significant air pollution in 17th-century London.
+- **The Persian Vest** (`persian-vest-fashion`) — 1 chapters (B1)
+  - In 1666, Charles II introduced this new fashion to the English court to promote English wool and break away from French fashion trends; it is the ancestor of the modern three-piece suit's waistcoat.
+- **Tobacco Trade** (`virginia-tobacco`) — 1 chapters (B1)
+  - By the late 17th century, tobacco from the Virginia colony was a major English import and a staple of coffeehouse culture.
+- **Ravens of the Tower of London** (`tower-ravens`) — 1 chapters (B1)
+  - Legend holds that if the ravens ever leave the Tower, the Kingdom will fall; they have been kept there for centuries.
+- **House of Office** (`house-of-office`) — 1 chapters (B1)
+  - A common 17th-century euphemism for a toilet or latrine.
+- **Presbyterians** (`presbyterians`) — 1 chapters (B1)
+  - A branch of Reformed Protestantism; in this era, they were often associated with Scottish political interests and opposition to the Anglican religious establishment.
+- **18th-century rigging maintenance** (`worm-parcel-and-serve`) — 1 chapters (B1)
+  - These are specific nautical techniques used to protect hemp ropes from rot and chafe: 'worming' fills the grooves, 'parceling' wraps the rope in canvas, and 'serving' binds it tightly with twine.
+- **Early modern naval artillery tools** (`naval-gunnery-tools`) — 1 chapters (B1)
+  - These are the specialized tools of a master gunner: lin-stocks held the slow-burning match, quoins were wooden wedges for aiming, and worming-irons cleared debris from the barrel.
+- **Sabot** (`sabot-artillery`) — 1 chapters (B1)
+  - A sabot is a wooden base attached to a projectile to help it fit snugly in the bore of a cannon, improving the force of the gunpowder blast.
+- **Sailing rigs** (`square-vs-fore-and-aft-rig`) — 1 chapters (B1)
+  - Square-rigged ships were faster when sailing with the wind behind them, while fore-and-aft rigged ships (like sloops) could sail much closer to the direction the wind was blowing from.
+- **Blunderbuss** (`blunderbuss`) — 1 chapters (B1)
+  - A short-barreled firearm with a flared muzzle, designed to scatter shot at close range, making it a common defensive weapon on ships.
+- **Lithotomy** (`cutting-for-the-stone`) — 1 chapters (B1)
+  - A dangerous and painful surgical procedure to remove bladder stones. Samuel Pepys famously survived this operation in 1658 and kept the stone as a souvenir.
+- **Demilune** (`fortification-terminology`) — 1 chapters (B1)
+  - A crescent-shaped outwork in a fortification, designed to protect the curtain wall and the shoulders of the bastions.
+- **Seditious Libel** (`seditious-libel`) — 1 chapters (B1)
+  - In the 17th century, seditious libel was a criminal offense involving the publication of material that brought the government or monarch into disrepute; punishments often included public shaming or br
+- **17th-century Libels and Pamphleteering** (`libels-and-pamphlets`) — 1 chapters (B1)
+  - The 1670s saw a massive rise in anonymous, often scurrilous political literature used to sway public opinion against the monarchy or religious groups.
+- **Starlings of London Bridge** (`starlings-of-london-bridge`) — 1 chapters (B1)
+  - Starlings were large, boat-shaped wooden frames filled with stone built around the bridge piers for protection. They restricted water flow so severely that the river 'shot' through the gaps like a cat
+- **Substantial Form** (`substantial-forms`) — 1 chapters (B1)
+  - An Aristotelian concept that the 'form' or 'essence' of a thing gives it its properties; Leibniz and other moderns were moving toward 'Mechanism' (physical parts in motion) instead.
+- **Tetanus** (`lockjaw-tetanus`) — 1 chapters (B1)
+  - Commonly known as lockjaw, tetanus was a frequent and fatal infection in the 18th century, often caused by wounds from rusty metal or soil-contaminated objects.
+- **Caltrops** (`caltrops`) — 1 chapters (B1)
+  - Anti-personnel weapons made of four sharp spikes arranged so that one always points upward; they were used in naval warfare to maim barefoot pirates attempting to board a ship.
+- **Powder Monkey** (`powder-monkey`) — 1 chapters (B1)
+  - A term for young boys on warships whose primary job was to carry gunpowder from the magazine to the cannons during battle.
+- **Sloop** (`sloop`) — 1 chapters (B1)
+  - A small, fast, highly maneuverable sailing vessel with a single mast, favored by pirates for its ability to navigate shallow waters and outrun larger warships.
+- **Tumblehome** (`tumblehome`) — 1 chapters (B1)
+  - A design feature of wooden warships where the hull narrows above the waterline, making it harder for enemies to board and improving the ship's stability as a gun platform.
+- **Erebus** (`erebus`) — 1 chapters (B1)
+  - In Greek mythology, a personification of darkness and a region of the underworld; the Furies (Erinyes) were deities of vengeance who resided there.
+- **Hooke's Medical Regimen** (`hookes-health`) — 1 chapters (B1)
+  - Robert Hooke was a notorious hypochondriac who recorded his constant self-medication and use of emetics in his diaries.
+- **Dissidents (Nonconformists)** (`english-dissidents`) — 1 chapters (B1)
+  - Protestants who drifted from the established Church of England (Anglicans), including Puritans, Quakers, and Baptists, often facing legal persecution.
+- **Pirate Flags** (`pirate-flags`) — 1 chapters (B1)
+  - While the 'Jolly Roger' skull and crossbones is famous, many 18th-century pirates used symbols like hourglasses to signal to their victims that their time was running out.
+- **Drogues** (`drogues`) — 1 chapters (B1)
+  - Devices towed behind a vessel to produce drag; in this context, they are used as a ruse to make a fast ship appear slow and lure victims into a trap.
+- **The Aegis** (`the-aegis`) — 1 chapters (B1)
+  - In Greek mythology, the Aegis is the shield or breastplate of Athena; here it serves as the emblem for the Minerva, named after the Roman equivalent of Athena.
+- **Nailing colors to the mast** (`nailing-colors-to-the-mast`) — 1 chapters (B1)
+  - A defiant naval tradition where a captain nails his flag to the mast to signal that the ship will never surrender, as the flag cannot be lowered.
+- **Naval Gunpowder Management** (`naval-gunpowder-management`) — 1 chapters (B1)
+  - The transition from loose powder to pre-measured cartridges (bags) was a significant safety and efficiency innovation in 17th-century naval warfare.
+- **Davy Jones's Locker** (`davy-jones-locker`) — 1 chapters (B1)
+  - An idiom for the bottom of the sea; Roger is euphemistically stating that the powder bags were lost at sea or sunk.
+- **Early Contraception** (`early-contraception`) — 1 chapters (B1)
+  - A reference to early condoms made from animal intestines (sheepgut), which were used in the 17th century primarily to prevent the spread of syphilis.
+- **Dysentery (The Bloody Flux)** (`dysentery-bloody-flux`) — 1 chapters (B1)
+  - A common and often fatal period term for dysentery, characterized by severe diarrhea with blood.
+- **Arianism** (`arianism`) — 1 chapters (B1)
+  - A theological belief that denied the divinity of Jesus Christ; in this era, it was considered a dangerous heresy and was a secret belief held by some scientists, including Isaac Newton.
+- **Sailing Large** (`sailing-large`) — 1 chapters (B1)
+  - A nautical term for sailing with the wind blowing from behind the widest part of the ship, allowing for maximum speed and efficiency.
+- **Galjoot** (`galjoot`) — 1 chapters (B2)
+  - A galjoot (or galliot) was a type of shallow-draft Dutch merchant ship with a rounded hull, common in the 17th century for coastal trading.
+- **Benefit of Clergy** (`benefit-of-clergy`) — 1 chapters (B2)
+  - A legal loophole where defendants could avoid the death penalty by proving they could read; the 51st Psalm was so commonly used for this test it became known as the 'neck verse.'
+- **Psalm 51** (`psalm-51-miserere`) — 1 chapters (B2)
+  - Known as the 'Miserere,' this specific psalm was traditionally used for the 'benefit of clergy' test because its first verse begins with a plea for mercy.
+- **The Triple Tree** (`the-triple-tree`) — 1 chapters (B2)
+  - A unique three-sided gallows at Tyburn that allowed for the simultaneous execution of multiple people.
+- **Necklace of Harmonia** (`necklace-of-harmonia`) — 1 chapters (B2)
+  - In Greek mythology, a cursed object that brought misfortune and death to any who wore it, despite its great beauty.
+- **Hanging 'Short Drop' practices** (`short-drop-hanging`) — 1 chapters (B2)
+  - Before the invention of the 'long drop' (which broke the neck), prisoners died of slow strangulation. Families or 'hangers-on' would often pull on the prisoner's legs to end their suffering more quick
+- **The Mobile / The Mob** (`the-mobile-vulgus`) — 1 chapters (B2)
+  - The term 'mobile' is a 17th-century shortening of the Latin 'mobile vulgus' (the fickle crowd), which eventually evolved into the modern English word 'mob'.
+- **Types of War Horses** (`war-horses`) — 1 chapters (B2)
+  - Early modern cavalrymen required different specialized horses for marching, battle, hunting, and ceremony to ensure their primary 'destrier' or battle horse remained fresh for combat.
+- **Twelve Apostles (Bandolier)** (`twelve-apostles-bandolier`) — 1 chapters (B2)
+  - Commonly known as 'The Twelve Apostles,' these were pre-measured wooden powder charges worn on a bandolier before the widespread use of paper cartridges.
+- **Pike and Shot** (`pike-and-shot-tactics`) — 1 chapters (B2)
+  - The dominant military tactic of the era, where infantry formations combined musketeers for ranged attacks and pikemen to defend against cavalry.
+- **Grapeshot** (`grapeshot`) — 1 chapters (B2)
+  - A type of ammunition consisting of a cluster of small iron balls fired from a cannon, designed to act like a giant shotgun against infantry.
+- **Sappers and Miners** (`sapping-and-mining`) — 1 chapters (B2)
+  - Military specialists who dug trenches (saps) and tunnels (mines) to approach or collapse enemy fortifications.
+- **Ostrich Plumes** (`ostrich-plumes-trade`) — 1 chapters (B2)
+  - In the 17th century, ostrich feathers were a high-status luxury fashion item in European courts, often imported from Africa via the Ottoman Empire.
+- **Saracen** (`saracen`) — 1 chapters (B2)
+  - A term used by Christian Europeans in the Middle Ages and early modern period to refer to Muslims, Arabs, or Turks.
+- **Predestination** (`predestination`) — 1 chapters (B2)
+  - The Calvinist doctrine that God has eternally chosen those whom he intends to save, a central tenet of Puritan belief mentioned here as 'the Good News'.
+- **Ottoman Harem Hierarchy** (`ottoman-harem-ranks`) — 1 chapters (B2)
+  - Specific ranks within the Imperial Harem: 'Gözde' (the favorite) was the lowest rank of a concubine noticed by the Sultan, while 'İkbal' was a higher rank for those who had actually slept with him.
+- **Vagabond Branding** (`branding-of-vagabonds`) — 1 chapters (B2)
+  - Under various English Vagrancy Acts, persistent beggars or 'vagabonds' could be legally branded with a 'V' as a permanent mark of their status.
+- **Court Jews** (`court-jews`) — 1 chapters (B2)
+  - Jewish bankers or merchants who handled the finances of, and lent money to, European royalty and nobility, often following armies to manage logistics and pay.
+- **Wog (Etymology)** (`wog-etymology`) — 1 chapters (B2)
+  - A racial slur used historically in British English. In the context of the novel, Stephenson often uses period-appropriate (though offensive) slang to illustrate the characters' worldviews.
+- **Bastinado** (`bastinado`) — 1 chapters (B2)
+  - A form of corporal punishment involving the beating of the soles of a person's bare feet with a stick or rod, common in the Ottoman Empire.
+- **Deserving and Undeserving Poor** (`deserving-and-undeserving-poor`) — 1 chapters (B2)
+  - A common early modern social distinction: 'God's Poor' were those impoverished by misfortune (widows, disabled), while 'The Devil's Poor' were able-bodied idlers or criminals deemed unworthy of charit
+- **Haiduks** (`haiduks`) — 1 chapters (B2)
+  - A term used throughout the Balkans and Central Europe for outlaws, highwaymen, or guerrilla freedom fighters who resisted Ottoman or local noble authority.
+- **Morality Play** (`morality-plays`) — 1 chapters (B2)
+  - A genre of medieval and early modern theatrical entertainment that used allegorical characters to teach moral lessons, often featuring the figure of Death.
+- **Sugar and Slavery** (`sugar-and-slavery`) — 1 chapters (B2)
+  - The 17th-century global economy was heavily driven by the sugar trade, which relied almost entirely on the forced labor of enslaved Africans in the Atlantic islands and the Americas.
+- **English Radical Sects** (`radical-religious-groups`) — 1 chapters (B2)
+  - Various radical religious and political movements that emerged during the English Civil War era, often advocating for communal property or social equality.
+- **Enclosure** (`enclosure-acts`) — 1 chapters (B2)
+  - The legal process in England of consolidating small landholdings into larger farms and fencing off 'common' land, which displaced many peasants.
+- **Serfdom in Eastern Europe** (`serfdom`) — 1 chapters (B2)
+  - The system of unfree labor where peasants were legally bound to a lord's estate, which remained much harsher and lasted longer in Poland and Russia than in the West.
+- **Tyburn and Jack Ketch** (`tyburn-and-jack-ketch`) — 1 chapters (B2)
+  - Tyburn was London's primary location for public executions; Jack Ketch was a notoriously famous and often clumsy executioner of the 17th century.
+- **Hajduk** (`hajduk`) — 1 chapters (B2)
+  - Outlawed guerrilla fighters and bandits in Central and Eastern Europe who resisted Ottoman Turkish rule.
+- **Brimstone!** (`brimstone-sulfur`) — 1 chapters (B2)
+  - Brimstone is an archaic term for sulfur, often associated with volcanic activity and mining. In this context, it refers to the sulfurous deposits found in the volcanic regions of Bohemia.
+- **Early Contraception** (`early-condoms`) — 1 chapters (B2)
+  - Before the invention of vulcanized rubber, condoms were made from 'animal skins' (processed intestines). Eliza refers to them as a 'Turkish practice,' reflecting their exotic and scandalous reputation
+- **Chakra** (`chakras-in-western-thought`) — 1 chapters (B2)
+  - An energy point in the subtle body in Indian religions. Its mention here reflects the era's growing (though often misunderstood) exposure to Eastern mysticism and anatomy via trade.
+- **Lutheranism** (`lutheranism`) — 1 chapters (B2)
+  - A major branch of Protestantism based on the teachings of Martin Luther; Leipzig was a stronghold of Lutheranism, which influenced its culture and architecture.
+- **Pfennig** (`pfennig`) — 1 chapters (B2)
+  - A small German coin or penny; the currency system in the Holy Roman Empire was highly fragmented with various local denominations.
+- **Hookah** (`hookah-culture-europe`) — 1 chapters (B2)
+  - The introduction of tobacco and water pipes to Europe followed the Ottoman wars, leading to a brief but notable fascination with 'Oriental' customs in trade cities.
+- **Banca (Banking)** (`history-of-banking`) — 1 chapters (B2)
+  - The Italian word for 'bench' or 'counter,' from which the modern word 'bank' is derived. It refers to the physical table where money-changers and lenders conducted business.
+- **The French Pox (Syphilis)** (`syphilis-historical`) — 1 chapters (B2)
+  - A common 17th-century term for syphilis. Jack's fear of 'detonation' refers to the tertiary stage of the disease, which can cause neurological decay and madness.
+- **Early Modern Currency** (`early-modern-currency`) — 1 chapters (B2)
+  - The list illustrates the chaotic variety of coinage in Europe before standardized national currencies. Money-changers were essential for determining the actual gold/silver content of these diverse coi
+- **Pilsner Beer** (`pilsen-beer`) — 1 chapters (B2)
+  - While modern 'Pilsner' was developed in the 19th century, the city of Pilsen had a brewing tradition dating back to the 13th century that was highly regarded in the Holy Roman Empire.
+- **Jahrmarkt** (`jahrmarkt`) — 1 chapters (B2)
+  - Literally 'Yearly Market,' these were seasonal fairs that combined commerce with entertainment, often featuring the 'freak shows' and performers described in the text.
+- **Mercury (Mythology) and the Caduceus** (`mercury-mythology-and-the-caduceus`) — 1 chapters (B2)
+  - The Roman god Mercury (Hermes) and his staff, the caduceus, are central symbols in the novel, representing both the metal mercury and the god of commerce, travel, and alchemy.
+- **Spion (Window Mirrors)** (`spion-mirrors`) — 1 chapters (B2)
+  - Known as 'Spion' or 'spy-mirrors,' these were common in Northern European cities, allowing residents to observe the street or courtyard from inside without being seen.
+- **Transubstantiation** (`transubstantiation`) — 1 chapters (B2)
+  - The theological debate over whether the bread and wine in the Eucharist literally or symbolically become the body and blood of Christ, a central point of division in the Reformation.
+- **Mammon** (`mammon`) — 1 chapters (B2)
+  - A biblical term for wealth or greed, personified here as a fallen angel who encourages humanity to strip-mine the earth for riches.
+- **Brimstone and Saltpeter** (`brimstone-and-saltpeter`) — 1 chapters (B2)
+  - Brimstone is an archaic name for sulfur. Saltpeter (potassium nitrate) was a vital military resource often harvested from decomposed organic matter or imported from India.
+- **Arschleder** (`arschleder`) — 1 chapters (B2)
+  - A traditional piece of German mining equipment (literally 'ass-leather') worn to protect the seat of the trousers and keep the miner dry while sitting or sliding.
+- **Book of Revelation** (`book-of-revelation`) — 1 chapters (B2)
+  - The final book of the New Testament, filled with descriptions of multi-headed beasts and dragons, often used as a reference point for strange or terrifying creatures.
+- **Sabotage** (`sabotage-etymology`) — 1 chapters (B2)
+  - The term 'sabotage' is often attributed to the practice of Dutch or French workers throwing their wooden shoes (sabots) into machinery to stop production during the Industrial Revolution.
+- **Apothecary** (`apothecary`) — 1 chapters (B2)
+  - Historical medical professionals who formulated and dispensed remedies; they were the precursors to modern pharmacists but often dealt in herbalism and alchemy.
+- **Wattle and Daub** (`wattle-and-daub`) — 1 chapters (B2)
+  - A composite building method used for centuries where a woven lattice of wooden strips (wattle) is daubed with a sticky material made of wet soil, clay, sand, animal dung, and straw.
+- **Actaeon and Artemis** (`actaeon-and-artemis`) — 1 chapters (B2)
+  - A reference to the Greek myth of Actaeon, often depicted in Baroque art and literature to explore themes of transformation and divine punishment.
+- **Minerva** (`minerva-athena`) — 1 chapters (B2)
+  - The Roman goddess of wisdom and strategic warfare (Greek Athena), often used as a symbol for the Enlightenment and the Royal Society.
+- **Walpurgis Night** (`walpurgis-night`) — 1 chapters (B2)
+  - A traditional German feast day (April 30) associated with witchcraft and the gathering of witches on the Brocken mountain.
+- **The Boot (torture instrument)** (`the-boot-torture`) — 1 chapters (B2)
+  - A method of torture used to crush the bones of the feet and legs, commonly employed during judicial interrogations and witch trials.
+- **Garrotting (mercy in executions)** (`garrotting-execution`) — 1 chapters (B2)
+  - Executioners often strangled victims before the flames reached them as an act of mercy, though this was sometimes seen as 'cheating' the crowd of a full burning.
+- **Wächter** (`waechter`) — 1 chapters (B2)
+  - German for 'guards' or 'watchmen'; in this context, they represent the authorities attempting to suppress the pagan/folk rituals of the locals.
+- **Hexen** (`hexen`) — 1 chapters (B2)
+  - The German word for witches; the passage plays on the folklore of the Brocken as a site for the Witches' Sabbath.
+- **Hexen (Witches of the Harz)** (`hexen-harz-mountains`) — 1 chapters (B2)
+  - German for 'witches.' The Harz Mountains, particularly the Brocken peak, were legendary in European folklore as the site of Walpurgis Night, where witches were said to gather and commune with the Devi
+- **Antediluvian Giants** (`antediluvian-giants`) — 1 chapters (B2)
+  - In the 17th century, large fossils or unusual rock formations were often interpreted literally as the remains of giants who lived before the Biblical Flood (antediluvian), a view held by some natural 
+- **German cast-iron stoves** (`german-iron-stoves`) — 1 chapters (B2)
+  - Distinctive, highly efficient heating appliances (often called 'Kachelofen' or 'box stoves') that were a technological marvel of the era compared to open fireplaces.
+- **Haspel (Windlass)** (`mining-haspel`) — 1 chapters (B2)
+  - A hand-cranked windlass or winch used in mining to raise ore and lower miners into shafts.
+- **Theseus and the Labyrinth** (`theseus-and-the-labyrinth`) — 1 chapters (B2)
+  - A reference to the Greek myth of Theseus, who used a ball of thread provided by Ariadne to navigate the Labyrinth and escape after slaying the Minotaur.
+- **Lindworm** (`lindworm`) — 1 chapters (B2)
+  - In Germanic folklore (appropriate for the Harz Mountains setting), a 'Worm' or 'Wyrm' refers to a flightless dragon or serpent-like monster.
+- **Hookah (Nargile)** (`hookah-history`) — 1 chapters (B2)
+  - Also known as a water-pipe or shisha; Jack is observing the physics of air being drawn through water, a technology introduced to Europe via Ottoman trade.
+- **Dark-lantern and Slow Match** (`seventeenth-century-lighting`) — 1 chapters (B2)
+  - A dark-lantern had a shutter to hide the light; a 'match' in this era was a chemically treated cord that burned slowly, used to ignite lamps or firearms.
+- **17th Century French Fashion** (`french-court-fashion`) — 1 chapters (B2)
+  - Under Louis XIV, France became the fashion capital of the world. The 'freakish' attire mentioned likely refers to the elaborate periwigs, fontanges (high headdresses), and heavy cosmetics used by the 
+- **Hollandgänger** (`holland-ganger`) — 1 chapters (B2)
+  - Seasonal migrant workers from German territories who traveled to the prosperous Dutch Republic for work in agriculture or peat cutting.
+- **Industrial crops of the Dutch Golden Age** (`dutch-industrial-crops`) — 1 chapters (B2)
+  - The Dutch specialized in high-value 'industrial' crops used for textiles, dyes (woad/madder), and brewing rather than just subsistence grain.
+- **Dutch Bleaching Industry** (`dutch-bleaching-industry`) — 1 chapters (B2)
+  - Haarlem and other Dutch areas were world-renowned for bleaching linen and cloth using a process involving sour milk and sunlight.
+- **Mokum** (`mokum`) — 1 chapters (B2)
+  - A Yiddish-derived nickname for Amsterdam (from the Hebrew 'makom' meaning 'place' or 'safe haven'), reflecting the city's significant Jewish population and relative religious tolerance.
+- **Peat as Fuel** (`dutch-peat-industry`) — 1 chapters (B2)
+  - The Dutch Golden Age was powered largely by peat, a cheap and abundant fuel source that allowed for industrial growth and domestic heating in the absence of wood or coal.
+- **Lines of Circumvallation** (`circumvallation`) — 1 chapters (B2)
+  - A military engineering term for a line of fortifications built by besiegers to protect themselves from the besieged; here used to describe Amsterdam's defensive walls.
+- **Calvinism and Predestination** (`calvinism-predestination`) — 1 chapters (B2)
+  - The Dutch Reformed Church followed Calvinist theology, which held that God had already chosen (predestined) who would be saved and who would be damned.
+- **Hollandgänger** (`hollandganger`) — 1 chapters (B2)
+  - Seasonal migrant workers, mostly from German territories, who traveled to the wealthy Dutch Republic for work in agriculture or construction.
+- **Syphilis** (`the-french-pox`) — 1 chapters (B2)
+  - A common period term for syphilis, reflecting the tendency of European nations to name the disease after their rivals. Jack's 'penis incident' and memory issues refer to its physical and neurological 
+- **The King's Shilling** (`the-kings-shilling`) — 1 chapters (B2)
+  - A slang term for enlisting in the British army or navy, derived from the practice of giving a recruit a shilling as an earnest payment.
+- **Calico** (`calico-trade`) — 1 chapters (B2)
+  - A plain-woven cotton textile from India. Its popularity led to protectionist bans in England and France (the Calico Acts) to protect domestic wool and silk industries.
+- **Fluyt** (`fluyt-ships`) — 1 chapters (B2)
+  - A Dutch type of sailing vessel designed to maximize cargo space and be handled by a small crew, a key factor in Dutch maritime dominance.
+- **Water Carriers** (`water-carriers`) — 1 chapters (B2)
+  - Before indoor plumbing, thousands of laborers carried water from the Seine or public fountains to private homes for a fee.
+- **Passe-volante** (`passe-volante`) — 1 chapters (B2)
+  - A term for 'false soldiers' or mercenaries used to pad muster rolls; in the context of the Vagabonds, it refers to a specific type of social grift or illicit trade.
+- **Armenian Coffee Sellers in Paris** (`armenian-coffee-merchants`) — 1 chapters (B2)
+  - In the 1670s and 80s, Armenian merchants were the primary vendors of coffee in Paris, often dressing in 'Oriental' fashion to market the exotic beverage.
+- **Louis d'or** (`louis-dor`) — 1 chapters (B2)
+  - The standard French gold coin introduced by Louis XIII in 1640, used as a high-value international currency.
+- **Galley Slavery** (`galley-punishment`) — 1 chapters (B2)
+  - A common form of penal servitude in France where convicts were sentenced to row in the navy's Mediterranean fleet.
+- **Retail in 17th Century Paris** (`seventeenth-century-retail`) — 1 chapters (B2)
+  - In this era, most goods were sold by street hawkers or at markets; fixed-address shops were a luxury reserved for high-end guilds like mercers and wig-makers.
+- **Rat-catchers** (`rat-catchers`) — 1 chapters (B2)
+  - A recognized, though low-status, profession in European cities; 'mort-aux-rats' (rat death) was the common French term for these tradesmen who often wore distinctive costumes decorated with rat pelts.
+- **Entresol** (`entresol`) — 1 chapters (B2)
+  - Technically a mezzanine floor between the ground floor and the first floor, though here used ironically to describe a makeshift rooftop dwelling.
+- **Denier** (`denier-currency`) — 1 chapters (B2)
+  - A medieval French coin of low value; by the 17th century, it was the smallest unit of currency, often made of copper or billon.
+- **Cornemuse** (`cornemuse`) — 1 chapters (B2)
+  - A type of traditional French bagpipe common in folk music and street performances during the Baroque period.
+- **Pays and Internal Tolls** (`french-internal-customs`) — 1 chapters (B2)
+  - Pre-Revolutionary France was divided into various administrative regions (pays) with complex internal customs barriers and tolls that significantly slowed domestic trade and travel.
+- **Jesuits** (`jesuit-sophistry`) — 1 chapters (B2)
+  - The Society of Jesus (Jesuits) were often stereotyped by their detractors as using 'sophistry' or 'casuistry'—clever but fallacious reasoning to justify questionable actions.
+- **East Indiaman** (`east-indiaman`) — 1 chapters (B2)
+  - Large, armed merchant ships used by the East India companies of major European powers to trade with South and East Asia.
+- **Ultima Ratio Regum** (`ultima-ratio-regum`) — 1 chapters (B2)
+  - Latin for 'the last argument of kings,' a motto Louis XIV had cast onto his cannons to signify that force was the final resort in disputes.
+- **Perfidious Albion** (`perfidious-albion`) — 1 chapters (B2)
+  - A pejorative rhetorical term for Great Britain (or England), referring to its alleged tendency to betray treaties and alliances for its own interest.
+- **Early Stock Market Trading** (`early-stock-market-terms`) — 1 chapters (B2)
+  - The terms 'bulls' and 'bears' originated in this era; 'liefhebberen' (lovers/amateurs) and 'contremines' were the contemporary Dutch terms for market speculators.
+- **Appealing to Frederick** (`appealing-to-frederick`) — 1 chapters (B2)
+  - A historical legal loophole in Dutch law where traders could repudiate short-selling contracts because the practice was technically illegal under Frederick Henry's edicts.
+- **Nerf de boeuf** (`nerf-de-boeuf`) — 1 chapters (B2)
+  - A whip or truncheon made from a dried bull's penis, commonly used by French law enforcement and guards for corporal punishment.
+- **Syphilis** (`the-great-pox`) — 1 chapters (B2)
+  - Syphilis was often named after rival nations; the French called it the 'Neapolitan itch,' while the English and others often called it the 'French Pox.' Here, the Frenchman Arlanc reverses the insult.
+- **Quicklime** (`quicklime`) — 1 chapters (B2)
+  - Calcium oxide was historically spread over corpses in mass graves to accelerate decomposition and control the stench of decay, particularly during plagues or in pauper cemeteries.
+- **Q.E.D.** (`qed`) — 1 chapters (B2)
+  - Latin for 'which was to be demonstrated.' It is the traditional conclusion to a mathematical or philosophical proof, highlighting the chapter's theme of debating predestination versus free will.
+- **Free Will** (`free-will`) — 1 chapters (B2)
+  - The philosophical counterpoint to predestination, arguing that humans have the agency to make choices; a central tension in the Enlightenment's religious and scientific discourse.
+- **First Communion** (`first-communion`) — 1 chapters (B2)
+  - A Catholic rite of passage where a child first receives the Eucharist; in the 17th century, it was a significant social and religious milestone often marked by specific white attire.
+- **Divine Grace** (`divine-grace`) — 1 chapters (B2)
+  - A central theological concept in the friction between Catholicism and Protestantism (like Jack's and Daniel's backgrounds) regarding how a soul achieves salvation.
+- **Arrondissement** (`arrondissement`) — 1 chapters (B2)
+  - The administrative districts into which Paris is divided, though the formal system of twenty districts was not established until later.
+- **Papist** (`papism`) — 1 chapters (B2)
+  - A derogatory term for Roman Catholics, used frequently in 17th-century England to imply that their primary loyalty was to the Pope rather than the Crown.
+- **Ps and Qs** (`ps-and-qs`) — 1 chapters (B2)
+  - A period expression referring to 'Pints and Quarts' tallied on a tavern wall to track a patron's debt.
+- **Regenten** (`dutch-regents`) — 1 chapters (B2)
+  - The 'Regenten' were the ruling class of merchant-oligarchs who dominated the city councils and government of the Dutch Republic.
+- **Galliard** (`galliard-dance`) — 1 chapters (B2)
+  - A form of Renaissance dance and music popular all over Europe in the 16th and 17th centuries, known for its athletic leaps and hops.
+- **Galérien** (`galerien`) — 1 chapters (B2)
+  - A galley slave; in 17th-century France, criminals were often sentenced to row in the royal galleys, a brutal and often fatal punishment.
+- **Galley Slaves** (`galeriens`) — 1 chapters (B2)
+  - In 17th-century France, 'galériens' were convicts or persecuted groups (like Huguenots) sentenced to manual labor rowing in the French Royal Galley corps.
+- **L'Emmerdeur** (`l-emmerdeur`) — 1 chapters (B2)
+  - A French vulgarity meaning 'the troublemaker' or 'the pain in the ass,' literally 'the shitter,' which becomes a recurring nickname for Jack Shaftoe.
+- **Hôtel particulier** (`hotel-particulier`) — 1 chapters (B2)
+  - In French context, an 'hôtel' is not a public inn but a grand private townhouse for a nobleman, typically featuring a courtyard (cour) and a garden.
+- **Beeswax candles** (`beeswax-candles`) — 1 chapters (B2)
+  - Unlike cheap tallow candles made from animal fat, beeswax candles were expensive, burned cleanly, and smelled pleasant, marking the extreme wealth of the host.
+- **Masquerade Ball** (`masquerade-ball`) — 1 chapters (B2)
+  - A popular form of entertainment for the 17th-century nobility where guests dressed in 'fancy-dress' or exotic costumes, often representing allegories, different nationalities, or social classes.
+- **Beauty marks (Mouches)** (`beauty-marks-mouches`) — 1 chapters (B2)
+  - In the 17th century, artificial beauty marks made of silk or velvet (mouches) were highly fashionable and often used to hide smallpox scars or communicate flirtatious messages.
+- **Emmerdeur** (`emmerdeur`) — 1 chapters (B2)
+  - A French vulgarity roughly translating to 'troublemaker' or 'pain in the ass,' but in this context, it refers to Jack's disguise as a 'shitter' or someone covered in filth.
+- **Moors** (`moors`) — 1 chapters (B2)
+  - A term used in early modern Europe to refer to Muslim inhabitants of the Maghreb, North Africa, and the Iberian Peninsula.
+- **Baroque Ceiling Painting** (`baroque-ceiling-painting`) — 1 chapters (B2)
+  - The passage describes the collapse of an elaborate frescoed ceiling, a staple of Baroque architecture often depicting allegorical figures (like the Winds) and national triumphs (like the Navy).
+- **Horseshoes** (`fers-de-cheval`) — 1 chapters (B2)
+  - French for 'horseshoes.' The passage highlights the danger of iron shoes on polished marble floors during the chaos of the scene.
+- **Tarantella** (`tarantella`) — 1 chapters (B2)
+  - A rapid folk dance from Southern Italy, historically associated with 'tarantism,' a form of hysterical dancing believed to cure the bite of a wolf spider.
+- **Oakum** (`oakum`) — 1 chapters (B2)
+  - A preparation of loose fiber obtained by untwisting old rope, used with tar to caulk the seams of wooden ships to make them watertight.
+- **Raskolnik (Old Believers)** (`raskolniks`) — 1 chapters (B2)
+  - A member of the 'Old Believers' who split from the Russian Orthodox Church in the mid-17th century to protest liturgical reforms; they faced severe persecution and often fled Russia.
+- **Trade Winds** (`trade-winds`) — 1 chapters (B2)
+  - The permanent east-to-west prevailing winds that flow in the Earth's equatorial region, which were essential for sailing ships crossing the Atlantic.
+- **Huguenots and Sephardim** (`religious-refugees-in-amsterdam`) — 1 chapters (B2)
+  - Amsterdam became a haven for French Protestants (Huguenots) fleeing persecution under Louis XIV and Sephardic Jews fleeing the Spanish and Portuguese Inquisitions.
+- **Bottomry (Prêt à la grosse aventure)** (`bottomry-loans`) — 1 chapters (B2)
+  - A maritime contract where a shipowner borrows money for a voyage; if the ship is lost, the lender loses their money, but if it succeeds, the lender is repaid with high interest.
+- **Doubting Thomas** (`doubting-thomas`) — 1 chapters (B2)
+  - A biblical reference to the Apostle Thomas, who refused to believe Jesus had been resurrected until he could touch the wounds; used here to describe Eliza's skepticism and physical verification of the
+- **Cowrie Shells as Currency** (`cowrie-shell-currency`) — 1 chapters (B2)
+  - Small sea shells used for centuries as a global commodity money, particularly in the slave trade between Europe, Africa, and southern Asia.
+- **Piece of India (Pieza de India)** (`pieza-de-india`) — 1 chapters (B2)
+  - A unit of value used in the trans-Atlantic slave trade, originally referring to a 'standard' healthy male slave against which other 'goods' were measured.
+- **Kaag (ship)** (`kaag-vessel`) — 1 chapters (B2)
+  - A traditional Dutch shallow-draft sailing vessel used for inland navigation on canals and lakes, characterized by its distinctive curved hull and leeboards.
+- **Drost** (`drost`) — 1 chapters (B2)
+  - A Dutch administrative official or bailiff responsible for maintaining order and justice in a specific district.
+- **Cowrie Shells** (`cowrie-shells`) — 1 chapters (B2)
+  - Small shells used as a major form of currency in the slave trade along the African coast during this period.
+- **Galley Slave** (`galley-slave`) — 1 chapters (B2)
+  - A prisoner or enslaved person forced to row a galley; this was a common and brutal fate for captives taken by Barbary pirates.
+- **Turning Turk** (`turning-turk`) — 1 chapters (B2)
+  - A period phrase meaning to convert to Islam, often used specifically for Europeans who joined the Barbary pirates to escape slavery or seek fortune.
+- **Rais** (`rais`) — 1 chapters (B2)
+  - An Arabic title for a leader or captain, specifically used for the commanders of Barbary pirate vessels.
+- **Cowrie Shells** (`cowrie-currency`) — 1 chapters (B2)
+  - Used as a form of currency in parts of Africa and Asia; the pirates' lack of interest highlights the specific trade routes and economic systems of the era.
+- **Whigs and Tories** (`whigs-and-tories`) — 1 chapters (B3)
+  - The two emerging political factions: Whigs supported Exclusion and parliamentary supremacy, while Tories supported the divine right of kings and the legitimate succession.
+- **Chirurgeons** (`chirurgeons`) — 1 chapters (B3)
+  - An archaic term for surgeons. At the time, surgery was a manual craft distinct from the academic profession of physicians, often associated with barbers.
+- **Asclepius** (`asclepius`) — 1 chapters (B3)
+  - The Greek god of medicine and healing; his name is used here as a literary reference to the medical profession.
+- **Calvinism** (`calvinism-geneva`) — 1 chapters (B3)
+  - A major branch of Protestantism following the theology of John Calvin; Geneva was the center of this movement and a refuge for English 'Marian Exiles.'
+- **Whig Party** (`whig-party`) — 1 chapters (B3)
+  - A political faction that opposed absolute monarchy and the Catholic James II, favoring parliamentary supremacy.
+- **Extreme Unction** (`extreme-unction`) — 1 chapters (B3)
+  - The Catholic sacrament of anointing the sick or dying; Charles II's deathbed conversion and receipt of this rite were politically explosive in Protestant England.
+- **Enfants de France** (`enfants-de-france`) — 1 chapters (B3)
+  - A specific rank at the French court for the legitimate children of the King and the Dauphin (the heir apparent), carrying immense prestige and protocol requirements.
+- **Le Lever and Le Coucher** (`lever-and-coucher-ceremonies`) — 1 chapters (B3)
+  - The highly ritualized morning and evening ceremonies of Louis XIV where courtiers competed for the honor of performing menial tasks for the King to gain proximity and favor.
+- **The Mobile** (`the-mobile`) — 1 chapters (B3)
+  - A 17th-century term for the 'mobile vulgus' or the fickle crowd/common people, from which the modern word 'mob' is derived.
+- **Crypto-Jews in Amsterdam** (`sephardic-jews-in-amsterdam`) — 1 chapters (B3)
+  - Refers to Sephardic Jews (often 'New Christians' or Marranos) who fled the Spanish Inquisition to Amsterdam, where they became central to international trade and finance.
+- **Dacoity** (`dacoits`) — 1 chapters (B3)
+  - A term derived from the Hindi 'dakait' referring to armed bandits; in this period, they were a significant hazard for travelers on Indian trade routes.
+- **Cat-burning** (`cat-burning`) — 1 chapters (B3)
+  - A form of ritual entertainment in early modern France (and elsewhere) where cats were burned alive, often during midsummer festivals, believed to bring good luck or ward off evil.
+- **Le Lever** (`le-lever`) — 1 chapters (B3)
+  - The highly ritualized morning ceremony where the King of France was dressed and prepared for the day in front of selected courtiers.
+- **Chirurgeon (Surgeon)** (`17th-century-surgery`) — 1 chapters (B3)
+  - In this era, surgeons were distinct from physicians, performing manual operations and often associated with the barber-surgeon guild.
+- **The Waldensians** (`waldensians`) — 1 chapters (B3)
+  - A pre-Reformation Christian movement in the Alpine valleys of Savoy and France that later aligned with Calvinism and faced brutal military suppression.
+- **Hypotheses non fingo** (`hypotheses-non-fingo`) — 1 chapters (B3)
+  - Newton's famous Latin phrase meaning 'I feign no hypotheses,' expressing his refusal to speculate on the hidden 'cause' of gravity when he could only prove its 'effects' mathematically.
+- **Commerçants** (`commercants`) — 1 chapters (B3)
+  - Refers to the rising merchant class whose wealth and independence from the crown posed a threat to the absolute authority of monarchs like Louis XIV.
+- **Barber-Surgeon** (`barber-surgeons`) — 1 chapters (B3)
+  - In this era, barbers performed minor surgical procedures, bloodletting, and wound care in addition to cutting hair.
+- **Penal Transportation** (`penal-transportation`) — 1 chapters (B3)
+  - The practice of sending convicted criminals or political rebels to work as indentured servants or slaves in overseas colonies like Barbados.
+- **Early Contraception** (`early-modern-contraception`) — 1 chapters (B3)
+  - A description of a 17th-century condom made from animal intestines (sheep-gut), which were used both for contraception and protection against disease.
+- **Vagabonding** (`vagabonding`) — 1 chapters (B3)
+  - Refers to the social class of masterless men and wanderers in early modern Europe, often displaced by wars or economic shifts.
+- **Vagabonds** (`vagabonds`) — 1 chapters (B3)
+  - In this context, it refers to the 'Vagabond' class of landless, wandering people, often associated with the Shaftoe family in the novel's lore.
+- **Tablero** (`tablero`) — 1 chapters (B3)
+  - A Spanish/Portuguese term for a board or table; in this context, it refers to the price boards used in stock and commodity exchanges.
+- **Etymology of Bankruptcy** (`etymology-of-bankruptcy`) — 1 chapters (B3)
+  - The word 'bankruptcy' derives from the Italian 'banca rotta' (broken bench); in some European markets, a merchant's bench was physically broken if they could not pay their debts.
+- **Fanatics (Phanatiques)** (`fanatics-religious-sect`) — 1 chapters (B3)
+  - A pejorative term used in the 17th century to describe non-conformist religious radicals, particularly those suspected of republican or revolutionary sympathies.
+- **Short Selling** (`short-selling`) — 1 chapters (B3)
+  - A financial practice where an investor profits from the decline in a stock's price; it was a sophisticated and controversial technique in the 17th-century Amsterdam market.
+- **Futures Contract** (`futures-contracts`) — 1 chapters (B3)
+  - Legal agreements to buy or sell a particular commodity at a predetermined price at a specified time in the future, widely traded in the Dutch Republic.
+- **Peasants' Revolt Slogan** (`peasants-revolt-slogan`) — 1 chapters (B3)
+  - A famous radical rhyme attributed to John Ball during the 1381 Peasants' Revolt, used here by Penn to challenge the concept of social hierarchy and class distinction.
+- **Roman Law vs Common Law** (`roman-law-vs-common-law`) — 1 chapters (B3)
+  - Jeffreys contrasts Roman-style 'Civil Law' (top-down, efficient, inquisitorial) with English 'Common Law' (precedent-based, jury-focused), which he views as messy and outdated.
+- **Etymology of Revolution** (`etymology-of-revolution`) — 1 chapters (B3)
+  - Before the late 17th century, 'revolution' primarily meant a circular motion (like planets). The modern political sense of 'overthrow' was emerging during this period, specifically regarding the Glori
+- **Slave Collars** (`slave-collars`) — 1 chapters (B3)
+  - Metal neck restraints, often with long protruding spikes or hooks, used in the 17th and 18th centuries to prevent enslaved people from escaping through brush or woods.
+- **Hackney-chair** (`hackney-chair`) — 1 chapters (B3)
+  - A sedan chair used as a hired vehicle, carried by two men (porters) on poles. It was a common form of urban transport in 17th-century London, especially in narrow streets where carriages could not pas
+- **Grand Habit** (`grand-habit`) — 1 chapters (B3)
+  - The most formal style of French court dress, characterized by a stiff, boned bodice, bared shoulders, and an enormous train, mandatory for women in the presence of the King.
+- **Ell (unit of measure)** (`ell-measure`) — 1 chapters (B3)
+  - A historical unit of length used primarily for measuring textiles; a Flemish ell was approximately 27 inches.
+- **Runes** (`runes`) — 1 chapters (B3)
+  - Ancient Germanic alphabets used before the adoption of the Latin alphabet; in the novel, they are linked to the fictional Qwghlmian language.
+- **Priapus** (`priapus`) — 1 chapters (B3)
+  - A minor Greek rustic fertility god, protective of livestock and gardens, famously depicted with a permanent, oversized erection.
+- **Märchen** (`marchen`) — 1 chapters (B3)
+  - The German tradition of folklore and fairy tales, which later became a central focus of German Romanticism and national identity.
+- **Märchenwelt** (`marchenwelt`) — 1 chapters (B3)
+  - German for 'fairy-tale world.' Stephenson uses this to contrast the gritty reality of the 17th century with the folkloric, often dark atmosphere of the German woods.
+- **The Gillingham Line (Medway Chain)** (`medway-chain`) — 1 chapters (B3)
+  - A massive defensive iron chain stretched across the River Medway to prevent enemy ships from attacking the English fleet at Chatham.
+- **Thames Watermen** (`thames-watermen`) — 1 chapters (B3)
+  - Licensed river workers who provided essential taxi-like transport across and along the Thames, which was often faster than navigating London's congested streets.
+- **The Rise of Consumerism** (`rise-of-consumerism`) — 1 chapters (B3)
+  - The late 17th century marked the birth of modern retail culture in London, where browsing for luxury goods became a social leisure activity.
+- **The Three-Piece Suit** (`origin-of-the-three-piece-suit`) — 1 chapters (B3)
+  - Introduced by Charles II in 1666 as a way to promote English wool and move away from French-influenced fashions.
+- **Gentleman of the Bedchamber** (`gentleman-of-the-bedchamber`) — 1 chapters (B3)
+  - A high-ranking title for a courtier who waited upon the King, providing intimate access to the monarch.
+- **17th Century Views of the Americas** (`colonial-stereotypes`) — 1 chapters (B3)
+  - Refers to European misconceptions and conspiracy theories regarding the New World, including the idea that Indigenous peoples were the Lost Tribes of Israel.
+- **All Hallows' Eve** (`all-hallows-eve`) — 1 chapters (B3)
+  - The historical precursor to Halloween; Daniel is dismissing Root's talk as supernatural 'hobgoblin-stories' appropriate for that holiday.
+- **Shooting the Bridge** (`shooting-london-bridge`) — 1 chapters (B3)
+  - The narrow arches of Old London Bridge created dangerous rapids (flumes) due to the tide; 'shooting' them in a small boat was a perilous shortcut.
+- **Shooting the Bridge** (`shooting-the-bridge`) — 1 chapters (B3)
+  - Old London Bridge acted as a partial dam due to its narrow arches and large protective 'starlings,' creating dangerous rapids (flumes) that boatmen would 'shoot' for sport or speed.
+- **Bhang** (`bhang`) — 1 chapters (B3)
+  - An edible or smokable preparation of cannabis; its presence here highlights the global trade and diverse population of the London docklands.
+- **You and I are but earth** (`you-and-i-are-but-earth`) — 1 chapters (B3)
+  - A reference to a specific historical anecdote where a witness (or Daniel's father in the novel's lore) defied Jeffreys' intimidation in court.
+- **Royal Birthing Customs** (`royal-birthing-customs`) — 1 chapters (B3)
+  - Refers to the historical practice where numerous witnesses (ministers, courtiers, and family) were required to be present at royal births to ensure the legitimacy of the heir and prevent 'supposititio
+- **Sedan Chair** (`sedan-chair`) — 1 chapters (B3)
+  - An enclosed chair carried on poles by two porters, a common form of urban transport for the wealthy in the 17th and 18th centuries.
+- **Breech birth** (`breech-birth-history`) — 1 chapters (B3)
+  - In the 17th century, a breech birth was extremely dangerous and often fatal for both mother and child due to the lack of modern surgical techniques like C-sections.
+- **Habsburg Jaw** (`habsburg-jaw`) — 1 chapters (B3)
+  - A physical deformity (mandibular prognathism) prevalent in the Habsburg dynasty due to inbreeding, which often caused difficulties with speech and eating.
+- **Sedan chair** (`sedan-chairs`) — 1 chapters (B3)
+  - An enclosed chair carried by two porters on poles; it was a common form of urban transport in 17th and 18th-century London to avoid the filth of the streets.
+- **River Styx** (`river-styx`) — 1 chapters (B3)
+  - In Greek mythology, the river that forms the boundary between Earth and the Underworld.
+
+### Work (49 topics)
+
+- **Philosophiæ Naturalis Principia Mathematica** (`principia-mathematica`) — 6 chapters (B1, B3)
+  - Published in 1687, this is one of the most important works in the history of science, establishing the laws of motion and universal gravitation.
+- **Mercury, or the Secret and Swift Messenger** (`mercury-secret-messenger`) — 4 chapters (B1)
+  - Though the text calls it 'Cryptonomicon' (a nod to Stephenson's other work), it refers to Wilkins's 1641 book on cryptography and linguistics.
+- **Micrographia** (`micrographia`) — 4 chapters (B1, B3)
+  - Robert Hooke's 1665 book 'Micrographia' was a bestseller that featured detailed copperplate illustrations of objects seen under the microscope for the first time, including ants and lice.
+- **Paradise Lost** (`paradise-lost`) — 4 chapters (B1, B2)
+  - John Milton's epic poem (1667) is frequently quoted in the novel to reflect the era's tension between religious tradition and the new 'Empiric' science.
+- **The Pilgrim's Progress** (`the-pilgrims-progress`) — 3 chapters (B1, B3)
+  - A 1678 Christian allegory by John Bunyan, it was one of the most significant works of religious English literature, especially among Puritans.
+- **An Essay Towards a Real Character, and a Philosophical Language** (`an-essay-towards-a-real-character-and-a-philosophical-language`) — 3 chapters (B1, B3)
+  - Daniel is assisting John Wilkins in categorizing all human knowledge for his 'Universal Character,' an ambitious attempt to create a scientific, logical language.
+- **I Ching (Hexagrams)** (`i-ching`) — 3 chapters (B2, B3)
+  - The 'stack of six lines' refers to the hexagrams of the I Ching. Leibniz (the 'Doctor') was famously fascinated by these, seeing them as a precursor to his binary number system.
+- **Acta Eruditorum** (`acta-eruditorum`) — 3 chapters (B2, B3)
+  - The first scientific journal of German-speaking lands, founded by Leibniz in 1682, which became a primary venue for his mathematical papers.
+- **Euclid's Elements** (`euclids-elements`) — 2 chapters (B1)
+  - The ancient Greek treatise on geometry that served as the primary textbook for mathematics for two millennia.
+- **Mercury, or the Secret and Swift Messenger** (`mercury-secret-swift-messenger`) — 2 chapters (B1)
+  - A 1641 book by John Wilkins on cryptography and linguistics, which was the first English-language book on the subject.
+- **Kama Sutra** (`kama-sutra`) — 2 chapters (B2)
+  - An ancient Indian Sanskrit text on sexuality and emotional fulfillment, which would have been viewed as exotic and scandalous 'book-learning' in 17th-century Europe.
+- **Picaresque novel** (`picaresque-novel`) — 2 chapters (B2)
+  - A popular genre of the era (e.g., 'Lazarillo de Tormes') featuring a low-born adventurer surviving by their wits. The Doctor is teasing Jack and Eliza, as their lives mirror this literary form.
+- **The Book of Daniel** (`book-of-daniel`) — 2 chapters (B3)
+  - A biblical book containing apocalyptic visions and prophecies, which were of intense interest to 17th-century scholars like Newton.
+- **Cryptonomicon (fictional book)** (`cryptonomicon-book`) — 1 chapters (B1)
+  - A fictional book within the novel (and a reference to Stephenson's previous novel) concerning codes and hidden knowledge.
+- **The Mysteries of Nature and Art by John Bate** (`mysteries-of-nature-and-art`) — 1 chapters (B1)
+  - A popular 17th-century book on mechanical devices, fireworks, and drawing that famously inspired the young Isaac Newton.
+- **Principia Philosophica** (`principia-philosophica`) — 1 chapters (B1)
+  - Descartes' 1644 work which attempted to explain the laws of nature and the movement of planets through mechanical principles.
+- **The Sceptical Chymist** (`the-sceptical-chymist`) — 1 chapters (B1)
+  - Published in 1661 by Robert Boyle, this foundational text of modern chemistry attacked the old Aristotelian and alchemical views of the four elements.
+- **Book of Common Prayer** (`book-of-common-prayer`) — 1 chapters (B1)
+  - The foundational prayer book of the Church of England; its use was a point of major contention between Anglicans and Puritans/Dissenters.
+- **Newton's List of Sins** (`newtons-list-of-sins`) — 1 chapters (B1)
+  - This refers to a real historical document found in Newton's notebooks where he recorded 49 sins committed before and after Whitsunday 1662.
+- **Experiments and Considerations Touching Colours** (`experiments-and-considerations-touching-colours`) — 1 chapters (B1)
+  - A 1664 treatise by Robert Boyle that documented various observations on how colors change under different physical conditions.
+- **The Discovery of a World in the Moone** (`the-discovery-of-a-world-in-the-moone`) — 1 chapters (B1)
+  - Wilkins wrote a famous 1638 book speculating on the habitability of the moon and the possibility of traveling there using 'flying chariots.'
+- **An Essay Towards a Real Character, and a Philosophical Language** (`wilkins-real-character`) — 1 chapters (B1)
+  - John Wilkins' 1668 work attempting to create a universal language by categorizing all human knowledge into a hierarchical system.
+- **An Essay Towards a Real Character, and a Philosophical Language** (`an-essay-towards-a-real-character`) — 1 chapters (B1)
+  - John Wilkins' 1668 work attempted to create a universal language where words reflected the nature of the things they represented, organized into a vast taxonomic system.
+- **Eikonoklastes** (`eikonoklastes`) — 1 chapters (B1)
+  - A book by John Milton published in 1649, written as a justification for the execution of Charles I and a rebuttal to 'Eikon Basilike,' which portrayed the king as a martyr.
+- **Biblical Prophecy** (`biblical-prophecy`) — 1 chapters (B1)
+  - The primary sources for Christian eschatology; 17th-century millenarians used these texts to calculate the date of the Second Coming.
+- **Philosophical Language** (`philosophical-language`) — 1 chapters (B1)
+  - Wilkins's attempt to create a universal artificial language where words expressed the actual nature of the things they represented.
+- **The Apotheosis of James I (Rubens Ceiling)** (`rubens-whitehall-ceiling`) — 1 chapters (B1)
+  - One of the panels in the Rubens ceiling depicts Minerva (Wisdom) defeating Ignorance and Rebellion, a potent symbol of the Divine Right of Kings.
+- **Hypothesis Physica Nova** (`hypothesis-physica-nova`) — 1 chapters (B1)
+  - A 1671 work by Leibniz where he attempted to explain physical phenomena through a theory of motion and the 'ether'.
+- **Thomas Hobbes's Leviathan** (`thomas-hobbes-leviathan`) — 1 chapters (B1)
+  - A foundational work of modern political philosophy (1651) that argues for the necessity of a strong central authority to avoid the 'state of nature.'
+- **Theatrum Chemicum** (`theatrum-chemicum`) — 1 chapters (B1)
+  - A massive and influential compendium of early alchemical writings published in the 17th century.
+- **New Atlantis** (`new-atlantis`) — 1 chapters (B1)
+  - An incomplete utopian novel by Francis Bacon (1627) that envisioned a society dedicated to scientific discovery and human knowledge.
+- **The Pilgrim's Progress** (`pilgrims-progress`) — 1 chapters (B1)
+  - A 1678 Christian allegory by John Bunyan, written while he was imprisoned for nonconformity; it is one of the most significant works of English literature and central to Puritan culture.
+- **Magna Carta** (`magna-carta`) — 1 chapters (B2)
+  - Jack is referring to the Magna Carta and the emerging English concept of 'the rights of an Englishman,' which contrasted with the more feudal systems of Central and Eastern Europe.
+- **The Qur'an** (`quran`) — 1 chapters (B2)
+  - The central religious text of Islam. The reference highlights the religious identity of the Barbary raiders as 'Mahometans' (Muslims) to the young Eliza.
+- **Mercury, or the Secret and Swift Messenger** (`mercury-or-the-secret-and-swift-messenger`) — 1 chapters (B2)
+  - A reference to Wilkins's 1641 work on cryptography. Stephenson uses the fictional title 'Cryptonomicon' as a nod to his other famous novel.
+- **Hava Nagila** (`hava-nagila`) — 1 chapters (B2)
+  - A Jewish folk song. Its appearance here is an intentional anachronism by Stephenson, as the modern lyrics were not written until 1918, though the melody is based on an older Hasidic nigun.
+- **Brevis Demonstratio** (`brevis-demonstratio`) — 1 chapters (B3)
+  - A 1686 paper by Leibniz where he argued that Descartes' laws of motion were incorrect regarding the conservation of 'force' (kinetic energy).
+- **Syphilis: or, a Poetical History of the French Disease** (`syphilis-poem`) — 1 chapters (B3)
+  - A real 1686 translation by the Poet Laureate Nahum Tate of Girolamo Fracastoro's 1530 poem, which gave the disease its name.
+- **The Assayer** (`the-assayer`) — 1 chapters (B3)
+  - A seminal 1623 book by Galileo Galilei regarding the scientific method and the use of mathematics to understand the universe.
+- **De Motu Corporum in Gyrum** (`de-motu-corporum-in-gyrum`) — 1 chapters (B3)
+  - Newton's 1684 manuscript ('On the motion of bodies in an orbit') which provided the mathematical foundation for universal gravitation.
+- **De Motu Corporum in Gyrum** (`de-motu`) — 1 chapters (B3)
+  - Newton's short manuscript sent to Halley in 1684, which provided the mathematical foundation for orbital mechanics and preceded the Principia.
+- **Journal des Savants** (`journal-des-savants`) — 1 chapters (B3)
+  - The earliest academic journal published in Europe (established 1665), representing the intellectual output of the French scientific community.
+- **Geneva Bible** (`geneva-bible`) — 1 chapters (B3)
+  - The primary Bible of 16th-century English Protestantism, favored by Puritans for its anti-authoritarian marginal notes, even after the King James Version was released.
+- **Solomon's Temple** (`solomons-temple-reconstruction`) — 1 chapters (B3)
+  - Newton was obsessed with the architecture of Solomon's Temple, believing its floor plan encoded the structure of the universe and the 'System of the World.'
+- **De Motu Corporum in Gyrum** (`de-motu-corporum`) — 1 chapters (B3)
+  - A short manuscript sent by Newton to Edmond Halley in 1684, which provided the mathematical derivation of Kepler's laws and served as the precursor to the 'Principia.'
+- **John Ball** (`adam-delved-eve-span`) — 1 chapters (B3)
+  - A rhyme associated with the Peasants' Revolt of 1381, used to challenge the social hierarchy by implying all humans are equal by birth.
+- **Principia Philosophiae** (`principles-of-philosophy-descartes`) — 1 chapters (B3)
+  - A book published by Descartes in 1644 that attempted to provide a framework for all of physics on philosophical principles.
+- **Lilliburlero** (`lilliburlero`) — 1 chapters (B3)
+  - A popular satirical march with nonsense lyrics used to mock Irish Catholics and King James II; it became the anthem of the Williamite cause during the Glorious Revolution.
+- **De Historia Piscium** (`de-historia-piscium`) — 1 chapters (B3)
+  - A lavishly illustrated book on fish published by the Royal Society in 1686; its high cost nearly bankrupted the Society, famously forcing them to pay Isaac Newton's salary in copies of the book.
+
+### Group (1 topics)
+
+- **Barbary Pirates** (`barbary-pirates`) — 3 chapters (B1, B2)
+  - Privateers operating from North Africa who preyed on European shipping and conducted slave raids; the English Navy frequently attempted to suppress them.
+
+### Practice (1 topics)
+
+- **Execution Dock** (`pirate-execution-customs`) — 1 chapters (B1)
+  - Refers to the historical legal requirement that executed pirates be hanged at the low-tide mark to signify Admiralty jurisdiction, remaining until three tides had passed over them.
+
+### Unknown (4 topics)
+
+- **Saltpeter and Brimstone** (`saltpeter-and-brimstone`) — 1 chapters (B2)
+  - Saltpeter (potassium nitrate) and brimstone (sulfur) are two of the three essential ingredients for gunpowder, highlighting the industrial and military nature of the cargo.
+- **Malabar Coast** (`malabar-coast`) — 1 chapters (B3)
+  - The southwestern coast of India, a critical region for the spice trade and a major theater of competition between the Dutch, Portuguese, and English East India Companies.
+- **Bagnio** (`bagnio`) — 1 chapters (B3)
+  - The term (derived from the Italian for 'bath') used to describe the crowded, often squalid quarters where slaves were kept in the Barbary States.
+- **Anal Fistula of Louis XIV** (`fistula-of-louis-xiv`) — 1 chapters (B3)
+  - A major historical event in 1686 (though referenced here in 1685) where Louis XIV underwent a dangerous and public surgery; its success was celebrated as a national triumph and influenced court fashio
+
+## Priority Tiers
+
+### Tier 1: 8+ chapters (write first)
+
+- **Christiaan Huygens** (`christiaan-huygens`) — 21 chapters (B1, B2, B3)
+- **John Churchill, 1st Duke of Marlborough** (`john-churchill`) — 17 chapters (B1, B2, B3)
+- **William III of England (William of Orange)** (`william-iii-of-orange`) — 15 chapters (B1, B2, B3)
+- **René Descartes** (`rene-descartes`) — 14 chapters (B1, B3)
+- **Sophia of the Palatinate and Ernest Augustus, Elector of Hanover** (`sophia-of-the-palatinate`) — 13 chapters (B1, B2, B3)
+- **Duke of Monmouth** (`duke-of-monmouth`) — 13 chapters (B1, B2, B3)
+- **Robert Boyle** (`robert-boyle`) — 12 chapters (B1, B3)
+- **The Thirty Years' War** (`thirty-years-war`) — 10 chapters (B1, B2, B3)
+- **Sir Christopher Wren** (`christopher-wren`) — 10 chapters (B1, B3)
+- **Humorism** (`humorism`) — 9 chapters (B1, B2, B3)
+- **Huguenots** (`huguenots`) — 9 chapters (B1, B2, B3)
+- **Whitehall Palace** (`whitehall-palace`) — 9 chapters (B1, B3)
+- **Jean-Antoine de Mesmes, Comte d'Avaux** (`comte-davaux`) — 9 chapters (B2, B3)
+- **The Calculus Priority Dispute** (`the-calculus-priority-dispute`) — 8 chapters (B1, B3)
+- **Nicaise Le Febure** (`nicaise-le-febure`) — 8 chapters (B1, B3)
+- **Gresham College** (`gresham-college`) — 8 chapters (B1, B3)
+- **Trinity College, Cambridge** (`trinity-college-cambridge`) — 8 chapters (B1, B3)
+- **Enemies of France** (`franco-dutch-war`) — 8 chapters (B1, B2)
+- **Battle of Vienna (1683)** (`battle-of-vienna`) — 8 chapters (B2, B3)
+- **Janissaries** (`janissaries`) — 8 chapters (B2, B3)
+
+### Tier 2: 4-7 chapters
+
+- **Thomas Hobbes** (`thomas-hobbes`) — 7 chapters (B1, B2, B3)
+- **Elizabeth Stuart, Queen of Bohemia** (`the-winter-queen`) — 7 chapters (B1, B2, B3)
+- **Baruch Spinoza** (`baruch-spinoza`) — 7 chapters (B1, B2, B3)
+- **The Society of Jesus (Jesuits)** (`jesuits`) — 7 chapters (B1, B2, B3)
+- **Jack Ketch** (`jack-ketch`) — 6 chapters (B1, B2, B3)
+- **Spanish Dollar (Real de a Ocho)** (`piece-of-eight`) — 6 chapters (B1, B2)
+- **Daniel Defoe** (`daniel-defoe`) — 6 chapters (B1, B2, B3)
+- **The Interregnum** (`the-interregnum`) — 6 chapters (B1, B2)
+- **Philosophiæ Naturalis Principia Mathematica** (`principia-mathematica`) — 6 chapters (B1, B3)
+- **Company of Royal Adventurers Trading into Africa** (`royal-african-company`) — 6 chapters (B1)
+- **Bethlem Royal Hospital (Bedlam)** (`bedlam`) — 6 chapters (B1, B3)
+- **Bioluminescence / Phosphorus** (`discovery-of-phosphorus`) — 6 chapters (B1, B2, B3)
+- **Siege of Maastricht (1673)** (`siege-of-maastricht`) — 6 chapters (B1, B2, B3)
+- **Bills of Exchange** (`bills-of-exchange`) — 6 chapters (B2, B3)
+- **Nicolas Fatio de Duilliers** (`nicolas-fatio-de-duillier`) — 6 chapters (B3)
+- **William Laud** (`william-laud`) — 5 chapters (B1, B3)
+- **Euclid** (`euclid`) — 5 chapters (B1, B3)
+- **Princess Caroline of Ansbach** (`princess-caroline-of-ansbach`) — 5 chapters (B1, B3)
+- **Stourbridge Fair** (`stourbridge-fair`) — 5 chapters (B1, B3)
+- **English Dissenters** (`english-dissenters`) — 5 chapters (B1, B3)
+- **Sir Robert Moray** (`robert-moray`) — 5 chapters (B1, B3)
+- **The Great Fire of London** (`the-great-fire-of-london`) — 5 chapters (B1, B2)
+- **Dutch East India Company (VOC)** (`voc-dutch-east-india-company`) — 5 chapters (B1, B2, B3)
+- **Sir Winston Churchill (1620–1688)** (`sir-winston-churchill-cavalier`) — 5 chapters (B1, B2, B3)
+- **The Holy Roman Empire** (`holy-roman-empire`) — 5 chapters (B1, B2, B3)
+- **John Flamsteed** (`john-flamsteed`) — 5 chapters (B1, B3)
+- **Liselotte (Elizabeth Charlotte, Madame Palatine)** (`elizabeth-charlotte-madame-palatine`) — 5 chapters (B2, B3)
+- **The Binnenhof** (`binnenhof`) — 5 chapters (B2, B3)
+- **Palace of Versailles** (`palace-of-versailles`) — 5 chapters (B2, B3)
+- **Cabinet Noir** (`cabinet-noir`) — 5 chapters (B3)
+- **Charles II of Spain** (`charles-ii-of-spain`) — 4 chapters (B1, B3)
+- **Action at a Distance** (`action-at-a-distance`) — 4 chapters (B1, B3)
+- **Mercury, or the Secret and Swift Messenger** (`mercury-secret-messenger`) — 4 chapters (B1)
+- **Galileo Galilei** (`galileo-galilei`) — 4 chapters (B1, B3)
+- **Monadology** (`monadology`) — 4 chapters (B1, B2, B3)
+- **Sir Roger L'Estrange** (`roger-lestrange`) — 4 chapters (B1, B3)
+- **The Dutch Republic** (`dutch-republic`) — 4 chapters (B1, B2, B3)
+- **Newton's Law of Universal Gravitation** (`universal-gravitation`) — 4 chapters (B1)
+- **John Bunyan** (`john-bunyan`) — 4 chapters (B1, B2, B3)
+- **Sir Thomas Gresham** (`thomas-gresham`) — 4 chapters (B1, B3)
+- **Grubendol** (`grubendol`) — 4 chapters (B1, B3)
+- **Micrographia** (`micrographia`) — 4 chapters (B1, B3)
+- **Anne Hyde** (`anne-hyde`) — 4 chapters (B1, B3)
+- **The Cabal Ministry** (`cabal-ministry`) — 4 chapters (B1, B3)
+- **Barbara Palmer, 1st Duchess of Cleveland (Lady Castlemaine)** (`lady-castlemaine`) — 4 chapters (B1, B2)
+- **Treaty of Dover** (`treaty-of-dover`) — 4 chapters (B1, B2)
+- **Philippe I, Duke of Orléans (Monsieur)** (`philippe-i-duke-of-orleans`) — 4 chapters (B1, B3)
+- **The Royal Exchange** (`royal-exchange`) — 4 chapters (B1, B3)
+- **Third Anglo-Dutch War** (`third-anglo-dutch-war`) — 4 chapters (B1)
+- **Spanish Netherlands** (`spanish-netherlands`) — 4 chapters (B1, B2, B3)
+- **Nell Gwyn** (`nell-gwyn`) — 4 chapters (B1, B2, B3)
+- **Paradise Lost** (`paradise-lost`) — 4 chapters (B1, B2)
+- **Bibliothèque nationale de France** (`bibliotheque-du-roi`) — 4 chapters (B1, B2, B3)
+- **Jean-Baptiste Colbert** (`jean-baptiste-colbert`) — 4 chapters (B1, B3)
+- **Royal Declaration of Indulgence (1672)** (`declaration-of-indulgence`) — 4 chapters (B1, B3)
+- **Mary of Modena** (`mary-of-modena`) — 4 chapters (B1, B3)
+- **Calculus** (`calculus`) — 4 chapters (B1, B3)
+- **Barbary Pirates and White Slavery** (`barbary-slave-trade`) — 4 chapters (B2, B3)
+- **Kuxen (Mining Shares)** (`kuxen`) — 4 chapters (B2)
+- **Amsterdam Stock Exchange (Beurs van Hendrick de Keyser)** (`amsterdam-stock-exchange`) — 4 chapters (B2, B3)
+- **Françoise d'Aubigné, Marquise de Maintenon** (`madame-de-maintenon`) — 4 chapters (B2, B3)
+- **Bloodletting** (`bloodletting`) — 4 chapters (B2, B3)
+- **Nonconformists** (`nonconformists`) — 4 chapters (B3)
+- **The Bloody Assizes** (`bloody-assizes`) — 4 chapters (B3)
+- **Bonaventure Rossignol** (`bonaventure-rossignol`) — 4 chapters (B3)
+
+### Tier 3: 2-3 chapters
+
+(198 topics — see full list in type sections above)
+
+### Tier 4: 1 chapter only
+
+(909 topics — may not need dedicated pages, just inline context)

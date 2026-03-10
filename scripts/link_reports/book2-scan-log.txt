@@ -1,0 +1,129 @@
+Loaded 53 existing topic pages
+Chapters to scan: 18
+
+  [1/18]   Scanning 'The Mud Below London' (27143 chars, 4 chunks)
+    Chunk 1/4... 5 references found
+    Chunk 2/4... 10 references found
+    Chunk 3/4... 8 references found
+    Chunk 4/4... 9 references found
+  [2/18]   Scanning 'The Continent' (64534 chars, 9 chunks)
+    Chunk 1/9... 12 references found
+    Chunk 2/9... 10 references found
+    Chunk 3/9... 10 references found
+    Chunk 4/9... 8 references found
+    Chunk 5/9... 7 references found
+    Chunk 6/9... 7 references found
+    Chunk 7/9... 7 references found
+    Chunk 8/9... 9 references found
+    Chunk 9/9... 4 references found
+  [3/18]   Scanning 'Erstwhile Camp of Grand Vizier Khan Mustapha' (31284 chars, 5 chunks)
+    Chunk 1/5... 9 references found
+    Chunk 2/5... 8 references found
+    Chunk 3/5... 10 references found
+    Chunk 4/5... 7 references found
+    Chunk 5/5... 3 references found
+  [4/18]   Scanning 'Bohemia' (30471 chars, 4 chunks)
+    Chunk 1/4... 9 references found
+    Chunk 2/4... 12 references found
+    Chunk 3/4... 12 references found
+    Chunk 4/4... 8 references found
+  [5/18]   Scanning 'Bohemia' (20885 chars, 3 chunks)
+    Chunk 1/3... 10 references found
+    Chunk 2/3... 9 references found
+    Chunk 3/3... 8 references found
+  [6/18]   Scanning 'Leipzig' (41274 chars, 6 chunks)
+    Chunk 1/6... 13 references found
+    Chunk 2/6... 11 references found
+    Chunk 3/6... 10 references found
+    Chunk 4/6... 10 references found
+    Chunk 5/6... 12 references found
+    Chunk 6/6... 5 references found
+  [7/18]   Scanning 'Saxony' (48084 chars, 7 chunks)
+    Chunk 1/7... 10 references found
+    Chunk 2/7... 11 references found
+    Chunk 3/7... 12 references found
+    Chunk 4/7... 10 references found
+    Chunk 5/7... 7 references found
+    Chunk 6/7... 7 references found
+    Chunk 7/7... 3 references found
+  [8/18]   Scanning 'The Harz Mountains' (35034 chars, 5 chunks)
+    Chunk 1/5... 7 references found
+    Chunk 2/5... 6 references found
+    Chunk 3/5... 6 references found
+    Chunk 4/5... 7 references found
+    Chunk 5/5... 8 references found
+  [9/18]   Scanning 'The Place' (44785 chars, 6 chunks)
+    Chunk 1/6... 11 references found
+    Chunk 2/6... 9 references found
+    Chunk 3/6... 11 references found
+    Chunk 4/6... 10 references found
+    Chunk 5/6... 10 references found
+    Chunk 6/6... 7 references found
+  [10/18]   Scanning 'The Dutch Republic' (46755 chars, 7 chunks)
+    Chunk 1/7... 14 references found
+    Chunk 2/7... 8 references found
+    Chunk 3/7... 10 references found
+    Chunk 4/7... 9 references found
+    Chunk 5/7... 10 references found
+    Chunk 6/7... 14 references found
+    Chunk 7/7... 2 references found
+  [11/18]   Scanning 'Paris' (24051 chars, 4 chunks)
+    Chunk 1/4... 11 references found
+    Chunk 2/4... 12 references found
+    Chunk 3/4... 11 references found
+    Chunk 4/4... 3 references found
+  [12/18]   Scanning 'The Hague' (44735 chars, 6 chunks)
+    Chunk 1/6... 10 references found
+    Chunk 2/6... 11 references found
+    Chunk 3/6... 11 references found
+    Chunk 4/6... 13 references found
+    Chunk 5/6... 11 references found
+    Chunk 6/6... 7 references found
+  [13/18]   Scanning 'France' (27259 chars, 4 chunks)
+    Chunk 1/4... 10 references found
+    Chunk 2/4... 9 references found
+    Chunk 3/4... 10 references found
+    Chunk 4/4... 6 references found
+  [14/18]   Scanning 'Amsterdam' (31361 chars, 5 chunks)
+    Chunk 1/5... 16 references found
+    Chunk 2/5... 12 references found
+    Chunk 3/5... JSON parse error: Extra data: line 82 column 2 (char 3857)
+  Raw response: [
+  {
+    "quote": "Monsieur d’Avaux, I’m shocked to hear you say such a thing.",
+    "subject": "Jean-Antoine de Mesmes, Comte d'Avaux",
+    "type": "person",
+    "existing_topic": null,
+    "suggest
+    Chunk 4/5... 14 references found
+    Chunk 5/5... 1 references found
+  [15/18]   Scanning 'Paris' (47551 chars, 7 chunks)
+    Chunk 1/7... 10 references found
+    Chunk 2/7... 7 references found
+    Chunk 3/7... 7 references found
+    Chunk 4/7... 10 references found
+    Chunk 5/7... 9 references found
+    Chunk 6/7... 7 references found
+    Chunk 7/7... 2 references found
+  [16/18]   Scanning 'Amsterdam' (22672 chars, 3 chunks)
+    Chunk 1/3... 8 references found
+    Chunk 2/3... 11 references found
+    Chunk 3/3... 10 references found
+  [17/18]   Scanning 'Amsterdam' (27325 chars, 4 chunks)
+    Chunk 1/4... 9 references found
+    Chunk 2/4... 8 references found
+    Chunk 3/4... 13 references found
+    Chunk 4/4... 6 references found
+  [18/18]   Scanning 'Coast of Europe and of Northern Africa' (24631 chars, 4 chunks)
+    Chunk 1/4... 11 references found
+    Chunk 2/4... 5 references found
+    Chunk 3/4... 8 references found
+    Chunk 4/4... 3 references found
+
+Filtered: 813 raw → 756 after noise removal
+
+Raw findings: /Users/nathanbraun/code/github.com/nathanbraun/quicksilver-wiki/enhanced/scripts/link_reports/scan-book2-raw.json
+Clean findings: /Users/nathanbraun/code/github.com/nathanbraun/quicksilver-wiki/enhanced/scripts/link_reports/scan-book2-clean-clean.json
+Report: /Users/nathanbraun/code/github.com/nathanbraun/quicksilver-wiki/enhanced/scripts/link_reports/report-book2.md
+
+Unique references: 447 (29 existing, 418 new)

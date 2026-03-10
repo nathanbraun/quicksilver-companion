@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getChaptersByBook, getNextChapterPage } from '../../utils/chapters';
+
+export function getStaticPaths() {
+  return [
+    { params: { book: '1' } },
+    { params: { book: '2' } },
+    { params: { book: '3' } },
+  ];
+}
+
+const bookNum = parseInt(Astro.params.book!);
+const bookNames: Record<number, string> = {
+  1: 'Quicksilver',
+  2: 'King of the Vagabonds',
+  3: 'Odalisque',
+};
+const bookDescs: Record<number, string> = {
+  1: 'The story alternates between Daniel Waterhouse\'s 1713 voyage aboard the Minerva and his memories of Cambridge in the 1660s and London in the 1670s, where he witnessed the birth of modern science alongside Isaac Newton, Robert Hooke, and the Royal Society.',
+  2: 'Jack Shaftoe, "Half-Cocked Jack," rescues Eliza from a Turkish harem at the siege of Vienna. Together they cross Europe, encountering Leibniz in the silver mines of the Harz mountains and the financial markets of Amsterdam.',
+  3: 'Eliza navigates the intrigues of Louis XIV\'s court at Versailles while Daniel contends with political upheaval in London, all building toward the Glorious Revolution of 1688.',
+};
+
+const chapters = getChaptersByBook(bookNum);
+const annotations = await getCollection('annotations');
+const bookAnnotations = annotations.filter(a => a.data.book === bookNum);
+
+// Count annotations per chapter
+function getAnnotationsInChapter(chapterPage: number, nextChapterPage: number | undefined) {
+  const end = nextChapterPage ?? Infinity;
+  return bookAnnotations.filter(a => a.data.page >= chapterPage && a.data.page < end);
+}
+---
+
+<BaseLayout title={`Book ${bookNum}: ${bookNames[bookNum]}`}>
+  <div class="content-narrow">
+    <h1>Book {bookNum}: {bookNames[bookNum]}</h1>
+    <p>{bookDescs[bookNum]}</p>
+    <p style="font-size: 0.9rem; color: var(--color-text-muted);">
+      {chapters.length} chapters &middot; {bookAnnotations.length} annotations
+    </p>
+
+    <h2>Chapters</h2>
+    <ul class="chapter-list">
+      {chapters.map((ch, i) => {
+        const nextPage = i < chapters.length - 1 ? chapters[i + 1].page : getNextChapterPage(ch.page);
+        const chAnnotations = getAnnotationsInChapter(ch.page, nextPage);
+        return (
+          <li>
+            <span class="chapter-page">p.{ch.page}</span>
+            <span class="chapter-location">{ch.location}</span>
+            <span class="chapter-date"> &mdash; {ch.date}</span>
+            {chAnnotations.length > 0 && (
+              <span style="font-size: 0.85rem; color: var(--color-text-muted);">
+                &middot; <a href={`/page/${chAnnotations[0].data.page}`}>{chAnnotations.length} annotation{chAnnotations.length !== 1 ? 's' : ''}</a>
+              </span>
+            )}
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+</BaseLayout>

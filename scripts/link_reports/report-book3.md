@@ -1,0 +1,1340 @@
+# Quicksilver Reading Guide — Reference Scan Report
+
+Total unique references: 456
+Already have topic pages: 36
+Need new topic pages: 420
+
+## Existing Topics — Chapter Appearances
+
+These topics already have wiki pages. Use this to add links in annotations.
+
+- **Gottfried Wilhelm von Leibniz** (`gottfried-wilhelm-von-leibniz`) — 12 chapters
+  - Chapters: Whitehall Palace, Versailles, London, Dorset, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague, The Star Chamber, Westminster Palace, Tower of London, Château Juvisy, Rossignol to Louis XIV Continued, Sheerness, England, Venice
+- **James II** (`james-ii`) — 10 chapters
+  - Chapters: Whitehall Palace, London, Beach North of Scheveningen, Dorset, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague, The Star Chamber, Westminster Palace, Tower of London, Sheerness, England, The Hague
+- **Isaac Newton** (`isaac-newton`) — 10 chapters
+  - Chapters: Whitehall Palace, London, Dorset, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague, Tower of London, Rossignol to Louis XIV Continued, Sheerness, England, Venice, Bishopsgate
+- **William III of England** (`glorious-revolution`) — 10 chapters
+  - Chapters: Whitehall Palace, Beach North of Scheveningen, Dorset, Bank of Het Kanaal, Between Scheveningen and the Hague, Tower of London, Rossignol to Louis XIV Continued, Sheerness, England, Venice, The Hague, Bishopsgate
+- **monmouth** (`monmouth`) — 9 chapters
+  - Chapters: Whitehall Palace, London, Beach North of Scheveningen, Dorset, The Exchange [Between Threadneedle and Cornhill], Versailles, The Star Chamber, Westminster Palace, Tower of London, Sheerness, England
+- **The Royal Society** (`royal-society`) — 8 chapters
+  - Chapters: Whitehall Palace, London, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague, The Star Chamber, Westminster Palace, Tower of London, Sheerness, England, Bishopsgate
+- **Robert Hooke** (`robert-hooke`) — 8 chapters
+  - Chapters: Whitehall Palace, London, Dorset, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague, The Star Chamber, Westminster Palace, Tower of London, Bishopsgate
+- **Louis XIV** (`louis-xiv`) — 8 chapters
+  - Chapters: Whitehall Palace, Versailles, London, Beach North of Scheveningen, Bank of Het Kanaal, Between Scheveningen and the Hague, St. Cloud, Rossignol to Louis XIV Continued, Venice
+- **Judge Jeffreys** (`judge-jeffreys`) — 8 chapters
+  - Chapters: Whitehall Palace, Dorset, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague, The Star Chamber, Westminster Palace, Tower of London, Sheerness, England, Bishopsgate
+- **Natural Philosophy** (`natural-philosophy`) — 7 chapters
+  - Chapters: London, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague, The Star Chamber, Westminster Palace, Tower of London, The Hague, Bishopsgate
+- **Oliver Cromwell** (`oliver-cromwell`) — 5 chapters
+  - Chapters: Whitehall Palace, London, Dorset, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague
+- **Whitehall Palace** (`restoration-london`) — 5 chapters
+  - Chapters: Whitehall Palace, The Exchange [Between Threadneedle and Cornhill], Rossignol to Louis XIV Continued, The Hague, Bishopsgate
+- **Anti-Catholicism in England** (`puritans`) — 5 chapters
+  - Chapters: Whitehall Palace, Bank of Het Kanaal, Between Scheveningen and the Hague, Tower of London, Rossignol to Louis XIV Continued, Sheerness, England
+- **John Wilkins** (`john-wilkins`) — 5 chapters
+  - Chapters: Versailles, London, The Exchange [Between Threadneedle and Cornhill], Tower of London, Bishopsgate
+- **alchemy** (`alchemy`) — 5 chapters
+  - Chapters: London, Tower of London, Sheerness, England, The Hague, Bishopsgate
+- **apocalypticism** (`apocalypticism`) — 4 chapters
+  - Chapters: Whitehall Palace, London, Bank of Het Kanaal, Between Scheveningen and the Hague, Sheerness, England
+- **Leibniz's Stepped Reckoner** (`computing-machines`) — 4 chapters
+  - Chapters: Versailles, London, Rossignol to Louis XIV Continued, Bishopsgate
+- **The Calculus Priority Dispute** (`calculus-priority-dispute`) — 4 chapters
+  - Chapters: London, The Exchange [Between Threadneedle and Cornhill], Bank of Het Kanaal, Between Scheveningen and the Hague, The Hague
+- **Caroline of Ansbach** (`caroline-of-ansbach`) — 4 chapters
+  - Chapters: French Embassy, the Hague, Rossignol to Louis XIV Continued, Venice, The Hague
+- **charles-ii** (`charles-ii`) — 3 chapters
+  - Chapters: Whitehall Palace, London, Sheerness, England
+- **Samuel Pepys** (`samuel-pepys`) — 3 chapters
+  - Chapters: Whitehall Palace, Tower of London, Bishopsgate
+- **Sophia of the Palatinate** (`hanoverian-succession`) — 3 chapters
+  - Chapters: Whitehall Palace, Rossignol to Louis XIV Continued, Venice
+- **great-fire-of-london** (`great-fire-of-london`) — 3 chapters
+  - Chapters: London, Sheerness, England, Bishopsgate
+- **quicksilver-mercury** (`quicksilver-mercury`) — 2 chapters
+  - Chapters: Whitehall Palace, Venice
+- **Charles I** (`charles-i`) — 2 chapters
+  - Chapters: Whitehall Palace, Sheerness, England
+- **Henry Oldenburg** (`henry-oldenburg`) — 2 chapters
+  - Chapters: London, Tower of London
+- **The Longitude Problem** (`longitude`) — 2 chapters
+  - Chapters: London, Sheerness, England
+- **New Model Army** (`english-civil-war`) — 2 chapters
+  - Chapters: Dorset, Sheerness, England
+- **John Locke** (`john-locke`) — 2 chapters
+  - Chapters: Sheerness, England, Bishopsgate
+- **Newton's Optics** (`newtons-optics`) — 1 chapters
+  - Chapters: London
+- **Bob Shaftoe** (`bob-shaftoe`) — 1 chapters
+  - Chapters: Dorset
+- **An Essay Towards a Real Character and a Philosophical Language** (`universal-characteristic`) — 1 chapters
+  - Chapters: The Exchange [Between Threadneedle and Cornhill]
+- **The Bernoulli Family** (`bernoulli-family`) — 1 chapters
+  - Chapters: Bank of Het Kanaal, Between Scheveningen and the Hague
+- **Coffeehouses** (`coffeehouses`) — 1 chapters
+  - Chapters: The Star Chamber, Westminster Palace
+- **Enoch Root** (`enoch-root`) — 1 chapters
+  - Chapters: The Hague
+- **The Plague** (`plague`) — 1 chapters
+  - Chapters: Bishopsgate
+
+## New Topics Needed
+
+Grouped by type, sorted by number of chapter appearances.
+
+### Persons
+
+- **Christiaan Huygens** (`christiaan-huygens`) — 11 chapters
+  - A prominent Dutch mathematician and physicist who discovered Titan and invented the pendulum clock.
+  - Example: "Titan (the moon of Saturn that Huygens had discovered)" (London)
+- **William III of Orange** (`william-iii-of-orange`) — 9 chapters
+  - The Dutch Stadtholder based in the Hague, who was the primary Protestant alternative to James II and eventually took the English throne in the Gloriou
+  - Example: "the one who has been spotted in the Hague?" (London)
+- **René Descartes** (`rene-descartes`) — 8 chapters
+  - The French philosopher whose mechanical view of the universe Leibniz and others were beginning to challenge.
+  - Example: "Dr. Leibniz has been saying some very rude things about Descartes lately" (Whitehall Palace)
+- **Jean-Antoine de Mesmes, Comte d'Avaux** (`comte-davaux`) — 8 chapters
+  - A veteran French diplomat and ambassador to the Dutch Republic (The Hague) during the 1680s, known for his extensive spy network.
+  - Example: "To M. le comte d’Avaux" (Versailles)
+- **Sophia of the Palatinate** (`sophia-of-the-palatinate`) — 7 chapters
+  - Electress of Hanover and a key figure in the Hanoverian Succession; she was a patron of Leibniz and a granddaughter of James I of England.
+  - Example: "making a study of family trees for Sophie" (Versailles)
+- **John Churchill, 1st Duke of Marlborough** (`john-churchill`) — 6 chapters
+  - A brilliant military commander and courtier who rose to prominence under James II before famously defecting to William of Orange.
+  - Example: "John Churchill’s regiment of Guards" (Whitehall Palace)
+- **Nicolas Fatio de Duillier** (`nicolas-fatio-de-duillier`) — 5 chapters
+  - A Swiss mathematician known for his work on zodiacal light and his close, controversial relationship with Isaac Newton.
+  - Example: "a Swiss mathematician named Fatio" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Jack Ketch** (`jack-ketch`) — 4 chapters
+  - A notorious English executioner under Charles II and James II whose name became a generic term for the hangman.
+  - Example: "Kiss Jack Ketch and forgive him in advance." (Whitehall Palace)
+- **John Flamsteed** (`john-flamsteed`) — 4 chapters
+  - The first Astronomer Royal, known for his meticulous observations and his frequent professional clashes with Newton and Halley.
+  - Example: "And with Flamsteed around to depress the statistics" (London)
+- **Christopher Wren** (`christopher-wren`) — 4 chapters
+  - The famed architect of St. Paul's Cathedral and a founding member of the Royal Society with a background in astronomy.
+  - Example: "Christopher Wren" (London)
+- **Elizabeth Stuart, Queen of Bohemia** (`the-winter-queen`) — 3 chapters
+  - The daughter of James I, her brief reign in Bohemia (one winter) triggered the Thirty Years' War, leading to her long exile and her role as the 'matri
+  - Example: "the Winter Queen, had been kicked around Europe like a stuffed pig’s bladder" (Whitehall Palace)
+- **Mary of Modena** (`mary-of-modena`) — 3 chapters
+  - The Catholic Queen consort of England whose pregnancy and the birth of her son sparked the crisis leading to the Glorious Revolution.
+  - Example: "Mary Beatrice d’Este, a.k.a. Mary of Modena—James’s second wife" (Whitehall Palace)
+- **Philippe I, Duke of Orléans** (`philippe-i-duke-of-orleans`) — 3 chapters
+  - Known as 'Monsieur', the younger brother of Louis XIV. He was famously flamboyant, often dressed in women's clothing, and maintained a court that cont
+  - Example: "the King of France’s brother: namely, a fascination with women’s undergarments" (Versailles)
+- **Elizabeth Charlotte, Madame Palatine** (`elizabeth-charlotte-madame-palatine`) — 3 chapters
+  - The Duchess of Orléans and sister-in-law to Louis XIV, famous for her extensive and blunt correspondence detailing life at the French court.
+  - Example: "Elisabeth Charlotte, known to Versailles as Madame, and known to Sophie—her belo" (Versailles)
+- **Robert Boyle** (`robert-boyle`) — 3 chapters
+  - A founding member of the Royal Society and 'father of chemistry' who, like Newton, was deeply involved in alchemical research.
+  - Example: "In ’77, Boyle was certain he had it." (London)
+- **Bonaventure Rossignol** (`bonaventure-rossignol`) — 3 chapters
+  - A famous French cryptographer who, along with his father Antoine, developed the 'Great Cipher' for Louis XIV, which remained unbroken for centuries.
+  - Example: "Monsieur Bonaventure Rossignol, Château Juvisy... cryptanalyst to the Court" (Château Juvisy)
+- **William III of England** (`william-of-orange`) — 2 chapters
+  - The Dutch Stadtholder and Protestant champion who would eventually take the English throne during the Glorious Revolution.
+  - Example: "William of Orange" (Whitehall Palace)
+- **Henrietta Maria of France** (`henrietta-maria`) — 2 chapters
+  - The Catholic queen consort of Charles I, whose religious friction with Parliament contributed to the English Civil War and whose influence on her sons
+  - Example: "Henrietta Maria of France, the mother of James and Charles" (Whitehall Palace)
+- **Louis de Duras, 2nd Earl of Feversham** (`earl-of-feversham`) — 2 chapters
+  - A French-born nobleman who became a trusted military advisor to James II and commanded the royal forces during the Monmouth Rebellion.
+  - Example: "Louis de Duras, a nephew of Marshal Turenne but a naturalized Englishman" (Whitehall Palace)
+- **Daniel Defoe** (`daniel-defoe`) — 2 chapters
+  - English writer and spy, best known for 'Robinson Crusoe'. 'Moll Flanders' (1722) is a novel about a woman navigating the precarious social and economi
+  - Example: "DANIEL DEFOE, Moll Flanders" (Versailles)
+- **Françoise d'Aubigné, Marquise de Maintenon** (`madame-de-maintenon`) — 2 chapters
+  - Born in a prison and first married to the disabled poet Paul Scarron, she eventually became the governess to Louis XIV's illegitimate children and lat
+  - Example: "the daughter of a ruined petty noble... married a stunted and crippled writer in" (Versailles)
+- **John Bunyan** (`john-bunyan`) — 2 chapters
+  - A Puritan preacher and author. 'The Pilgrim's Progress' (1678) is one of the most significant works of English literature, an allegory of the Christia
+  - Example: "JOHN BUNYAN, The Pilgrim’s Progress" (Versailles)
+- **Jean-Baptiste Colbert** (`jean-baptiste-colbert`) — 2 chapters
+  - The First Minister of State under Louis XIV who reformed French finances and promoted mercantilism, science, and the arts.
+  - Example: "If what they say about Colbert is true... he died two years ago" (Versailles)
+- **Philippe I, Duke of Orléans** (`philippe-duke-of-orleans`) — 2 chapters
+  - The younger brother of Louis XIV, known for his military skill as well as his flamboyant effeminacy and preference for male favorites.
+  - Example: "The King’s brother Philippe, who is generally addressed as Monsieur" (Versailles)
+- **Liselotte (Elizabeth Charlotte, Madame Palatine)** (`liselotte-duchess-of-orleans`) — 2 chapters
+  - The sister-in-law of Louis XIV, known for her blunt, voluminous letters that provide a detailed and often cynical account of life at the French court.
+  - Example: "two likely candidates being the Dauphine... and Liselotte" (Versailles)
+- **John Francis Vigani** (`john-francis-vigani`) — 2 chapters
+  - An Italian chemist who became the first Professor of Chemistry at Cambridge; he was a real-life associate of Newton until they fell out over a joke ab
+  - Example: "this was Vigani, the alchemist." (London)
+- **Jules Hardouin-Mansart** (`jules-hardouin-mansart`) — 2 chapters
+  - A premier French Baroque architect for Louis XIV, known for his work on the Palace of Versailles and the Dome des Invalides.
+  - Example: "Monsieur Mansart may build kingly châteaux to prove that he once existed" (Dorset)
+- **Elizabeth Stuart, Queen of Bohemia** (`elizabeth-stuart-winter-queen`) — 2 chapters
+  - The daughter of James I of England, her brief reign in Bohemia sparked the Thirty Years' War; her lineage was crucial to the Protestant succession in 
+  - Example: "Liselotte is the grand-daughter of the Winter Queen" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Thomas Hobbes** (`thomas-hobbes`) — 2 chapters
+  - An influential English philosopher whose 1651 book 'Leviathan' established the social contract theory and defended absolute sovereignty.
+  - Example: "HOBBES, Leviathan" (The Star Chamber, Westminster Palace)
+- **Nicolas Fatio de Duilliers** (`nicolas-fatio-de-duilliers`) — 2 chapters
+  - A Swiss mathematician known for his close relationship with Isaac Newton and his role in the calculus priority dispute with Leibniz.
+  - Example: "Seated two tables away, quill in hand, was Nicolas Fatio de Duilliers." (The Star Chamber, Westminster Palace)
+- **Philippe, Chevalier de Lorraine** (`chevalier-de-lorraine`) — 2 chapters
+  - A member of the House of Guise and the long-term lover of Philippe I, Duke of Orléans. He exerted significant political influence over the Duke's hous
+  - Example: "his chief lover is the Chevalier de Lorraine." (St. Cloud)
+- **Antoine Rossignol** (`antoine-rossignol`) — 2 chapters
+  - A renowned French cryptographer who served Louis XIV and developed the 'Great Cipher' used for royal correspondence.
+  - Example: "Rossignol to Louis XIV Continued" (Rossignol to Louis XIV Continued)
+- **François-Michel le Tellier, Marquis de Louvois** (`marquis-de-louvois`) — 2 chapters
+  - The French Secretary of State for War under Louis XIV, known for expanding and modernizing the French army into the most powerful force in Europe.
+  - Example: "Maréchal Louvois, the King’s commander-in-chief" (Rossignol to Louis XIV Continued)
+- **Eleanor Erdmuthe of Saxe-Eisenach** (`eleanor-erdmuthe-of-saxe-eisenach`) — 2 chapters
+  - A real historical figure and mother of Caroline of Ansbach; her precarious social standing after her husband's death illustrates the vulnerability of 
+  - Example: "daughter of the Duke of Saxe-Eisenach. She married the Margrave of Brandenburg-A" (Rossignol to Louis XIV Continued)
+- **Elias Ashmole** (`elias-ashmole`) — 2 chapters
+  - A celebrated antiquary, politician, and student of alchemy. He founded the Ashmolean Museum in Oxford.
+  - Example: "the other Sir Elias Ash-mole" (Sheerness, England)
+- **Nell Gwyn** (`nell-gwyn`) — 1 chapter
+  - A famous actress and the most popular mistress of Charles II; she was a Protestant folk hero often contrasted with the King's Catholic mistresses.
+  - Example: "attempted to indict Nell Gwyn as a prostitute" (Whitehall Palace)
+- **Roger L'Estrange** (`roger-lestrange`) — 1 chapter
+  - A prominent Tory press censor and pamphleteer who fiercely attacked the Whigs and defenders of the Popish Plot.
+  - Example: "whipped up by Sir Roger L’Estrange" (Whitehall Palace)
+- **Ancient Greek Medicine** (`asclepius-and-hippocrates`) — 1 chapter
+  - Asclepius was the Greek god of medicine, and Hippocrates is considered the father of Western medicine; these are high classical compliments for the at
+  - Example: "likening one to Asclepius and the other to Hippocrates" (Whitehall Palace)
+- **Catherine of Braganza** (`catherine-of-braganza`) — 1 chapter
+  - The Portuguese Catholic wife of Charles II. Her court was a small enclave of Catholicism within the otherwise Protestant Whitehall.
+  - Example: "the Queen’s Apartments, which had been turned into a sort of Portuguese nunnery" (Whitehall Palace)
+- **Mary I of England** (`mary-i`) — 1 chapter
+  - The Catholic Queen (reigned 1553–1558) known for her executions of Protestants, which forced many into exile.
+  - Example: "all the way back to the days of Bloody Mary" (Whitehall Palace)
+- **Anne Hyde** (`anne-hyde`) — 1 chapter
+  - The first wife of James II and mother of future Queens Mary II and Anne; rumors persisted that her health issues and those of her children were due to
+  - Example: "Anne Hyde, had apparently died of it; that Anne Hyde’s daughters, Mary and Anne" (Whitehall Palace)
+- **Elizabeth Stuart, Queen of Bohemia** (`elizabeth-stuart`) — 1 chapter
+  - The daughter of James I whose brief reign in Bohemia led to the name 'Winter Queen'; her descendants (the House of Hanover) eventually took the Englis
+  - Example: "Elizabeth (the Winter Queen)" (Whitehall Palace)
+- **Henri de la Tour d'Auvergne, Vicomte de Turenne** (`marshal-turenne`) — 1 chapter
+  - One of the greatest military commanders in French history, under whom James II served with distinction during his exile.
+  - Example: "Marshal Turenne, the incomparable French general" (Whitehall Palace)
+- **John Evelyn** (`john-evelyn`) — 1 chapter
+  - A contemporary of Samuel Pepys whose detailed diaries provide a primary historical account of life, culture, and politics in 17th-century England.
+  - Example: "John Evelyn’s Diary" (Whitehall Palace)
+- **Catherine Sedley** (`catherine-sedley`) — 1 chapter
+  - A witty and famously 'homely' mistress of James II; her Protestantism and influence at court were points of political contention.
+  - Example: "Catherine Sedley, Countess of Dorchester... producing two of James’s innumerable" (Whitehall Palace)
+- **Edward Petre** (`edward-petre`) — 1 chapter
+  - A Jesuit priest and close advisor to James II; his prominent role in the King's privy council fueled anti-Catholic sentiment in England.
+  - Example: "Father Petre, who among other duties was responsible for bringing up all of Jame" (Whitehall Palace)
+- **Louise de Kérouaille, Duchess of Portsmouth** (`duchess-of-portsmouth`) — 1 chapter
+  - A French noblewoman and mistress to Charles II, she acted as a key intermediary between the English court and Louis XIV of France.
+  - Example: "the Duchess of Portsmouth, who was Charles’s primary mistress" (Whitehall Palace)
+- **John Huddleston** (`father-huddlestone`) — 1 chapter
+  - A Benedictine monk who helped Charles II escape after the Battle of Worcester and was brought to the King's deathbed to receive him into the Catholic 
+  - Example: "Father Huddlestone, a Catholic priest" (Whitehall Palace)
+- **Edward Petre** (`father-petre`) — 1 chapter
+  - A Jesuit priest and close advisor to James II; his influence was a major source of Protestant anxiety regarding the 'popish' influence on the Crown.
+  - Example: "Father Petre was shoulder-to-shoulder with Barrillon, the French Ambassador" (Whitehall Palace)
+- **Paul Barillon** (`paul-barillon`) — 1 chapter
+  - The long-serving French ambassador to England who facilitated secret subsidies from Louis XIV to the English monarchy.
+  - Example: "Barrillon, the French Ambassador" (Whitehall Palace)
+- **Françoise-Athénaïs de Rochechouart, Marquise de Montespan** (`madame-de-montespan`) — 1 chapter
+  - The most celebrated mistress of Louis XIV, she bore him seven children and dominated the court until she was supplanted by Madame de Maintenon.
+  - Example: "This Duchess was none other than the maîtresse déclarée to the King himself" (Versailles)
+- **The Dauphine** (`the-dauphine`) — 1 chapter
+  - The title given to the wife of the Dauphin (the heir apparent to the French throne); at this time, it refers to Maria Anna Victoria of Bavaria.
+  - Example: "apartments of a Lady in Waiting to the Dauphine" (Versailles)
+- **Aurangzeb** (`aurangzeb`) — 1 chapter
+  - The sixth Mughal Emperor (reigned 1658–1707), known for expanding the empire to its greatest extent but also for his religious orthodoxy and constant 
+  - Example: "Shahjahanabad, where they hoped to beg for succor from the Great Mogul Aurangzeb" (Versailles)
+- **Maria Theresa of Spain** (`maria-theresa-of-spain`) — 1 chapter
+  - The first wife of Louis XIV, who died in 1683. Her death allowed the King to secretly marry his mistress, Madame de Maintenon.
+  - Example: "The Queen of France died two years ago" (Versailles)
+- **Maria Anna Victoria of Bavaria** (`maria-anna-victoria-of-bavaria`) — 1 chapter
+  - The wife of Louis, Grand Dauphin; as the highest-ranking woman at court after the Queen's death, her household was the center of female political mane
+  - Example: "the Dauphine, wife of the King’s eldest son" (Versailles)
+- **Antoine d'Aquin** (`antoine-daquin`) — 1 chapter
+  - The personal physician to Louis XIV from 1672 to 1693, whose medical failures (including the disastrous dental surgery described) eventually led to hi
+  - Example: "d’Aquin, the King’s doctor, got it wrong, and the resulting wound became abscess" (Versailles)
+- **Henrietta of England (Minette)** (`henrietta-of-england`) — 1 chapter
+  - The youngest daughter of Charles I of England and sister to Charles II; her marriage to 'Monsieur' (the Duke of Orléans) linked the English and French
+  - Example: "Anne Marie, the daughter of Monsieur by his first wife, Minette of England" (Versailles)
+- **Nicolas Catinat** (`nicolas-catinat`) — 1 chapter
+  - A prominent French military commander under Louis XIV known for his campaigns in Italy and the suppression of religious minorities in the Alps.
+  - Example: "Maréchal de Catinat at its head" (Versailles)
+- **Edmond Halley** (`edmond-halley`) — 1 chapter
+  - The astronomer who used Newton's laws to predict the return of the comet that now bears his name.
+  - Example: "Halley has an explanation for the orbit of his comet" (London)
+- **Louise de Kéroualle** (`louise-de-keroualle`) — 1 chapter
+  - A mistress of Charles II and a French spy, she wielded significant political influence at the English court.
+  - Example: "Louise de Kéroualle and her cleavage had hove into view" (London)
+- **Euclid** (`euclid`) — 1 chapter
+  - The ancient Greek mathematician known as the 'father of geometry' whose 'Elements' served as the main textbook for mathematics for centuries.
+  - Example: "Greeks, e.g., Euclid, had done all of these things long ago" (London)
+- **Apollonius of Perga** (`apollonius-of-perga`) — 1 chapter
+  - A Greek geometer whose work 'Conics' defined the properties of the ellipse, parabola, and hyperbola.
+  - Example: "LIBRI I. CONICORVM APOLLONII" (London)
+- **Johannes Kepler and Nicolaus Copernicus** (`kepler-and-copernicus`) — 1 chapter
+  - Key figures of the Scientific Revolution; Copernicus proposed the heliocentric model, and Kepler established the laws of planetary motion.
+  - Example: "Kepler and Copernicus" (London)
+- **Giovanni Francesco Gemelli Careri** (`gemelli-careri`) — 1 chapter
+  - An Italian adventurer and traveler (1651–1725) famous for his world travels, which he funded by 'carrying' goods to avoid customs, and his book Giro d
+  - Example: "GEMELLI CARERI" (London)
+- **Sir Robert Moray** (`robert-moray`) — 1 chapter
+  - A Scottish statesman and polymath who was a primary founder of the Royal Society and a close confidant of Charles II.
+  - Example: "Sir Robert Moray gazing at a stuffed eel in a glass box" (London)
+- **Solomon** (`solomonic-wisdom`) — 1 chapter
+  - Newton believed that ancient figures like King Solomon possessed secret, lost knowledge of the universe (Prisca Sapientia) that he was merely 'redisco
+  - Example: "Is it because Solomon didn’t have the calculus?" (London)
+- **Baruch Spinoza** (`baruch-spinoza`) — 1 chapter
+  - A Dutch philosopher whose pantheistic view—that God and Nature are one and the same—was considered heretical and atheistic by many contemporaries, inc
+  - Example: "the God of Spinoza, a God that is everything and therefore nothing." (London)
+- **Bernard Mandeville** (`bernard-mandeville`) — 1 chapter
+  - An Anglo-Dutch philosopher and satirist famous for 'The Fable of the Bees,' which argued that private vices (like greed) lead to public benefits.
+  - Example: "ANONYMOUS, ATTRIBUTED TO BERNARD MANDEVILLE, 1714" (Dorset)
+- **Sir Winston Churchill (1620–1688)** (`winston-churchill-senior`) — 1 chapter
+  - The father of the 1st Duke of Marlborough; a Royalist politician and historian during the Restoration.
+  - Example: "the big boss was a Peer, the Lord Lieutenant—in our case, Winston Churchill" (Dorset)
+- **George Monck, 1st Duke of Albemarle** (`george-monck`) — 1 chapter
+  - The general (referred to here as Lewis, likely a character alias or error for Monck) who marched from Coldstream to London to facilitate the Restorati
+  - Example: "crossing the Cold Stream with a regiment under General Lewis" (Dorset)
+- **Sarah Churchill, Duchess of Marlborough** (`sarah-churchill`) — 1 chapter
+  - A powerful confidante of Princess (later Queen) Anne, who exerted immense political influence at court.
+  - Example: "his wife Sarah is now Lady of the Bedchamber to the Duke’s daughter, the Princes" (Dorset)
+- **Sir Winston Churchill (1620–1688)** (`winston-churchill-cavalier`) — 1 chapter
+  - The father of the more famous John Churchill; he was a staunch Royalist politician and courtier under Charles II and James II.
+  - Example: "despatched messengers to the Churchills in London. This way Winston could go to " (Dorset)
+- **Henry FitzRoy, 1st Duke of Grafton** (`duke-of-grafton`) — 1 chapter
+  - The illegitimate son of King Charles II and the Duchess of Cleveland; he was a naval commander who initially supported James II before switching sides
+  - Example: "Grafton is one of Charles II’s bastards" (Dorset)
+- **Sophia of the Palatinate** (`sophia-of-hanover`) — 1 chapter
+  - The Electress of Hanover and a key figure in the Protestant succession to the British throne; she was also a noted intellectual and correspondent of L
+  - Example: "Sophie of Hanover, and a grab-bag of other frostbitten Lutherans" (Versailles)
+- **Jean-Baptiste Lully** (`jean-baptiste-lully`) — 1 chapter
+  - The chief court composer for Louis XIV, Lully was the dominant figure in French Baroque music and opera.
+  - Example: "pipe a little melody that he had Lully compose for him" (Versailles)
+- **Blaise Pascal** (`blaise-pascal`) — 1 chapter
+  - A French mathematician, physicist, and Catholic theologian whose 'Pensées' was a landmark of French literature and philosophy.
+  - Example: "everyone was assuming that I was just another empty-headed Duchess who had read " (Versailles)
+- **James FitzJames, 1st Duke of Berwick** (`duke-of-berwick`) — 1 chapter
+  - The illegitimate son of James II and Arabella Churchill; he became a highly successful French general.
+  - Example: "playing basset with M. le duc de Berwick" (Versailles)
+- **John Churchill, 1st Duke of Marlborough** (`john-churchill-marlborough`) — 1 chapter
+  - A brilliant English general and statesman who rose to prominence under James II and later became a hero of the War of the Spanish Succession.
+  - Example: "Arabella Churchill, sister of John" (Versailles)
+- **William Penn** (`william-penn`) — 1 chapter
+  - A prominent Quaker and the founder of the Province of Pennsylvania. He was a close friend of James II and a staunch advocate for religious toleration.
+  - Example: "how are things in your Overseas Possession, Mr. Penn?" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Elizabeth Villiers** (`elizabeth-villiers`) — 1 chapter
+  - The long-time mistress of William of Orange, known for her influence and intellect despite her lack of traditional beauty.
+  - Example: "mistress, an Englishwoman named Elizabeth Villiers" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Stadholder** (`stadholder`) — 1 chapter
+  - The office of the Stadholder was the de facto hereditary head of state of the Dutch Republic. At this time in the novel, the position is held by Willi
+  - Example: "“Make way in the name of the Stadholder!”" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Elizabeth Charlotte, Madame Palatine** (`elizabeth-charlotte-liselotte`) — 1 chapter
+  - Known as Liselotte, she was the second wife of Philippe I, Duke of Orléans (the brother of Louis XIV), and a prolific letter-writer whose corresponden
+  - Example: "return to Versailles, and make love to Liselotte" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Charles I Louis, Elector Palatine** (`charles-i-louis-elector-palatine`) — 1 chapter
+  - The son of the Winter Queen who regained his family's lands after the Peace of Westphalia and sought to rebuild the war-torn Palatinate.
+  - Example: "Charles Louis, became Elector Palatinate" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Nicaise Le Febure** (`nicaise-le-febure`) — 1 chapter
+  - A noted French chemist and apothecary who served as 'Physician in Ordinary and Professor of Chemistry' to Charles II; he was known for his pharmaceuti
+  - Example: "M. LeFebure’s draught" (The Star Chamber, Westminster Palace)
+- **William Laud** (`william-laud`) — 1 chapter
+  - The Archbishop of Canterbury under Charles I whose aggressive persecution of Puritans and use of the Star Chamber helped trigger the English Civil War
+  - Example: "The late Archbishop Laud found this Chamber to be a convenient facility" (The Star Chamber, Westminster Palace)
+- **Comte de Fenil** (`comte-de-fenil`) — 1 chapter
+  - A French conspirator who planned to kidnap William of Orange; Fatio de Duillier overheard and exposed his plot.
+  - Example: "He betrayed Monsieur le comte de Fenil." (The Star Chamber, Westminster Palace)
+- **Sir Thomas Gresham** (`thomas-gresham`) — 1 chapter
+  - An English merchant and financier (c. 1519–1579) who founded the Royal Exchange and Gresham College.
+  - Example: "Not even Sir Thomas Gresham his own self would be able to find his way" (The Star Chamber, Westminster Palace)
+- **William III of England (Prince of Orange)** (`william-iii`) — 1 chapter
+  - The Dutch stadtholder who became King of England following the Glorious Revolution. Fatio de Duilliers is historically credited with uncovering a plot
+  - Example: "I have not seen you since you saved the life of the Prince of Orange." (The Star Chamber, Westminster Palace)
+- **Alban Francis** (`alban-francis`) — 1 chapter
+  - A Benedictine monk whose attempt to gain a Master of Arts degree without taking the required Protestant oaths led to a major legal conflict between Ja
+  - Example: "the King wanted Cambridge to grant a degree to a Benedictine monk named Father F" (Tower of London)
+- **Leopold I, Holy Roman Emperor** (`leopold-i`) — 1 chapter
+  - The Holy Roman Emperor whom Leibniz lobbied for various scientific and political projects, including library organization and legal reform.
+  - Example: "obtain an audience with the Emperor and tell him of my plans for the Universal L" (Tower of London)
+- **André Le Nôtre** (`andre-le-notre`) — 1 chapter
+  - The preeminent French landscape architect and gardener to King Louis XIV, best known for designing the gardens of Versailles.
+  - Example: "Le Nôtre built for him at Juvisy" (Château Juvisy)
+- **Cardinal Richelieu** (`cardinal-richelieu`) — 1 chapter
+  - The Chief Minister to Louis XIII who sought to consolidate royal power and crush the domestic political influence of the Huguenots.
+  - Example: "Cardinal Richelieu... suppressing the rebellions of those heretics" (Château Juvisy)
+- **Madame de Sévigné** (`madame-de-sevigne`) — 1 chapter
+  - A French aristocrat famous for her voluminous and witty letter-writing, which provides a detailed chronicle of life at the court of Louis XIV.
+  - Example: "Madame de Sévigné" (Château Juvisy)
+- **Elizabeth Charlotte, Madame Palatine** (`madame-palatine`) — 1 chapter
+  - The second wife of Philippe I, Duke of Orléans (Louis XIV's brother); she was known for her blunt, prolific letters describing the scandals of the Fre
+  - Example: "la Palatine" (Château Juvisy)
+- **Antoine Coëffier de Ruzé, Marquis d'Effiat** (`marquis-deffiat`) — 1 chapter
+  - A long-time favorite and rumored lover of the Duke of Orléans, often associated with the Chevalier de Lorraine in court intrigues.
+  - Example: "the Marquis d’Effiat is never far behind" (St. Cloud)
+- **Elizabeth Charlotte, Duchess of Orléans** (`elizabeth-charlotte-duchess-of-orleans`) — 1 chapter
+  - Known as 'Liselotte,' she was the second wife of Monsieur and a prolific letter writer whose correspondence provides much historical detail of the era
+  - Example: "Madame and the Countess de la Zeur" (Rossignol to Louis XIV Continued)
+- **Eleonore Erdmuthe of Saxe-Eisenach** (`eleonore-of-saxe-eisenach`) — 1 chapter
+  - A German noblewoman and the mother of Caroline of Ansbach; her presence highlights the displacement of German royalty during the French invasions.
+  - Example: "Eleanor of Saxe-Eisenach" (French Embassy, the Hague)
+- **Elizabeth Charlotte, Madame Palatine** (`liselotte-palatine`) — 1 chapter
+  - Known as Liselotte, she was the sister-in-law of Louis XIV. Her marriage to 'Monsieur' (the King's brother) and her claim to the Palatinate are centra
+  - Example: "Liselotte crossed into France seventeen years ago to marry Monsieur" (Rossignol to Louis XIV Continued)
+- **Sébastien Le Prestre de Vauban** (`vauban`) — 1 chapter
+  - The foremost military engineer of his age, famous for designing a 'fence of iron' (barrière de fer)—a network of sophisticated fortifications along Fr
+  - Example: "barrière de fer that Vauban built" (Rossignol to Louis XIV Continued)
+- **Elizabeth Charlotte, Princess Palatine (Madame)** (`elizabeth-charlotte-princess-palatine`) — 1 chapter
+  - The second wife of Monsieur. Her German heritage and claim to the Palatinate were used by Louis XIV as a pretext for the Nine Years' War.
+  - Example: "Madame’s tormentors" (Rossignol to Louis XIV Continued)
+- **Charles II, Elector Palatine** (`charles-ii-elector-palatine`) — 1 chapter
+  - The last Elector of the Simmern line; his death without an heir in 1685 triggered the War of the League of Augsburg (or the Nine Years' War).
+  - Example: "Liselotte’s elder brother Charles when he succeeded to the Electoral throne" (Rossignol to Louis XIV Continued)
+- **Scheherazade** (`one-thousand-and-one-nights`) — 1 chapter
+  - The legendary storyteller of 'The Arabian Nights'; Eliza identifies with her as a woman using wit and narrative to survive dangerous political environ
+  - Example: "told by Shahrazad, who prolonged her own life for a thousand and one nights" (Rossignol to Louis XIV Continued)
+- **Elizabeth Charlotte, Madame Palatine** (`elizabeth-charlotte-duchesse-d-orleans`) — 1 chapter
+  - Known as Liselotte, she was the second wife of Philippe I, Duke of Orléans (Louis XIV's brother); her claim to the Palatinate was used by Louis XIV as
+  - Example: "reputation of your majesty’s sister-in-law the duchesse d’Orléans" (Rossignol to Louis XIV Continued)
+- **The Huygens Family** (`huygens-family`) — 1 chapter
+  - A prominent Dutch family including Constantijn (diplomat/poet) and Christiaan (famous mathematician and physicist); they were close to the House of Or
+  - Example: "house of Huygens" (Rossignol to Louis XIV Continued)
+- **Antoine Rossignol** (`rossignol-cryptographers`) — 1 chapter
+  - The Rossignols were a dynasty of French cryptographers who created the 'Great Cipher' for Louis XIV, which remained unbroken for centuries.
+  - Example: "Bonaventure Rossignol" (Rossignol to Louis XIV Continued)
+- **Sweyn Forkbeard and Ealhmund of Kent** (`early-english-kings`) — 1 chapter
+  - Sweyn Forkbeard was a Viking King of England (1013); Ealhmund was an 8th-century King of Kent. They represent the 'ancient' warrior-kings Daniel contr
+  - Example: "your Sven Forkbeard, or your Ealhmund the Under-King of Kent" (Sheerness, England)
+- **Richard the Lionheart and Saladin** (`richard-and-saladin`) — 1 chapter
+  - The legendary rivalry between the English King and the Ayyubid Sultan during the Third Crusade, often romanticized in chivalric literature.
+  - Example: "Richard Lionheart’s duels against Saladin before Jerusalem" (Sheerness, England)
+- **Galileo Galilei** (`galileo-galilei`) — 1 chapter
+  - The Italian astronomer who pioneered the use of the telescope for observing celestial bodies in the early 17th century.
+  - Example: "see as much as Galileo" (Sheerness, England)
+- **King Canute** (`king-canute`) — 1 chapter
+  - A reference to the legendary Viking King of England who demonstrated the limits of kingly power by failing to command the incoming tide to retreat.
+  - Example: "Like King Canute, he would have to wait for the tide." (Sheerness, England)
+- **Thomas Bruce, 2nd Earl of Ailesbury** (`earl-of-ailesbury`) — 1 chapter
+  - A loyal courtier to James II who accompanied him during his flight; the 'Gentleman of the Bedchamber' was a high-ranking proximity-based court office.
+  - Example: "Ailesbury, the Gentleman of the Bedchamber" (Sheerness, England)
+- **Thomas Tompion** (`thomas-tompion`) — 1 chapter
+  - Known as the 'Father of English Clockmaking,' Tompion was the era's most celebrated horologist, working closely with Robert Hooke to create highly acc
+  - Example: "two Hooke-designed, Tompion-built clocks" (Sheerness, England)
+- **Johannes Kepler** (`johannes-kepler`) — 1 chapter
+  - The German astronomer who formulated the laws of planetary motion, confirming the heliocentric model and proving that orbits are elliptical rather tha
+  - Example: "Kepler mentioned that the earth was not, in fact, at the center of the universe." (Sheerness, England)
+- **James I** (`james-i`) — 1 chapter
+  - The first Stuart king of England (r. 1603–1625). The mention of the Mint refers to the ongoing issues with clipped and debased currency that plagued t
+  - Example: "construed as a portrait of the first King James... who was held to have managed " (Sheerness, England)
+- **Nicaise Le Febvre** (`nicaise-le-febvre`) — 1 chapter
+  - A real-life chemist and apothecary to Charles II who managed the laboratory at St. James's Palace. He was a key figure in the transition from alchemy 
+  - Example: "It is the house of M. LeFebure" (Sheerness, England)
+- **Hermes Trismegistus** (`hermes-trismegistus`) — 1 chapter
+  - The legendary Hellenistic figure to whom the Hermetic Corpus is attributed; he was a central figure of inspiration for alchemists and occultists.
+  - Example: "A painting of Hermes Trismegistus" (Sheerness, England)
+- **Sophia Charlotte of Hanover** (`sophia-charlotte-of-hanover`) — 1 chapter
+  - The daughter of Sophia of the Palatinate and future first Queen in Prussia; she was a close friend and patron of Leibniz.
+  - Example: "Sophie Charlotte in Berlin" (Venice)
+- **Peter the Great** (`peter-the-great`) — 1 chapter
+  - The Tsar who modernized Russia and expanded it into a major European power through westernization and military reform.
+  - Example: "new Tsar in Russia, named Peter" (Venice)
+- **John Frederick, Margrave of Brandenburg-Ansbach** (`john-frederick-ansbach`) — 1 chapter
+  - The ruler of Ansbach and father of Caroline, known for his interest in the arts and sciences.
+  - Example: "the late Margrave John Frederick, Caroline’s father" (The Hague)
+- **James Francis Edward Stuart** (`the-old-pretender`) — 1 chapter
+  - The son of James II whose birth sparked the 'Warming Pan Scandal' and helped trigger the Glorious Revolution.
+  - Example: "the son of James II—now Pretender to the throne—was supposedly born" (The Hague)
+- **Chevalier de Montluçon** (`chevalier-de-montlucon`) — 1 chapter
+  - The French Ambassador to the Hague; his presence highlights the diplomatic tensions between France and the Dutch Republic.
+  - Example: "the bedside of the Chevalier de Montluçon" (The Hague)
+- **Charles II of Spain** (`charles-ii-of-spain`) — 1 chapter
+  - The last Habsburg ruler of Spain, notorious for his extensive physical and mental disabilities resulting from generations of royal inbreeding, most no
+  - Example: "King Carlos II of Spain... cannot even eat solid food." (The Hague)
+- **Eleonore Erdmuthe of Saxe-Eisenach** (`eleonore-erdmuthe-of-saxe-eisenach`) — 1 chapter
+  - A German noblewoman who became Electress of Saxony; in the novel, she is a friend and protector to Eliza during her time in The Hague.
+  - Example: "find Princess Eleanor" (The Hague)
+- **Sophia of the Palatinate and Sophia Charlotte of Hanover** (`sophie-and-sophie-charlotte`) — 1 chapter
+  - Electress Sophia of Hanover (heir to the British throne) and her daughter Sophia Charlotte (Queen in Prussia) were both highly educated patrons of the
+  - Example: "teach her as well as you have taught Sophie and Sophie Charlotte" (The Hague)
+- **Scientific and Philosophical Figures** (`scientific-luminaries`) — 1 chapter
+  - A gathering of the era's greatest minds: Huygens (clocks/optics), Newton (calculus/gravity), Fatio de Duillier (mathematician), Boyle (chemistry), Loc
+  - Example: "Christiaan Huygens, Isaac Newton, Isaac’s little shadow Fatio, Robert Boyle, Joh" (Bishopsgate)
+### Events
+
+- **The Bloody Assizes** (`bloody-assizes`) — 4 chapters
+  - A series of trials in 1685 following the Battle of Sedgemoor, where hundreds of rebels were executed and over a thousand were transported to the West 
+  - Example: "established a Court of Assizes in that part of the country." (Dorset)
+- **The Popish Plot** (`popish-plot`) — 3 chapters
+  - A fictitious conspiracy concocted by Titus Oates in 1678, alleging a Jesuit plan to assassinate Charles II, which led to a wave of anti-Catholic hyste
+  - Example: "commenced hanging Catholics for being part of a supposed Popish Plot" (Whitehall Palace)
+- **Barbary Pirates and White Slavery** (`barbary-slave-trade`) — 3 chapters
+  - The historical practice of North African privateers capturing Europeans for the slave markets of the Maghreb, a major concern for 17th-century maritim
+  - Example: "as a young girl in Algiers... by the Ladies’ Volunteer Sodality of the Society o" (Versailles)
+- **Declaration of Indulgence** (`declaration-of-indulgence`) — 3 chapters
+  - James II's 1687 attempt to establish religious toleration in England, which many Protestants viewed as a cynical move to favor Roman Catholics.
+  - Example: "supposing that we’ll rally about his standard as if he really gives a farthing f" (London)
+- **The Seven Stars of Taunton / Monmouth's Banners** (`maids-of-taunton`) — 3 chapters
+  - A famous historical incident where the 'Maids of Taunton' presented Monmouth with colors and a Bible; many of these girls were later imprisoned or hea
+  - Example: "the school girls presented Monmouth with a banner they had embroidered for him" (Dorset)
+- **The Fronde** (`the-fronde`) — 2 chapters
+  - A series of civil wars in France (1648–1653) where nobles rebelled against royal authority; Louis XIV’s move to Versailles was partly to domesticate t
+  - Example: "their fathers and grandfathers used what money they had to raise private armies " (Versailles)
+- **Thirty Years' War** (`thirty-years-war`) — 2 chapters
+  - A devastating European conflict (1618–1648) fought largely over religion and dynastic control, which reshaped the map of Central Europe.
+  - Example: "sparked the Thirty Years’ War by accepting the crown of Bohemia" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Great Turkish War** (`great-turkish-war`) — 2 chapters
+  - A series of conflicts between the Ottoman Empire and the Holy League (including the Habsburgs and Poland) occurring during the late 17th century.
+  - Example: "taken towns and cities from the Turks" (Tower of London)
+- **The Warming-Pan Scandal** (`warming-pan-scandal`) — 2 chapters
+  - A widespread conspiracy theory that James II's son, James Francis Edward Stuart, was a changeling smuggled into the palace to ensure a Catholic succes
+  - Example: "the so-called Prince is just a common babe... smuggled into the birth-chamber in" (Tower of London)
+- **Williamite War in Ireland** (`williamite-war-in-ireland`) — 2 chapters
+  - The conflict following the Glorious Revolution where the deposed James II attempted to regain his throne using Ireland as a base.
+  - Example: "James II is said to have landed in Ireland" (Venice)
+- **The Exclusion Crisis** (`exclusion-crisis`) — 1 chapter
+  - A political struggle from 1679–1681 where Parliament sought to bar the King's brother James from succession due to his Catholicism.
+  - Example: "exclude James (and every other Catholic) from the throne" (Whitehall Palace)
+- **The Rye House Plot** (`rye-house-plot`) — 1 chapter
+  - A 1683 Whig conspiracy to assassinate Charles II and James; its discovery led to the execution or exile of many leading opposition figures.
+  - Example: "involved in a Rye House Plot to put Monmouth on the throne" (Whitehall Palace)
+- **Religious Conflict in England** (`jesuit-puritan-tension`) — 1 chapter
+  - The political tension between the Catholic influence (Jesuits) favored by James II and the radical Protestantism (Puritans) that had fueled the Englis
+  - Example: "between Jesuits on the one hand, and Puritans on t’other" (Whitehall Palace)
+- **The Great Storm of 1658** (`great-storm-of-1658`) — 1 chapter
+  - A massive windstorm occurred on the night Oliver Cromwell died, which contemporaries interpreted as a supernatural omen regarding his soul or the stat
+  - Example: "Devil’s Wind that had swept over England on the day Cromwell had died" (Whitehall Palace)
+- **The Covenanters** (`the-covenanters`) — 1 chapter
+  - Refers to the 'Killing Time' in Scotland, where James oversaw the suppression of Presbyterian dissidents who refused to accept the state-mandated epis
+  - Example: "suppress feral Presbyterians in their rustic conventicles" (Whitehall Palace)
+- **The Dutch Water Line** (`the-dutch-water-line`) — 1 chapter
+  - During the Franco-Dutch War in 1672 (the 'Year of Disaster'), the Dutch intentionally breached dikes to flood the land and create an impassable barrie
+  - Example: "flooding half of Holland to keep the French out (as William of Orange had done)" (Whitehall Palace)
+- **The Reformation** (`the-reformation`) — 1 chapter
+  - The 16th-century religious movement that led to the establishment of the Church of England and the break from the authority of the Pope.
+  - Example: "Romanists now swarming at Court with greater confidence than had ever been seen " (Whitehall Palace)
+- **Maratha Empire** (`maratha-empire`) — 1 chapter
+  - The Marathas, led by Shivaji, rose against the Mughal Empire in the 17th century; their 1664 and 1670 sacks of the port of Surat were major blows to E
+  - Example: "the city was in the process of falling to the Mahratta rebels" (Versailles)
+- **Affair of the Poisons** (`affair-of-the-poisons`) — 1 chapter
+  - A major scandal (1677–1682) involving a series of murders and alleged Satanic rituals among the high nobility of Louis XIV's court.
+  - Example: "living altar during black masses held at an abandoned country church" (Versailles)
+- **Louis XIV's Anal Fistula** (`the-kings-fistula`) — 1 chapter
+  - In 1686, Louis XIV underwent a famous and agonizing surgery to repair an anal fistula. The success of the operation by surgeon Charles-François Félix 
+  - Example: "I saw a frightful purplish swelling in the crevice of his buttocks." (Versailles)
+- **War of Devolution** (`war-of-devolution`) — 1 chapter
+  - The conflict in which Louis XIV first attempted to claim the Spanish Netherlands and Franche-Comté, marking the beginning of his long series of expans
+  - Example: "Louis seized the Franche-Comté in 1667" (Versailles)
+- **Marian Exiles** (`marian-exiles`) — 1 chapter
+  - Protestants who fled England during the reign of Mary I (1553–1558) to escape religious persecution, many of whom settled in Geneva and brought back r
+  - Example: "English Puritans fled for refuge during the reign of Bloody Mary" (Versailles)
+- **Calico Acts and Textile Trade** (`indian-textile-trade`) — 1 chapter
+  - The influx of cheap, high-quality Indian cottons (calicoes) threatened the traditional English wool and cloth industries, leading to protectionist law
+  - Example: "cheap stuff from India and Dutch shipping that could bring it to Europe" (London)
+- **Penal Laws** (`penal-laws`) — 1 chapter
+  - A series of laws that upheld the rites of the Church of England and punished 'nonconformists' (dissenting Protestants) and Catholics with fines and im
+  - Example: "enforce the Penal Laws, all of Suffolk’s most outstanding Quakers, Barkers, Rant" (London)
+- **The Great Recoinage of 1696** (`clipping-and-coinage`) — 1 chapter
+  - Before milled edges were standard, people 'clipped' silver from the edges of coins, leading to a currency crisis where the face value of money far exc
+  - Example: "most clipped, worn, filed-down, and adulterated coins" (London)
+- **Stourbridge Fair** (`stourbridge-fair`) — 1 chapter
+  - One of the largest and most famous fairs in Europe, held near Cambridge; it was a massive center of commerce and a gathering place for all social clas
+  - Example: "showed up at Stourbridge Fair peddling this or that" (London)
+- **Great Comet of 1680** (`great-comet-of-1680`) — 1 chapter
+  - The first comet discovered by telescope; its path was crucial for Newton to prove that comets followed the same laws of gravity as planets.
+  - Example: "Newton had requested information concerning the comet of 1680" (London)
+- **Battle of the Dunes (1658)** (`battle-of-the-dunes`) — 1 chapter
+  - A major victory for the French and their English allies (under Cromwell) against the Spanish, fought near Dunkirk.
+  - Example: "rout the Spaniards in Flanders" (Dorset)
+- **Siege of Maastricht (1673)** (`siege-of-maastricht`) — 1 chapter
+  - A key battle in the Franco-Dutch War where John Churchill and the Duke of Monmouth fought as allies for Louis XIV.
+  - Example: "John’s old comrade-in-arms from Siege of Maestricht days" (Dorset)
+- **Battle of Vienna (1683)** (`battle-of-vienna`) — 1 chapter
+  - A major conflict where the Ottoman Empire's siege of Vienna was broken by a coalition of European forces, marking the beginning of the end of Ottoman 
+  - Example: "like the Janissaries before Vienna when it had come clear to them that their Tur" (Dorset)
+- **Dutch Golden Age Economy** (`dutch-golden-age-finance`) — 1 chapter
+  - In the 17th century, the Dutch Republic pioneered modern finance, including the first central bank, the first stock exchange, and sophisticated credit
+  - Example: "You’re in the Dutch Republic. This is the financial capital of the world." (Dorset)
+- **Huguenots** (`persecution-of-the-huguenots`) — 1 chapter
+  - Refers to the state-sponsored persecution of French Protestants (Huguenots) following Louis XIV's Revocation of the Edict of Nantes in 1685.
+  - Example: "A History of the Late Massacres and Persecutions of the French Huguenots" (The Exchange [Between Threadneedle and Cornhill])
+- **Persecution of Huguenots** (`persecution-of-huguenots`) — 1 chapter
+  - Refers to the state-sponsored harassment of Protestants (Huguenots) in France, culminating in the 1685 Edict of Fontainebleau, and the Waldensians in 
+  - Example: "persecutions of our brethren in France and Savoy" (The Exchange [Between Threadneedle and Cornhill])
+- **League of Augsburg** (`league-of-augsburg`) — 1 chapter
+  - A coalition formed in 1686 by European powers (including the Holy Roman Empire and Spain) to resist the expansionist policies of Louis XIV's France.
+  - Example: "William of Orange declared the League of Augsburg" (Versailles)
+- **Destruction of the Parthenon** (`destruction-of-the-parthenon`) — 1 chapter
+  - In 1687, during the Morean War, a Venetian mortar hit an Ottoman gunpowder magazine stored inside the Parthenon, causing the massive explosion that ru
+  - Example: "news that the Parthenon in Athens has b" (Versailles)
+- **Waldensian Massacre of 1655** (`waldensians-savoy`) — 1 chapter
+  - Refers to the 'Piedmontese Easter,' a brutal massacre of the Waldensian Protestant minority by the troops of the Duke of Savoy, which caused internati
+  - Example: "simply killing them all as was done in Savoy" (Versailles)
+- **Penn-Calvert Boundary Dispute** (`penn-calvert-boundary-dispute`) — 1 chapter
+  - A long-running legal conflict between William Penn and Lord Baltimore over the border between Pennsylvania and Maryland, eventually settled by the Mas
+  - Example: "Did you ever settle that dispute with Maryland?" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **The Founding of Pennsylvania** (`founding-of-pennsylvania`) — 1 chapter
+  - In 1681, King Charles II granted Penn a large tract of land in America to settle a debt of £16,000 owed to Penn's father, Admiral Sir William Penn.
+  - Example: "accept Pennsylvania, or let the King continue owing you sixteen thousand pounds" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Religious Toleration** (`religious-toleration-acts`) — 1 chapter
+  - A major political issue in the 1680s as James II attempted to grant freedom of worship to Catholics and Dissenters, which many Anglicans feared was a 
+  - Example: "chats about Religious Toleration" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Peace of Westphalia** (`peace-of-westphalia`) — 1 chapter
+  - The 1648 treaty that ended the Thirty Years' War and established the modern system of nation-states and sovereign diplomacy.
+  - Example: "when the Peace of Westphalia was finally signed" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **War of the Grand Alliance (War of the League of Augsburg)** (`war-of-the-grand-alliance`) — 1 chapter
+  - Louis XIV used his sister-in-law Liselotte's dubious claim to the Palatinate as a legal pretext to invade the Rhineland in 1688.
+  - Example: "The King of France has very chivalrously decided to take the side of Liselotte" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Transportation to Barbados** (`transportation-to-the-caribbean`) — 1 chapter
+  - During the 17th century, political prisoners and religious dissidents (like Puritans) were often 'transported' to Barbados to work as indentured serva
+  - Example: "Save, perhaps, to Barbados, my Lord!" (The Star Chamber, Westminster Palace)
+- **The Father Francis Affair** (`father-francis-affair`) — 1 chapter
+  - A 1687 dispute where Isaac Newton and other Cambridge academics resisted James II's order to grant a Master of Arts degree to a Benedictine monk witho
+  - Example: "The Natural Philosopher who has been so impertinent as to quarrel with the King " (The Star Chamber, Westminster Palace)
+- **The Great Recoinage of 1696** (`great-recoinage`) — 1 chapter
+  - A crisis in English currency caused by 'clipping' (shaving silver off coins) and counterfeiting, which led to a massive effort to replace the nation's
+  - Example: "British coinage had only gotten worse in the last twenty years" (The Star Chamber, Westminster Palace)
+- **Recusancy under Elizabeth I** (`elizabethan-catholic-persecution`) — 1 chapter
+  - Refers to the imprisonment of Roman Catholics (Papists) during the reign of Elizabeth I, many of whom left inscriptions in the Tower walls while await
+  - Example: "pathetic Latin plaints graven by Papists under Elizabeth" (Tower of London)
+- **Trial of the Seven Bishops** (`trial-of-the-seven-bishops`) — 1 chapter
+  - A 1688 legal case where James II prosecuted seven bishops for seditious libel after they petitioned against his Declaration of Indulgence.
+  - Example: "locked up the Anglican bishops for refusing to preach toleration" (Tower of London)
+- **The Warming-Pan Myth** (`warming-pan-myth`) — 1 chapter
+  - A popular conspiracy theory claiming that James II's son, James Francis Edward Stuart, was a changeling smuggled into the palace to ensure a Catholic 
+  - Example: "smuggled into the birth-chamber inside a warming-pan" (Tower of London)
+- **Phobos and Deimos (Allegory)** (`phobos-and-deimos-allegory`) — 1 chapter
+  - Named after the Greek personifications of Fear and Dread, these dogs serve as an allegory for the French armies poised to invade the Palatinate and th
+  - Example: "The King has a pair of hunting-dogs named Phobos and Deimos" (St. Cloud)
+- **Protestants of Savoy (Waldensians)** (`savoyard-waldensian-massacres`) — 1 chapter
+  - Refers to the persecution and military campaigns against the Vaudois (Waldensians) in the Duchy of Savoy, often pressured by Louis XIV.
+  - Example: "rebellious Protestants of Savoy" (Rossignol to Louis XIV Continued)
+- **Nine Years' War (War of the Grand Alliance)** (`nine-years-war`) — 1 chapter
+  - The geopolitical tension in 1688 leading to a major European conflict between France and the Grand Alliance.
+  - Example: "strike north into the Dutch Republic or east into the Palatinate" (Rossignol to Louis XIV Continued)
+- **The Devastation of the Palatinate** (`devastation-of-the-palatinate`) — 1 chapter
+  - Refers to the scorched-earth policy enacted by French forces in the Rhenish Palatinate during the Nine Years' War, leading to a massive refugee crisis
+  - Example: "people of the Palatinate who... have lately fled from that place" (French Embassy, the Hague)
+- **Treaty of Nijmegen** (`treaty-of-nijmegen`) — 1 chapter
+  - A series of treaties signed in 1678-1679 that ended the Franco-Dutch War, a major conflict involving Louis XIV.
+  - Example: "Nijmegen" (Rossignol to Louis XIV Continued)
+- **Natural Borders of France** (`natural-borders-of-france`) — 1 chapter
+  - A long-standing French geopolitical theory that France's security depended on reaching 'natural' frontiers like the Rhine river, the Alps, and the Pyr
+  - Example: "France will ever be invaded across these fields until she extends her border to " (Rossignol to Louis XIV Continued)
+- **Siege of Strasbourg** (`siege-of-strasbourg`) — 1 chapter
+  - Louis XIV captured the Free Imperial City of Strasbourg in 1681, a major move in his 'Reunions' policy to expand French territory eastward.
+  - Example: "Eventually one reaches Strasbourg, which is on the Rhine. Louis XIV seized it so" (Rossignol to Louis XIV Continued)
+- **Siege of Vienna** (`siege-of-vienna-1683`) — 1 chapter
+  - Refers to the 1683 Battle of Vienna where the Ottoman Empire was defeated by a coalition of European forces; this is a pivotal event in the backstory 
+  - Example: "drew him to Vienna where he met me" (Rossignol to Louis XIV Continued)
+- **The Savoyard–Waldensian Wars** (`waldensian-massacres`) — 1 chapter
+  - Specifically the 1686 campaign against the Waldensians (Protestants) in the Piedmont region, where French and Savoyard troops conducted a brutal suppr
+  - Example: "massacres of Protestants in the Piedmont" (Rossignol to Louis XIV Continued)
+- **War of the League of Augsburg** (`war-of-the-league-of-augsburg`) — 1 chapter
+  - Also known as the Nine Years' War (1688–1697), it began largely because Louis XIV claimed the Palatinate on behalf of his sister-in-law, Liselotte.
+  - Example: "precipitating the succession dispute on which the King of France now hopes to ca" (Rossignol to Louis XIV Continued)
+- **Invasion of the Palatinate** (`invasion-of-the-palatinate`) — 1 chapter
+  - This refers to the opening of the Nine Years' War (1688–1697). Louis XIV claimed the Palatinate in the name of his sister-in-law, Elizabeth Charlotte 
+  - Example: "all doubt vanished that the Palatinate was to be invaded." (Rossignol to Louis XIV Continued)
+- **Destruction of Heidelberg** (`destruction-of-the-palatinate`) — 1 chapter
+  - Refers to the systematic devastation of the Palatinate by French forces in 1688-1689 to prevent the region from supporting an imperial advance.
+  - Example: "Heidelberg Castle burnt brilliantly for days" (Rossignol to Louis XIV Continued)
+- **Anti-Catholicism in England** (`anti-catholic-sentiment`) — 1 chapter
+  - During this period, Jesuits were feared as agents of foreign Catholic powers; carrying a crucifix was seen by many Protestants as evidence of 'popish'
+  - Example: "Jesuit spy... bearing this bit o’ idolatry about" (Sheerness, England)
+- **Raid on the Medway** (`raid-on-the-medway`) — 1 chapter
+  - A humiliating English defeat during the Second Anglo-Dutch War where the Dutch navy burned the English fleet at anchor and captured the flagship, the 
+  - Example: "When the Dutch had sailed up here in ’67" (Sheerness, England)
+- **Anti-Catholicism in England** (`anti-catholicism-in-england`) — 1 chapter
+  - The intense political and religious fear of 'Popery' (Roman Catholicism) fueled the movement to depose James II in favor of the Protestant William of 
+  - Example: "down with the King, down with Popery, out with the Irish." (Sheerness, England)
+- **Irish refugees in London 1688** (`irish-night-refugees`) — 1 chapter
+  - During the 'Irish Night' panic of December 1688, rumors spread that James II's disbanded Irish soldiers were marching on London to massacre Protestant
+  - Example: "several hundred Irish people at least were here... taking their ease on blankets" (Sheerness, England)
+- **The Great Recoinage** (`clipping-and-counterfeiting`) — 1 chapter
+  - During this period, English silver coinage was in crisis due to 'clipping' (shaving edges) and counterfeiting, leading to a lack of trust in the curre
+  - Example: "I would prefer one of full weight, made of silver, not this counterfeiter’s amal" (Sheerness, England)
+- **Treaty of Nerchinsk** (`treaty-of-nerchinsk`) — 1 chapter
+  - The 1689 treaty between Russia and the Qing dynasty that established the border between the two empires and opened trade.
+  - Example: "Russians have signed a treaty with the Emperor of China" (Venice)
+- **The Financial Revolution** (`financial-revolution`) — 1 chapter
+  - The period of economic innovation in England involving the creation of the Bank of England and the system of public credit.
+  - Example: "financing the Army and Navy by creating a national debt" (Venice)
+- **Smallpox** (`smallpox`) — 1 chapter
+  - A devastating infectious disease that was a leading cause of death in the 17th and 18th centuries, frequently altering lines of royal succession.
+  - Example: "It is a shame that smallpox claimed him" (Venice)
+- **Guelphs and Ghibellines** (`guelphs-and-ghibellines`) — 1 chapter
+  - Factions supporting the Pope and the Holy Roman Emperor, respectively, in central and northern Italy during the Middle Ages; Leibniz is researching th
+  - Example: "ancestors among the Guelphs and the Ghibellines" (Venice)
+- **Mercantilism and 17th-century state finance** (`17th-century-state-finance`) — 1 chapter
+  - Refers to the different economic strengths of European powers: Spain's silver from the New World and France's large population under Louis XIV.
+  - Example: "Spain might have mines in America and France might have an infinite supply of ta" (Bishopsgate)
+### Sciences
+
+- **Bloodletting** (`bloodletting`) — 3 chapters
+  - A standard medical practice used to 'balance' the humors by removing blood, often via lancets or leeches; it frequently weakened patients further.
+  - Example: "the Doctor found a vein—the King bade farewell to a pint or two" (Whitehall Palace)
+- **Humorism** (`humorism`) — 2 chapters
+  - The ancient medical system (Galenism) still prevalent in the 17th century, which held that health was governed by the balance of four fluids: blood, p
+  - Example: "the subject of Humours. It all began with an apoplectical fit" (Whitehall Palace)
+- **Discovery of Phosphorus** (`discovery-of-phosphorus`) — 2 chapters
+  - Phosphorus was first isolated in 1669 by Hennig Brand by boiling down large quantities of urine; it was a sensation in the scientific community due to
+  - Example: "Enoch Root made phosphorus from horse urine?" (Whitehall Palace)
+- **Monadology** (`monadology`) — 2 chapters
+  - Leibniz's metaphysical theory that the universe is made of 'monads'—simple substances that perceive the universe from their own unique perspective.
+  - Example: "Recently Leibniz has been refining his system of metaphysics" (Whitehall Palace)
+- **Inverse-square law** (`inverse-square-law`) — 2 chapters
+  - The principle stating that a physical quantity (like gravity) intensity is inversely proportional to the square of the distance from the source.
+  - Example: "If the centripetal force is governed by an inverse-square law" (London)
+- **Pendulum Clock** (`pendulum-clock`) — 2 chapters
+  - Invented by Christiaan Huygens in 1656, the pendulum clock revolutionized timekeeping by increasing accuracy from minutes of error per day to seconds.
+  - Example: "The room contained at least two dozen clocks... all marching or dancing to the b" (Dorset)
+- **Bladder Stones** (`bladder-stones`) — 2 chapters
+  - A common and extremely painful ailment in the 17th century; Samuel Pepys famously underwent a dangerous surgery to remove one.
+  - Example: "Daniel had a big stone in his bladder" (The Star Chamber, Westminster Palace)
+- **Dynamics** (`dynamics`) — 2 chapters
+  - The branch of mechanics concerned with the motion of bodies under the action of forces, a term coined by Leibniz in 1692.
+  - Example: "I am thinking of calling it “dynamics,”" (Venice)
+- **Cupping** (`cupping`) — 1 chapter
+  - A treatment where heated glass cups were applied to the skin to create a vacuum, believed to draw out 'bad' humors or stimulate blood flow.
+  - Example: "cupping him all over to draw out other poisons through the skin" (Whitehall Palace)
+- **Elixir Proprietatis** (`elixir-proprietatis`) — 1 chapter
+  - A famous alchemical medicine originally attributed to Paracelsus, consisting of aloes, myrrh, and saffron; Nicaise Le Febure was a noted chemist to Ch
+  - Example: "the Elixir Proprietalis LeFebure" (Whitehall Palace)
+- **Elixir Proprietalis** (`elixir-proprietalis`) — 1 chapter
+  - A common 17th-century medicine consisting of aloes, myrrh, and saffron dissolved in alcohol; the 'LeFebure' version refers to Nicaise Le Febure, a fam
+  - Example: "diagnosed a fever. They gave him a royal dose of the Elixir Proprietalis LeFebur" (Whitehall Palace)
+- **Humoral Medicine** (`humoral-medicine`) — 1 chapter
+  - The traditional medical theory that health was governed by four 'humours' (blood, phlegm, yellow bile, black bile); treatment often involved bloodlett
+  - Example: "the bleeders and purgers are upon us!" (Whitehall Palace)
+- **Scientific Instruments** (`17th-century-optics`) — 1 chapter
+  - Hooke's 'Micrographia' revolutionized biology, while Newton's reflecting telescope solved issues of chromatic aberration found in earlier lens-based t
+  - Example: "Hooke peering through his Microscope or Newton through his Reflecting Telescope" (Whitehall Palace)
+- **Bloodletting** (`bloodletting-humours`) — 1 chapter
+  - A standard medical practice of the time based on the theory of the four humours; Charles II was famously subjected to excessive bleeding and purging d
+  - Example: "if they unsheathed their lancets" (Whitehall Palace)
+- **Vis Viva** (`vis-viva`) — 1 chapter
+  - An early term for kinetic energy (literally 'living force'), which was at the center of a major debate in 17th-century physics regarding conservation 
+  - Example: "The ball transfers its vis viva into another ball" (London)
+- **Galilean Trajectory** (`galilean-mechanics`) — 1 chapter
+  - Galileo's discovery that projectiles follow a parabolic path, a cornerstone of early modern kinematics.
+  - Example: "it describes a Galilean trajectory, a parabola." (London)
+- **Backstaff** (`backstaff`) — 1 chapter
+  - A navigational instrument used to measure the altitude of the sun by observing its shadow, allowing sailors to determine their latitude.
+  - Example: "any half-wit with a back-staff and an ephemeris could sail unerringly" (London)
+- **Aether** (`aether-theory`) — 1 chapter
+  - In 17th-century physics, the aether was a hypothesized medium that filled all space to explain how forces like light and gravity could travel through 
+  - Example: "like the æther filling the void between particles of matter" (London)
+- **Infinitesimals** (`infinitesimals`) — 1 chapter
+  - The mathematical concept of quantities so small they cannot be measured, which was central to the development of calculus and sparked intense philosop
+  - Example: "consider these, er, infinitesimals and evanes-cents in a way that is rigorous" (London)
+- **Great Conjunction** (`great-conjunction`) — 1 chapter
+  - The alignment of Jupiter and Saturn, which provided data for studying gravitational perturbations between planets.
+  - Example: "a recent conjunction of Jupiter and Saturn" (London)
+- **Theory of Tides** (`theory-of-tides`) — 1 chapter
+  - One of the major phenomena Newton sought to explain using his law of universal gravitation and the influence of the moon.
+  - Example: "the ebb and flow of tides in the ocean." (London)
+- **Conic Sections** (`conic-sections`) — 1 chapter
+  - The curves (ellipse, parabola, hyperbola) obtained by intersecting a cone with a plane; Newton proved planetary orbits follow these shapes.
+  - Example: "If they moved on conic sections, it was no accident." (London)
+- **Aether** (`aether`) — 1 chapter
+  - A substance once thought to fill all space, serving as the medium through which light and gravitational forces were transmitted.
+  - Example: "A comet following a precise hyperbolic trajectory through the æther" (London)
+- **Centripetal Force** (`centripetal-force`) — 1 chapter
+  - The 'center-seeking' force Newton identified as necessary to keep planets in curved orbits rather than flying off in straight lines.
+  - Example: "The notion that the Sun exerted some centripetal force on the planets" (London)
+- **Theory of Tides** (`newtonian-tide-theory`) — 1 chapter
+  - Newton was the first to provide a mathematical explanation for tides by applying the law of gravity to the interaction between the Earth, Moon, and Su
+  - Example: "each of the moon’s particles attracts the water in Earth’s oceans to create tide" (London)
+- **Vortex Theory** (`cartesian-vortices`) — 1 chapter
+  - René Descartes' theory that planets were carried around the sun by literal whirlpools of 'æther' (unseen matter), which Newton's work eventually debun
+  - Example: "Perhaps it has something to do with vortices in the æther." (London)
+- **Trepanning** (`trepanning`) — 1 chapter
+  - A historical surgical intervention where a hole is drilled into the human skull to treat health problems related to intracranial pressure or 'evil spi
+  - Example: "To make room for it, the chirurgeons cut a hole in his skull." (Dorset)
+- **Humoralism** (`humoral-theory`) — 1 chapter
+  - The ancient medical system (still prevalent in the 17th century) that held that human health and temperament were governed by the balance of four bodi
+  - Example: "purging you of imbalancing humours" (Dorset)
+- **Lens Grinding** (`lens-grinding`) — 1 chapter
+  - A critical 17th-century skill for natural philosophers, essential for the development of telescopes and microscopes.
+  - Example: "Later I taught myself how to grind lenses." (Dorset)
+- **Vortex Theory** (`vortex-theory`) — 1 chapter
+  - Descartes' theory that the planets were carried around the sun by whirlpools of 'aether'; Newton's Principia was written largely to disprove this.
+  - Example: "“The hypothesis of vortices is pressed with many difficulties!”" (The Exchange [Between Threadneedle and Cornhill])
+- **Bayonet** (`history-of-the-bayonet`) — 1 chapter
+  - The plug bayonet was a relatively new military technology in the late 17th century, allowing musketeers to defend themselves against cavalry without n
+  - Example: "long stabbing-weapons... nominated by them bayonets" (The Exchange [Between Threadneedle and Cornhill])
+- **Vortex Theory** (`descartes-vortex-theory`) — 1 chapter
+  - René Descartes' mechanical explanation of planetary motion, which posited that space was filled with matter swirling in vortices.
+  - Example: "Descartes explained... that the planets move round the sun like slips of paper c" (The Exchange [Between Threadneedle and Cornhill])
+- **Congenital Syphilis** (`congenital-syphilis`) — 1 chapter
+  - In the 17th century, the hereditary nature of syphilis was observed but not scientifically understood; it was often associated with moral decay and 't
+  - Example: "the children of syphilitics are often syphilitic themselves" (The Exchange [Between Threadneedle and Cornhill])
+- **Saltpeter** (`saltpeter`) — 1 chapter
+  - Saltpeter (potassium nitrate) was a critical and often scarce ingredient for gunpowder, making it a key strategic commodity for 17th-century warfare.
+  - Example: "Tent-cloth, saltpeter, lead, and other martial commodities" (The Exchange [Between Threadneedle and Cornhill])
+- **History of Coffee** (`history-of-coffee`) — 1 chapter
+  - The Dutch successfully broke the Arab monopoly on coffee by smuggling seedlings to Java, making 'Java' a synonymous term for coffee.
+  - Example: "planted the Coffee Tree in the Island of Java, near their City of Batavia" (Versailles)
+- **Sand-sailing (Land Yachting)** (`sand-sailing`) — 1 chapter
+  - A popular Dutch pastime and engineering curiosity involving wind-powered carriages on wheels, famously improved by Simon Stevin.
+  - Example: "The sand-sailing is excellent today." (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Orbital Mechanics** (`orbital-mechanics`) — 1 chapter
+  - Terms describing the points in an orbit closest to (perihelion) and farthest from (aphelion) the sun, referencing Kepler's laws of planetary motion.
+  - Example: "perihelion of the ellipse... aphelion" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Galilean Moons** (`moons-of-jupiter`) — 1 chapter
+  - The four largest moons of Jupiter discovered by Galileo; their predictable orbits were used as a 'clock in the sky' to help solve the longitude proble
+  - Example: "hung in the darkness like Moons of Jupiter" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Sand-sailer (Land Yacht)** (`sand-sailer`) — 1 chapter
+  - Wind-powered wheeled vehicles. Simon Stevin famously built a large one for Prince Maurice of Orange in 1600, which could travel faster than horse-draw
+  - Example: "Eliza saw a sand-sailer out on the beach" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Sand-sailer** (`land-yachting`) — 1 chapter
+  - Also known as land yachts or 'zeilwagens,' these were pioneered in the Netherlands by Simon Stevin in the early 17th century and were a marvel of engi
+  - Example: "heeled over, but not so much as theirs, since he lacked a human counter-weight" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Flintlock mechanism** (`flintlock-pistol`) — 1 chapter
+  - The standard firearm technology of the era, which relied on a piece of flint striking steel to ignite gunpowder in a 'pan'—a process highly susceptibl
+  - Example: "trying to brush out the sand while leaving some powder in the pan" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Vis Inertiae** (`vis-inertiae`) — 1 chapter
+  - A Latin term used by Newton meaning 'force of inactivity' or 'inertia,' describing the inherent resistance of objects to changes in their state of mot
+  - Example: "sapping the vis inertiae she had imparted to the longboat" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Binary System** (`binary-system`) — 1 chapter
+  - The base-2 numbering system. Leibniz is credited with inventing the modern binary system, which he linked to his philosophical and religious views.
+  - Example: "translated to binary notation. In decimal notation this was 3." (The Star Chamber, Westminster Palace)
+- **Leibniz's Harz Mountain Project** (`harz-mountain-project`) — 1 chapter
+  - Leibniz's ambitious but unsuccessful engineering attempt to use wind power to pump water out of the silver mines in the Harz Mountains.
+  - Example: "the silver-mining project in the Harz has failed" (Tower of London)
+- **Scholasticism vs. Mechanical Philosophy** (`mechanical-philosophy`) — 1 chapter
+  - The transition from the Aristotelian 'Scholastic' view of nature (based on essences) to the 'Mechanical' view (nature as a machine governed by laws of
+  - Example: "internal debate in my own mind, between the old ways of the Scholastics and the " (Tower of London)
+- **Occam's Razor** (`occams-razor`) — 1 chapter
+  - The philosophical principle that the simplest explanation is usually the correct one, attributed to the medieval scholastic William of Ockham.
+  - Example: "apply Occam’s Razor to the facts" (Rossignol to Louis XIV Continued)
+- **binary cypher** (`binary-code`) — 1 chapter
+  - While binary is a modern computing staple, Leibniz (a key character in the cycle) was one of the first to formalize the binary numeral system in the l
+  - Example: "an alphabet of sixteen letters is perfectly suited to translation into a binary " (Rossignol to Louis XIV Continued)
+- **Medical Treatment of Louis XIV** (`medical-care-of-louis-xiv`) — 1 chapter
+  - Louis XIV's health was a matter of state; he famously survived brutal treatments including bloodletting, purgatives, and a public surgery for an anal 
+  - Example: "violence inflicted upon no less a personage than the King of France himself by t" (Rossignol to Louis XIV Continued)
+- **René Descartes' Physics** (`cartesian-physics`) — 1 chapter
+  - Descartes' theory that the universe is a 'plenum' (full of matter) and that motion is transferred through direct contact of particles, rejecting the p
+  - Example: "Descartes had abhorred the idea of a vacuum, and held that what we took to be em" (Sheerness, England)
+- **Aerial Telescope** (`aerial-telescope`) — 1 chapter
+  - Before the development of achromatic lenses, very long focal lengths were required to reduce chromatic aberration, leading to 'aerial telescopes' that
+  - Example: "sixty-foot refracting telescope, supported by a mast scavenged from a tall ship" (Sheerness, England)
+- **Prime Meridian** (`prime-meridian`) — 1 chapter
+  - The line of 0° longitude; while the international standard was not fixed until 1884, the Greenwich meridian was established by Flamsteed's observation
+  - Example: "along the Prime Meridian" (Sheerness, England)
+- **17th Century Architecture and Glassmaking** (`restoration-architecture-glass`) — 1 chapter
+  - The post-Great Fire era saw a shift from timber to brick and the development of 'crown glass,' allowing for the larger, more decorative windows that d
+  - Example: "reductions in the cost of window-glass, and improvements in the science of archi" (Sheerness, England)
+- **Tower of London Water Engine** (`tide-driven-water-engine`) — 1 chapter
+  - Refers to early hydraulic engineering projects, such as those by George Sorocold, which used the tidal power of the Thames to pump water into cities o
+  - Example: "Some engineer had lately constructed a tide-driven engine there for raising wate" (Sheerness, England)
+- **Steganography** (`steganography`) — 1 chapter
+  - The practice of concealing a secret message within an ordinary-looking text or physical object, a common technique in 17th-century espionage.
+  - Example: "the incredibly tedious descriptions of labors and deliveries that follow are not" (The Hague)
+- **Greek fire** (`greek-fire`) — 1 chapter
+  - An incendiary weapon used by the Byzantine Empire that could burn even on water; its exact composition remains a historical mystery.
+  - Example: "burn the place down like Greek fire" (Bishopsgate)
+- **Horology and the Balance Spring** (`hooke-huygens-clock-dispute`) — 1 chapter
+  - Hooke and Huygens had a bitter dispute over who first invented the balance spring for pocket watches, which greatly improved timekeeping accuracy.
+  - Example: "Hooke, when not arguing with Huygens about clocks" (Bishopsgate)
+- **Vivisection** (`early-modern-vivisection`) — 1 chapter
+  - Early members of the Royal Society performed experiments on live animals to study respiration and circulation.
+  - Example: "When he and Hooke and Wilkins had cut open live dogs" (Bishopsgate)
+### Institutions
+
+- **Cabinet Noir** (`cabinet-noir`) — 5 chapters
+  - The 'Black Chamber' was a French postal intelligence office where letters were opened, deciphered, and resealed to monitor political dissent and espio
+  - Example: "sent to the cabinet noir to be read" (Beach North of Scheveningen)
+- **Jesuits** (`jesuits`) — 4 chapters
+  - The Society of Jesus, a Catholic religious order known for its political influence, educational rigor, and role as confessors to European monarchs.
+  - Example: "a Jesuit priest named Édouard de Gex" (Versailles)
+- **Jesuits** (`jesuits-in-england`) — 2 chapters
+  - Members of the Society of Jesus. In 17th-century England, they were often feared and suspected of being secret agents working to restore Catholic rule
+  - Example: "more than a few Jesuits" (Whitehall Palace)
+- **Grenadier Guards** (`grenadier-guards`) — 2 chapters
+  - An elite infantry regiment of the British Army, originally formed in exile to protect the royal family during the Commonwealth.
+  - Example: "Grenadier Guards washing their hands in the blue, wind-whipped flames of torchiè" (Whitehall Palace)
+- **Trinity College, Cambridge** (`trinity-college-cambridge`) — 2 chapters
+  - The prestigious Cambridge college where Isaac Newton and many other figures of the Scientific Revolution studied and worked.
+  - Example: "But his years at Trinity had made him accustomed to it." (Whitehall Palace)
+- **French East India Company** (`french-east-india-company`) — 2 chapters
+  - Established by Jean-Baptiste Colbert in 1664 to compete with the British and Dutch, it struggled with mismanagement and conflict in the Indian Ocean t
+  - Example: "the French East India Company there around 1666" (Versailles)
+- **Royal Observatory** (`royal-observatory-greenwich`) — 2 chapters
+  - Established in 1675 at Greenwich to improve navigation and solve the longitude problem through astronomical observation.
+  - Example: "Charles II had appointed him Astronomer Royal and founded the Royal Observatory." (London)
+- **The Spanish Inquisition** (`spanish-inquisition`) — 2 chapters
+  - A judicial institution established to maintain Catholic orthodoxy in Spain, notorious in England as a symbol of Catholic tyranny.
+  - Example: "Spain with the Inquisition" (London)
+- **St. George Guild (Sint-Jorisdoelen)** (`st-george-guild`) — 2 chapters
+  - A civic guard (schutterij) in The Hague; these were paramilitary groups of wealthy citizens tasked with maintaining order and defending the city.
+  - Example: "she could summon the St. George Guild from their clubhouse" (Dorset)
+- **The Royal Exchange** (`royal-exchange`) — 2 chapters
+  - The center of commerce in London where merchants and brokers traded goods and stocks; it was divided into 'walks' for different nationalities and trad
+  - Example: "which is the whole point of the ‘Change, by the by." (The Exchange [Between Threadneedle and Cornhill])
+- **Gresham College** (`gresham-college`) — 2 chapters
+  - The original meeting place of the Royal Society and a center for free public lectures in London.
+  - Example: "lodgings in Gresham’s College" (The Exchange [Between Threadneedle and Cornhill])
+- **Bedlam** (`bedlam`) — 2 chapters
+  - Bethlem Royal Hospital, London's notorious psychiatric institution. Robert Hooke was actually the architect who designed its new building in the 1670s
+  - Example: "I know you have oft been at Bedlam with Hooke." (Sheerness, England)
+- **Lord High Admiral** (`lord-high-admiral`) — 1 chapter
+  - The titular head of the Royal Navy; James II held this post and was deeply involved in naval administration and reform.
+  - Example: "Lord High Admiral" (Whitehall Palace)
+- **Chambre Ardente** (`chambre-ardente`) — 1 chapter
+  - A special extraordinary court of justice in France, most famously convened by Louis XIV to prosecute the Affair of the Poisons.
+  - Example: "instituted the chambre ardente to investigate these doings" (Versailles)
+- **Maison royale de Saint-Louis** (`st-cyr-school`) — 1 chapter
+  - A school founded in 1684 by Madame de Maintenon to provide an education for the daughters of impoverished noblemen who had died in the King's service.
+  - Example: "Mme. de Maintenon opens her school for poor girls of the French nobility at St. " (Versailles)
+- **Wren Library** (`wren-library`) — 1 chapter
+  - Designed by Christopher Wren in 1676, this library at Trinity College, Cambridge, is a masterpiece of Baroque architecture.
+  - Example: "Wren’s library had started building" (London)
+- **The CABAL Ministry** (`cabal-ministry`) — 1 chapter
+  - A group of five high-ranking ministers (Clifford, Arlington, Buckingham, Ashley, and Lauderdale) who dominated English policy between 1668 and 1674; '
+  - Example: "the Duke of Tweed—a.k.a. General Lewis, the L in Charles II’s CABAL" (London)
+- **Coldstream Guards** (`coldstream-guards`) — 1 chapter
+  - The oldest regiment in the Regular Army in continuous active service, originally part of the New Model Army before serving the Monarchy.
+  - Example: "That regiment is called the Coldstream Guards" (Dorset)
+- **Stock Exchanges** (`amsterdam-and-london-exchanges`) — 1 chapter
+  - Refers to the Amsterdam Stock Exchange (the world's first) and the Royal Exchange in London, where commodity prices were posted on boards or 'planks' 
+  - Example: "At this moment on a Board in Amsterdam... our humble English Plank" (The Exchange [Between Threadneedle and Cornhill])
+- **Standing Army** (`standing-army`) — 1 chapter
+  - The maintenance of a professional standing army during peacetime was highly controversial in England and seen as a tool of absolute monarchy.
+  - Example: "Coldstream Guards, the Grenadiers" (The Exchange [Between Threadneedle and Cornhill])
+- **Dutch East India Company (VOC)** (`voc-dutch-east-india-company`) — 1 chapter
+  - The Vereenigde Oost-Indische Compagnie (VOC) was the first company to issue stock and pioneered complex financial instruments like futures and options
+  - Example: "invested it mostly through sub-brokers in Amsterdam, who specialize in particula" (Versailles)
+- **Blue Guards** (`blue-guards`) — 1 chapter
+  - An elite Dutch infantry regiment that served as the personal bodyguard of William of Orange.
+  - Example: "head, and more so by the hat, of a captain of the Blue Guards" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Academy of Saumur** (`academy-of-saumur`) — 1 chapter
+  - A famous Huguenot university in France where Penn studied; it was suppressed by Louis XIV in 1685 following the Revocation of the Edict of Nantes.
+  - Example: "exiled to a Protestant college (now extirpated) in Saumur" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Court of Star Chamber** (`court-of-star-chamber`) — 1 chapter
+  - An English court at the Palace of Westminster that became a symbol of the misuse of power by the monarchy; it was abolished because it bypassed the pr
+  - Example: "the Court of Star Chamber was abolished by the Long Parliament in 1641" (The Star Chamber, Westminster Palace)
+- **Star Chamber** (`star-chamber`) — 1 chapter
+  - An English court at the Palace of Westminster that became notorious for arbitrary power and cruelty under Charles I before being abolished in 1641.
+  - Example: "I know how the genuine Star Chamber worked…I don’t imagine this sham one is any " (The Star Chamber, Westminster Palace)
+- **The Royal Mint** (`royal-mint-tower-of-london`) — 1 chapter
+  - Historically located within the Tower of London, the Mint produced England's coinage; its operations are central to the era's economic and scientific 
+  - Example: "the Mint being shut down at the moment" (Tower of London)
+- **Bibliothèque du Roi** (`bibliotheque-du-roi`) — 1 chapter
+  - The King's Library in Paris, which became the basis for the modern Bibliothèque nationale de France; it was significantly expanded under Louis XIV.
+  - Example: "Bibliothèque du Roi" (Rossignol to Louis XIV Continued)
+- **The Holy Roman Empire** (`holy-roman-empire`) — 1 chapter
+  - A multi-ethnic complex of territories in central Europe. During this period, it was the primary rival to French hegemony on the continent.
+  - Example: "vassal of the Holy Roman Emperor" (Rossignol to Louis XIV Continued)
+- **French Army of the 17th Century** (`french-royal-army`) — 1 chapter
+  - Under Louvois, the French army became the most disciplined and largest standing military force in Europe, introducing standardized uniforms, supply ma
+  - Example: "because of this failure we blundered into the camp of a cavalry regiment." (Rossignol to Louis XIV Continued)
+- **Tower of London** (`tower-of-london`) — 1 chapter
+  - While a famous prison and palace, in this era it served as the primary arsenal and gunpowder store for the English military, making it a significant e
+  - Example: "Tower of London—the unspoken message being that no one cared if it blew up" (Sheerness, England)
+- **Blue Guards** (`dutch-blue-guards`) — 1 chapter
+  - An elite infantry regiment of the United Provinces of the Netherlands who served as William of Orange's personal bodyguard and were used to secure Lon
+  - Example: "Dutch Blue Guards" (Sheerness, England)
+- **The Royal Mint** (`royal-mint`) — 1 chapter
+  - The institution responsible for producing Britain's coinage; it was located within the safety of the Tower of London from roughly 1279 until 1810.
+  - Example: "it housed the Royal Mint" (Sheerness, England)
+- **Amsterdam Stock Exchange** (`amsterdam-stock-exchange`) — 1 chapter
+  - The Dam Square (Damplatz) was the heart of Amsterdam's financial district and the world's first formal stock exchange.
+  - Example: "furor of the Damplatz" (Venice)
+### Works
+
+- **Philosophiæ Naturalis Principia Mathematica** (`principia-mathematica`) — 4 chapters
+  - Newton's 'System of the World' refers to the third book of his 'Principia,' which applied his laws of motion and gravity to the entire universe.
+  - Example: "I am working out the System of the World upstairs" (London)
+- **I Ching** (`i-ching`) — 2 chapters
+  - A reference to Hexagram 3 of the ancient Chinese 'Book of Changes'. Leibniz was historically fascinated by the I Ching and its binary patterns.
+  - Example: "Difficulty at the beginning" (Versailles)
+- **Acta Eruditorum** (`acta-eruditorum`) — 2 chapters
+  - The first scientific journal of the German-speaking lands, founded in 1682, which served as the primary venue for Leibniz's mathematical publications.
+  - Example: "It was a copy of Acta Eruditorum, the scholarly rag that Leibniz had founded" (London)
+- **Brevis Demonstratio** (`brevis-demonstratio`) — 1 chapter
+  - A 1686 paper by Leibniz where he argued that Descartes' laws of motion were incorrect regarding the conservation of 'force' (kinetic energy).
+  - Example: "Brevis Demonstratio Erroris Memorabilis Cartesii et Alio-rum Circa Legem Natural" (Whitehall Palace)
+- **Syphilis: or, a Poetical History of the French Disease** (`syphilis-poem`) — 1 chapter
+  - A real 1686 translation by the Poet Laureate Nahum Tate of Girolamo Fracastoro's 1530 poem, which gave the disease its name.
+  - Example: "Nahum Tate had recently translated into English a hundred-and-fifty-year-old poe" (Whitehall Palace)
+- **The Assayer** (`the-assayer`) — 1 chapter
+  - A seminal 1623 book by Galileo Galilei regarding the scientific method and the use of mathematics to understand the universe.
+  - Example: "Il Saggiatore (THE ASSAYER) IN Opere, v. 6, p. 197" (London)
+- **De Motu Corporum in Gyrum** (`de-motu-corporum-in-gyrum`) — 1 chapter
+  - Newton's 1684 manuscript ('On the motion of bodies in an orbit') which provided the mathematical foundation for universal gravitation.
+  - Example: "De Motu Corporum in Gyrum. Halley says it is stupendous." (London)
+- **De Motu Corporum in Gyrum** (`de-motu`) — 1 chapter
+  - Newton's short manuscript sent to Halley in 1684, which provided the mathematical foundation for orbital mechanics and preceded the Principia.
+  - Example: "Within a few months he’s got De Motu out." (London)
+- **Journal des Savants** (`journal-des-savants`) — 1 chapter
+  - The earliest academic journal published in Europe (established 1665), representing the intellectual output of the French scientific community.
+  - Example: "Acta Eruditorum was Leibniz’s (hence Germany’s) answer to Journal des Savants" (London)
+- **Geneva Bible** (`geneva-bible`) — 1 chapter
+  - The primary Bible of 16th-century English Protestantism, favored by Puritans for its anti-authoritarian marginal notes, even after the King James Vers
+  - Example: "like something from the Geneva Bible" (London)
+- **Solomon's Temple** (`solomons-temple-reconstruction`) — 1 chapter
+  - Newton was obsessed with the architecture of Solomon's Temple, believing its floor plan encoded the structure of the universe and the 'System of the W
+  - Example: "dimensions of the Tabernacle to Moses and Temple with its Courts to David & Ezek" (London)
+- **De Motu Corporum in Gyrum** (`de-motu-corporum`) — 1 chapter
+  - A short manuscript sent by Newton to Edmond Halley in 1684, which provided the mathematical derivation of Kepler's laws and served as the precursor to
+  - Example: "You have read my De Motu Corporum in Gyrum?" (London)
+- **The Pilgrim's Progress** (`the-pilgrims-progress`) — 1 chapter
+  - One of the most significant works of religious English literature, published in 1678; its themes of spiritual struggle resonate with the Puritan chara
+  - Example: "The Pilgrim’s Progress" (The Exchange [Between Threadneedle and Cornhill])
+- **Book of Daniel** (`book-of-daniel`) — 1 chapter
+  - A biblical book containing apocalyptic visions and prophecies, which were of intense interest to 17th-century scholars like Newton.
+  - Example: "who was named after the strangest book in the Bible" (The Exchange [Between Threadneedle and Cornhill])
+- **John Ball** (`adam-delved-eve-span`) — 1 chapter
+  - A rhyme associated with the Peasants' Revolt of 1381, used to challenge the social hierarchy by implying all humans are equal by birth.
+  - Example: "When Adam delved and Eve span" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Principia Philosophiae** (`principles-of-philosophy-descartes`) — 1 chapter
+  - A book published by Descartes in 1644 that attempted to provide a framework for all of physics on philosophical principles.
+  - Example: "Principles of Philosophy" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Micrographia** (`micrographia`) — 1 chapter
+  - Hooke's 1665 book containing detailed illustrations of objects seen through a microscope, including the famous drawing of a flea.
+  - Example: "You are the millionth human to look at a spark, a flea, a raindrop" (Tower of London)
+- **Lilliburlero** (`lilliburlero`) — 1 chapter
+  - A popular satirical march with nonsense lyrics used to mock Irish Catholics and King James II; it became the anthem of the Williamite cause during the
+  - Example: "They were singing a song, Lilliburlero, that had become universal in the last fe" (Sheerness, England)
+- **De Historia Piscium** (`de-historia-piscium`) — 1 chapter
+  - A lavishly illustrated book on fish published by the Royal Society in 1686; its high cost nearly bankrupted the Society, famously forcing them to pay 
+  - Example: "a large book of engravings of diverse fishes. The R.S. had printed too many copi" (Bishopsgate)
+### Terms
+
+- **Huguenots** (`huguenots`) — 5 chapters
+  - French Protestants who faced increasing persecution under Louis XIV, culminating in the 1685 Edict of Fontainebleau which revoked their religious free
+  - Example: "the Protestant heretics who infest his realms" (Versailles)
+- **Nonconformists** (`nonconformists`) — 3 chapters
+  - Protestants who did not 'conform' to the governance and usages of the Church of England; they were a significant political and religious force in the 
+  - Example: "I liked those rustic Nonconformists with their sickles and blunderbusses." (Dorset)
+- **Quakers** (`quakers`) — 2 chapters
+  - The Religious Society of Friends; a dissenting group that faced heavy persecution and imprisonment under the Clarendon Code for refusing to swear oath
+  - Example: "letting a few Barkers and Quakers out of prison" (Whitehall Palace)
+- **Hashishin** (`hashishin`) — 2 chapters
+  - The historical root of the word 'assassin,' referring to a medieval Nizari Ismaili sect; used here to denote a religious extremist or political killer
+  - Example: "a Phanatique, a hashishin?" (Whitehall Palace)
+- **High Church** (`high-church-anglicanism`) — 2 chapters
+  - A faction within the Church of England that emphasized ritual, the authority of bishops, and continuity with Catholic tradition, often associated with
+  - Example: "these High Church gentles would never come out and say what they were thinking a" (London)
+- **Janissary** (`janissaries`) — 2 chapters
+  - Elite infantry units that formed the Ottoman Sultan's household troops and bodyguards, known for their discipline and martial prowess.
+  - Example: "He moved like a Janissary" (Beach North of Scheveningen)
+- **The Dutch (Boers)** (`dutch-republic`) — 2 chapters
+  - The poem alludes to the hope that a foreign invasion (specifically by William of Orange and the Dutch) would provide a 'righteous' alternative to a do
+  - Example: "And English towns beset by armèd Boers" (The Exchange [Between Threadneedle and Cornhill])
+- **Hanged, drawn and quartered** (`hanged-drawn-and-quartered`) — 2 chapters
+  - The statutory penalty in England for men convicted of high treason, involving public torture and dismemberment.
+  - Example: "half-hanged, drawn, and quartered in London" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Lithotomy** (`lithotomy`) — 2 chapters
+  - The surgical removal of bladder stones. In the 1600s, this was performed without anesthesia or antiseptics; the patient was tied down while a surgeon 
+  - Example: "I have seen men cut for the stone, Sergeant, and I’ll take death, thank you very" (Tower of London)
+- **Whigs and Tories** (`whigs-and-tories`) — 1 chapter
+  - The two emerging political factions: Whigs supported Exclusion and parliamentary supremacy, while Tories supported the divine right of kings and the l
+  - Example: "these Whigs (as L’Estrange libelled them) had voted for Exclusion" (Whitehall Palace)
+- **Dissenters** (`dissenters`) — 1 chapter
+  - Protestants who refused to conform to the Church of England; they faced significant legal persecution during the Restoration.
+  - Example: "Thirteen hundred Quakers, Barkers, and other Dissenters" (Whitehall Palace)
+- **Chirurgeons** (`chirurgeons`) — 1 chapter
+  - An archaic term for surgeons. At the time, surgery was a manual craft distinct from the academic profession of physicians, often associated with barbe
+  - Example: "the boat that carried the chirurgeons" (Whitehall Palace)
+- **Asclepius** (`asclepius`) — 1 chapter
+  - The Greek god of medicine and healing; his name is used here as a literary reference to the medical profession.
+  - Example: "the Sons of Asclepius were finished with him" (Whitehall Palace)
+- **Calvinism** (`calvinism-geneva`) — 1 chapter
+  - A major branch of Protestantism following the theology of John Calvin; Geneva was the center of this movement and a refuge for English 'Marian Exiles.
+  - Example: "fled over the sea to Geneva, which was a hornets’ nest of Calvinists" (Whitehall Palace)
+- **Whig Party** (`whig-party`) — 1 chapter
+  - A political faction that opposed absolute monarchy and the Catholic James II, favoring parliamentary supremacy.
+  - Example: "Whigs" (Whitehall Palace)
+- **Extreme Unction** (`extreme-unction`) — 1 chapter
+  - The Catholic sacrament of anointing the sick or dying; Charles II's deathbed conversion and receipt of this rite were politically explosive in Protest
+  - Example: "working his way through the closing stanzas of the rite of extreme unction" (Whitehall Palace)
+- **Freedom of Conscience** (`freedom-of-conscience`) — 1 chapter
+  - A 17th-century political and religious concept advocating for the right to practice one's religion without state interference, often used by James II 
+  - Example: "You know I’m a Freedom of Conscience man" (Whitehall Palace)
+- **Enfants de France** (`enfants-de-france`) — 1 chapter
+  - A specific rank at the French court for the legitimate children of the King and the Dauphin (the heir apparent), carrying immense prestige and protoco
+  - Example: "the Dauphin and the other Enfants de France" (Versailles)
+- **Le Lever and Le Coucher** (`lever-and-coucher-ceremonies`) — 1 chapter
+  - The highly ritualized morning and evening ceremonies of Louis XIV where courtiers competed for the honor of performing menial tasks for the King to ga
+  - Example: "M. le comte de Béziers was given the honor of holding a candle during the King’s" (Versailles)
+- **The Mobile** (`the-mobile`) — 1 chapter
+  - A 17th-century term for the 'mobile vulgus' or the fickle crowd/common people, from which the modern word 'mob' is derived.
+  - Example: "the King banned the mobile from all of his gardens" (Versailles)
+- **Crypto-Jews in Amsterdam** (`sephardic-jews-in-amsterdam`) — 1 chapter
+  - Refers to Sephardic Jews (often 'New Christians' or Marranos) who fled the Spanish Inquisition to Amsterdam, where they became central to internationa
+  - Example: "I am sorry that your Spanish uncle had to move to Amsterdam" (Versailles)
+- **Dacoity** (`dacoits`) — 1 chapter
+  - A term derived from the Hindi 'dakait' referring to armed bandits; in this period, they were a significant hazard for travelers on Indian trade routes
+  - Example: "strangled by dacoits" (Versailles)
+- **Cat-burning** (`cat-burning`) — 1 chapter
+  - A form of ritual entertainment in early modern France (and elsewhere) where cats were burned alive, often during midsummer festivals, believed to brin
+  - Example: "some common people had erected a cantilever... filled with dozens of stray cats." (Versailles)
+- **Bills of Exchange** (`bills-of-exchange`) — 1 chapter
+  - A primary instrument of international trade and finance in the 17th century, acting as a precursor to modern checks and paper money.
+  - Example: "bills of exchange or little purses of diamonds" (Versailles)
+- **Le Lever** (`le-lever`) — 1 chapter
+  - The highly ritualized morning ceremony where the King of France was dressed and prepared for the day in front of selected courtiers.
+  - Example: "the King’s getting-out-of-bed ceremony" (Versailles)
+- **Chirurgeon (Surgeon)** (`17th-century-surgery`) — 1 chapter
+  - In this era, surgeons were distinct from physicians, performing manual operations and often associated with the barber-surgeon guild.
+  - Example: "the most famous chirurgeon in Paris" (Versailles)
+- **The Waldensians** (`waldensians`) — 1 chapter
+  - A pre-Reformation Christian movement in the Alpine valleys of Savoy and France that later aligned with Calvinism and faced brutal military suppression
+  - Example: "Calvinist proselytizers would come up the valleys to preach to the common folk" (Versailles)
+- **English Dissenters** (`english-dissenters`) — 1 chapter
+  - Various Protestant groups that separated from the Church of England; they differed in their views on church hierarchy, sacraments, and social radicali
+  - Example: "Quakers, Barkers, Ranters, Congregationalists, Presbyterians" (London)
+- **Jeova Sanctus Unus** (`jeova-sanctus-unus`) — 1 chapter
+  - An anagram of 'Isaacus Neuutonus' (Isaac Newton) used as a pseudonym; it translates to 'Jehovah Holy One,' reflecting Newton's private anti-trinitaria
+  - Example: "addressed to JEOVA SANCTUS UNUS" (London)
+- **Hypotheses non fingo** (`hypotheses-non-fingo`) — 1 chapter
+  - Newton's famous Latin phrase meaning 'I feign no hypotheses,' expressing his refusal to speculate on the hidden 'cause' of gravity when he could only 
+  - Example: "Hypothesis non fingo." (London)
+- **Commerçants** (`commercants`) — 1 chapter
+  - Refers to the rising merchant class whose wealth and independence from the crown posed a threat to the absolute authority of monarchs like Louis XIV.
+  - Example: "a London or an Amsterdam—is a nightmare to him" (Beach North of Scheveningen)
+- **Protestant Defender** (`protestant-defender`) — 1 chapter
+  - A title reflecting William's role as the primary military and political leader resisting the Catholic expansionism of Louis XIV in Europe.
+  - Example: "You, William of Orange, the Protestant Defender, are a threat." (Beach North of Scheveningen)
+- **Polders** (`polders`) — 1 chapter
+  - Low-lying tracts of land reclaimed from the sea by dikes and drainage, a defining feature of the Dutch landscape and engineering.
+  - Example: "take her to the polders surrounding the Hague" (Beach North of Scheveningen)
+- **Impressment** (`impressment`) — 1 chapter
+  - The practice of forcibly recruiting men into military or merchant naval service, common in the 17th and 18th centuries.
+  - Example: "press-ganged on India ships" (Beach North of Scheveningen)
+- **Syphilis** (`french-pox`) — 1 chapter
+  - A common period term for syphilis, reflecting the tendency of European nations to blame the disease on their neighbors.
+  - Example: "He was far gone with the French Pox" (Dorset)
+- **The Imp of the Perverse** (`imp-of-the-perverse`) — 1 chapter
+  - Though popularized by Edgar Allan Poe, the term refers to the self-destructive urge to do the wrong thing simply because it is wrong.
+  - Example: "listening to the Imp of the Perverse" (Dorset)
+- **Barber-Surgeon** (`barber-surgeons`) — 1 chapter
+  - In this era, barbers performed minor surgical procedures, bloodletting, and wound care in addition to cutting hair.
+  - Example: "had to be opened up and aired out by a barber" (Dorset)
+- **Penal Transportation** (`penal-transportation`) — 1 chapter
+  - The practice of sending convicted criminals or political rebels to work as indentured servants or slaves in overseas colonies like Barbados.
+  - Example: "Jeffreys has sold twelve hundred ordinary West Country Protestants into chattel " (Dorset)
+- **Early Contraception** (`early-modern-contraception`) — 1 chapter
+  - A description of a 17th-century condom made from animal intestines (sheep-gut), which were used both for contraception and protection against disease.
+  - Example: "little sock of sheep-gut... rolled the whole length up to make a translucent tor" (Dorset)
+- **Vagabonding** (`vagabonding`) — 1 chapter
+  - Refers to the social class of masterless men and wanderers in early modern Europe, often displaced by wars or economic shifts.
+  - Example: "Vagabonding with Jack" (Dorset)
+- **Vagabonds** (`vagabonds`) — 1 chapter
+  - In this context, it refers to the 'Vagabond' class of landless, wandering people, often associated with the Shaftoe family in the novel's lore.
+  - Example: "as if you were some sort of Vagabond" (Dorset)
+- **Tablero** (`tablero`) — 1 chapter
+  - A Spanish/Portuguese term for a board or table; in this context, it refers to the price boards used in stock and commodity exchanges.
+  - Example: "pray—where stands the tablero?" (The Exchange [Between Threadneedle and Cornhill])
+- **Etymology of Bankruptcy** (`etymology-of-bankruptcy`) — 1 chapter
+  - The word 'bankruptcy' derives from the Italian 'banca rotta' (broken bench); in some European markets, a merchant's bench was physically broken if the
+  - Example: "seated at a chair, with no banca" (The Exchange [Between Threadneedle and Cornhill])
+- **Fanatics (Phanatiques)** (`fanatics-religious-sect`) — 1 chapter
+  - A pejorative term used in the 17th century to describe non-conformist religious radicals, particularly those suspected of republican or revolutionary 
+  - Example: "whether I’m a back-stabber or a Phanatique" (The Exchange [Between Threadneedle and Cornhill])
+- **Short Selling** (`short-selling`) — 1 chapter
+  - A financial practice where an investor profits from the decline in a stock's price; it was a sophisticated and controversial technique in the 17th-cen
+  - Example: "explain the concept of selling short" (Versailles)
+- **Futures Contract** (`futures-contracts`) — 1 chapter
+  - Legal agreements to buy or sell a particular commodity at a predetermined price at a specified time in the future, widely traded in the Dutch Republic
+  - Example: "investing in commodities futures" (Versailles)
+- **Peasants' Revolt Slogan** (`peasants-revolt-slogan`) — 1 chapter
+  - A famous radical rhyme attributed to John Ball during the 1381 Peasants' Revolt, used here by Penn to challenge the concept of social hierarchy and cl
+  - Example: "When Adam delved and Eve span, who then was the Gentleman?" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Dragoons** (`dragoons`) — 1 chapter
+  - Mounted infantry who rode into battle but dismounted to fight. In this era, Louis XIV used them to suppress Protestantism in France through 'dragonnad
+  - Example: "the flagship…of the Duc…d’Arcachon! We may…assume it…to be full…of dragoons!" (Bank of Het Kanaal, Between Scheveningen and the Hague)
+- **Roman Law vs Common Law** (`roman-law-vs-common-law`) — 1 chapter
+  - Jeffreys contrasts Roman-style 'Civil Law' (top-down, efficient, inquisitorial) with English 'Common Law' (precedent-based, jury-focused), which he vi
+  - Example: "Henry VII convened it, but its procedures were rooted in Roman jurisprudence" (The Star Chamber, Westminster Palace)
+- **Etymology of Revolution** (`etymology-of-revolution`) — 1 chapter
+  - Before the late 17th century, 'revolution' primarily meant a circular motion (like planets). The modern political sense of 'overthrow' was emerging du
+  - Example: "you have employed the word ‘revolution,’ heretofore a perfectly innocent and use" (The Star Chamber, Westminster Palace)
+- **Slave Collars** (`slave-collars`) — 1 chapter
+  - Metal neck restraints, often with long protruding spikes or hooks, used in the 17th and 18th centuries to prevent enslaved people from escaping throug
+  - Example: "The collar was designed to prevent slaves from running away" (The Star Chamber, Westminster Palace)
+- **Hackney-chair** (`hackney-chair`) — 1 chapter
+  - A sedan chair used as a hired vehicle, carried by two men (porters) on poles. It was a common form of urban transport in 17th-century London, especial
+  - Example: "sent his boy a-running into Westminster to summon a hackney-chair" (The Star Chamber, Westminster Palace)
+- **Popery** (`popery`) — 1 chapter
+  - A pejorative term used by Protestants to describe the doctrines and practices of the Roman Catholic Church, often implying political conspiracy.
+  - Example: "stalking-horse for Popery" (The Star Chamber, Westminster Palace)
+- **Grubendol** (`grubendol`) — 1 chapter
+  - The international postal code/pseudonym used by the Royal Society for its foreign correspondence to avoid political scrutiny.
+  - Example: "It bore the address: GRUBENDOL LONDON." (Tower of London)
+- **Bladder Stones** (`the-stone`) — 1 chapter
+  - Bladder stones (calculi) were a common and excruciatingly painful ailment in the 17th century. Before modern medicine, they often led to chronic infec
+  - Example: "I have the stone, Sergeant, and cannot make water at times of my own choosing" (Tower of London)
+- **Lord Chancellor** (`lord-chancellor`) — 1 chapter
+  - The highest-ranking officer of the British government, responsible for the efficient functioning of the courts and acting as a key advisor to the Mona
+  - Example: "but may I remind you that Jeffreys is the Lord Chancellor of the Realm?" (Tower of London)
+- **Spadroon** (`spadroon`) — 1 chapter
+  - A light, straight-edged sword used by military officers in the late 17th and 18th centuries, designed for both cutting and thrusting.
+  - Example: "swing my spadroon" (Tower of London)
+- **Mudlark** (`mudlarks`) — 1 chapter
+  - A person who scavenges in river mud (specifically the Thames) for items of value; historically associated with the extreme poor and children in London
+  - Example: "As a mudlark" (Tower of London)
+- **Grand Habit** (`grand-habit`) — 1 chapter
+  - The most formal style of French court dress, characterized by a stiff, boned bodice, bared shoulders, and an enormous train, mandatory for women in th
+  - Example: "dressing en grand habit as is done at Versailles." (St. Cloud)
+- **Ell (unit of measure)** (`ell-measure`) — 1 chapter
+  - A historical unit of length used primarily for measuring textiles; a Flemish ell was approximately 27 inches.
+  - Example: "It is a piece of coarsely woven linen, square, one Flemish ell on a side." (Rossignol to Louis XIV Continued)
+- **Runes** (`runes`) — 1 chapter
+  - Ancient Germanic alphabets used before the adoption of the Latin alphabet; in the novel, they are linked to the fictional Qwghlmian language.
+  - Example: "a system of runes that is" (Rossignol to Louis XIV Continued)
+- **Priapus** (`priapus`) — 1 chapter
+  - A minor Greek rustic fertility god, protective of livestock and gardens, famously depicted with a permanent, oversized erection.
+  - Example: "many of their rooms are veritable Shrines to the god Priapus" (Rossignol to Louis XIV Continued)
+- **Märchen** (`marchen`) — 1 chapter
+  - The German tradition of folklore and fairy tales, which later became a central focus of German Romanticism and national identity.
+  - Example: "The Germans have a fondness for faery-tales, or Märchen as they call them" (Rossignol to Louis XIV Continued)
+- **Märchenwelt** (`marchenwelt`) — 1 chapter
+  - German for 'fairy-tale world.' Stephenson uses this to contrast the gritty reality of the 17th century with the folkloric, often dark atmosphere of th
+  - Example: "war rends the veil that separates the everyday world from the Märchenwelt" (Rossignol to Louis XIV Continued)
+- **Punch and Judy** (`punchinello`) — 1 chapter
+  - A popular puppet show character (the precursor to Mr. Punch) introduced to England in the 1660s, known for slapstick violence.
+  - Example: "Punchinello shows" (Sheerness, England)
+- **The Gillingham Line (Medway Chain)** (`medway-chain`) — 1 chapter
+  - A massive defensive iron chain stretched across the River Medway to prevent enemy ships from attacking the English fleet at Chatham.
+  - Example: "the chain that was stretched across the river" (Sheerness, England)
+- **Thames Watermen** (`thames-watermen`) — 1 chapter
+  - Licensed river workers who provided essential taxi-like transport across and along the Thames, which was often faster than navigating London's congest
+  - Example: "He walked down to the Thames and woke up a waterman" (Sheerness, England)
+- **The Rise of Consumerism** (`rise-of-consumerism`) — 1 chapter
+  - The late 17th century marked the birth of modern retail culture in London, where browsing for luxury goods became a social leisure activity.
+  - Example: "The noun “shop” had been verbed; people went “shopping” now." (Sheerness, England)
+- **The Three-Piece Suit** (`origin-of-the-three-piece-suit`) — 1 chapter
+  - Introduced by Charles II in 1666 as a way to promote English wool and move away from French-influenced fashions.
+  - Example: "de rigueur three-piece suit of waistcoat, coat, and breeches" (Sheerness, England)
+- **Gentleman of the Bedchamber** (`gentleman-of-the-bedchamber`) — 1 chapter
+  - A high-ranking title for a courtier who waited upon the King, providing intimate access to the monarch.
+  - Example: "Gentleman of the Bedchamber" (Sheerness, England)
+- **17th Century Views of the Americas** (`colonial-stereotypes`) — 1 chapter
+  - Refers to European misconceptions and conspiracy theories regarding the New World, including the idea that Indigenous peoples were the Lost Tribes of 
+  - Example: "cabals of crypto-Jews, and Indians sacrificing each other atop Pyramids" (Sheerness, England)
+- **All Hallows' Eve** (`all-hallows-eve`) — 1 chapter
+  - The historical precursor to Halloween; Daniel is dismissing Root's talk as supernatural 'hobgoblin-stories' appropriate for that holiday.
+  - Example: "All Hallows’ Eve was more than a month since" (Sheerness, England)
+- **Shooting the Bridge** (`shooting-london-bridge`) — 1 chapter
+  - The narrow arches of Old London Bridge created dangerous rapids (flumes) due to the tide; 'shooting' them in a small boat was a perilous shortcut.
+  - Example: "insisted that they shoot one of the flumes under London Bridge" (Sheerness, England)
+- **Shooting the Bridge** (`shooting-the-bridge`) — 1 chapter
+  - Old London Bridge acted as a partial dam due to its narrow arches and large protective 'starlings,' creating dangerous rapids (flumes) that boatmen wo
+  - Example: "shoot one of the flumes under London Bridge rather than take the time to walk ar" (Sheerness, England)
+- **Bhang** (`bhang`) — 1 chapter
+  - An edible or smokable preparation of cannabis; its presence here highlights the global trade and diverse population of the London docklands.
+  - Example: "Malay-looking gent smoking bhang by the front door" (Sheerness, England)
+- **You and I are but earth** (`you-and-i-are-but-earth`) — 1 chapter
+  - A reference to a specific historical anecdote where a witness (or Daniel's father in the novel's lore) defied Jeffreys' intimidation in court.
+  - Example: "You and I are but earth" (Sheerness, England)
+- **Royal Birthing Customs** (`royal-birthing-customs`) — 1 chapter
+  - Refers to the historical practice where numerous witnesses (ministers, courtiers, and family) were required to be present at royal births to ensure th
+  - Example: "stand in the Queen’s bedchamber and stare fixedly at her vagina all day" (The Hague)
+- **Sedan Chair** (`sedan-chair`) — 1 chapter
+  - An enclosed chair carried on poles by two porters, a common form of urban transport for the wealthy in the 17th and 18th centuries.
+  - Example: "I would be carried across the square into the Binnenhof in a sedan-chair" (The Hague)
+- **Breech birth** (`breech-birth-history`) — 1 chapter
+  - In the 17th century, a breech birth was extremely dangerous and often fatal for both mother and child due to the lack of modern surgical techniques li
+  - Example: "He is trying to come out buttocks-first" (The Hague)
+- **Habsburg Jaw** (`habsburg-jaw`) — 1 chapter
+  - A physical deformity (mandibular prognathism) prevalent in the Habsburg dynasty due to inbreeding, which often caused difficulties with speech and eat
+  - Example: "the cleft lips and palates, the oddly styled jaw-bones... of these people" (The Hague)
+- **Minerva** (`minerva`) — 1 chapter
+  - The Roman goddess of wisdom and war; she is a recurring symbol in the series representing the intellectual and strategic pursuits of the characters.
+  - Example: "We came to a stop underneath a fresco of Minerva" (The Hague)
+- **Sedan chair** (`sedan-chairs`) — 1 chapter
+  - An enclosed chair carried by two porters on poles; it was a common form of urban transport in 17th and 18th-century London to avoid the filth of the s
+  - Example: "sedan-chair—one of the smallest type, little more than a sarcophagus on sticks" (Bishopsgate)
+- **River Styx** (`river-styx`) — 1 chapter
+  - In Greek mythology, the river that forms the boundary between Earth and the Underworld.
+  - Example: "I will see you on the other side of the Styx" (Bishopsgate)
+### Places
+
+- **The Binnenhof** (`binnenhof`) — 5 chapters
+  - A complex of buildings in The Hague that has served as the meeting place of the States General of the Netherlands since 1446, acting as the heart of D
+  - Example: "the Hofgebied. Another few minutes’ walk would take them to the very foundations" (Dorset)
+- **Spanish Netherlands** (`spanish-netherlands`) — 2 chapters
+  - The Hapsburg-controlled region (roughly modern-day Belgium) that served as a buffer and frequent battleground between France and the Dutch Republic.
+  - Example: "the Spanish Netherlands" (Beach North of Scheveningen)
+- **Whitehall Palace** (`whitehall-palace`) — 2 chapters
+  - The main residence of the English monarchs in London from 1530 until 1698, it was a sprawling complex and the center of political life.
+  - Example: "expected to visit Whitehall Palace" (The Star Chamber, Westminster Palace)
+- **Château de Saint-Cloud** (`chateau-de-saint-cloud`) — 2 chapters
+  - The primary residence of Philippe I, Duke of Orléans (brother of Louis XIV), known for its magnificent gardens and as a center of court life outside o
+  - Example: "life at St. Cloud" (St. Cloud)
+- **Palace of Whitehall** (`palace-of-whitehall`) — 1 chapter
+  - The main residence of the English monarchs in London from 1530 until 1698. It was a sprawling, disorganized complex of over 1,500 rooms.
+  - Example: "Whitehall... Privy Stairs... Privy Gallery... Banqueting House" (Whitehall Palace)
+- **Old St Paul's Cathedral** (`old-st-pauls`) — 1 chapter
+  - The medieval cathedral of London that was destroyed in the Great Fire of 1666 and replaced by Christopher Wren's masterpiece.
+  - Example: "Old St. Paul’s" (Whitehall Palace)
+- **Topkapi Palace Harem** (`topkapi-harem`) — 1 chapter
+  - The secluded living quarters for the wives, concubines, and female relatives of the Ottoman Sultan, known for its complex internal hierarchy and polit
+  - Example: "harim of the Topkapi Palace in Constantinople" (Versailles)
+- **Agra Fort** (`agra-fort`) — 1 chapter
+  - A massive 16th-century Mughal fortress that served as the main residence of the emperors until the capital shifted to Delhi (Shahjahanabad).
+  - Example: "the Red Fort at Agra" (Versailles)
+- **Pont-Neuf** (`pont-neuf`) — 1 chapter
+  - The oldest standing bridge across the river Seine in Paris, which in the 17th century was a bustling center of commerce, street performers, and 'tooth
+  - Example: "Any tooth-puller chosen at random from the Pont-Neuf" (Versailles)
+- **Whitechapel** (`whitechapel`) — 1 chapter
+  - A district in East London that was historically known for poverty, overcrowding, and vice outside the city walls.
+  - Example: "campaigning like a French regiment through every whorehouse in Whitechapel" (London)
+- **Texel** (`texel`) — 1 chapter
+  - An island in the Netherlands that served as a frequent staging point for naval expeditions and political exiles.
+  - Example: "Monmouth’s invasion-force was massing at Texel" (Dorset)
+- **Scheveningen** (`scheveningen`) — 1 chapter
+  - A seaside district of The Hague; in the 17th century, it was a fishing village and a frequent point of arrival/departure for international travelers a
+  - Example: "canal that ran from the city out to the shore at Scheveningen." (Dorset)
+- **Tyburn Tree** (`tyburn-tree`) — 1 chapter
+  - The primary location for public executions in London, famous for its 'triple tree' gallows that could hang multiple people at once.
+  - Example: "At Tyburn tree, during one of the regularly scheduled Friday hangings" (The Exchange [Between Threadneedle and Cornhill])
+- **Herzog August Library** (`wolfenbuttel-library`) — 1 chapter
+  - The library in Wolfenbüttel where Leibniz served as librarian; he designed a revolutionary new building (the Bibliotheca Augusta) to house the collect
+  - Example: "Leibniz was building a splendid library in Wolfenbüttel" (The Star Chamber, Westminster Palace)
+- **The Palatinate** (`the-palatinate`) — 1 chapter
+  - A strategic region of the Holy Roman Empire (modern-day Germany) that was a major flashpoint for conflict between France and the Empire during the lat
+  - Example: "If an invasion of the Palatinate is being planned" (Rossignol to Louis XIV Continued)
+- **Heidelberg Castle** (`heidelberg-castle`) — 1 chapter
+  - The residence of the Electors Palatine, which was famously destroyed by French troops during the Nine Years' War shortly after the events of this pass
+  - Example: "helped them establish their royal household in what remained of Heidelberg Castl" (Rossignol to Louis XIV Continued)
+- **The Electoral Palatinate** (`electoral-palatinate`) — 1 chapter
+  - The Palatinate was a major territory of the Holy Roman Empire. Its capital, Heidelberg, and its strategic position on the Rhine made it a frequent tar
+  - Example: "Heidelberg Castle... Elector Palatinate" (Rossignol to Louis XIV Continued)
+- **Strasbourg and Alsace** (`annexation-of-alsace`) — 1 chapter
+  - Strasbourg was a Free Imperial City until it was seized by Louis XIV in 1681, a major move in his 'Reunions' policy to expand French borders.
+  - Example: "city of Strasbourg, where he had crossed over into Alsace" (Rossignol to Louis XIV Continued)
+- **The Argonne** (`argonne-forest`) — 1 chapter
+  - A long strip of rocky, heavily forested terrain in northeast France, historically significant as a defensive barrier and a difficult military bottlene
+  - Example: "forest Argonne" (Rossignol to Louis XIV Continued)
+- **Duchy of Luxembourg** (`duchy-of-luxembourg`) — 1 chapter
+  - A strategically vital territory that had been captured by Louis XIV in 1684. Its fortifications, designed by Vauban, made it one of the most significa
+  - Example: "near where France, the Duchy of Luxembourg, and the Spanish Netherlands come tog" (Rossignol to Louis XIV Continued)
+- **The Ardennes** (`the-ardennes`) — 1 chapter
+  - A region of extensive forests, rough terrain, and rolling hills. Historically, its difficult geography has made it a significant factor in military ma
+  - Example: "traverse the Ardennes [as these woods are called] northwards." (Rossignol to Louis XIV Continued)
+- **Prince-Bishopric of Liège** (`bishopric-of-liege`) — 1 chapter
+  - An ecclesiastical state within the Holy Roman Empire (modern-day Belgium) that often served as a strategic buffer and battleground between French and 
+  - Example: "we are now in the Bishopric of Liège" (Rossignol to Louis XIV Continued)
+- **Maastricht** (`maastricht`) — 1 chapter
+  - A heavily fortified city of immense strategic importance, frequently besieged during the 17th-century wars between France and the Dutch.
+  - Example: "ride north past French lines to Maestricht" (Rossignol to Louis XIV Continued)
+- **Banqueting House, Whitehall** (`banqueting-house`) — 1 chapter
+  - The only surviving component of the Palace of Whitehall, famous for its Rubens ceiling and as the site of Charles I's execution; it was the center for
+  - Example: "masque at the Banqueting House" (Sheerness, England)
+- **River Medway** (`river-medway`) — 1 chapter
+  - A major river in Kent; its mouth was a strategic naval site and the location of a humiliating English defeat by the Dutch in 1667.
+  - Example: "the mouth of the Medway" (Sheerness, England)
+- **Upnor Castle** (`upnor-castle`) — 1 chapter
+  - An Elizabethan artillery fort built to protect the Chatham dockyards; it famously failed to stop the Dutch Raid of 1667.
+  - Example: "Upnor Castle" (Sheerness, England)
+- **Traitor's Gate** (`traitors-gate`) — 1 chapter
+  - The water entrance to the Tower of London through which many famous prisoners, accused of treason, were brought into the fortress by boat from the Tha
+  - Example: "We are entering into Traitor’s Gate!" (Sheerness, England)
+- **The Tilt Yard** (`tilt-yard-whitehall`) — 1 chapter
+  - Originally a site for jousting at Whitehall Palace, by the late 17th century it was a public area near the Horse Guards.
+  - Example: "northern end of the Tilt Yard" (Sheerness, England)

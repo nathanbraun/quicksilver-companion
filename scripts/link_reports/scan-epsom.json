@@ -1,0 +1,1130 @@
+[
+  {
+    "quote": "Fellows of the Royal Society",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "suggested_slug": null,
+    "note": "The Royal Society was (and is) a prominent scientific institution founded in London in the 1660s. Knowing its role in promoting scientific inquiry helps understand Comstock's motivations.",
+    "chapter": "Epsom",
+    "chunk": 0
+  },
+  {
+    "quote": "HOBBES, Leviathan",
+    "subject": "Leviathan",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "leviathan-thomas-hobbes",
+    "note": "Thomas Hobbes's *Leviathan* (1651) is a foundational work of political philosophy. Understanding its basic arguments about the social contract and the nature of government provides context for the intellectual climate of the time.",
+    "chapter": "Epsom",
+    "chunk": 0
+  },
+  {
+    "quote": "Rev. Wilkins",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins was a clergyman, natural philosopher, and one of the founders of the Royal Society. He was known for his interest in mechanical inventions and the possibility of space travel.",
+    "chapter": "Epsom",
+    "chunk": 0
+  },
+  {
+    "quote": "Mr. Wren",
+    "subject": "Christopher Wren",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christopher-wren",
+    "note": "Christopher Wren was a prominent architect, astronomer, and mathematician. He is best known for designing many of the churches rebuilt after the Great Fire of London.",
+    "chapter": "Epsom",
+    "chunk": 0
+  },
+  {
+    "quote": "Mr. Hooke",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "suggested_slug": null,
+    "note": "Robert Hooke was a scientist and inventor, known for his work in microscopy, elasticity, and architecture. He was a key figure in the Royal Society and a rival of Isaac Newton.",
+    "chapter": "Epsom",
+    "chunk": 0
+  },
+  {
+    "quote": "marrying Cromwell\u2019s sister during the Interregnum",
+    "subject": "Interregnum",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "suggested_slug": null,
+    "note": "The Interregnum was the period between the execution of Charles I in 1649 and the restoration of the monarchy in 1660. It was a time of political upheaval and experimentation in England, including the rule of Oliver Cromwell as Lord Protector.",
+    "chapter": "Epsom",
+    "chunk": 0
+  },
+  {
+    "quote": "events that are plainly part of the Apocalypse",
+    "subject": "apocalypticism",
+    "type": "term",
+    "existing_topic": "apocalypticism",
+    "suggested_slug": null,
+    "note": "Apocalypticism is the belief that the world is about to end, often through divine intervention. Understanding the prevalence of apocalyptic beliefs in the 17th century helps explain the characters' concerns.",
+    "chapter": "Epsom",
+    "chunk": 0
+  },
+  {
+    "quote": "Hooke was crucifying a frog on a plank",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "suggested_slug": null,
+    "note": "Hooke was a prominent scientist known for his experiments and observations. A brief overview of his work and his relationship with other scientists of the time (like Newton) would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "The King was losing his mind\u2014his Ministers being lynched in Parliament",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "suggested_slug": null,
+    "note": "This refers to the events leading up to the English Civil War and the execution of Charles I. Some context on the political turmoil of the time would be useful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "his own drawbridge-keepers locking him out of his own arsenals",
+    "subject": "English Civil War",
+    "type": "event",
+    "existing_topic": "english-civil-war",
+    "suggested_slug": null,
+    "note": "This is a specific event during the English Civil War. Some context on the conflict between the King and Parliament would be useful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "French Papist wife of his, begging foreign powers to invade us",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "suggested_slug": null,
+    "note": "Charles I's wife, Henrietta Maria, was Catholic and sought foreign support for the Royalist cause. This was a major point of contention during the English Civil War.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Hugh Peters had come back from Salem to whip those Puritans into a frenzy",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "suggested_slug": null,
+    "note": "Hugh Peters was a Puritan minister. Some background on the role of Puritans in the English Civil War and their religious beliefs would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Scottish Covenanters down as far as Newcastle",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "suggested_slug": null,
+    "note": "The Covenanters were Scottish Presbyterians who opposed the King's religious policies. Their involvement in the English Civil War is relevant here.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Europe twenty-five years into the Thirty Years\u2019 War",
+    "subject": "Thirty Years\u2019 War",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "thirty-years-war",
+    "note": "The Thirty Years' War was a major conflict in Europe. Knowing the basic causes and consequences of the war would provide context.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "the Dutch taking advantage of it to steal Malacca from the Portuguese",
+    "subject": "Pirates",
+    "type": "term",
+    "existing_topic": "pirates",
+    "suggested_slug": null,
+    "note": "The Dutch East India Company's capture of Malacca from Portugal was a significant event in the history of colonialism and trade. Some context on the Dutch East India Company and its rivalry with Portugal would be useful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Comenius\u2019s project",
+    "subject": "Universal Characteristic",
+    "type": "term",
+    "existing_topic": "universal-characteristic",
+    "suggested_slug": null,
+    "note": "Comenius was a philosopher and educator who advocated for a universal language. This is related to Wilkins's project.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Hartlib, Haak, Kinner, Oldenburg",
+    "subject": "Henry Oldenburg",
+    "type": "person",
+    "existing_topic": "henry-oldenburg",
+    "suggested_slug": null,
+    "note": "These were figures associated with the early Royal Society and the pursuit of universal knowledge. Oldenburg was the first secretary of the Royal Society.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Invisible College",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "suggested_slug": null,
+    "note": "The Invisible College was a precursor to the Royal Society. Some context on the origins and goals of the Royal Society would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Master of Harvard College back in \u201941",
+    "subject": "Harvard College",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "harvard-university",
+    "note": "Harvard College was a relatively new institution at this time. Some context on its early history and significance in the colonies would be useful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Natural Philosophy flourishes at Oxford\u2014less so at Cambridge",
+    "subject": "Natural Philosophy",
+    "type": "term",
+    "existing_topic": "natural-philosophy",
+    "suggested_slug": null,
+    "note": "Natural Philosophy is an older term for what we now call science. Some context on the development of science at Oxford and Cambridge would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "the Royal Society is\u2014Ever so strictly apolitical",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "suggested_slug": null,
+    "note": "The Royal Society's claim to be apolitical is somewhat ironic given the political context of the time. Some context on the relationship between science and politics in the 17th century would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Cartesian analysis",
+    "subject": "science",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "cartesian-coordinate-system",
+    "note": "Cartesian analysis refers to the mathematical and philosophical system developed by Ren\u00e9 Descartes. Some context on Descartes's ideas and their influence on science would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Mr. Hooke peers at something with his Microscope he finds that it is divided up into small compartments, each one just like its neighbors, like bricks in a wall",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "suggested_slug": null,
+    "note": "Hooke's discovery of cells is a major scientific breakthrough. Some context on the development of microscopy and its impact on biology would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "Euclidean geometry",
+    "subject": "science",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "euclidean-geometry",
+    "note": "Euclidean geometry was the standard system of geometry at the time. Some context on its importance in science and mathematics would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "digression on the Ark",
+    "subject": "Apocalypticism",
+    "type": "term",
+    "existing_topic": "apocalypticism",
+    "suggested_slug": null,
+    "note": "This refers to Noah's Ark. Interest in the Ark was fueled by apocalyptic beliefs and attempts to classify all living things.",
+    "chapter": "Epsom",
+    "chunk": 1
+  },
+  {
+    "quote": "How does that enter into the Philosophical Language?",
+    "subject": "Universal Characteristic",
+    "type": "term",
+    "existing_topic": "universal-characteristic",
+    "suggested_slug": null,
+    "note": "The 'Philosophical Language' (or 'Real Character') was a project to create a universal language, promoted by John Wilkins and others, intended to represent concepts rather than words, facilitating communication across language barriers.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Half of Oxford is sending me tedious lists.",
+    "subject": "Oxford University",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "oxford-university",
+    "note": "Oxford University was a center of intellectual life in England during this period, and a key location for the development of natural philosophy and projects like the Philosophical Language.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "One could also imagine certain Jesuits turning it against you",
+    "subject": "Jesuits",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "jesuits",
+    "note": "The Society of Jesus (Jesuits) were a Catholic religious order known for their intellectual rigor and missionary work. They were often viewed with suspicion in Protestant England.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Christopher Wren\u2019s Gothic apiary",
+    "subject": "Christopher Wren",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christopher-wren",
+    "note": "Sir Christopher Wren (1632-1723) was a prominent English architect, astronomer, and mathematician. He designed many famous buildings in London, including St. Paul's Cathedral, after the Great Fire.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Huygens, Leeuwenhoek, Swammerdam, Spinoza",
+    "subject": "Christiaan Huygens",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christiaan-huygens",
+    "note": "Christiaan Huygens (1629-1695) was a prominent Dutch physicist, mathematician, astronomer and inventor. He made significant contributions to mechanics and optics.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Huygens, Leeuwenhoek, Swammerdam, Spinoza",
+    "subject": "Antonie van Leeuwenhoek",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "antonie-van-leeuwenhoek",
+    "note": "Antonie van Leeuwenhoek (1632-1723) was a Dutch businessman and scientist, known as the 'father of microbiology'. He is best known for his pioneering work in microscopy and for his contributions to the establishment of microbiology as a scientific discipline.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Huygens, Leeuwenhoek, Swammerdam, Spinoza",
+    "subject": "Jan Swammerdam",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "jan-swammerdam",
+    "note": "Jan Swammerdam (1637-1680) was a Dutch biologist and entomologist. His work on insect metamorphosis was groundbreaking.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Huygens, Leeuwenhoek, Swammerdam, Spinoza",
+    "subject": "Baruch Spinoza",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "baruch-spinoza",
+    "note": "Baruch Spinoza (1632-1677) was a Dutch philosopher of Portuguese Jewish origin. One of the foremost exponents of 17th-century Rationalism and is considered one of the early figures of the Enlightenment.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Charles II, by the Grace of God of England King",
+    "subject": "Charles II",
+    "type": "person",
+    "existing_topic": "charles-ii",
+    "suggested_slug": null,
+    "note": "Charles II (1630-1685) was the King of England, Scotland, and Ireland during the Restoration period. His reign followed the Interregnum period of Oliver Cromwell's Commonwealth.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Sounds more like a Sun King allusion, Reverend",
+    "subject": "Louis XIV",
+    "type": "person",
+    "existing_topic": "louis-xiv",
+    "suggested_slug": null,
+    "note": "Louis XIV (1638-1715), known as the 'Sun King', was the King of France and one of the most powerful monarchs in European history. His court at Versailles was renowned for its opulence and influence.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Daniel and Isaac had fled plaguey Cambridge",
+    "subject": "The Plague",
+    "type": "event",
+    "existing_topic": "plague",
+    "suggested_slug": null,
+    "note": "The Great Plague of London (1665-1666) was a devastating epidemic that killed an estimated 100,000 people, nearly a quarter of London's population. Universities like Cambridge were temporarily closed.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Daniel and Isaac had fled plaguey Cambridge",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Sir Isaac Newton (1643-1727) was a highly influential physicist, mathematician, astronomer, alchemist, and theologian. He developed the laws of motion and universal gravitation.",
+    "chapter": "Epsom",
+    "chunk": 2
+  },
+  {
+    "quote": "Hooke would sooner put it under his microscope than shave with it.",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "suggested_slug": null,
+    "note": "Robert Hooke was a prominent scientist and inventor, known for his work with microscopes and his book *Micrographia*. A brief overview of his contributions would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "consult my faithful Mercury.",
+    "subject": "Quicksilver (Mercury)",
+    "type": "term",
+    "existing_topic": "quicksilver-mercury",
+    "suggested_slug": null,
+    "note": "Hooke is referring to the element mercury, but also alluding to its association with the Roman god Mercury, the messenger. This is a play on words related to the microscope revealing information.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "a complete and perfect reflection of John Comstock\u2019s gardens",
+    "subject": "John Comstock",
+    "type": "person",
+    "existing_topic": "john-comstock",
+    "suggested_slug": null,
+    "note": "John Comstock is a fictional character, but it's important to note that here, as he is being used as a reference point for Hooke's observations.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "Wren\u2019s glass apiary",
+    "subject": "Christopher Wren",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "christopher-wren",
+    "note": "Christopher Wren was a famous architect and scientist. A brief description of his work, particularly his architectural designs, would be useful.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "Cavilling Jesuit",
+    "subject": "Jesuits",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "jesuits",
+    "note": "The Society of Jesus (Jesuits) were a Catholic religious order often viewed with suspicion in Protestant England. Understanding the historical context of anti-Catholic sentiment would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "jewels that would make the Great Mogul swoon",
+    "subject": "Great Mogul",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "mughal-empire",
+    "note": "The Great Mogul refers to the emperor of the Mughal Empire in India, known for their immense wealth and opulent displays of jewels. This provides context for the scale of wealth being described.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "Oil of vitriol",
+    "subject": "Oil of vitriol",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "oil-of-vitriol",
+    "note": "Oil of vitriol is an archaic name for sulfuric acid, a highly corrosive substance. Knowing this clarifies the danger of using it as a medical treatment.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "WORD ARRIVED THAT FERMAT had died",
+    "subject": "Pierre de Fermat",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "pierre-de-fermat",
+    "note": "Pierre de Fermat was a French mathematician famous for his contributions to number theory, including Fermat's Last Theorem. This theorem is mentioned later, so introducing Fermat here is helpful.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "leaving behind a theorem or two that still needed proving.",
+    "subject": "Fermat's Last Theorem",
+    "type": "work",
+    "existing_topic": "fermats-last-theorem",
+    "suggested_slug": null,
+    "note": "Fermat's Last Theorem is a famous unsolved problem in mathematics. A brief explanation of the theorem's statement and its significance would be useful.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "King Philip of Spain died, too, and his son succeeded him",
+    "subject": "Philip IV of Spain",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "philip-iv-of-spain",
+    "note": "Philip IV was the King of Spain during this period. Knowing about his reign and the state of the Spanish empire provides context for the political landscape.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "new King Carlos II",
+    "subject": "Charles II of Spain",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "charles-ii-of-spain",
+    "note": "Charles II of Spain's sickly condition and lack of an heir were major factors in European politics, leading to the War of the Spanish Succession. This foreshadows future events in the novel.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "Someone named Lubomirski was staging a rebellion in Poland.",
+    "subject": "Jerzy Sebastian Lubomirski",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "jerzy-sebastian-lubomirski",
+    "note": "Jerzy Sebastian Lubomirski was a Polish nobleman who led a rebellion against King John II Casimir Vasa. This provides context for the political instability in Poland at the time.",
+    "chapter": "Epsom",
+    "chunk": 3
+  },
+  {
+    "quote": "Wilkins had missed, he heard Hooke striking sparks",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "suggested_slug": null,
+    "note": "Robert Hooke was a prominent scientist and inventor, known for his work in microscopy and elasticity. A brief overview of his contributions would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 4
+  },
+  {
+    "quote": "You see that the Alchemists\u2019 conception of heat is ludicrous",
+    "subject": "alchemy",
+    "type": "term",
+    "existing_topic": "Alchemy",
+    "suggested_slug": null,
+    "note": "Alchemy was a historical tradition of natural philosophy aiming to transmute base metals into gold and discover a universal elixir. Understanding its basic tenets provides context for Hooke's critique.",
+    "chapter": "Epsom",
+    "chunk": 4
+  },
+  {
+    "quote": "The chief Design of the aforementioned Club, was to propagate",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "suggested_slug": null,
+    "note": "The Royal Society was (and is) a learned society for science. Knowing its founding principles and goals helps understand the satire in the quoted passage from Ned Ward.",
+    "chapter": "Epsom",
+    "chunk": 4
+  },
+  {
+    "quote": "NED WARD, The Vertuoso\u2019s Club",
+    "subject": "Ned Ward",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "ned-ward",
+    "note": "Ned Ward was an English satirist and writer known for his critical observations of London society. Knowing this helps understand the tone of the excerpt from his work.",
+    "chapter": "Epsom",
+    "chunk": 4
+  },
+  {
+    "quote": "the Plague in London was worse. Eight thousand people died",
+    "subject": "Plague",
+    "type": "event",
+    "existing_topic": "plague",
+    "suggested_slug": null,
+    "note": "This refers to the Great Plague of London (1665-1666). Understanding the scale and impact of the plague provides context for the characters' actions and the closure of Cambridge.",
+    "chapter": "Epsom",
+    "chunk": 4
+  },
+  {
+    "quote": "Wilkins had finished the Ark digression and begun to draw",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins was a clergyman, natural philosopher, and one of the founders of the Royal Society. His interest in a 'Philosophical Language' is a reference to a real project of his.",
+    "chapter": "Epsom",
+    "chunk": 4
+  },
+  {
+    "quote": "Cambridge this year, but Cambridge was closed for the duration",
+    "subject": "Cambridge",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "cambridge-university",
+    "note": "Cambridge University was a prominent center of learning. The fact that it was closed due to the plague highlights the severity of the situation.",
+    "chapter": "Epsom",
+    "chunk": 4
+  },
+  {
+    "quote": "The King\u2019s ant question had gotten Wilkins going",
+    "subject": "Charles II",
+    "type": "person",
+    "existing_topic": "charles-ii",
+    "suggested_slug": null,
+    "note": "Charles II was the King of England during this period. Knowing his interest in science and natural philosophy provides context for the reference to 'The King's ant question.'",
+    "chapter": "Epsom",
+    "chunk": 4
+  },
+  {
+    "quote": "in the midst of the Plague,\u201d Daniel asked",
+    "subject": "The Plague",
+    "type": "event",
+    "existing_topic": "plague",
+    "suggested_slug": null,
+    "note": "Refers to the Great Plague of London (1665-1666). A brief overview of the plague's impact on London would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "and provided King Charles II with many of his armaments.",
+    "subject": "Charles II",
+    "type": "person",
+    "existing_topic": "charles-ii",
+    "suggested_slug": null,
+    "note": "Charles II was the King of England, Scotland, and Ireland during the Restoration period. Some background on his reign and the Restoration would be useful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "John Comstock, Earl of Epsom and Lord Chancellor of England.",
+    "subject": "Lord Chancellor of England",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "lord-chancellor",
+    "note": "The Lord Chancellor is a high-ranking official in the English government. A brief explanation of the role would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "Jamestown was founded, the pilgrims scurried off to Leyden",
+    "subject": "Pilgrims in Leyden",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "pilgrims-in-leyden",
+    "note": "The Pilgrims spent time in Leyden (now Leiden, Netherlands) before sailing to America. This provides context for their religious separatism and journey to the New World.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "work commenced on the King James version of the Bible.",
+    "subject": "King James Version of the Bible",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "king-james-version",
+    "note": "The King James Version is an English translation of the Bible commissioned by King James I. A brief explanation of its historical significance would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "London\u2019s diverse riots and panics, plagues and Gunpowder Plots.",
+    "subject": "Gunpowder Plot",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "gunpowder-plot",
+    "note": "The Gunpowder Plot was a failed assassination attempt against King James I of England and VI of Scotland in 1605. A brief explanation of the plot would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "I was wounded at the Battle of Newark",
+    "subject": "Battle of Newark",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "battle-of-newark",
+    "note": "The Battle of Newark refers to one of several battles that took place in or near Newark-on-Trent during the English Civil War. Some context on the English Civil War would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "when His Majesty was crowned in exile at Scone",
+    "subject": "Coronation at Scone",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "coronation-at-scone",
+    "note": "Charles II was crowned King of Scotland at Scone in 1651, during his exile following the English Civil War. This provides context for his claim to the throne and the political turmoil of the time.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "Elizabeth, the Winter Queen",
+    "subject": "Elizabeth, the Winter Queen",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "elizabeth-of-bohemia",
+    "note": "Elizabeth Stuart, also known as the Winter Queen, was the Queen of Bohemia and the daughter of King James I of England. Some background on her life and political significance would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "a possible Dutch invasion.",
+    "subject": "Dutch invasion",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "second-anglo-dutch-war",
+    "note": "Refers to the Second Anglo-Dutch War (1665-1667). A brief overview of the conflict would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "House of Stuart",
+    "subject": "House of Stuart",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "house-of-stuart",
+    "note": "The House of Stuart was a royal house of Scotland and England. A brief overview of their reign and lineage would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "House of Orange-Nassau",
+    "subject": "House of Orange-Nassau",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "house-of-orange-nassau",
+    "note": "The House of Orange-Nassau is a branch of the European noble House of Nassau. It played a central role in the history of the Netherlands and Europe. A brief overview of their role would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 5
+  },
+  {
+    "quote": "House of Stuart House of Orange-Nassau",
+    "subject": "Houses of Stuart and Orange-Nassau",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "house-of-stuart-and-house-of-orange-nassau",
+    "note": "The Houses of Stuart and Orange-Nassau were key royal families in England and the Netherlands respectively. Understanding their relationship and claims to the English throne is important for the political context of the novel.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "would that be the Duke of York?",
+    "subject": "Duke of York",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "duke-of-york",
+    "note": "James, Duke of York, later King James II, was a significant figure in English politics. Knowing his role and eventual succession is crucial.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "The Admiralty",
+    "subject": "The Admiralty",
+    "type": "institution",
+    "existing_topic": null,
+    "suggested_slug": "british-admiralty",
+    "note": "The Admiralty was the British government department responsible for the command of the Royal Navy. Understanding its function is important in the context of naval warfare and politics.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "The Dutch and the English were at war.",
+    "subject": "Anglo-Dutch Wars",
+    "type": "event",
+    "existing_topic": null,
+    "suggested_slug": "anglo-dutch-wars",
+    "note": "The Anglo-Dutch Wars were a series of conflicts in the 17th century. Knowing the causes and consequences of these wars provides context for the political and economic tensions in the novel.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "Because of the Plague, this had been a desultory struggle",
+    "subject": "The Plague",
+    "type": "event",
+    "existing_topic": "plague",
+    "note": "The Great Plague of London significantly impacted life in England. Understanding its effects on society and warfare is important.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "The Restoration",
+    "subject": "The Restoration",
+    "type": "event",
+    "existing_topic": "restoration-london",
+    "note": "The Restoration refers to the return of the monarchy in England after the Interregnum. Understanding the political and social changes of this period is crucial.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "Cromwell was gone",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell was a key figure in the English Civil War and the subsequent Commonwealth. Knowing his role and legacy is important for understanding the political landscape.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "Anne Hyde",
+    "subject": "Anne Hyde",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "anne-hyde",
+    "note": "Anne Hyde was the first wife of James, Duke of York (later James II), and mother of two future queens of England. Her controversial marriage and the scandals surrounding it are relevant to the political intrigue of the time.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "St. James\u2019s Palace",
+    "subject": "St. James's Palace",
+    "type": "place",
+    "existing_topic": null,
+    "suggested_slug": "st-james-palace",
+    "note": "St. James's Palace was a royal residence in London. Knowing its significance as a center of court life provides context.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "Hooke put Daniel to work mending his Condensing Engine",
+    "subject": "Condensing Engine",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "condensing-engine",
+    "note": "A condensing engine is an early type of steam engine. Understanding its function and significance in the development of technology is helpful.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "Spinoza in Amsterdam",
+    "subject": "Baruch Spinoza",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "baruch-spinoza",
+    "note": "Baruch Spinoza was a Dutch philosopher. Knowing his philosophical views and his connection to lens grinding provides context.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "Angle of Repose",
+    "subject": "Angle of Repose",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "angle-of-repose",
+    "note": "The angle of repose is the steepest angle of descent or dip relative to the horizontal plane to which a material can be piled without slumping. Understanding this concept is relevant to Hooke's observations about the moon's gravity.",
+    "chapter": "Epsom",
+    "chunk": 6
+  },
+  {
+    "quote": "Kings most commonly, though strong in legions, are but weak in Arguments",
+    "subject": "Eikonoklastes",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "eikonoklastes",
+    "note": "This is a reference to John Milton's *Eikonoklastes*, a work of political propaganda written in response to *Eikon Basilike*, which was attributed to Charles I. Knowing this context helps understand the themes of power and justification being explored.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "the Duke of York out riding and hunting with his princely friends",
+    "subject": "Duke of York",
+    "type": "person",
+    "existing_topic": "james-ii",
+    "note": "The Duke of York is James II, who would later become King of England. Understanding his Catholic faith and pro-French leanings is crucial to understanding the political tensions of the time.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "the Duke\u2019s father\u2019s head had plopped into the basket on the scaffold at the Banqueting House",
+    "subject": "Charles I",
+    "type": "person",
+    "existing_topic": "charles-i",
+    "note": "This refers to the execution of Charles I, a pivotal event in English history. Knowing the circumstances of his execution and the preceding English Civil War provides context for the political climate.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "Dissident meeting-house in the land, and led to Cromwell and much else",
+    "subject": "Oliver Cromwell",
+    "type": "person",
+    "existing_topic": "oliver-cromwell",
+    "note": "Oliver Cromwell was a key figure in the English Civil War and the subsequent Commonwealth. Understanding his role and the Puritan revolution he led is essential for grasping the historical backdrop.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "Wilkins drained all the blood out of a large dog and put it into a smaller dog",
+    "subject": "blood transfusion",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "history-of-blood-transfusion",
+    "note": "This is an early (and crude) example of a blood transfusion experiment. Providing context on the history of blood transfusions and the scientific understanding (or lack thereof) at the time would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "Hooke built a new kind of clock, using the Microscope to examine some of its tiny parts.",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "note": "Robert Hooke was a prominent scientist and inventor. Knowing his contributions to microscopy and other scientific fields enriches the reader's understanding of his character and activities.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "Sir Robert Moray came to visit, and ground up a bit of the unicorn\u2019s horn",
+    "subject": "Robert Moray",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "robert-moray",
+    "note": "Sir Robert Moray was a Scottish soldier, diplomat, judge, spy, alchemist and natural philosopher, and founding member of the Royal Society. A brief overview of his life and connections would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "the gaol in Epsom town. \u201cFortune has smiled on our endeavours,\u201d Wilkins said.",
+    "subject": "gaol",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "gaols-in-17th-century-england",
+    "note": "A brief explanation of what gaols (jails) were like in 17th century England would be helpful, as conditions were often brutal and unsanitary.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "This dead man is going to help us with the Real Character.",
+    "subject": "Universal Characteristic",
+    "type": "term",
+    "existing_topic": "universal-characteristic",
+    "note": "The 'Real Character' or 'Philosophical Language' was a project to create a universal language. Understanding the goals and motivations behind this project, and figures like Wilkins' involvement, is important.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "A natural philosopher on some other world, viewing a document written in those characters, would think that he were reading, not the Philosophical Language, but the Cryptonomicon!",
+    "subject": "Cryptonomicon",
+    "type": "work",
+    "existing_topic": null,
+    "suggested_slug": "cryptonomicon",
+    "note": "This is a self-reference to another novel by Neal Stephenson. While not essential, it's a fun Easter egg for readers familiar with his work.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "Hooke packed it himself, and wouldn\u2019t let anyone else near it. Wilkins kept trying to persuade them to use the giant wheel",
+    "subject": "giant wheel",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "horse-powered-wheel",
+    "note": "The 'giant wheel' is a horse-powered wheel, a technology of the time. A brief explanation of how these wheels worked and their purpose would be helpful.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "planets are kept in their orbits, not by vortices in the \u00e6ther, but by the force of gravity.",
+    "subject": "aether",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "luminiferous-aether",
+    "note": "The concept of the aether as a medium for light and gravity was a competing theory to Newton's gravity. Understanding this context helps appreciate the scientific debates of the time.",
+    "chapter": "Epsom",
+    "chunk": 7
+  },
+  {
+    "quote": "vortices in the \u00e6ther, but by the force of gravity.",
+    "subject": "aether",
+    "type": "science",
+    "existing_topic": null,
+    "suggested_slug": "luminiferous-aether",
+    "note": "The concept of the aether (or ether) as a medium for light and gravity was a common scientific idea in this period. Understanding this context helps to grasp the significance of Hooke's statement.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "Hooke asked, Socratically.",
+    "subject": "Socratically",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "socratic-method",
+    "note": "Understanding the Socratic method (questioning to stimulate critical thinking) clarifies Hooke's approach.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "Hooke and Wilkins were up to at Epsom",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "note": "John Wilkins was a prominent figure in the Royal Society and a key proponent of natural philosophy. Knowing his role provides context for his association with Hooke.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "what Isaac was doing up at Woolsthorpe.",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "note": "Isaac Newton is a central figure in the novel. Understanding his work and location at Woolsthorpe (where he retreated during the plague) is crucial.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "spirits of wine, dyed with cochineal.",
+    "subject": "cochineal",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "cochineal",
+    "note": "Cochineal is a natural red dye derived from insects. Knowing this clarifies the process of thermometer creation.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "A man with an expensive voice came down from John Comstock\u2019s house",
+    "subject": "periwig",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "periwig",
+    "note": "Periwigs were expensive wigs worn by men in the 17th and 18th centuries. The description of the Duke's scalp indicates he wears one, a sign of status.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "The Earl of Epsom.",
+    "subject": "Earl of Epsom",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "earl-of-epsom",
+    "note": "While the Earl of Epsom is fictional, the title itself is a real aristocratic rank. Knowing this helps understand the social dynamics.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "Why not write it to the Duke of York?",
+    "subject": "Duke of York",
+    "type": "person",
+    "existing_topic": "james-ii",
+    "note": "The Duke of York is James, later King James II. Recognizing him is important for understanding the political context.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "My brother is fond of your Society,\u201d said James",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "note": "The Royal Society was a key scientific institution. Understanding its role and patronage (by the King, James' brother Charles II) is important.",
+    "chapter": "Epsom",
+    "chunk": 8
+  },
+  {
+    "quote": "My brother is fond of your Society,\u201d said James, \u201cor his Society I should say, for he made it Royal.",
+    "subject": "Royal Society",
+    "type": "institution",
+    "existing_topic": "royal-society",
+    "suggested_slug": null,
+    "note": "The Royal Society was a real scientific institution founded in 1660. Charles II, James's brother, granted it a Royal Charter, hence James's comment.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "Hooke and Wilkins had thrust a brass pipe down the dog\u2019s windpipe",
+    "subject": "John Wilkins",
+    "type": "person",
+    "existing_topic": "john-wilkins",
+    "suggested_slug": null,
+    "note": "John Wilkins (1614-1672) was an English clergyman, natural philosopher and author, and one of the founders of the Royal Society.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "Hooke and Wilkins had thrust a brass pipe down the dog\u2019s windpipe",
+    "subject": "Robert Hooke",
+    "type": "person",
+    "existing_topic": "robert-hooke",
+    "suggested_slug": null,
+    "note": "Robert Hooke (1635-1703) was a prominent English scientist and polymath, known for his work in microscopy and his contributions to many fields.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "explained Charles Comstock, after the experimenters had bowed to the Duke.",
+    "subject": "Duke",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "duke-of-york",
+    "note": "The Duke being referred to here is James Stuart, Duke of York, later King James II of England. Understanding his position as heir to the throne is important.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "the Duke of York had seen much worse done to humans.",
+    "subject": "Duke of York",
+    "type": "person",
+    "existing_topic": "james-ii",
+    "suggested_slug": null,
+    "note": "James Stuart, Duke of York (later James II), had a military career before becoming king. He fought in naval battles against the Dutch.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "A friend of mine brought back something nasty from France,\u201d",
+    "subject": "Syphilis",
+    "type": "term",
+    "existing_topic": null,
+    "suggested_slug": "syphilis",
+    "note": "The 'nasty thing' is syphilis, a sexually transmitted disease that was widespread in Europe at the time. Its prevalence and impact on society are relevant.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "Some are of the opinion that mercury cures it.",
+    "subject": "Quicksilver (Mercury)",
+    "type": "term",
+    "existing_topic": "quicksilver-mercury",
+    "suggested_slug": null,
+    "note": "Mercury was a common, but dangerous, treatment for syphilis at the time. Its toxic properties are important to understand the risk involved.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "James must have either gotten it from, or passed it on to, Anne Hyde, who had therefore probably given it to the daughters, Mary and Anne.",
+    "subject": "Anne Hyde",
+    "type": "person",
+    "existing_topic": null,
+    "suggested_slug": "anne-hyde",
+    "note": "Anne Hyde was the first wife of James, Duke of York, and mother of two future queens of England, Mary II and Queen Anne. Her marriage to James was controversial.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "There were plenty of bastards like Monmouth.",
+    "subject": "Monmouth",
+    "type": "person",
+    "existing_topic": "monmouth",
+    "suggested_slug": null,
+    "note": "The Duke of Monmouth was an illegitimate son of Charles II. He later led a rebellion against James II.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "the son of a Phanatique?",
+    "subject": "Puritans",
+    "type": "term",
+    "existing_topic": "puritans",
+    "suggested_slug": null,
+    "note": "Daniel's father, Drake Waterhouse, is associated with Puritanism, a religious and political movement that had a significant impact on England and its colonies.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "They\u2019d come here supposedly as refugees from the Black Death,",
+    "subject": "Plague",
+    "type": "event",
+    "existing_topic": "plague",
+    "suggested_slug": null,
+    "note": "The Great Plague of London (1665-1666) was a major epidemic that caused widespread death and social disruption.",
+    "chapter": "Epsom",
+    "chunk": 9
+  },
+  {
+    "quote": "Isaac had sent him a letter: \u201cRequire asst. w/obs. of Venus pls. come if you can.\u201d",
+    "subject": "Isaac Newton",
+    "type": "person",
+    "existing_topic": "isaac-newton",
+    "suggested_slug": null,
+    "note": "Isaac Newton (1643-1727) was a highly influential physicist, mathematician, and astronomer. His work on optics and gravity is central to the period.",
+    "chapter": "Epsom",
+    "chunk": 9
+  }
+]

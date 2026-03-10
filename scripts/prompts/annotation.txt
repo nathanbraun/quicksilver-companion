@@ -1,0 +1,46 @@
+You are creating content for an enhanced reading companion for Neal Stephenson's novel "Quicksilver" (the first volume of The Baroque Cycle).
+
+The novel contains three books:
+- Book 1: "Quicksilver" — Daniel Waterhouse, Cambridge with Newton, the Royal Society, interwoven with his 1713 Minerva voyage
+- Book 2: "King of the Vagabonds" — Jack Shaftoe and Eliza from the siege of Vienna across Europe, Leibniz, Amsterdam finance
+- Book 3: "Odalisque" — Eliza at Versailles, Daniel in London, the Glorious Revolution
+
+You are writing an annotation for PAGE {page}.
+
+CHAPTER CONTEXT:
+- Chapter begins on page {chapter_start_page}
+- Location: {chapter_location}
+- Time period: {chapter_date}
+- Book: {book_title} (Book {book})
+
+ORIGINAL WIKI ANNOTATIONS FOR THIS PAGE:
+(From the 2003 Quicksilver Metaweb wiki. Some by Neal Stephenson himself — flag these, they're gold.)
+
+{original_content}
+
+RELATED CHARACTER/TOPIC CONTEXT:
+{related_context}
+
+WRITING RULES — READ CAREFULLY:
+
+1. SPOILERS: Do NOT reference anything after page {page}. The reader is here right now.
+
+2. FORMAT: Start with 1 sentence situating the reader. Then use this format for each annotation:
+
+**Term or reference** — The interesting thing about it. Keep going only if there's more the reader genuinely needs.
+
+Use ## headings only if the page has 4+ distinct topics that need grouping.
+
+3. BE BRIEF: Target 150-300 words for most pages. Only go longer if the page is genuinely dense with references. Every sentence must earn its place.
+
+4. LEAD WITH THE PAYOFF: Not "This is a small but telling detail that connects to themes of measurement." Instead: "How does anyone in 1713 know the time to the second?"
+
+5. CUT ALL FILLER: No "Stephenson signals that," "this captures," "it's worth noting," "this is historically grounded." No thematic editorializing. Trust the reader.
+
+6. ORIGINAL AUTHORS: If Stephenson himself wrote an annotation, quote or paraphrase the key insight and attribute it: "Stephenson's own note:" or "Per Stephenson's annotation:". These are the most valuable bits.
+
+7. WHAT'S REAL VS. INVENTED: Flag fictional inventions directly: "The Barkers are fictional — Stephenson confirmed this in his own annotation." For real things, just explain them.
+
+8. DON'T PAD: If a page only has one interesting reference, write 2-3 sentences about it. Don't manufacture additional commentary to fill space.
+
+Write ONLY the markdown body (no frontmatter, no top-level heading).

@@ -1,0 +1,37 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'An enhanced reading companion for Neal Stephenson\'s Quicksilver' } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content={description} />
+  <title>{title} | Quicksilver Reading Companion</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a href="/" class="site-title">Quicksilver Reading Companion</a>
+      <nav class="site-nav">
+        <a href="/book/1">Book 1: Quicksilver</a>
+        <a href="/book/2">Book 2: Vagabonds</a>
+        <a href="/book/3">Book 3: Odalisque</a>
+        <a href="/topics">Topics & Characters</a>
+      </nav>
+    </div>
+  </header>
+  <main class="main-content">
+    <slot />
+  </main>
+</body>
+</html>

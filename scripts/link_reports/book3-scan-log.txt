@@ -1,0 +1,111 @@
+Loaded 53 existing topic pages
+Chapters to scan: 22
+
+  [1/22]   Scanning 'Whitehall Palace' (57610 chars, 8 chunks)
+    Chunk 1/8... 13 references found
+    Chunk 2/8... 13 references found
+    Chunk 3/8... 17 references found
+    Chunk 4/8... 13 references found
+    Chunk 5/8... 13 references found
+    Chunk 6/8... 16 references found
+    Chunk 7/8... 11 references found
+    Chunk 8/8... 9 references found
+  [2/22]   Scanning 'Versailles' (52452 chars, 7 chunks)
+    Chunk 1/7... 13 references found
+    Chunk 2/7... 13 references found
+    Chunk 3/7... 9 references found
+    Chunk 4/7... 11 references found
+    Chunk 5/7... 11 references found
+    Chunk 6/7... 8 references found
+    Chunk 7/7... 9 references found
+  [3/22]   Scanning 'London' (67773 chars, 9 chunks)
+    Chunk 1/9... 15 references found
+    Chunk 2/9... 12 references found
+    Chunk 3/9... 9 references found
+    Chunk 4/9... 13 references found
+    Chunk 5/9... 12 references found
+    Chunk 6/9... 11 references found
+    Chunk 7/9... 12 references found
+    Chunk 8/9... 13 references found
+    Chunk 9/9... 11 references found
+  [4/22]   Scanning 'Beach North of Scheveningen' (20188 chars, 3 chunks)
+    Chunk 1/3... 8 references found
+    Chunk 2/3... 9 references found
+    Chunk 3/3... 10 references found
+  [5/22]   Scanning 'Dorset' (50108 chars, 7 chunks)
+    Chunk 1/7... 15 references found
+    Chunk 2/7... 8 references found
+    Chunk 3/7... 14 references found
+    Chunk 4/7... 9 references found
+    Chunk 5/7... 5 references found
+    Chunk 6/7... 10 references found
+    Chunk 7/7... 7 references found
+  [6/22]   Scanning 'The Exchange [Between Threadneedle and Cornhill]' (26304 chars, 4 chunks)
+    Chunk 1/4... 16 references found
+    Chunk 2/4... 14 references found
+    Chunk 3/4... 13 references found
+    Chunk 4/4... 7 references found
+  [7/22]   Scanning 'Versailles' (22512 chars, 3 chunks)
+    Chunk 1/3... 11 references found
+    Chunk 2/3... 11 references found
+    Chunk 3/3... 9 references found
+  [8/22]   Scanning 'Bank of Het Kanaal, Between Scheveningen and the Hague' (81199 chars, 11 chunks)
+    Chunk 1/11... 14 references found
+    Chunk 2/11... 15 references found
+    Chunk 3/11... 14 references found
+    Chunk 4/11... 13 references found
+    Chunk 5/11... 13 references found
+    Chunk 6/11... 11 references found
+    Chunk 7/11... Error: Response ended prematurely
+    Chunk 8/11... Error: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7769): Failed to establish a new connection: [Errno 61] Connection refused")))
+    Chunk 9/11... Error: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7769): Failed to establish a new connection: [Errno 61] Connection refused")))
+    Chunk 10/11... Error: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+    Chunk 11/11... 9 references found
+  [9/22]   Scanning 'Versailles' (4074 chars, 1 chunks)
+    Chunk 1/1... 10 references found
+  [10/22]   Scanning 'The Star Chamber, Westminster Palace' (35043 chars, 5 chunks)
+    Chunk 1/5... 10 references found
+    Chunk 2/5... 10 references found
+    Chunk 3/5... 10 references found
+    Chunk 4/5... 12 references found
+    Chunk 5/5... 13 references found
+  [11/22]   Scanning 'Versailles' (10206 chars, 2 chunks)
+    Chunk 1/2... 12 references found
+    Chunk 2/2... 5 references found
+  [12/22]   Scanning 'Tower of London' (42674 chars, 6 chunks)
+    Chunk 1/6... 12 references found
+    Chunk 2/6... 10 references found
+    Chunk 3/6... 11 references found
+    Chunk 4/6... JSON parse error: Expecting ':' delimiter: line 5 column 13 (char 166)
+  Raw response: [
+  {
+    "quote": "our friends Huygens and Wren have expended more toil towards the same end",
+    "subject": "Christiaan Huygens and Christopher Wren",
+    "person",
+    "existing_topic": null,
+    
+    Chunk 5/6... 11 references found
+    Chunk 6/6... 8 references found
+  [13/22]   Scanning 'Château Juvisy' (6930 chars, 1 chunks)
+    Chunk 1/1... 12 references found
+  [14/22]   Scanning 'St. Cloud' (8045 chars, 2 chunks)
+    Chunk 1/2... 11 references found
+    Chunk 2/2... 1 references found
+  [15/22]   Scanning 'Rossignol to Louis XIV Continued' (2297 chars, 1 chunks)
+    Chunk 1/1... 9 references found
+  [16/22]   Scanning 'French Embassy, the Hague' (2057 chars, 1 chunks)
+    Chunk 1/1... 6 references found
+  [17/22]   Scanning 'Rossignol to Louis XIV Continued' (84279 chars, 11 chunks)
+    Chunk 1/11... 10 references found
+    Chunk 2/11... 11 references found
+    Chunk 3/11... 10 references found
+    Chunk 4/11... 7 references found
+    Chunk 5/11... 10 references found
+    Chunk 6/11... 12 references found
+    Chunk 7/11... 12 references found
+    Chunk 8/11... 8 references found
+    Chunk 9/11... 9 references found
+    Chunk 10/11... 10 references found
+    Chunk 11/11... 8 references found
+  [18/22]   Scanning 'Rossignol to Louis XIV Continued' (3382 chars, 1 chunks)
+    Chunk 1/1... 

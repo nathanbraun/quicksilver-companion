@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const topics = await getCollection('topics');
+
+// Group by category
+const byCategory: Record<string, typeof topics> = {};
+for (const t of topics) {
+  const cat = t.data.category;
+  if (!byCategory[cat]) byCategory[cat] = [];
+  byCategory[cat].push(t);
+}
+
+// Sort categories: "characters" first, then alphabetical
+const sortedCategories = Object.keys(byCategory).sort((a, b) => {
+  if (a === 'characters') return -1;
+  if (b === 'characters') return 1;
+  return a.localeCompare(b);
+});
+
+for (const cat of sortedCategories) {
+  byCategory[cat].sort((a, b) => a.data.title.localeCompare(b.data.title));
+}
+---
+
+<BaseLayout title="Topics & Characters">
+  <div class="content-narrow">
+    <h1>Topics & Characters</h1>
+    <p style="color: var(--color-text-muted); margin-bottom: 2rem;">
+      Characters, historical figures, events, and concepts throughout the novel.
+    </p>
+
+    {sortedCategories.map(cat => (
+      <section style="margin-bottom: 2rem;">
+        <h2 style="font-size: 1.1rem; text-transform: capitalize; border-bottom: 1px solid var(--color-border); padding-bottom: 0.25rem;">{cat}</h2>
+        <ul style="list-style: none; padding: 0;">
+          {byCategory[cat].map(t => (
+            <li style="margin-bottom: 0.5rem;">
+              <a href={`/topic/${t.id}`}>{t.data.title}</a>
+              {t.data.fictional === true && (
+                <span style="color: var(--color-text-muted); font-size: 0.75rem; font-style: italic;"> fictional</span>
+              )}
+              {t.data.first_mention_page && (
+                <span style="color: var(--color-text-muted); font-size: 0.85rem;"> — p.{t.data.first_mention_page}</span>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>

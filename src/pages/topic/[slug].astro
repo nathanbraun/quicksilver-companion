@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const topics = await getCollection('topics');
+  return topics.map(t => ({
+    params: { slug: t.id },
+  }));
+}
+
+const { slug } = Astro.params;
+const topics = await getCollection('topics');
+const topic = topics.find(t => t.id === slug);
+
+if (!topic) {
+  return Astro.redirect('/');
+}
+
+const { Content } = await render(topic);
+
+// Find annotations that reference this topic (check both topics and characters arrays)
+const annotations = await getCollection('annotations');
+const relatedAnnotations = annotations
+  .filter(a => a.data.topics.includes(slug) || a.data.characters.includes(slug))
+  .sort((a, b) => a.data.page - b.data.page);
+
+const isCharacter = topic.data.category === 'characters';
+const label = isCharacter
+  ? (topic.data.fictional ? 'Fictional Character' : 'Historical Figure')
+  : topic.data.category;
+---
+
+<BaseLayout title={topic.data.title}>
+  <div class="content-narrow">
+    <p style="font-size: 0.85rem; color: var(--color-text-muted); margin-bottom: 0.5rem;">
+      <a href="/topics">&larr; All Topics</a>
+      &middot;
+      <span class="topic-category">{label}</span>
+    </p>
+
+    <h1>{topic.data.title}</h1>
+
+    <article class="annotation-content">
+      <Content />
+    </article>
+
+    {relatedAnnotations.length > 0 && (
+      <div class="related-pages" style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--color-border);">
+        <h3 style="font-size: 1rem; margin-bottom: 0.5rem;">Referenced on</h3>
+        <ul style="list-style: none; padding: 0;">
+          {relatedAnnotations.map(a => (
+            <li style="margin-bottom: 0.25rem;">
+              <a href={`/page/${a.data.page}`}>Page {a.data.page}</a>
+              <span style="color: var(--color-text-muted); font-size: 0.85rem;"> — {a.data.title}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+  </div>
+</BaseLayout>

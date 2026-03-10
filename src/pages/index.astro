@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getChaptersByBook } from '../utils/chapters';
+
+const annotations = await getCollection('annotations');
+const annotatedPages = [...new Set(annotations.map(a => a.data.page))].sort((a, b) => a - b);
+
+const books = [
+  { num: 1, title: 'Quicksilver', desc: 'Daniel Waterhouse, Isaac Newton, and the founding of the Royal Society.' },
+  { num: 2, title: 'King of the Vagabonds', desc: 'Jack Shaftoe and Eliza cross Europe from Vienna to Amsterdam.' },
+  { num: 3, title: 'Odalisque', desc: 'Eliza at Versailles, Daniel in London, and the Glorious Revolution.' },
+];
+---
+
+<BaseLayout title="Home">
+  <div class="content-narrow">
+    <h1>Quicksilver Reading Companion</h1>
+    <p>
+      An enhanced guide to Neal Stephenson's <em>Quicksilver</em>, the first volume of The Baroque Cycle.
+      Page-by-page annotations, character profiles, and historical context to deepen your reading.
+    </p>
+    <p style="font-size: 0.9rem; color: var(--color-text-muted);">
+      Built from the original <a href="https://quicksilver.wiki">Quicksilver Metaweb</a> wiki (2003),
+      enhanced with additional historical and literary context.
+    </p>
+
+    <h2>I'm on page...</h2>
+    <div class="page-navigator">
+      <input type="number" id="page-input" min="1" max="930" placeholder="e.g. 150" />
+      <button id="go-btn">Go</button>
+    </div>
+    <p style="font-size: 0.85rem; color: var(--color-text-muted);">
+      {annotatedPages.length} pages annotated, from page {annotatedPages[0]} to {annotatedPages[annotatedPages.length - 1]}.
+      Page numbers refer to the US hardcover first edition.
+    </p>
+
+    <h2>The Three Books</h2>
+    <div class="book-sections">
+      {books.map(book => {
+        const bookChapters = getChaptersByBook(book.num);
+        const bookAnnotations = annotations.filter(a => a.data.book === book.num);
+        return (
+          <div class={`book-section book-${book.num}`}>
+            <h3><a href={`/book/${book.num}`}>{book.title}</a></h3>
+            <p>{book.desc}</p>
+            <p style="font-size: 0.85rem;">
+              {bookChapters.length} chapters &middot; {bookAnnotations.length} annotations
+            </p>
+          </div>
+        );
+      })}
+    </div>
+  </div>
+
+  <script>
+    function goToPage() {
+      const input = document.getElementById('page-input') as HTMLInputElement;
+      const page = parseInt(input.value);
+      if (page && page > 0) {
+        window.location.href = `/page/${page}`;
+      }
+    }
+    document.getElementById('go-btn')?.addEventListener('click', goToPage);
+    document.getElementById('page-input')?.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') goToPage();
+    });
+  </script>
+</BaseLayout>
