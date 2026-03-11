@@ -4,20 +4,53 @@ import { getCollection } from 'astro:content';
 
 const topics = await getCollection('topics');
 
-// Group by category
+// Separate people from other topics
+const peopleCats = new Set(['characters', 'historical figures']);
+const people = topics.filter(t => peopleCats.has(t.data.category));
+const otherTopics = topics.filter(t => !peopleCats.has(t.data.category));
+
+// Custom ordering: main 5 first, then roughly by importance/appearance
+const peopleOrder = [
+  'daniel-waterhouse', 'jack-shaftoe', 'eliza', 'isaac-newton',
+  'gottfried-wilhelm-von-leibniz', 'enoch-root', 'bob-shaftoe',
+  'robert-hooke', 'louis-xiv', 'william-iii-of-orange', 'john-churchill',
+  'samuel-pepys', 'drake-waterhouse', 'roger-comstock', 'john-comstock',
+  'louis-anglesey-earl-of-upnor', 'thomas-more-anglesey',
+  'knott-bolstrood', 'gomer-bolstrood', 'charles-ii', 'charles-i',
+  'james-ii', 'oliver-cromwell', 'john-locke', 'comte-davaux',
+  'the-winter-queen', 'queen-anne', 'caroline-of-ansbach',
+  'john-wilkins', 'henry-oldenburg', 'judge-jeffreys', 'monmouth',
+  'blackbeard', 'bernoulli-family', 'john-flamsteed',
+  'madame-de-maintenon', 'marquis-de-louvois', 'philippe-i-duke-of-orleans',
+  'nicolas-fatio-de-duillier', 'bonaventure-rossignol',
+  'nicaise-le-febure', 'sir-winston-churchill-cavalier',
+];
+const sortedPeople = [...people].sort((a, b) => {
+  const ai = peopleOrder.indexOf(a.id);
+  const bi = peopleOrder.indexOf(b.id);
+  const aIdx = ai === -1 ? 999 : ai;
+  const bIdx = bi === -1 ? 999 : bi;
+  if (aIdx !== bIdx) return aIdx - bIdx;
+  return a.data.title.localeCompare(b.data.title);
+});
+
+// Group remaining topics by category
 const byCategory: Record<string, typeof topics> = {};
-for (const t of topics) {
+for (const t of otherTopics) {
   const cat = t.data.category;
   if (!byCategory[cat]) byCategory[cat] = [];
   byCategory[cat].push(t);
 }
 
-// Sort categories: "characters" first, then alphabetical
-const sortedCategories = Object.keys(byCategory).sort((a, b) => {
-  if (a === 'characters') return -1;
-  if (b === 'characters') return 1;
-  return a.localeCompare(b);
-});
+const categoryOrder = [
+  'historical events', 'institutions', 'places',
+  'science', 'religion and philosophy', 'commerce and finance',
+];
+const sortedCategories = categoryOrder.filter(c => byCategory[c]);
+// Add any categories not in the explicit order
+for (const cat of Object.keys(byCategory)) {
+  if (!sortedCategories.includes(cat)) sortedCategories.push(cat);
+}
 
 for (const cat of sortedCategories) {
   byCategory[cat].sort((a, b) => a.data.title.localeCompare(b.data.title));
@@ -31,16 +64,30 @@ for (const cat of sortedCategories) {
       Characters, historical figures, events, and concepts throughout the novel.
     </p>
 
+    <section style="margin-bottom: 2.5rem;">
+      <h2 style="font-size: 1.25rem; border-bottom: 1px solid var(--color-border); padding-bottom: 0.25rem;">People</h2>
+      <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+        {sortedPeople.map(t => (
+          <li style="margin-bottom: 0.5rem;">
+            <a href={`/topic/${t.id}`}>{t.data.title}</a>
+            {t.data.fictional && (
+              <span style="color: var(--color-text-muted); font-size: 0.8rem; font-style: italic;"> fictional</span>
+            )}
+            {t.data.first_mention_page && (
+              <span style="color: var(--color-text-muted); font-size: 0.85rem;"> — p.{t.data.first_mention_page}</span>
+            )}
+          </li>
+        ))}
+      </ul>
+    </section>
+
     {sortedCategories.map(cat => (
       <section style="margin-bottom: 2rem;">
-        <h2 style="font-size: 1.1rem; text-transform: capitalize; border-bottom: 1px solid var(--color-border); padding-bottom: 0.25rem;">{cat}</h2>
+        <h2 style="font-size: 1.25rem; text-transform: capitalize; border-bottom: 1px solid var(--color-border); padding-bottom: 0.25rem;">{cat}</h2>
         <ul style="list-style: none; padding: 0;">
           {byCategory[cat].map(t => (
             <li style="margin-bottom: 0.5rem;">
               <a href={`/topic/${t.id}`}>{t.data.title}</a>
-              {t.data.fictional === true && (
-                <span style="color: var(--color-text-muted); font-size: 0.75rem; font-style: italic;"> fictional</span>
-              )}
               {t.data.first_mention_page && (
                 <span style="color: var(--color-text-muted); font-size: 0.85rem;"> — p.{t.data.first_mention_page}</span>
               )}

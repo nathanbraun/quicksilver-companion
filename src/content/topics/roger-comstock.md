@@ -14,7 +14,7 @@ Marquis of Ravenscar. The Whig Comstock — where his cousin [John](/topic/john-
 
 - **Book 1** — Present at Trinity College alongside [Daniel Waterhouse](/topic/daniel-waterhouse) and [Isaac Newton](/topic/isaac-newton). One of the few aristocrats genuinely interested in [natural philosophy](/topic/natural-philosophy).
 - **Book 3** — Emerges as a major political player during the upheavals of the 1680s. His Whig politics put him at odds with the Tory establishment his cousin represents.
-- In later volumes, becomes deeply involved in finance, the Bank of England, and the political machinery of the Hanoverian succession.
+- In later volumes, becomes central to finance, the Bank of England, and the political machinery of the Hanoverian succession.
 
 ## What's real
 

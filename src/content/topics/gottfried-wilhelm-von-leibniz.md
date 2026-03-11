@@ -19,7 +19,7 @@ related_characters: ["daniel-waterhouse", "isaac-newton", "eliza", "enoch-root"]
 
 ## What's real
 
-Almost everything, and it's remarkable:
+Almost everything:
 
 - **Calculus** — He and Newton developed it independently. Newton got there first; Leibniz published first and created better notation (the dy/dx we still use). The [priority dispute](/topic/calculus-priority-dispute) was vicious, largely because Newton secretly authored the Royal Society's "impartial" report.
 - **The Harz mines** — Real project, real failure. He spent years on it.

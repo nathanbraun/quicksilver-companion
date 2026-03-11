@@ -8,7 +8,7 @@ related_characters: ["isaac-newton", "enoch-root", "eliza", "jack-shaftoe", "got
 
 ## Overview
 
-Son of Puritan radical Drake Waterhouse. Newton's roommate at Cambridge. Witness to the Scientific Revolution. Not a genius himself — he knows it — but present at every pivotal moment, connected to everyone who matters. Ancestor of Lawrence Waterhouse in *Cryptonomicon*.
+Son of Puritan radical Drake Waterhouse. Newton's roommate at Cambridge. Witness to the Scientific Revolution. Not a genius himself — he knows it — but present at every important moment, connected to everyone who matters. Ancestor of Lawrence Waterhouse in *Cryptonomicon*.
 
 ## In the Novel
 

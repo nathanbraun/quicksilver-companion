@@ -8,7 +8,7 @@ related_characters: ["charles-ii", "james-ii", "louis-anglesey-earl-of-upnor", "
 
 ## Overview
 
-James Scott, 1st Duke of Monmouth (1649-1685). The Protestant bastard son of [Charles II](/topic/charles-ii) — handsome, charming, militarily capable, and fatally ambitious. His failed rebellion in 1685 and gruesome execution are pivotal events in Book 3.
+James Scott, 1st Duke of Monmouth (1649-1685). The Protestant bastard son of [Charles II](/topic/charles-ii) — handsome, charming, militarily capable, and fatally ambitious. His failed rebellion in 1685 and gruesome execution drive key events in Book 3.
 
 ## Who he was
 

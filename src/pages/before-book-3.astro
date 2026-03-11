@@ -1,0 +1,133 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Before You Read Book 3">
+  <div class="content-narrow">
+    <h1>Before Book 3: Odalisque</h1>
+    <p class="intro">
+      Book 3 returns to Daniel while continuing Eliza's story. The chapters alternate between London and the continent. It's the most politically dense of the three books — here's the historical background.
+    </p>
+
+    <section class="primer">
+      <h2>James II and England</h2>
+      <p>
+        Book 3 opens in February 1685 with the death of <a href="/topic/charles-ii"><strong>Charles II</strong></a>. His brother <a href="/topic/james-ii"><strong>James II</strong></a>, an open Catholic, takes the throne. The <a href="/before-you-read">Before You Read</a> primer covered this in outline; here's more detail.
+      </p>
+      <p>
+        James moved quickly. He appointed Catholic officers in the army, suspended anti-Catholic laws by royal decree, and put Catholics in charge of Oxford colleges. The English establishment — Tory and Whig alike — grew alarmed. But most expected to wait him out: James's heirs were his Protestant daughters Mary and Anne.
+      </p>
+      <p>
+        That calculus changed in June 1688 when James's second wife, Mary of Modena, gave birth to a son — a Catholic male heir who would take precedence over his Protestant half-sisters. Within weeks, seven leading nobles sent a secret invitation to <a href="/topic/william-iii-of-orange"><strong>William of Orange</strong></a>, asking him to intervene.
+      </p>
+    </section>
+
+    <section class="primer">
+      <h2>Versailles</h2>
+      <p>
+        Several chapters take place at <a href="/topic/louis-xiv"><strong>Louis XIV</strong></a>'s court. Versailles wasn't just a palace; it was a system of control. Louis moved the entire French aristocracy there and kept them occupied with elaborate rituals of etiquette — who could sit in whose presence, who handed the king his shirt in the morning, who walked through which door. The competition for these privileges kept the nobles focused on status games instead of plotting against the king.
+      </p>
+      <p>
+        Key figures at court: <a href="/topic/madame-de-maintenon"><strong>Madame de Maintenon</strong></a>, Louis's secret second wife, who pushed toward religious severity. The <a href="/topic/marquis-de-louvois"><strong>Marquis de Louvois</strong></a>, his war minister, who ran the army and organized the persecution of the <a href="/topic/huguenots">Huguenots</a>. <a href="/topic/philippe-i-duke-of-orleans"><strong>Philippe, Duke of Orléans</strong></a>, Louis's brother, who maintained a rival court at the Palais-Royal.
+      </p>
+    </section>
+
+    <section class="primer">
+      <h2>The Intelligence War</h2>
+      <p>
+        The late 1680s were an era of intense espionage between France and the Dutch Republic. Key background:
+      </p>
+      <ul>
+        <li><a href="/topic/comte-davaux"><strong>The Comte d'Avaux</strong></a> — French ambassador to the <a href="/topic/dutch-republic">Dutch Republic</a>. His job was to run intelligence networks, bribe Dutch officials, and monitor <a href="/topic/william-iii-of-orange">William of Orange</a>'s activities. His real diplomatic dispatches survive and are a primary historical source for this period.</li>
+        <li><a href="/topic/cabinet-noir"><strong>The Cabinet Noir</strong></a> — France's "black chamber," a postal intelligence service that intercepted, opened, and resealed diplomatic and private correspondence. Every major European power had one, but France's was the most sophisticated.</li>
+        <li><a href="/topic/bonaventure-rossignol"><strong>The Rossignol family</strong></a> — France's hereditary codebreakers. They served Louis XIV across three generations. The family name became the French word for "skeleton key."</li>
+      </ul>
+      <p>
+        In this period, letters were the primary medium for politics, commerce, and intelligence. Controlling the mail — reading it, encrypting it, forging it — was a form of power.
+      </p>
+    </section>
+
+    <section class="primer">
+      <h2>The Tower of London</h2>
+      <p>
+        The Tower served multiple functions in the 1680s: royal fortress, armory, mint, menagerie (it housed lions), and state prison. Political prisoners held there were typically treated well — they could receive visitors, have food brought in, and maintain correspondence. Imprisonment in the Tower was as much about political signaling as punishment. Many of the key figures in the crises of the 1680s spent time there.
+      </p>
+    </section>
+
+    <section class="primer">
+      <h2>The Glorious Revolution</h2>
+      <p>
+        The historical events of 1688–89 are the backdrop for the last third of Book 3:
+      </p>
+      <p>
+        In November 1688, <a href="/topic/william-iii-of-orange"><strong>William of Orange</strong></a> landed at Torbay with a Dutch army. <a href="/topic/james-ii">James II</a>'s support collapsed — key military commanders including <a href="/topic/john-churchill">John Churchill</a> and even his own daughter Anne abandoned him. James fled to France. Parliament offered the crown jointly to William and his wife Mary (James's Protestant daughter). The constitutional settlement that followed — the Bill of Rights, limits on royal power — reshaped English government.
+      </p>
+      <p>
+        It was called "Glorious" because it happened with minimal bloodshed in England. Ireland was another story: James tried to retake his throne from there, leading to the Battle of the Boyne (1690) and a conflict whose consequences lasted centuries.
+      </p>
+    </section>
+
+    <div class="start-reading">
+      <a href="/book/3">Start Book 3 &rarr;</a>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .intro {
+    font-size: 1.05rem;
+    color: var(--color-text-muted);
+    margin-bottom: 2rem;
+    line-height: 1.7;
+  }
+
+  .primer {
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .primer:last-of-type {
+    border-bottom: none;
+  }
+
+  .primer h2 {
+    color: var(--color-accent);
+    margin-bottom: 0.75rem;
+  }
+
+  .primer p,
+  .primer li {
+    line-height: 1.75;
+    margin-bottom: 0.75rem;
+  }
+
+  .primer ul,
+  .primer ol {
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .primer li {
+    margin-bottom: 0.5rem;
+  }
+
+  .start-reading {
+    text-align: center;
+    margin: 2.5rem 0;
+  }
+
+  .start-reading a {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    background: var(--color-accent);
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 1.1rem;
+  }
+
+  .start-reading a:hover {
+    opacity: 0.9;
+  }
+</style>

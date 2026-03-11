@@ -7,7 +7,7 @@ related_characters: ["daniel-waterhouse", "isaac-newton", "gottfried-wilhelm-von
 
 ## Why it matters for the novel
 
-The Royal Society is where most of Book 1's action takes place. Daniel Waterhouse is a Fellow. Newton and Hooke fight their battles through it. Leibniz visits it. It's the institutional home of the Scientific Revolution in England — and it's also a deeply political body, dependent on royal patronage and vulnerable to court intrigue. The original wiki called it "the Baroque's DARPA" — sold to Charles II as a think tank for improving the Navy.
+The Royal Society is where most of Book 1's action takes place. Daniel Waterhouse is a Fellow. Newton and Hooke fight their battles through it. Leibniz visits it. It's the institutional home of the Scientific Revolution in England — and it's also a political body, dependent on royal patronage and vulnerable to court intrigue. The original wiki called it "the Baroque's DARPA" — sold to Charles II as a think tank for improving the Navy.
 
 ## What it was
 

@@ -17,4 +17,4 @@ Son of [Knott Bolstrood](/topic/knott-bolstrood). Where his father smashed cathe
 
 ## What's real
 
-Fictional. The trajectory from radical sect to master craftsmen mirrors real history: the **Shakers**, an offshoot of Quakerism (analogous to Stephenson's "Barkers"), became famous for furniture of austere beauty. Shaker chairs and tables now command enormous prices. The idea that religious discipline produces extraordinary craft — that the same intensity that smashes organs can also build perfect joints — is the historical insight Stephenson is playing with.
+Fictional. The trajectory from radical sect to master craftsmen mirrors real history: the **Shakers**, an offshoot of Quakerism (analogous to Stephenson's "Barkers"), became famous for furniture of austere beauty. Shaker chairs and tables now command enormous prices. The idea that religious discipline produces exacting craft — that the same intensity that smashes organs can also build perfect joints — is the historical insight Stephenson is playing with.

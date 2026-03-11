@@ -12,8 +12,8 @@ Daniel Waterhouse's roommate at Cambridge, sometime friend, lifelong source of a
 
 ## In the Novel
 
-- **Book 1** — We meet him as Daniel's roommate at Trinity College in the early 1660s. He experiments with prisms, sticks bodkins behind his own eyeballs to study [optics](/topic/newtons-optics), develops the foundations of calculus, barely eats, rarely speaks. His quarrel with [Robert Hooke](/topic/robert-hooke) over the nature of light scars him so deeply he retreats from public science for years.
-- **Book 3** — His [alchemy](/topic/alchemy) and biblical chronology obsessions come to the fore. His 1693 nervous breakdown (historically real, never fully explained) is a pivotal moment. By the end he's transitioning to his role at the Royal Mint, pursuing counterfeiters with the same intensity he once brought to optics.
+- **Book 1** — We meet him as Daniel's roommate at Trinity College in the early 1660s. He experiments with prisms, sticks bodkins behind his own eyeballs to study [optics](/topic/newtons-optics), develops the foundations of calculus, barely eats, rarely speaks. His quarrel with [Robert Hooke](/topic/robert-hooke) over the nature of light scars him badly enough that he retreats from public science for years.
+- **Book 3** — His [alchemy](/topic/alchemy) and biblical chronology obsessions come to the fore. His 1693 nervous breakdown (historically real, never fully explained) is a turning point. By the end he's transitioning to his role at the Royal Mint, pursuing counterfeiters with the same intensity he once brought to optics.
 - **1713 frame** — The [Newton-Leibniz calculus dispute](/topic/calculus-priority-dispute) is the reason Daniel is summoned back to England.
 
 ## What's real

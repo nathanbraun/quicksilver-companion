@@ -50,6 +50,18 @@ function getChapterAnnotation(chapterPage: number) {
       </p>
     )}
 
+    {bookNum === 2 && (
+      <p style="margin-bottom: 1.5rem;">
+        Book 2 shifts to new characters and new geography. Read the <a href="/before-book-2">Before Book 2</a> primer for context.
+      </p>
+    )}
+
+    {bookNum === 3 && (
+      <p style="margin-bottom: 1.5rem;">
+        Book 3 is the most politically dense. Read the <a href="/before-book-3">Before Book 3</a> primer for context.
+      </p>
+    )}
+
     <h2>Chapters</h2>
     <ul class="chapter-list">
       {chapters.map((ch) => {

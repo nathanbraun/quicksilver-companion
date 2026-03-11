@@ -26,7 +26,7 @@ In the novel (page 170), Locke is mentioned writing a constitution for the Carol
 
 ## Connections
 
-Locke was deeply embedded in the novel's social network. He was a Fellow of the [Royal Society](/topic/royal-society), a friend of Robert Boyle and Isaac Newton, a physician to Shaftesbury (he supervised a dangerous liver operation), and a political exile in Holland during the 1680s (fleeing [James II](/topic/james-ii)'s government). He returned to England after the Glorious Revolution and spent his last years as the intellectual godfather of the Whig political tradition.
+Locke was woven into the novel's social network. He was a Fellow of the [Royal Society](/topic/royal-society), a friend of Robert Boyle and Isaac Newton, a physician to Shaftesbury (he supervised a dangerous liver operation), and a political exile in Holland during the 1680s (fleeing [James II](/topic/james-ii)'s government). He returned to England after the Glorious Revolution and spent his last years as the intellectual godfather of the Whig political tradition.
 
 ## In the novel
 
