@@ -6,6 +6,11 @@ import { getChaptersByBook } from '../utils/chapters';
 const annotations = await getCollection('annotations');
 const annotatedPages = [...new Set(annotations.map(a => a.data.page))].sort((a, b) => a - b);
 
+// Count total notes (bolded-quote entries) across all annotations
+const totalNotes = annotations.reduce((sum, a) => {
+  return sum + (a.body?.match(/\*\*["\u201c]/g) || []).length;
+}, 0);
+
 const books = [
   { num: 1, title: 'Quicksilver', desc: 'Daniel Waterhouse, Isaac Newton, and the founding of the Royal Society.' },
   { num: 2, title: 'King of the Vagabonds', desc: 'Jack Shaftoe and Eliza cross Europe from Vienna to Amsterdam.' },
@@ -18,7 +23,7 @@ const books = [
     <h1>Quicksilver Reading Companion</h1>
     <p>
       An enhanced guide to Neal Stephenson's <em>Quicksilver</em>, the first volume of The Baroque Cycle.
-      Page-by-page annotations, character profiles, and historical context to deepen your reading.
+      Chapter-by-chapter annotations, character profiles, and historical context to deepen your reading.
     </p>
     <p style="font-size: 0.9rem; color: var(--color-text-muted);">
       Built from the original <a href="https://quicksilver.wiki">Quicksilver Metaweb</a> wiki (2003),
@@ -31,7 +36,7 @@ const books = [
       <button id="go-btn">Go</button>
     </div>
     <p style="font-size: 0.85rem; color: var(--color-text-muted);">
-      {annotatedPages.length} pages annotated, from page {annotatedPages[0]} to {annotatedPages[annotatedPages.length - 1]}.
+      {annotatedPages.length} chapters annotated with {totalNotes} notes.
       Page numbers refer to the US hardcover first edition.
     </p>
 
@@ -40,12 +45,15 @@ const books = [
       {books.map(book => {
         const bookChapters = getChaptersByBook(book.num);
         const bookAnnotations = annotations.filter(a => a.data.book === book.num);
+        const bookNotes = bookAnnotations.reduce((sum, a) => {
+          return sum + (a.body?.match(/\*\*["\u201c]/g) || []).length;
+        }, 0);
         return (
           <div class={`book-section book-${book.num}`}>
             <h3><a href={`/book/${book.num}`}>{book.title}</a></h3>
             <p>{book.desc}</p>
             <p style="font-size: 0.85rem;">
-              {bookChapters.length} chapters &middot; {bookAnnotations.length} annotations
+              {bookChapters.length} chapters &middot; {bookAnnotations.length} annotated &middot; {bookNotes} notes
             </p>
           </div>
         );
@@ -53,12 +61,26 @@ const books = [
     </div>
   </div>
 
-  <script>
+  <script define:vars={{ annotatedPages }}>
     function goToPage() {
-      const input = document.getElementById('page-input') as HTMLInputElement;
+      const input = document.getElementById('page-input');
       const page = parseInt(input.value);
-      if (page && page > 0) {
-        window.location.href = `/page/${page}`;
+      if (!page || page < 1) return;
+
+      // Find the chapter that contains this page (largest chapter start page <= entered page)
+      let targetPage = null;
+      for (let i = annotatedPages.length - 1; i >= 0; i--) {
+        if (annotatedPages[i] <= page) {
+          targetPage = annotatedPages[i];
+          break;
+        }
+      }
+
+      if (targetPage) {
+        window.location.href = `/page/${targetPage}`;
+      } else {
+        // Page is before any annotations — go to first chapter
+        window.location.href = `/page/${annotatedPages[0]}`;
       }
     }
     document.getElementById('go-btn')?.addEventListener('click', goToPage);

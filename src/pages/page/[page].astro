@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
-import { getChapterForPage } from '../../utils/chapters';
+import { getChapterForPage, getNextChapterPage } from '../../utils/chapters';
 import { getPrevNextPages, getAnnotationPages } from '../../utils/navigation';
 
 export async function getStaticPaths() {
@@ -21,6 +21,8 @@ if (pageAnnotations.length === 0) {
 }
 
 const chapter = getChapterForPage(pageNum);
+const nextChapterPage = getNextChapterPage(pageNum);
+const pageEndNum = nextChapterPage ? nextChapterPage - 1 : undefined;
 const { prev, next } = await getPrevNextPages(pageNum);
 
 // Render the annotation content
@@ -51,7 +53,7 @@ const rendered = await Promise.all(
       </div>
     )}
 
-    <h1>Page {pageNum}</h1>
+    <h1>{chapter ? chapter.location : `Page ${pageNum}`}{pageEndNum && pageEndNum > pageNum ? ` (pp ${pageNum}\u2013${pageEndNum})` : ` (p. ${pageNum})`}</h1>
 
     {rendered.map(({ data, Content }) => (
       <article class="annotation-content">
@@ -66,10 +68,10 @@ const rendered = await Promise.all(
 
     <nav class="prev-next">
       {prev ? (
-        <a href={`/page/${prev}`}>&larr; Page {prev}</a>
+        <a href={`/page/${prev}`}>&larr; {getChapterForPage(prev)?.location ?? `Page ${prev}`}</a>
       ) : <span class="prev-next-placeholder" />}
       {next ? (
-        <a href={`/page/${next}`} class="next">Page {next} &rarr;</a>
+        <a href={`/page/${next}`} class="next">{getChapterForPage(next)?.location ?? `Page ${next}`} &rarr;</a>
       ) : <span class="prev-next-placeholder" />}
     </nav>
   </div>

@@ -27,10 +27,12 @@ const chapters = getChaptersByBook(bookNum);
 const annotations = await getCollection('annotations');
 const bookAnnotations = annotations.filter(a => a.data.book === bookNum);
 
-// Count annotations per chapter
-function getAnnotationsInChapter(chapterPage: number, nextChapterPage: number | undefined) {
-  const end = nextChapterPage ?? Infinity;
-  return bookAnnotations.filter(a => a.data.page >= chapterPage && a.data.page < end);
+// Find annotation for a chapter and count its entries (bolded quotes)
+function getChapterAnnotation(chapterPage: number) {
+  const annotation = bookAnnotations.find(a => a.data.page === chapterPage);
+  if (!annotation) return null;
+  const entryCount = (annotation.body?.match(/\*\*["\u201c]/g) || []).length;
+  return { annotation, entryCount };
 }
 ---
 
@@ -39,22 +41,27 @@ function getAnnotationsInChapter(chapterPage: number, nextChapterPage: number | 
     <h1>Book {bookNum}: {bookNames[bookNum]}</h1>
     <p>{bookDescs[bookNum]}</p>
     <p style="font-size: 0.9rem; color: var(--color-text-muted);">
-      {chapters.length} chapters &middot; {bookAnnotations.length} annotations
+      {chapters.length} chapters &middot; {bookAnnotations.length} annotated
     </p>
+
+    {bookNum === 1 && (
+      <p style="margin-bottom: 1.5rem;">
+        New to the Baroque Cycle? Read the <a href="/before-you-read">Before You Read</a> primer on the historical context first.
+      </p>
+    )}
 
     <h2>Chapters</h2>
     <ul class="chapter-list">
-      {chapters.map((ch, i) => {
-        const nextPage = i < chapters.length - 1 ? chapters[i + 1].page : getNextChapterPage(ch.page);
-        const chAnnotations = getAnnotationsInChapter(ch.page, nextPage);
+      {chapters.map((ch) => {
+        const result = getChapterAnnotation(ch.page);
         return (
           <li>
             <span class="chapter-page">p.{ch.page}</span>
             <span class="chapter-location">{ch.location}</span>
             <span class="chapter-date"> &mdash; {ch.date}</span>
-            {chAnnotations.length > 0 && (
+            {result && (
               <span style="font-size: 0.85rem; color: var(--color-text-muted);">
-                &middot; <a href={`/page/${chAnnotations[0].data.page}`}>{chAnnotations.length} annotation{chAnnotations.length !== 1 ? 's' : ''}</a>
+                &middot; <a href={`/page/${ch.page}`}>{result.entryCount} note{result.entryCount !== 1 ? 's' : ''}</a>
               </span>
             )}
           </li>
