@@ -16,12 +16,21 @@ const { title, description = 'An enhanced reading companion for Neal Stephenson\
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content={description} />
   <title>{title} | Quicksilver Reading Companion</title>
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="theme-color" content="#faf8f4" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js');
+    }
+  </script>
 </head>
 <body>
   <header class="site-header">
     <div class="site-header-inner">
-      <a href="/" class="site-title">Quicksilver Reading Companion</a>
+      <a href="/" class="site-title"><img src="/logo.png" alt="" class="site-logo" />Quicksilver Reading Companion</a>
       <nav class="site-nav">
         <a href="/before-you-read">Before You Read</a>
         <a href="/book/1">Book 1: Quicksilver</a>
