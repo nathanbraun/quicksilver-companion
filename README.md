@@ -27,3 +27,14 @@ npx astro build
 ```
 
 Deployed on Netlify.
+
+## Disclaimer
+
+This site is unaffiliated with Neal Stephenson and the original Metaweb
+project. I get no monetary value from it. I just:
+
+1. like the Baroque Cycle
+2. wanted to enhance my experience (re)reading it, and
+3. thought others might be in similar situations
+
+Some annotations are sourced from the [original Quicksilver Wiki](https://quicksilver.wiki), which is [licensed under GNU FDL](https://quicksilver.wiki/metaweb-so-long-and-thanks-for-all-the-fish.md).
