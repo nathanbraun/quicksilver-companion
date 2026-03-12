@@ -196,7 +196,7 @@ def reorder_chapter(chapter_page, epub_page_map, dry_run=True):
     if unpositioned:
         print(f"  WARN p.{chapter_page}: {len(unpositioned)} entries couldn't be found in epub:")
         for orig_idx, entry, quote in unpositioned:
-            print(f"         [{orig_idx}] \"{quote[:50]}...\"")
+            print(f"         [{orig_idx}] \"{(quote or '(no quote)')[:50]}...\"")
         # Insert unpositioned entries at their original relative positions
         # Map original index -> new position
         for orig_idx, entry, quote in unpositioned:
