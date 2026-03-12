@@ -34,15 +34,35 @@ const { title, description = 'An enhanced reading companion for Neal Stephenson\
       <a href="/" class="site-title"><img src="/logo.png" alt="" class="site-logo" />Quicksilver Reading Companion</a>
       <nav class="site-nav">
         <a href="/before-you-read">Before You Read</a>
-        <a href="/book/1">Book 1: Quicksilver</a>
-        <a href="/book/2">Book 2: Vagabonds</a>
-        <a href="/book/3">Book 3: Odalisque</a>
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-toggle" aria-expanded="false" aria-haspopup="true">Books <span class="dropdown-arrow">&#9662;</span></button>
+          <div class="nav-dropdown-menu">
+            <a href="/book/1">Book 1: Quicksilver</a>
+            <a href="/book/2">Book 2: Vagabonds</a>
+            <a href="/book/3">Book 3: Odalisque</a>
+          </div>
+        </div>
         <a href="/topics">Topics & Characters</a>
+        <a href="/about">About</a>
       </nav>
     </div>
   </header>
   <main class="main-content">
     <slot />
   </main>
+  <script>
+    document.addEventListener('click', (e) => {
+      const toggle = (e.target as HTMLElement).closest('.nav-dropdown-toggle');
+      const dropdown = (e.target as HTMLElement).closest('.nav-dropdown');
+      document.querySelectorAll('.nav-dropdown.open').forEach(el => {
+        if (el !== dropdown) el.classList.remove('open');
+      });
+      if (toggle) {
+        const parent = toggle.closest('.nav-dropdown')!;
+        parent.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', parent.classList.contains('open').toString());
+      }
+    });
+  </script>
 </body>
 </html>

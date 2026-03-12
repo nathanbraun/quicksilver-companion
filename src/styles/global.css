@@ -127,6 +127,68 @@ code {
   color: var(--color-accent);
 }
 
+/* Nav dropdown */
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-toggle {
+  background: none;
+  border: none;
+  font: inherit;
+  font-size: inherit;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.nav-dropdown-toggle:hover {
+  color: var(--color-accent);
+}
+
+.dropdown-arrow {
+  font-size: 0.7em;
+  transition: transform 0.15s;
+}
+
+.nav-dropdown.open .dropdown-arrow {
+  transform: rotate(180deg);
+}
+
+.nav-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 0.4rem 0;
+  min-width: 12rem;
+  z-index: 200;
+}
+
+.nav-dropdown:hover .nav-dropdown-menu,
+.nav-dropdown.open .nav-dropdown-menu {
+  display: block;
+}
+
+.nav-dropdown-menu a {
+  display: block;
+  padding: 0.45rem 1rem;
+  white-space: nowrap;
+  font-size: 0.9rem;
+}
+
+.nav-dropdown-menu a:hover {
+  background: var(--color-bg);
+}
+
 .main-content {
   max-width: 64rem;
   margin: 0 auto;
@@ -397,6 +459,30 @@ code {
   color: var(--color-text-muted);
 }
 
+/* Changelog */
+.changelog {
+  margin-top: 0.5rem;
+}
+
+.changelog dt {
+  font-weight: 600;
+  color: var(--color-text);
+  margin-top: 1rem;
+}
+
+.changelog dt:first-child {
+  margin-top: 0;
+}
+
+.changelog dd {
+  margin-left: 1.2rem;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin-top: 0.2rem;
+  list-style-type: disc;
+  display: list-item;
+}
+
 /* Responsive */
 @media (max-width: 640px) {
   html { font-size: 16px; }
@@ -404,6 +490,16 @@ code {
   .site-header-inner { justify-content: flex-start; }
   .site-title { width: 100%; }
   .site-nav { gap: 0.4rem 1rem; font-size: 0.85rem; }
+  .nav-dropdown-menu {
+    left: 0;
+    transform: none;
+  }
+  .nav-dropdown:hover .nav-dropdown-menu {
+    display: none;
+  }
+  .nav-dropdown.open .nav-dropdown-menu {
+    display: block;
+  }
   .main-content { padding: 1.25rem 1rem; padding-bottom: 5rem; }
   .book-sections { grid-template-columns: 1fr; }
 

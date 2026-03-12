@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import fs from 'node:fs';
+
+const changelogRaw = fs.readFileSync('src/data/changelog.md', 'utf-8');
+
+// Parse markdown into [{date, items}]
+const changelog: {date: string, items: string[]}[] = [];
+for (const line of changelogRaw.split('\n')) {
+  const dateMatch = line.match(/^## (\d{4}-\d{2}-\d{2})/);
+  if (dateMatch) {
+    changelog.push({ date: dateMatch[1], items: [] });
+  } else if (line.startsWith('- ') && changelog.length > 0) {
+    changelog[changelog.length - 1].items.push(line.slice(2));
+  }
+}
+---
+
+<BaseLayout title="About">
+  <div class="content-narrow">
+    <h1>About This Site</h1>
+    <p>
+      The Quicksilver Reading Companion is a page-by-page guide to Neal Stephenson's
+      <em>Quicksilver</em>, the first volume of The Baroque Cycle. It provides historical
+      and scientific context for the people, places, events, and ideas woven through the novel.
+    </p>
+
+    <h2>What's here</h2>
+    <p>
+      Each chapter has an annotation page with notes keyed to specific passages. These explain
+      the real history behind what you're reading — who the people were, what actually happened,
+      how the science worked. There are also topic pages that go deeper on
+      recurring subjects like the Royal Society, the slave trade, or Leibniz's calculus.
+    </p>
+    <p>
+      Three "Before You Read" primers provide historical background for each book
+      without spoiling the plot.
+    </p>
+
+    <h2>Where it comes from</h2>
+    <p>
+      This site builds on the <a href="https://quicksilver.wiki">Quicksilver Metaweb</a>,
+      a community wiki started in 2003 when the novel was first published.
+      Neal Stephenson contributed annotations himself, and other readers added their own.
+      That original wiki material has been filtered, edited, and merged with new annotations
+      covering all three books.
+    </p>
+
+    <h2>How it was made</h2>
+    <p>
+      The annotations were generated with the help of large language models (Gemini and Claude),
+      then reviewed and edited by hand. The site is built with
+      <a href="https://astro.build">Astro</a> and hosted on Netlify.
+    </p>
+
+    <h2>Page numbers</h2>
+    <p>
+      All page references are to the US hardcover first edition (2003). If you're reading
+      a different edition, page numbers may not match exactly, but chapter boundaries should
+      line up.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      Built by <a href="https://nathanbraun.com">Nathan Braun</a>.
+      Found an error or have a suggestion? Open an issue on
+      <a href="https://github.com/nathanbraun/quicksilver-wiki">GitHub</a>.
+    </p>
+
+    <h2 id="changelog">Changelog</h2>
+    <dl class="changelog">
+      {changelog.map(entry => (
+        <>
+          <dt>{entry.date}</dt>
+          {entry.items.map(item => <dd>{item}</dd>)}
+        </>
+      ))}
+    </dl>
+  </div>
+</BaseLayout>
