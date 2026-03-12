@@ -13,8 +13,6 @@ original_authors: [stephenson, bornstein]
 
 In April 1685, Eliza and the Duke of Monmouth recover from a tryst in Amsterdam as the city prepares for a grand ball attended by the Prince of Orange and various European diplomats.
 
-**"some Papist who must draw up a schedule of his sins"** — [Papist](/topic/papism) was a derogatory term for Roman Catholics, used in the 17th century to suggest a subject's primary loyalty was to the Pope rather than their own monarch.
-
 **"Ps and Qs chalked up on the wall"** — This [period expression](/topic/ps-and-qs) likely refers to "Pints and Quarts" tallied on a tavern wall to track a patron’s debt, though its origins are often debated.
 
 **"daubed on canvas by one of those Brueghels"** — The [Brueghel family](/topic/brueghel-family) was a prolific dynasty of Flemish painters famous for their incredibly detailed, crowded scenes of peasant life and landscapes.

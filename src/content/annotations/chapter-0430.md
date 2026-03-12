@@ -42,8 +42,6 @@ Leaving Leipzig in April 1684, Jack and Eliza join the entourage of a brilliant 
 
 **"Kuxen, in this case?"** — [Kuxen](/topic/kuxen) were specific shares in German mining operations, representing an early form of joint-stock investment in heavy industry.
 
-**"rid themselves of the yellow bile"** — According to the medical theory of [Humorism](/topic/four-humors), an excess of yellow bile caused a "choleric" or angry temperament.
-
 **"laden with saltpeter from India, others with brimstone"** — [Saltpeter and Brimstone](/topic/saltpeter-and-brimstone) (sulfur) are two of the three essential ingredients for gunpowder, making them the most strategic commodities of the 17th century.
 
 **"Sophie’s daughter, Sophie Charlotte, was fixing to marry the Elector of Brandenburg"** — [Sophia Charlotte](/topic/sophia-charlotte) would become the first Queen in Prussia; she was a brilliant philosopher in her own right and a student of Leibniz.

@@ -31,8 +31,6 @@ In 1685, Jack Shaftoe and Eliza reunite in an Amsterdam coffee-house to discuss 
 
 **"made Mr. Vliet a loan à la grosse aventure"** — Also known as [Bottomry](/topic/bottomry-loans), this was a high-risk maritime contract. The lender provided funds for a voyage; if the ship sank, the debt was canceled, but if it returned, the lender received the principal plus a very high "premium" to account for the risk.
 
-**"doubting Thomas"** — A [Doubting Thomas](/topic/doubting-thomas) is a person who refuses to believe something without direct physical evidence. The term originates from the Apostle Thomas, who demanded to touch Jesus' wounds before believing in the Resurrection.
-
 **"Dutch had acquired certain isles, near India, called the Maldives and Laccadives"** — The [Dutch East India Company](/topic/dutch-maldives-trade) sought to dominate these islands to control the harvest of cowrie shells. These shells were not just decorations; they served as a primary currency in parts of Africa and Asia.
 
 **"Now I understand the word Windhandel in a new way"** — [Windhandel](/topic/windhandel), or "trading in wind," was a Dutch term for speculative trading where no physical goods changed hands. It was coined during the Tulip Mania to describe the practice of selling stocks or commodities that the seller did not yet own.

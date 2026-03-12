@@ -25,17 +25,11 @@ Jack Shaftoe travels the road between Paris and Lyons in early 1685, acting as a
 
 **"sell a horse at the Place Royale"** — One of the oldest and most prestigious planned squares in Paris, the [Place des Vosges](/topic/place-des-vosges) was a center of aristocratic life and commerce during the 17th century.
 
-**"streaked with white quick-lime and speckled with human skulls and bones"** — [Quicklime](/topic/quicklime) (calcium oxide) was historically spread over corpses in mass graves to accelerate decomposition and control the stench of decay, particularly in pauper cemeteries.
-
-**"Quod, erat demonstrandum. Quod, erat demonstrandum…"** — Latin for "which was to be demonstrated," [Q.E.D.](/topic/qed) is the traditional conclusion to a mathematical proof, highlighting the chapter's theme of debating predestination versus free will.
-
 **"southbound column of galériens, obviously Huguenots"** — [Huguenots](/topic/huguenots) were French Protestants who faced severe persecution under Louis XIV; many were sentenced to be galley slaves following the Revocation of the Edict of Nantes in 1685.
 
 **"Slaves of Louis the Rex"** — [Louis XIV](/topic/louis-xiv), the "Sun King" of France, maintained an absolute monarchy whose religious policies led to the mass exodus and enslavement of thousands of his own subjects.
 
 **"Jack’s life’s proves irrefutably Th’existence of Free Will"** — [Free Will](/topic/free-will) is the philosophical counterpoint to predestination, arguing that humans have the agency to make choices; it remains a central tension in the Enlightenment's religious and scientific discourse.
-
-**"young Papists wore to their first communion"** — [First Communion](/topic/first-communion) is a Catholic rite of passage where a child first receives the Eucharist; in the 17th century, it was a significant social milestone marked by specific white attire.
 
 **"Hôtel-Dieu—that colossal poorhouse just by Notre Dame"** — The [Hôtel-Dieu de Paris](/topic/hotel-dieu) is the oldest hospital in Paris, which served as a catch-all institution for the sick, the poor, and the dying under Church administration.
 

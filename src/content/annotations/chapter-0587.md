@@ -43,5 +43,3 @@ In June 1685, Eliza prepares to flee Amsterdam for Paris under the protection of
 
 **"you learned this and many other practices in the Harim of the Sultan"** — The [Imperial Harem](/topic/ottoman-harem) in Constantinople was the secluded living quarters for the Sultan's wives, concubines, and female relatives. Eliza’s early life as a captive in the Ottoman Empire provides her with unique insights into power and commerce.
 
-**"grabbed a handful of kienspans"** — A [kienspan](/topic/kienspan) is a thin splinter of resinous pine wood. Before the widespread use of cheap candles or lamps, these were burned as a primary source of light in European households and mines.
-

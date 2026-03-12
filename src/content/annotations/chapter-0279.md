@@ -13,8 +13,6 @@ original_authors: []
 
 Aboard the *Minerva* in Cape Cod Bay, Daniel Waterhouse prepares for a pirate attack while reflecting on his anatomical and maritime knowledge.
 
-**"It’d be certain death from lockjaw."** — Commonly known as [lockjaw](/topic/lockjaw-tetanus), tetanus was a frequent and agonizingly fatal infection in the 18th century, often introduced to the bloodstream via puncture wounds from soil-contaminated metal or rusty nails.
-
 **"Men with empty blunderbusses converge on it like jackals on a haunch."** — A [blunderbuss](/topic/blunderbuss) is a short-barreled firearm with a flared muzzle designed to scatter shot at close range; it was the preferred weapon for clearing a deck of boarding parties.
 
 **"“Caltrops away!” says someone, and boys with sacks lunge toward the open gunport"** — [Caltrops](/topic/caltrops) are anti-personnel weapons consisting of four sharp spikes arranged so that one always points upward, specifically used in naval warfare to maim barefoot sailors attempting to board a ship.

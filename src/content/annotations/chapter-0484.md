@@ -69,8 +69,6 @@ Jack Shaftoe travels from the [Dutch Republic](/topic/dutch-republic) toward Par
 
 **"the district called the Marais"** — [The Marais](/topic/the-marais) was an aristocratic district of Paris that also served as a bustling center for artisans and trade.
 
-**"musicians with bagpipes and hurdy-gurdies"** — A [hurdy-gurdy](/topic/hurdy-gurdy) is a stringed instrument that produces sound by a hand-cranked wheel rubbing against the strings.
-
 **"All of the Turks who sell coffee in the streets are actually Armenians"** — [Armenian coffee merchants](/topic/armenian-coffee-merchants) were the primary vendors of coffee in 1670s Paris, often dressing in "Oriental" fashion to market the exotic beverage.
 
 **"not until the Turks fled from Vienna, and left mountains of it behind"** — The [Battle of Vienna (1683)](/topic/battle-of-vienna-1683) is traditionally credited with introducing coffee culture to Central Europe via captured Ottoman supplies.
@@ -80,8 +78,6 @@ Jack Shaftoe travels from the [Dutch Republic](/topic/dutch-republic) toward Par
 **"The heads on the spikes before the city-gates."** — [Exemplary punishment](/topic/exemplary-punishment), such as displaying the heads of executed criminals on pikes, served as a public deterrent.
 
 **"These were the savants, the Magellans"** — [Ferdinand Magellan](/topic/ferdinand-magellan) led the first expedition to circumnavigate the globe; he is used here as a metaphor for pioneering rats.
-
-**"unbeknownst to the apothecaries and par-fumiers"** — [Apothecaries](/topic/apothecaries) formulated remedies and were often located near perfumers due to their shared use of herbs and chemicals.
 
 **"a smoking and steaming apparatus of hammered copper that was strapped to his body."** — Early [coffeehouses](/topic/coffeehouses) were preceded by "coffee-men" who walked the streets with portable copper boilers.
 
@@ -104,6 +100,4 @@ Jack Shaftoe travels from the [Dutch Republic](/topic/dutch-republic) toward Par
 **"In the garden of Tuileries... trees... being tortured and racked by the King’s gardeners"** — The [Tuileries Garden](/topic/tuileries-garden) featured topiary and strict geometric landscaping popular in the French formal style.
 
 **"impression of a small creature, crushed flat, and suspended in the rock... known to be a trick of Nature"** — In [early paleontology](/topic/early-paleontology), fossils were often debated as "jokes of nature" rather than biological remains.
-
-**"see an angel with a flaming sword, like a kienspan"** — A [kienspan](/topic/kienspan) was a traditional lighting device consisting of a thin, resinous splinter of pine wood.
 

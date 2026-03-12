@@ -26,8 +26,6 @@ In November 1688, the French cryptographer Rossignol reports to King Louis XIV r
 
 **"Binnenhof"** — Located in the Hague, the [Binnenhof](/topic/binnenhof) is a complex of buildings that has served as the meeting place of the Dutch States General since the 13th century.
 
-**"apply Occam’s Razor to the facts"** — [Occam's Razor](/topic/occams-razor) is the philosophical principle that the simplest explanation is usually the correct one, named after the medieval friar William of Ockham.
-
 **"Christiaan Huygens, Isaac Newton, Isaac’s little shadow Fatio, Robert Boyle, John Locke... Christopher Wren"** — This list represents a "who's who" of [Scientific Luminaries](/topic/scientific-luminaries) of the 17th century, spanning physics, chemistry, philosophy, and architecture.
 
 **"It is a piece of coarsely woven linen, square, one Flemish ell on a side."** — An [ell](/topic/ell-measure) was a traditional unit of measurement for textiles; the Flemish version used here was approximately 27 inches long.

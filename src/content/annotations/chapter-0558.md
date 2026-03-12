@@ -51,8 +51,6 @@ In a stable at a grand Parisian estate, Jack Shaftoe recovers from his wounds in
 
 **"fish-market at Les Halles"** — [Les Halles](/topic/les-halles) was the massive, central food market of Paris, famous for its distinct culture and the legendary strength of its porters.
 
-**"clasped both hands to her black-spotted face"** — Fashionable women wore [beauty marks](/topic/beauty-marks-mouches) made of silk or velvet to accentuate their features or conceal scars from smallpox.
-
 **"“pour les Invalides,” then backed away curtseying"** — [Les Invalides](/topic/les-invalides) was a massive hospital and retirement home for veterans established by Louis XIV, funded in part by charitable collections.
 
 **"pirates of Barbary and Malta"** — While the Barbary pirates were Muslim, the [Knights of Malta](/topic/knights-of-malta) were a Catholic military order that engaged in similar state-sanctioned raiding against Ottoman ships.

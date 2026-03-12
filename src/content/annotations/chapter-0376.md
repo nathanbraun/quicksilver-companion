@@ -31,8 +31,6 @@ Jack Shaftoe and Eliza navigate the chaotic, blood-soaked aftermath of the Ottom
 
 **"Kings of England have long suffered—nay, encouraged, and possibly even bribed—the Barbary Corsairs"** — The [Barbary Corsairs](/topic/barbary-corsairs) were privateers based in North Africa who dominated the Mediterranean slave trade. European monarchs often paid "tributes" to these pirates to protect their own merchant ships while encouraging them to harass the vessels of rival nations.
 
-**"hollering certain key verses of the Holy Qur’an"** — The [Qur'an](/topic/quran) is the central religious text of Islam. Its recitation by the raiders emphasizes the religious dimension of the conflict between the "Mahometan" pirates and the Christian coastal villagers they targeted for enslavement.
-
 **"those darkies have muskets—so I’ll pretend to stay behind to help that stupid wog"** — The term [Wog](/topic/wog-etymology) is a racial slur that became common in British English. Stephenson uses such period-appropriate, offensive slang to ground the narrative in the coarse, xenophobic worldviews common to 17th-century sailors and vagabonds.
 
 **"forty-gun pirate-galleon cruising offshore. Not some ramshackle barge but a proper ship of the line"** — A [Ship of the Line](/topic/ship-of-the-line) was a massive warship designed to stand in a "line of battle" and trade broadsides. A forty-gun vessel would be an exceptionally powerful ship for a pirate group, indicating significant backing or success.
@@ -55,13 +53,9 @@ Continental madrigals tended to be just as fanciful, albeit a bit less light-hea
 
 **"Several odd practices were described—Books of India stuff, Jack suspected."** — This is a nod to the [Kama Sutra](/topic/kama-sutra) and other Eastern erotic texts. Such works were beginning to filter into European consciousness through the accounts of travelers and the growing trade networks of the East India companies.
 
-**"especially nunneries (which were thick as fleas in this Popish land)"** — [Popery](/topic/popery) was a derogatory term used by Protestants to describe the Roman Catholic Church. Jack’s disdain reflects the deep sectarian animosity of the 17th century, particularly toward the Catholic Habsburgs who ruled the region.
-
 **"we were added to the general pool of European slaves there—some tens of thousands of ’em."** — The [Barbary Slave Trade](/topic/barbary-slave-trade) was a massive enterprise; historians estimate that over a million Europeans were captured by North African pirates between 1500 and 1800, often ending up in the slave markets of Algiers or Tunis.
 
 **"Mummy had been sold into the harem of an Ottoman military official at the Qasbah of Algiers"** — The [Casbah of Algiers](/topic/casbah-of-algiers) was the fortified citadel and heart of the city. It served as the primary hub for the Barbary pirates and the seat of the local Ottoman regency.
-
-**"which met on a fortnightly rotation except during Ramadan"** — [Ramadan](/topic/ramadan) is the holy month of fasting in Islam. The mention of it here highlights how the administrative and social life of the Ottoman world was governed by the Islamic lunar calendar.
 
 **"castle of the Knights of Malta"** — The [Knights Hospitaller](/topic/knights-of-malta) were a Catholic military order that turned Malta into a fortress-island. They were the primary maritime rivals of the Barbary pirates, conducting their own "counter-piracy" raids against Muslim shipping.
 

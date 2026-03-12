@@ -24,8 +24,6 @@ In the autumn of 1688, the French cryptographer [Bonaventure Rossignol](/topic/b
 
 **"Binnenhof"** — Located in The Hague, the [Binnenhof](/topic/binnenhof) is a complex of buildings that has served as the meeting place of the Dutch States General since the 13th century.
 
-**"apply Occam’s Razor to the facts"** — [Occam's Razor](/topic/occams-razor) is the heuristic principle that the simplest explanation—the one requiring the fewest assumptions—is usually the correct one.
-
 **"Christiaan Huygens, Isaac Newton, Isaac’s little shadow Fatio, Robert Boyle, John Locke... Christopher Wren"** — This list comprises the [Scientific Luminaries](/topic/scientific-luminaries) of the age, representing the peak of Enlightenment physics, chemistry, philosophy, and architecture.
 
 **"house of Huygens"** — The [Huygens Family](/topic/huygens-family) was a powerhouse of Dutch diplomacy and science; Christiaan’s father, Constantijn, was a poet and advisor to the House of Orange.

@@ -74,15 +74,11 @@ In October 1685, Bob Shaftoe recounts his experiences during the Monmouth Rebell
 
 **"You’re in the Dutch Republic. This is the financial capital of the world."** — During the [Dutch Golden Age](/topic/dutch-golden-age-finance), the Netherlands developed the world's first modern stock exchange and central bank, dominating global trade.
 
-**"little sock of sheep-gut"** — [Early modern contraception](/topic/early-modern-contraception) often involved the use of animal intestines, which were cleaned and treated for use as condoms.
-
 **"Vagabonding with Jack"** — [Vagabonding](/topic/vagabonding) refers to the lifestyle of the "masterless men" or [Vagabonds](/topic/vagabonds) who wandered Europe without fixed employment or land, often viewed as a threat to social order.
 
 **"Monsieur Mansart may build kingly châteaux"** — [Jules Hardouin-Mansart](/topic/jules-hardouin-mansart) was the lead architect for Louis XIV, responsible for the iconic Hall of Mirrors at Versailles.
 
 **"Christiaan Huygens, Isaac Newton, Isaac’s little shadow Fatio, Robert Boyle, John Locke... Christopher Wren"** — This list represents a "who's who" of the [Scientific Revolution](/topic/scientific-luminaries), spanning physics, chemistry, philosophy, and architecture.
-
-**"purging you of imbalancing humours"** — [Humoral theory](/topic/humoral-theory) was the dominant medical belief of the time, asserting that health depended on the balance of four fluids: blood, phlegm, black bile, and yellow bile.
 
 **"Flamsteed will be doing it in a few minutes on top of a hill in Greenwich."** — [John Flamsteed](/topic/john-flamsteed) was the first Astronomer Royal, tasked with mapping the heavens to solve the problem of determining longitude at sea.
 

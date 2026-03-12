@@ -37,8 +37,6 @@ Jack Shaftoe navigates the winter streets of Paris, living among Armenian mercha
 
 **"southern part of the Marais, near the river"** — [The Marais](/topic/the-marais) was an aristocratic district of Paris known for its high concentration of "hôtels particuliers" (grand townhouses) built by the nobility.
 
-**"statue of King Looie’s dear old pop, Looie the Thirteenth—on horseback"** — An equestrian statue of [Louis XIII](/topic/louis-xiii) stood in the center of the Place Royale until it was destroyed during the French Revolution.
-
 **"statue of King Looie as Roman general"** — [Louis XIV](/topic/louis-xiv), the "Sun King," utilized Roman iconography to project his absolute monarchy and authority over France.
 
 **"trading-courts at Leipzig and the Stock Exchange at Amsterdam"** — Established in 1602, the [Amsterdam Stock Exchange](/topic/amsterdam-stock-exchange) is considered the oldest modern securities market, reflecting Dutch financial power.

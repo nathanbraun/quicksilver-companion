@@ -48,8 +48,6 @@ Eliza and Jack arrive at the trade fair in Leipzig to sell their silk and seek o
 
 **"Sometimes he was paired against Minerva with her snaky shield"** — [Minerva](/topic/minerva), the goddess of wisdom and strategic war, represented the "art" and intellect required to navigate the complexities of the market.
 
-**"grinding hurdy-gurdys or plucking at mutant lutes"** — The [Hurdy-gurdy](/topic/hurdy-gurdy) is a mechanical violin where a crank-turned wheel rubs against strings, a common instrument for street performers and beggars.
-
 **"looted from the Vienna siege-camp"** — The [Battle of Vienna](/topic/battle-of-vienna) in 1683 saw the defeat of the Ottoman Turks; the retreating army left behind massive stores of coffee, silk, and [hookahs](/topic/hookah-culture-europe), sparking a craze for "Oriental" luxuries in Europe.
 
 **"grave man in good clothes sat at a mighty desk, or banca"** — The modern word "bank" comes from the Italian [banca](/topic/history-of-banking), referring to the bench or counter where money-changers sat to conduct business.
