@@ -109,6 +109,12 @@ code {
   flex-wrap: wrap;
 }
 
+.site-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .site-title {
   font-size: 1.1rem;
   font-weight: 600;
@@ -527,7 +533,7 @@ html.dark .book-tag-3 { background: #14222e; color: var(--color-book3); }
   html { font-size: 16px; }
   .site-header { padding: 0.6rem 1rem; }
   .site-header-inner { justify-content: flex-start; }
-  .site-title { width: 100%; }
+  .site-title-row { width: 100%; justify-content: space-between; }
   .site-nav { gap: 0.4rem 1rem; font-size: 0.85rem; }
   .nav-dropdown-menu {
     left: 0;

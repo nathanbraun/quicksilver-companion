@@ -40,7 +40,12 @@ const { title, description = 'An enhanced reading companion for Neal Stephenson\
 <body>
   <header class="site-header">
     <div class="site-header-inner">
-      <a href="/" class="site-title"><img src="/logo.png" alt="" class="site-logo" />Quicksilver Reading Companion</a>
+      <div class="site-title-row">
+        <a href="/" class="site-title"><img src="/logo.png" alt="" class="site-logo" />Quicksilver Reading Companion</a>
+        <button class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+          <span class="theme-icon">☀️</span>
+        </button>
+      </div>
       <nav class="site-nav">
         <a href="/before-you-read">Before You Read</a>
         <div class="nav-dropdown">
@@ -53,9 +58,6 @@ const { title, description = 'An enhanced reading companion for Neal Stephenson\
         </div>
         <a href="/topics">Topics & Characters</a>
         <a href="/about">About</a>
-        <button class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
-          <span class="theme-icon">☀️</span>
-        </button>
       </nav>
     </div>
   </header>
