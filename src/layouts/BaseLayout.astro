@@ -64,6 +64,15 @@ const { title, description = 'An enhanced reading companion for Neal Stephenson\
   <main class="main-content">
     <slot />
   </main>
+  <pwa-install
+    manifest-url="/manifest.json"
+    name="Quicksilver Reading Companion"
+    description="Page-by-page historical annotations for Neal Stephenson's Quicksilver"
+    icon="/pwa-512x512.png"
+  ></pwa-install>
+  <script>
+    import '@khmyznikov/pwa-install';
+  </script>
   <script>
     document.addEventListener('click', (e) => {
       const toggle = (e.target as HTMLElement).closest('.nav-dropdown-toggle');

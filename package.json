@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.0",
+    "@khmyznikov/pwa-install": "^0.6.3",
     "astro": "^6.0.1"
   }
 }
