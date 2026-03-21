@@ -64,6 +64,85 @@ const books = [
     </div>
   </div>
 
+  <div class="offline-banner" id="offline-banner" style="display:none">
+    <div class="offline-banner-inner">
+      <div class="offline-banner-text">
+        <strong>Read offline</strong>
+        <span class="offline-banner-detail" id="offline-detail">Save all pages for reading without a connection.</span>
+      </div>
+      <div class="offline-banner-actions">
+        <button id="offline-download" class="btn-inline">Save for offline</button>
+        <button id="offline-clear" class="btn-inline btn-inline-secondary" style="display:none">Clear</button>
+      </div>
+      <div id="offline-progress" style="display:none">
+        <div class="progress-bar"><div class="progress-fill"></div></div>
+        <span class="progress-text"></span>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .offline-banner {
+      margin: 2rem auto 0;
+      max-width: var(--max-width);
+      padding: 0 1rem;
+    }
+    .offline-banner-inner {
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      padding: 0.75rem 1rem;
+      background: var(--color-bg-card);
+      font-size: 0.9rem;
+    }
+    .offline-banner-text {
+      margin-bottom: 0.5rem;
+    }
+    .offline-banner-detail {
+      color: var(--color-text-muted);
+      margin-left: 0.35rem;
+    }
+    .offline-banner-actions {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+    }
+    .btn-inline {
+      padding: 0.35rem 0.9rem;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      background: var(--color-accent);
+      color: #fff;
+      font-family: var(--font-body);
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+    .btn-inline:hover { opacity: 0.9; }
+    .btn-inline-secondary {
+      background: transparent;
+      color: var(--color-text-muted);
+    }
+    .btn-inline-secondary:hover { background: var(--color-border); }
+    .progress-bar {
+      width: 100%;
+      height: 5px;
+      background: var(--color-border);
+      border-radius: 3px;
+      margin: 0.5rem 0 0.25rem;
+      overflow: hidden;
+    }
+    .progress-fill {
+      height: 100%;
+      width: 0%;
+      background: var(--color-accent);
+      border-radius: 3px;
+      transition: width 0.2s;
+    }
+    .progress-text {
+      font-size: 0.8rem;
+      color: var(--color-text-muted);
+    }
+  </style>
+
   <script define:vars={{ annotatedPages }}>
     function goToPage() {
       const input = document.getElementById('page-input');
@@ -90,5 +169,85 @@ const books = [
     document.getElementById('page-input')?.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') goToPage();
     });
+  </script>
+
+  <script>
+    const banner = document.getElementById('offline-banner')! as HTMLElement;
+    const downloadBtn = document.getElementById('offline-download')! as HTMLButtonElement;
+    const clearBtn = document.getElementById('offline-clear')! as HTMLElement;
+    const detailEl = document.getElementById('offline-detail')!;
+    const progressEl = document.getElementById('offline-progress')! as HTMLElement;
+    const progressFill = document.querySelector('.offline-banner .progress-fill')! as HTMLElement;
+    const progressText = document.querySelector('.offline-banner .progress-text')!;
+
+    let allPages: string[] = [];
+
+    async function init() {
+      if (!('serviceWorker' in navigator)) return;
+
+      try {
+        const res = await fetch('/all-pages.json');
+        allPages = await res.json();
+      } catch { return; }
+
+      banner.style.display = 'block';
+
+      const reg = await navigator.serviceWorker.ready;
+      reg.active?.postMessage({ type: 'CHECK_CACHE', urls: allPages });
+    }
+
+    navigator.serviceWorker?.addEventListener('message', (event) => {
+      const data = event.data;
+
+      if (data.type === 'CACHE_STATUS') {
+        if (data.cached >= data.total) {
+          detailEl.textContent = `All ${data.total} pages saved.`;
+          downloadBtn.textContent = 'Re-download';
+          clearBtn.style.display = 'inline-block';
+        } else if (data.cached > 0) {
+          detailEl.textContent = `${data.cached} of ${data.total} pages saved.`;
+          clearBtn.style.display = 'inline-block';
+        } else {
+          detailEl.textContent = `Save all ${data.total} pages for reading without a connection.`;
+        }
+      }
+
+      if (data.type === 'CACHE_PROGRESS') {
+        const pct = Math.round((data.done / data.total) * 100);
+        progressFill.style.width = pct + '%';
+        progressText.textContent = `${data.done} of ${data.total}`;
+      }
+
+      if (data.type === 'CACHE_COMPLETE') {
+        progressEl.style.display = 'none';
+        downloadBtn.disabled = false;
+        downloadBtn.textContent = 'Re-download';
+        detailEl.textContent = `All ${allPages.length} pages saved.`;
+        clearBtn.style.display = 'inline-block';
+      }
+
+      if (data.type === 'CACHE_CLEARED') {
+        detailEl.textContent = `Save all ${allPages.length} pages for reading without a connection.`;
+        downloadBtn.textContent = 'Save for offline';
+        clearBtn.style.display = 'none';
+      }
+    });
+
+    downloadBtn.addEventListener('click', async () => {
+      const reg = await navigator.serviceWorker.ready;
+      downloadBtn.disabled = true;
+      downloadBtn.textContent = 'Saving…';
+      progressEl.style.display = 'block';
+      progressFill.style.width = '0%';
+      progressText.textContent = '0 of ' + allPages.length;
+      reg.active?.postMessage({ type: 'CACHE_ALL', urls: allPages });
+    });
+
+    clearBtn.addEventListener('click', async () => {
+      const reg = await navigator.serviceWorker.ready;
+      reg.active?.postMessage({ type: 'CLEAR_CACHE' });
+    });
+
+    init();
   </script>
 </BaseLayout>

@@ -36,3 +36,66 @@ self.addEventListener('fetch', (event) => {
       .catch(() => caches.match(event.request).then((cached) => cached || caches.match('/offline')))
   );
 });
+
+// Handle messages from the page
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'CACHE_ALL') {
+    const urls = event.data.urls;
+    cacheAllPages(urls, event.source);
+  }
+
+  if (event.data && event.data.type === 'CHECK_CACHE') {
+    checkCacheStatus(event.data.urls, event.source);
+  }
+
+  if (event.data && event.data.type === 'CLEAR_CACHE') {
+    caches.delete(CACHE_NAME).then(() => {
+      caches.open(CACHE_NAME).then((cache) => cache.addAll(PRECACHE_URLS));
+      if (event.source) {
+        event.source.postMessage({ type: 'CACHE_CLEARED' });
+      }
+    });
+  }
+});
+
+async function checkCacheStatus(urls, client) {
+  const cache = await caches.open(CACHE_NAME);
+  let cached = 0;
+  for (const url of urls) {
+    const match = await cache.match(url);
+    if (match) cached++;
+  }
+  if (client) {
+    client.postMessage({ type: 'CACHE_STATUS', cached, total: urls.length });
+  }
+}
+
+async function cacheAllPages(urls, client) {
+  const cache = await caches.open(CACHE_NAME);
+  let done = 0;
+  const total = urls.length;
+  const BATCH_SIZE = 5;
+
+  for (let i = 0; i < total; i += BATCH_SIZE) {
+    const batch = urls.slice(i, i + BATCH_SIZE);
+    const results = await Promise.allSettled(
+      batch.map(async (url) => {
+        // Skip if already cached
+        const existing = await cache.match(url);
+        if (existing) return;
+        const response = await fetch(url);
+        if (response.ok) {
+          await cache.put(url, response);
+        }
+      })
+    );
+    done += batch.length;
+    if (client) {
+      client.postMessage({ type: 'CACHE_PROGRESS', done, total });
+    }
+  }
+
+  if (client) {
+    client.postMessage({ type: 'CACHE_COMPLETE' });
+  }
+}

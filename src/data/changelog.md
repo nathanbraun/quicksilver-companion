@@ -1,3 +1,6 @@
+## 2026-03-21
+- Added ability to save entire wiki/annotations for offline reading
+
 ## 2026-03-16
 - Added dark mode with toggle in navigation bar
 
