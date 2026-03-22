@@ -60,10 +60,13 @@ self.addEventListener('message', (event) => {
 
 async function checkCacheStatus(urls, client) {
   const cache = await caches.open(CACHE_NAME);
+  const keys = await cache.keys();
+  const cachedUrls = new Set(keys.map(r => new URL(r.url).pathname));
   let cached = 0;
   for (const url of urls) {
-    const match = await cache.match(url);
-    if (match) cached++;
+    // Normalize: check with and without trailing slash
+    const path = new URL(url, self.location.origin).pathname;
+    if (cachedUrls.has(path) || cachedUrls.has(path.replace(/\/$/, ''))) cached++;
   }
   if (client) {
     client.postMessage({ type: 'CACHE_STATUS', cached, total: urls.length });
@@ -85,7 +88,8 @@ async function cacheAllPages(urls, client) {
         if (existing) return;
         const response = await fetch(url);
         if (response.ok) {
-          await cache.put(url, response);
+          // Use response.url as key to match the final URL after any redirects
+          await cache.put(response.url, response);
         }
       })
     );
